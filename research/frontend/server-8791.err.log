@@ -1,0 +1,12 @@
+127.0.0.1 - - [12/May/2026 22:46:47] "GET /research/frontend/index.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/May/2026 22:47:05] "GET /research/frontend/index.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/May/2026 22:47:14] "GET /research/frontend/index.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/May/2026 22:47:14] "GET /research/frontend/styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/May/2026 22:47:14] "GET /research/frontend/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [12/May/2026 22:47:14] "GET /research/frontend/data.json HTTP/1.1" 200 -
+127.0.0.1 - - [12/May/2026 22:47:14] code 404, message File not found
+127.0.0.1 - - [12/May/2026 22:47:14] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [12/May/2026 22:48:03] "GET /research/frontend/index.html HTTP/1.1" 200 -
+127.0.0.1 - - [12/May/2026 22:48:03] "GET /research/frontend/styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [12/May/2026 22:48:03] "GET /research/frontend/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [12/May/2026 22:48:03] "GET /research/frontend/data.json HTTP/1.1" 200 -

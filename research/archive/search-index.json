@@ -1,0 +1,51 @@
+[
+  {
+    "engine": "baidu",
+    "query": "清华 高晓松 醉驾 判刑",
+    "file": "baidu_清华_高晓松_醉驾_判刑.html",
+    "path": "../archive/searches/baidu_清华_高晓松_醉驾_判刑.html",
+    "sizeBytes": 898694
+  },
+  {
+    "engine": "baidu",
+    "query": "西安交通大学 许宗衡 受贿",
+    "file": "baidu_西安交通大学_许宗衡_受贿.html",
+    "path": "../archive/searches/baidu_西安交通大学_许宗衡_受贿.html",
+    "sizeBytes": 909056
+  },
+  {
+    "engine": "bing",
+    "query": "北大 卢刚 爱荷华 枪击案",
+    "file": "bing_北大_卢刚_爱荷华_枪击案.html",
+    "path": "../archive/searches/bing_北大_卢刚_爱荷华_枪击案.html",
+    "sizeBytes": 207583
+  },
+  {
+    "engine": "bing",
+    "query": "华中科技大学 李一男 内幕交易",
+    "file": "bing_华中科技大学_李一男_内幕交易.html",
+    "path": "../archive/searches/bing_华中科技大学_李一男_内幕交易.html",
+    "sizeBytes": 71175
+  },
+  {
+    "engine": "bing",
+    "query": "清华 李天乐 铊 杀夫 清华",
+    "file": "bing_清华_李天乐_铊_杀夫_清华.html",
+    "path": "../archive/searches/bing_清华_李天乐_铊_杀夫_清华.html",
+    "sizeBytes": 71792
+  },
+  {
+    "engine": "sogou",
+    "query": "南京大学 教授 性骚扰 学术不端 争议",
+    "file": "sogou_南京大学_教授_性骚扰_学术不端_争议.html",
+    "path": "../archive/searches/sogou_南京大学_教授_性骚扰_学术不端_争议.html",
+    "sizeBytes": 475174
+  },
+  {
+    "engine": "sogou",
+    "query": "上海交通大学 学术不端 争议 人物",
+    "file": "sogou_上海交通大学_学术不端_争议_人物.html",
+    "path": "../archive/searches/sogou_上海交通大学_学术不端_争议_人物.html",
+    "sizeBytes": 528814
+  }
+]

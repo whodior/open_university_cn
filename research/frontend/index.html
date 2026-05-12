@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>高校争议人物资料库</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">2026 软科前十高校，剔除武汉大学</p>
+        <h1>争议人物与事件资料库</h1>
+      </div>
+      <a class="source-link" href="../controversial-alumni-soft-ranking-2026.md">打开 Markdown 原档</a>
+    </header>
+
+    <main>
+      <section class="stats" aria-label="统计">
+        <div>
+          <span id="totalEntries">-</span>
+          <p>条记录</p>
+        </div>
+        <div>
+          <span id="visibleEntries">-</span>
+          <p>当前筛选</p>
+        </div>
+        <div>
+          <span id="archiveCount">-</span>
+          <p>本地搜索归档</p>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="筛选">
+        <label>
+          关键词
+          <input id="searchInput" type="search" placeholder="姓名、学校、事件、来源关键词" />
+        </label>
+        <label>
+          学校
+          <select id="schoolFilter">
+            <option value="">全部学校</option>
+          </select>
+        </label>
+        <label>
+          事件性质
+          <select id="natureFilter">
+            <option value="">全部性质</option>
+          </select>
+        </label>
+        <label>
+          可信度
+          <select id="credibilityFilter">
+            <option value="">全部</option>
+            <option value="较强">较强</option>
+            <option value="需核验">需核验</option>
+            <option value="候选待补强">候选待补强</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="school-strip" id="schoolStrip" aria-label="学校统计"></section>
+
+      <section class="layout">
+        <aside>
+          <h2>归档搜索页</h2>
+          <div id="archiveList" class="archive-list"></div>
+        </aside>
+
+        <section class="results">
+          <div class="results-head">
+            <h2>记录</h2>
+            <button id="resetFilters" type="button">清空筛选</button>
+          </div>
+          <div id="cards" class="cards"></div>
+        </section>
+      </section>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
