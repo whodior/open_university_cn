@@ -1,6 +1,34 @@
 [
   {
     "engine": "baidu",
+    "query": "北京大学 软微 男硕士 女厕 偷拍 行政拘留",
+    "file": "baidu_北京大学_软微_男硕士_女厕_偷拍_行政拘留.html",
+    "path": "../archive/searches/baidu_北京大学_软微_男硕士_女厕_偷拍_行政拘留.html",
+    "sizeBytes": 1488
+  },
+  {
+    "engine": "baidu",
+    "query": "复旦 夏某某 毕业典礼 袭击老师 开除学籍",
+    "file": "baidu_复旦_夏某某_毕业典礼_袭击老师_开除学籍.html",
+    "path": "../archive/searches/baidu_复旦_夏某某_毕业典礼_袭击老师_开除学籍.html",
+    "sizeBytes": 912563
+  },
+  {
+    "engine": "baidu",
+    "query": "南京大学 刘赛连 硕士论文 抄袭",
+    "file": "baidu_南京大学_刘赛连_硕士论文_抄袭.html",
+    "path": "../archive/searches/baidu_南京大学_刘赛连_硕士论文_抄袭.html",
+    "sizeBytes": 1488
+  },
+  {
+    "engine": "baidu",
+    "query": "南京大学 徐某某 虐猫 复试 通报",
+    "file": "baidu_南京大学_徐某某_虐猫_复试_通报.html",
+    "path": "../archive/searches/baidu_南京大学_徐某某_虐猫_复试_通报.html",
+    "sizeBytes": 948084
+  },
+  {
+    "engine": "baidu",
     "query": "清华 高晓松 醉驾 判刑",
     "file": "baidu_清华_高晓松_醉驾_判刑.html",
     "path": "../archive/searches/baidu_清华_高晓松_醉驾_判刑.html",
@@ -8,10 +36,87 @@
   },
   {
     "engine": "baidu",
+    "query": "清华大学 马宁宇 双开 清华 博士",
+    "file": "baidu_清华大学_马宁宇_双开_清华_博士.html",
+    "path": "../archive/searches/baidu_清华大学_马宁宇_双开_清华_博士.html",
+    "sizeBytes": 1488
+  },
+  {
+    "engine": "baidu",
+    "query": "清华大学 赵伟国 死缓 清华 电子工程系",
+    "file": "baidu_清华大学_赵伟国_死缓_清华_电子工程系.html",
+    "path": "../archive/searches/baidu_清华大学_赵伟国_死缓_清华_电子工程系.html",
+    "sizeBytes": 227
+  },
+  {
+    "engine": "baidu",
+    "query": "上海交通大学 程某华 科研经费 通报",
+    "file": "baidu_上海交通大学_程某华_科研经费_通报.html",
+    "path": "../archive/searches/baidu_上海交通大学_程某华_科研经费_通报.html",
+    "sizeBytes": 1488
+  },
+  {
+    "engine": "baidu",
+    "query": "上海交通大学 黄培坚 严重违纪违法 瑞金医院海南医院",
+    "file": "baidu_上海交通大学_黄培坚_严重违纪违法_瑞金医院海南医院.html",
+    "path": "../archive/searches/baidu_上海交通大学_黄培坚_严重违纪违法_瑞金医院海南医院.html",
+    "sizeBytes": 1488
+  },
+  {
+    "engine": "baidu",
     "query": "西安交通大学 许宗衡 受贿",
     "file": "baidu_西安交通大学_许宗衡_受贿.html",
     "path": "../archive/searches/baidu_西安交通大学_许宗衡_受贿.html",
     "sizeBytes": 909056
+  },
+  {
+    "engine": "baidu",
+    "query": "浙江大学 方某 资助 争议 通报",
+    "file": "baidu_浙江大学_方某_资助_争议_通报.html",
+    "path": "../archive/searches/baidu_浙江大学_方某_资助_争议_通报.html",
+    "sizeBytes": 895713
+  },
+  {
+    "engine": "baidu",
+    "query": "浙江大学 何某某 辱华言论 拒录公务员",
+    "file": "baidu_浙江大学_何某某_辱华言论_拒录公务员.html",
+    "path": "../archive/searches/baidu_浙江大学_何某某_辱华言论_拒录公务员.html",
+    "sizeBytes": 921174
+  },
+  {
+    "engine": "baidu",
+    "query": "浙江大学 经济学院 剑桥 邀请函 拒签 教师",
+    "file": "baidu_浙江大学_经济学院_剑桥_邀请函_拒签_教师.html",
+    "path": "../archive/searches/baidu_浙江大学_经济学院_剑桥_邀请函_拒签_教师.html",
+    "sizeBytes": 1488
+  },
+  {
+    "engine": "baidu",
+    "query": "浙江大学 楼某某 副教授 相亲 选妃 通报",
+    "file": "baidu_浙江大学_楼某某_副教授_相亲_选妃_通报.html",
+    "path": "../archive/searches/baidu_浙江大学_楼某某_副教授_相亲_选妃_通报.html",
+    "sizeBytes": 1488
+  },
+  {
+    "engine": "baidu",
+    "query": "浙江大学 叶寒冰 双开 EMBA",
+    "file": "baidu_浙江大学_叶寒冰_双开_EMBA.html",
+    "path": "../archive/searches/baidu_浙江大学_叶寒冰_双开_EMBA.html",
+    "sizeBytes": 1488
+  },
+  {
+    "engine": "baidu",
+    "query": "中国科学技术大学 何某某 推免 取消 造黄谣",
+    "file": "baidu_中国科学技术大学_何某某_推免_取消_造黄谣.html",
+    "path": "../archive/searches/baidu_中国科学技术大学_何某某_推免_取消_造黄谣.html",
+    "sizeBytes": 1488
+  },
+  {
+    "engine": "baidu",
+    "query": "中国科学技术大学 季子越 开除学籍",
+    "file": "baidu_中国科学技术大学_季子越_开除学籍.html",
+    "path": "../archive/searches/baidu_中国科学技术大学_季子越_开除学籍.html",
+    "sizeBytes": 1488
   },
   {
     "engine": "bing",
@@ -22,6 +127,20 @@
   },
   {
     "engine": "bing",
+    "query": "北京大学 软微 男硕士 女厕 偷拍 行政拘留",
+    "file": "bing_北京大学_软微_男硕士_女厕_偷拍_行政拘留.html",
+    "path": "../archive/searches/bing_北京大学_软微_男硕士_女厕_偷拍_行政拘留.html",
+    "sizeBytes": 99224
+  },
+  {
+    "engine": "bing",
+    "query": "华中科技大学 韩承轩 走私 生物材料 DOJ",
+    "file": "bing_华中科技大学_韩承轩_走私_生物材料_DOJ.html",
+    "path": "../archive/searches/bing_华中科技大学_韩承轩_走私_生物材料_DOJ.html",
+    "sizeBytes": 71404
+  },
+  {
+    "engine": "bing",
     "query": "华中科技大学 李一男 内幕交易",
     "file": "bing_华中科技大学_李一男_内幕交易.html",
     "path": "../archive/searches/bing_华中科技大学_李一男_内幕交易.html",
@@ -29,10 +148,122 @@
   },
   {
     "engine": "bing",
+    "query": "华中科技大学 中信建投 实习生 王某某 视频 泄密",
+    "file": "bing_华中科技大学_中信建投_实习生_王某某_视频_泄密.html",
+    "path": "../archive/searches/bing_华中科技大学_中信建投_实习生_王某某_视频_泄密.html",
+    "sizeBytes": 71809
+  },
+  {
+    "engine": "bing",
+    "query": "华中科技大学 中信建投 实习生 王某某",
+    "file": "bing_华中科技大学_中信建投_实习生_王某某.html",
+    "path": "../archive/searches/bing_华中科技大学_中信建投_实习生_王某某.html",
+    "sizeBytes": 71608
+  },
+  {
+    "engine": "bing",
+    "query": "南京大学 刘赛连 硕士论文 抄袭",
+    "file": "bing_南京大学_刘赛连_硕士论文_抄袭.html",
+    "path": "../archive/searches/bing_南京大学_刘赛连_硕士论文_抄袭.html",
+    "sizeBytes": 98329
+  },
+  {
+    "engine": "bing",
+    "query": "南京大学 施工方 偷窃 学生物品 通报",
+    "file": "bing_南京大学_施工方_偷窃_学生物品_通报.html",
+    "path": "../archive/searches/bing_南京大学_施工方_偷窃_学生物品_通报.html",
+    "sizeBytes": 72040
+  },
+  {
+    "engine": "bing",
     "query": "清华 李天乐 铊 杀夫 清华",
     "file": "bing_清华_李天乐_铊_杀夫_清华.html",
     "path": "../archive/searches/bing_清华_李天乐_铊_杀夫_清华.html",
     "sizeBytes": 71792
+  },
+  {
+    "engine": "bing",
+    "query": "清华大学 马宁宇 双开 清华 博士",
+    "file": "bing_清华大学_马宁宇_双开_清华_博士.html",
+    "path": "../archive/searches/bing_清华大学_马宁宇_双开_清华_博士.html",
+    "sizeBytes": 100583
+  },
+  {
+    "engine": "bing",
+    "query": "清华大学 赵伟国 死缓 清华 电子工程系",
+    "file": "bing_清华大学_赵伟国_死缓_清华_电子工程系.html",
+    "path": "../archive/searches/bing_清华大学_赵伟国_死缓_清华_电子工程系.html",
+    "sizeBytes": 98627
+  },
+  {
+    "engine": "bing",
+    "query": "清华学生 殴打 北航 辅导员 通报",
+    "file": "bing_清华学生_殴打_北航_辅导员_通报.html",
+    "path": "../archive/searches/bing_清华学生_殴打_北航_辅导员_通报.html",
+    "sizeBytes": 71505
+  },
+  {
+    "engine": "bing",
+    "query": "清华学生殴打北航辅导员 清华学生处 通报",
+    "file": "bing_清华学生殴打北航辅导员_清华学生处_通报.html",
+    "path": "../archive/searches/bing_清华学生殴打北航辅导员_清华学生处_通报.html",
+    "sizeBytes": 71471
+  },
+  {
+    "engine": "bing",
+    "query": "上海交通大学 程某华 科研经费 通报",
+    "file": "bing_上海交通大学_程某华_科研经费_通报.html",
+    "path": "../archive/searches/bing_上海交通大学_程某华_科研经费_通报.html",
+    "sizeBytes": 100064
+  },
+  {
+    "engine": "bing",
+    "query": "上海交通大学 黄培坚 严重违纪违法 瑞金医院海南医院",
+    "file": "bing_上海交通大学_黄培坚_严重违纪违法_瑞金医院海南医院.html",
+    "path": "../archive/searches/bing_上海交通大学_黄培坚_严重违纪违法_瑞金医院海南医院.html",
+    "sizeBytes": 101331
+  },
+  {
+    "engine": "bing",
+    "query": "浙江大学 楼某某 副教授 相亲 选妃 通报",
+    "file": "bing_浙江大学_楼某某_副教授_相亲_选妃_通报.html",
+    "path": "../archive/searches/bing_浙江大学_楼某某_副教授_相亲_选妃_通报.html",
+    "sizeBytes": 99066
+  },
+  {
+    "engine": "bing",
+    "query": "浙江大学 叶寒冰 双开 EMBA",
+    "file": "bing_浙江大学_叶寒冰_双开_EMBA.html",
+    "path": "../archive/searches/bing_浙江大学_叶寒冰_双开_EMBA.html",
+    "sizeBytes": 98948
+  },
+  {
+    "engine": "bing",
+    "query": "中国科学技术大学 何某某 推免 取消 造黄谣",
+    "file": "bing_中国科学技术大学_何某某_推免_取消_造黄谣.html",
+    "path": "../archive/searches/bing_中国科学技术大学_何某某_推免_取消_造黄谣.html",
+    "sizeBytes": 96167
+  },
+  {
+    "engine": "bing",
+    "query": "中国科学技术大学 季子越 开除学籍",
+    "file": "bing_中国科学技术大学_季子越_开除学籍.html",
+    "path": "../archive/searches/bing_中国科学技术大学_季子越_开除学籍.html",
+    "sizeBytes": 95781
+  },
+  {
+    "engine": "sogou",
+    "query": "北京大学 软微 男硕士 女厕 偷拍 行政拘留",
+    "file": "sogou_北京大学_软微_男硕士_女厕_偷拍_行政拘留.html",
+    "path": "../archive/searches/sogou_北京大学_软微_男硕士_女厕_偷拍_行政拘留.html",
+    "sizeBytes": 507516
+  },
+  {
+    "engine": "sogou",
+    "query": "复旦 王灿 学术不端 通报",
+    "file": "sogou_复旦_王灿_学术不端_通报.html",
+    "path": "../archive/searches/sogou_复旦_王灿_学术不端_通报.html",
+    "sizeBytes": 486916
   },
   {
     "engine": "sogou",
@@ -43,9 +274,107 @@
   },
   {
     "engine": "sogou",
+    "query": "南京大学 刘赛连 硕士论文 抄袭",
+    "file": "sogou_南京大学_刘赛连_硕士论文_抄袭.html",
+    "path": "../archive/searches/sogou_南京大学_刘赛连_硕士论文_抄袭.html",
+    "sizeBytes": 183
+  },
+  {
+    "engine": "sogou",
+    "query": "清华大学 马宁宇 双开 清华 博士",
+    "file": "sogou_清华大学_马宁宇_双开_清华_博士.html",
+    "path": "../archive/searches/sogou_清华大学_马宁宇_双开_清华_博士.html",
+    "sizeBytes": 389896
+  },
+  {
+    "engine": "sogou",
+    "query": "清华大学 赵伟国 死缓 清华 电子工程系",
+    "file": "sogou_清华大学_赵伟国_死缓_清华_电子工程系.html",
+    "path": "../archive/searches/sogou_清华大学_赵伟国_死缓_清华_电子工程系.html",
+    "sizeBytes": 498677
+  },
+  {
+    "engine": "sogou",
+    "query": "上海交通大学 程某华 科研经费 通报",
+    "file": "sogou_上海交通大学_程某华_科研经费_通报.html",
+    "path": "../archive/searches/sogou_上海交通大学_程某华_科研经费_通报.html",
+    "sizeBytes": 494766
+  },
+  {
+    "engine": "sogou",
+    "query": "上海交通大学 黄培坚 严重违纪违法 瑞金医院海南医院",
+    "file": "sogou_上海交通大学_黄培坚_严重违纪违法_瑞金医院海南医院.html",
+    "path": "../archive/searches/sogou_上海交通大学_黄培坚_严重违纪违法_瑞金医院海南医院.html",
+    "sizeBytes": 273
+  },
+  {
+    "engine": "sogou",
+    "query": "上海交通大学 魏某 邵某 学术霸凌 通报",
+    "file": "sogou_上海交通大学_魏某_邵某_学术霸凌_通报.html",
+    "path": "../archive/searches/sogou_上海交通大学_魏某_邵某_学术霸凌_通报.html",
+    "sizeBytes": 493649
+  },
+  {
+    "engine": "sogou",
     "query": "上海交通大学 学术不端 争议 人物",
     "file": "sogou_上海交通大学_学术不端_争议_人物.html",
     "path": "../archive/searches/sogou_上海交通大学_学术不端_争议_人物.html",
     "sizeBytes": 528814
+  },
+  {
+    "engine": "sogou",
+    "query": "西安交大 学术妲己 李某某 通报",
+    "file": "sogou_西安交大_学术妲己_李某某_通报.html",
+    "path": "../archive/searches/sogou_西安交大_学术妲己_李某某_通报.html",
+    "sizeBytes": 487506
+  },
+  {
+    "engine": "sogou",
+    "query": "西安交通大学 学术妲己 李某某 警方 通报",
+    "file": "sogou_西安交通大学_学术妲己_李某某_警方_通报.html",
+    "path": "../archive/searches/sogou_西安交通大学_学术妲己_李某某_警方_通报.html",
+    "sizeBytes": 474337
+  },
+  {
+    "engine": "sogou",
+    "query": "浙江大学 何某某 辱华言论 拒录公务员",
+    "file": "sogou_浙江大学_何某某_辱华言论_拒录公务员.html",
+    "path": "../archive/searches/sogou_浙江大学_何某某_辱华言论_拒录公务员.html",
+    "sizeBytes": 612265
+  },
+  {
+    "engine": "sogou",
+    "query": "浙江大学 经济学院 剑桥 邀请函 拒签 教师",
+    "file": "sogou_浙江大学_经济学院_剑桥_邀请函_拒签_教师.html",
+    "path": "../archive/searches/sogou_浙江大学_经济学院_剑桥_邀请函_拒签_教师.html",
+    "sizeBytes": 487032
+  },
+  {
+    "engine": "sogou",
+    "query": "浙江大学 楼某某 副教授 相亲 选妃 通报",
+    "file": "sogou_浙江大学_楼某某_副教授_相亲_选妃_通报.html",
+    "path": "../archive/searches/sogou_浙江大学_楼某某_副教授_相亲_选妃_通报.html",
+    "sizeBytes": 216
+  },
+  {
+    "engine": "sogou",
+    "query": "浙江大学 叶寒冰 双开 EMBA",
+    "file": "sogou_浙江大学_叶寒冰_双开_EMBA.html",
+    "path": "../archive/searches/sogou_浙江大学_叶寒冰_双开_EMBA.html",
+    "sizeBytes": 358694
+  },
+  {
+    "engine": "sogou",
+    "query": "中国科学技术大学 何某某 推免 取消 造黄谣",
+    "file": "sogou_中国科学技术大学_何某某_推免_取消_造黄谣.html",
+    "path": "../archive/searches/sogou_中国科学技术大学_何某某_推免_取消_造黄谣.html",
+    "sizeBytes": 231
+  },
+  {
+    "engine": "sogou",
+    "query": "中国科学技术大学 季子越 开除学籍",
+    "file": "sogou_中国科学技术大学_季子越_开除学籍.html",
+    "path": "../archive/searches/sogou_中国科学技术大学_季子越_开除学籍.html",
+    "sizeBytes": 198
   }
 ]

@@ -1,3 +1,15 @@
+const schoolLogos = {
+  清华大学: { domain: 'www.tsinghua.edu.cn', fallback: '清' },
+  北京大学: { domain: 'www.pku.edu.cn', fallback: '北' },
+  浙江大学: { domain: 'www.zju.edu.cn', fallback: '浙' },
+  上海交通大学: { domain: 'www.sjtu.edu.cn', fallback: '交' },
+  复旦大学: { domain: 'www.fudan.edu.cn', fallback: '复' },
+  南京大学: { domain: 'www.nju.edu.cn', fallback: '南' },
+  中国科学技术大学: { domain: 'www.ustc.edu.cn', fallback: '科' },
+  华中科技大学: { domain: 'www.hust.edu.cn', fallback: '华' },
+  西安交通大学: { domain: 'www.xjtu.edu.cn', fallback: '西' },
+};
+
 const state = {
   data: null,
   query: '',
@@ -7,6 +19,7 @@ const state = {
 };
 
 const els = {
+  sourceEntries: document.querySelector('#sourceEntries'),
   totalEntries: document.querySelector('#totalEntries'),
   visibleEntries: document.querySelector('#visibleEntries'),
   archiveCount: document.querySelector('#archiveCount'),
@@ -18,6 +31,9 @@ const els = {
   schoolStrip: document.querySelector('#schoolStrip'),
   archiveList: document.querySelector('#archiveList'),
   cards: document.querySelector('#cards'),
+  detailDialog: document.querySelector('#detailDialog'),
+  dialogContent: document.querySelector('#dialogContent'),
+  closeDialog: document.querySelector('#closeDialog'),
 };
 
 function escapeHtml(value) {
@@ -29,12 +45,19 @@ function escapeHtml(value) {
     .replaceAll("'", '&#039;');
 }
 
-function shortHost(url) {
-  try {
-    return new URL(url).hostname.replace(/^www\./, '');
-  } catch {
-    return url;
-  }
+function logoUrl(school) {
+  const item = schoolLogos[school];
+  if (!item) return '';
+  return `https://www.google.com/s2/favicons?sz=128&domain_url=https://${item.domain}`;
+}
+
+function logoMarkup(school, size = 'regular') {
+  const item = schoolLogos[school] || { fallback: school.slice(0, 1) || '?' };
+  const url = logoUrl(school);
+  const image = url
+    ? `<img src="${escapeHtml(url)}" alt="${escapeHtml(school)}校徽" loading="lazy" onerror="this.remove()" />`
+    : '';
+  return `<span class="school-logo ${size}">${image}<span class="logo-fallback">${escapeHtml(item.fallback)}</span></span>`;
 }
 
 function fillFilters(data) {
@@ -59,15 +82,27 @@ function fillFilters(data) {
 }
 
 function renderStats(data, filtered) {
+  if (els.sourceEntries) els.sourceEntries.textContent = data.sourceEntries || data.totalEntries;
   els.totalEntries.textContent = data.totalEntries;
   els.visibleEntries.textContent = filtered.length;
   els.archiveCount.textContent = data.searchArchive.length;
+}
 
+function renderSchoolStrip(data, filtered) {
   els.schoolStrip.innerHTML = data.schools
     .map((school) => {
       const visible = filtered.filter((entry) => entry.school === school).length;
       const total = data.bySchool[school] || 0;
-      return `<span class="school-chip">${escapeHtml(school)} <strong>${visible}</strong><span>/ ${total}</span></span>`;
+      const pressed = state.school === school ? 'true' : 'false';
+      return `
+        <button class="school-chip" type="button" data-school="${escapeHtml(school)}" aria-pressed="${pressed}">
+          ${logoMarkup(school)}
+          <span>
+            <strong>${escapeHtml(school)}</strong>
+            <span>${visible} / ${total}</span>
+          </span>
+        </button>
+      `;
     })
     .join('');
 }
@@ -87,57 +122,6 @@ function renderArchive(data) {
         </div>
       `,
     )
-    .join('');
-}
-
-function credibilityClass(value) {
-  if (value === '较强') return 'strong';
-  if (value === '候选待补强') return 'danger';
-  return 'warn';
-}
-
-function renderLinks(entry) {
-  const links = entry.links.slice(0, 8);
-  if (!links.length) return '';
-  return `
-    <div class="links">
-      ${links
-        .map((link) => `<a href="${escapeHtml(link.url)}" target="_blank" rel="noreferrer">${escapeHtml(link.label || shortHost(link.url))}</a>`)
-        .join('')}
-    </div>
-  `;
-}
-
-function renderCards(entries) {
-  if (!entries.length) {
-    els.cards.innerHTML = '<div class="empty">没有匹配记录。</div>';
-    return;
-  }
-
-  els.cards.innerHTML = entries
-    .map((entry) => {
-      const eventTitle = entry.eventName ? `：${escapeHtml(entry.eventName)}` : '';
-      return `
-        <article class="card">
-          <div class="card-head">
-            <div>
-              <h3>${escapeHtml(entry.name)}${eventTitle}</h3>
-              <div class="tags">
-                <span class="tag strong">${escapeHtml(entry.school)}</span>
-                <span class="tag">${escapeHtml(entry.nature || '性质待核')}</span>
-                <span class="tag ${credibilityClass(entry.credibility)}">${escapeHtml(entry.credibility)}</span>
-              </div>
-            </div>
-          </div>
-          <p class="summary">${escapeHtml(entry.summary)}</p>
-          ${entry.impact ? `<p class="meta">舆论影响：${escapeHtml(entry.impact)}</p>` : ''}
-          ${entry.identity ? `<p class="meta">身份/专业：${escapeHtml(entry.identity)}</p>` : ''}
-          ${entry.year ? `<p class="meta">年份：${escapeHtml(entry.year)}</p>` : ''}
-          ${entry.paperLinks.length ? `<p class="meta">论文：${escapeHtml(entry.paperLinks.map((link) => link.label).join('；'))}</p>` : ''}
-          ${renderLinks(entry)}
-        </article>
-      `;
-    })
     .join('');
 }
 
@@ -171,10 +155,100 @@ function getFilteredEntries() {
   });
 }
 
+function renderCards(entries) {
+  if (!entries.length) {
+    els.cards.innerHTML = '<div class="empty">没有匹配记录。</div>';
+    return;
+  }
+
+  els.cards.innerHTML = entries
+    .map(
+      (entry) => `
+        <button class="person-card" type="button" data-entry-id="${escapeHtml(entry.id)}">
+          <span class="card-cover"></span>
+          <span class="card-top">
+            <span class="person-avatar">${escapeHtml((entry.displayName || entry.name).slice(0, 1))}</span>
+            ${logoMarkup(entry.school, 'small')}
+          </span>
+          <span>
+            <h3>${escapeHtml(entry.displayName || entry.name)}</h3>
+            <span class="card-school">${escapeHtml(entry.school)}</span>
+            <p class="event-title">${escapeHtml(entry.eventName || entry.summary)}</p>
+          </span>
+        </button>
+      `,
+    )
+    .join('');
+}
+
+function renderLinkList(title, links, fallbackText = '') {
+  if (!links.length && !fallbackText) return '';
+  const linkItems = links
+    .map((link) => `<a href="${escapeHtml(link.url)}" target="_blank" rel="noreferrer">${escapeHtml(link.label)}</a>`)
+    .join('');
+  const fallback = !links.length ? `<p>${escapeHtml(fallbackText)}</p>` : '';
+  return `
+    <section class="detail-block full">
+      <h3>${escapeHtml(title)}</h3>
+      <div class="link-list">${linkItems || fallback}</div>
+    </section>
+  `;
+}
+
+function showDetail(entry) {
+  els.dialogContent.innerHTML = `
+    <header class="detail-title">
+      ${logoMarkup(entry.school)}
+      <div>
+        <h2>${escapeHtml(entry.displayName || entry.name)}</h2>
+        <p>${escapeHtml(entry.school)} · ${escapeHtml(entry.eventName || '事件标题待核')}</p>
+      </div>
+    </header>
+
+    <div class="detail-grid">
+      <section class="detail-block full">
+        <h3>事件概要</h3>
+        <p>${escapeHtml(entry.summary)}</p>
+      </section>
+      <section class="detail-block full">
+        <h3>舆论影响</h3>
+        <p>${escapeHtml(entry.impact || '待补强')}</p>
+      </section>
+      <section class="detail-block">
+        <h3>身份 / 专业</h3>
+        <p>${escapeHtml(entry.identity || '待核')}</p>
+      </section>
+      <section class="detail-block">
+        <h3>年份</h3>
+        <p>${escapeHtml(entry.year || '待核')}</p>
+      </section>
+      <section class="detail-block">
+        <h3>事件性质</h3>
+        <p>${escapeHtml(entry.nature || '待核')}</p>
+      </section>
+      <section class="detail-block">
+        <h3>可信度</h3>
+        <p>${escapeHtml(entry.credibility)}</p>
+      </section>
+      ${renderLinkList('信息来源', entry.sourceLinks, entry.sourcesMarkdown || '待补强')}
+      ${renderLinkList('照片 / 含图页', entry.photoLinks, entry.photoMarkdown || '待补强')}
+      ${renderLinkList('毕业设计 / 学生时期论文', entry.paperLinks, entry.paperMarkdown || '待补强')}
+    </div>
+  `;
+  els.detailDialog.showModal();
+}
+
 function render() {
   const filtered = getFilteredEntries();
   renderStats(state.data, filtered);
+  renderSchoolStrip(state.data, filtered);
   renderCards(filtered);
+}
+
+function syncSchoolFilter(value) {
+  state.school = value;
+  els.schoolFilter.value = value;
+  render();
 }
 
 function bindEvents() {
@@ -184,8 +258,7 @@ function bindEvents() {
   });
 
   els.schoolFilter.addEventListener('change', (event) => {
-    state.school = event.target.value;
-    render();
+    syncSchoolFilter(event.target.value);
   });
 
   els.natureFilter.addEventListener('change', (event) => {
@@ -208,6 +281,28 @@ function bindEvents() {
     els.natureFilter.value = '';
     els.credibilityFilter.value = '';
     render();
+  });
+
+  els.schoolStrip.addEventListener('click', (event) => {
+    const button = event.target.closest('[data-school]');
+    if (!button) return;
+    const school = button.dataset.school;
+    syncSchoolFilter(state.school === school ? '' : school);
+  });
+
+  els.cards.addEventListener('click', (event) => {
+    const button = event.target.closest('[data-entry-id]');
+    if (!button) return;
+    const entry = state.data.entries.find((item) => item.id === button.dataset.entryId);
+    if (entry) showDetail(entry);
+  });
+
+  els.closeDialog.addEventListener('click', () => {
+    els.detailDialog.close();
+  });
+
+  els.detailDialog.addEventListener('click', (event) => {
+    if (event.target === els.detailDialog) els.detailDialog.close();
   });
 }
 
