@@ -18,32 +18,27 @@
       </div>
     </header>
     <main class="shell">
-      <header class="hero">
-        <div class="hero-grid">
+      <section class="masthead" aria-label="数据概览">
+        <h1>人物索引</h1>
+        <section class="metrics" aria-label="统计">
           <div>
-            <p class="eyebrow">2026 软科前十高校，剔除武汉大学 · 网站展示已过滤为负面主体</p>
-            <h1>按人物浏览，点击查看事件证据</h1>
+            <span id="sourceEntries">-</span>
+            <p>原始记录</p>
           </div>
-          <section class="metrics" aria-label="统计">
-            <div>
-              <span id="sourceEntries">-</span>
-              <p>原始记录</p>
-            </div>
-            <div>
-              <span id="totalEntries">-</span>
-              <p>展示人物</p>
-            </div>
-            <div>
-              <span id="visibleEntries">-</span>
-              <p>当前筛选</p>
-            </div>
-            <div>
-              <span id="archiveCount">-</span>
-              <p>搜索归档</p>
-            </div>
-          </section>
-        </div>
-      </header>
+          <div>
+            <span id="totalEntries">-</span>
+            <p>展示人物</p>
+          </div>
+          <div>
+            <span id="visibleEntries">-</span>
+            <p>当前筛选</p>
+          </div>
+          <div>
+            <span id="archiveCount">-</span>
+            <p>搜索归档</p>
+          </div>
+        </section>
+      </section>
 
       <div class="workspace">
         <aside class="sidebar" aria-label="筛选和学校">
@@ -81,18 +76,16 @@
 
         <section class="feed">
           <section class="results-head">
-            <div>
-              <h2>负面人物卡片</h2>
-              <p>卡片只显示人物、学校和事件标题；详情页展示时间、来源、照片页和论文链接。</p>
-            </div>
+            <h2>人物</h2>
+            <span id="feedCount" class="feed-count">-</span>
           </section>
 
           <section id="cards" class="cards" aria-label="人物卡片"></section>
 
-          <section class="archive-panel" aria-label="本地搜索归档">
-            <h2>本地搜索归档</h2>
+          <details class="archive-panel" aria-label="本地搜索归档">
+            <summary>本地搜索归档</summary>
             <div id="archiveList" class="archive-list"></div>
-          </section>
+          </details>
         </section>
       </div>
     </main>

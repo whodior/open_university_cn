@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-12T16:49:18.474Z",
+  "generatedAt": "2026-05-12T17:13:21.215Z",
   "markdownFile": "../controversial-alumni-soft-ranking-2026.md",
-  "sourceEntries": 172,
-  "totalEntries": 149,
+  "sourceEntries": 175,
+  "totalEntries": 152,
   "schools": [
     "清华大学",
     "北京大学",
@@ -15,15 +15,15 @@
     "西安交通大学"
   ],
   "bySchool": {
-    "清华大学": 25,
+    "清华大学": 26,
     "北京大学": 23,
     "浙江大学": 15,
     "上海交通大学": 14,
     "复旦大学": 16,
     "南京大学": 18,
     "中国科学技术大学": 10,
-    "华中科技大学": 14,
-    "西安交通大学": 14
+    "华中科技大学": 15,
+    "西安交通大学": 15
   },
   "searchArchive": [
     {
@@ -35,10 +35,24 @@
     },
     {
       "engine": "baidu",
+      "query": "方红卫 清华大学 汽车工程系 严重违纪违法",
+      "file": "baidu_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+      "path": "../archive/searches/baidu_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+      "sizeBytes": 1491
+    },
+    {
+      "engine": "baidu",
       "query": "复旦 夏某某 毕业典礼 袭击老师 开除学籍",
       "file": "baidu_复旦_夏某某_毕业典礼_袭击老师_开除学籍.html",
       "path": "../archive/searches/baidu_复旦_夏某某_毕业典礼_袭击老师_开除学籍.html",
       "sizeBytes": 912563
+    },
+    {
+      "engine": "baidu",
+      "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
+      "file": "baidu_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+      "path": "../archive/searches/baidu_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+      "sizeBytes": 1491
     },
     {
       "engine": "baidu",
@@ -88,6 +102,20 @@
       "file": "baidu_上海交通大学_黄培坚_严重违纪违法_瑞金医院海南医院.html",
       "path": "../archive/searches/baidu_上海交通大学_黄培坚_严重违纪违法_瑞金医院海南医院.html",
       "sizeBytes": 1488
+    },
+    {
+      "engine": "baidu",
+      "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
+      "file": "baidu_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+      "path": "../archive/searches/baidu_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+      "sizeBytes": 930337
+    },
+    {
+      "engine": "baidu",
+      "query": "西安交通大学 秦某某 后勤职工 违纪违法 法院",
+      "file": "baidu_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+      "path": "../archive/searches/baidu_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+      "sizeBytes": 1491
     },
     {
       "engine": "baidu",
@@ -161,6 +189,13 @@
     },
     {
       "engine": "bing",
+      "query": "方红卫 清华大学 汽车工程系 严重违纪违法",
+      "file": "bing_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+      "path": "../archive/searches/bing_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+      "sizeBytes": 102962
+    },
+    {
+      "engine": "bing",
       "query": "华中科技大学 韩承轩 走私 生物材料 DOJ",
       "file": "bing_华中科技大学_韩承轩_走私_生物材料_DOJ.html",
       "path": "../archive/searches/bing_华中科技大学_韩承轩_走私_生物材料_DOJ.html",
@@ -186,6 +221,13 @@
       "file": "bing_华中科技大学_中信建投_实习生_王某某.html",
       "path": "../archive/searches/bing_华中科技大学_中信建投_实习生_王某某.html",
       "sizeBytes": 71608
+    },
+    {
+      "engine": "bing",
+      "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
+      "file": "bing_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+      "path": "../archive/searches/bing_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+      "sizeBytes": 101056
     },
     {
       "engine": "bing",
@@ -252,6 +294,20 @@
     },
     {
       "engine": "bing",
+      "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
+      "file": "bing_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+      "path": "../archive/searches/bing_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+      "sizeBytes": 102323
+    },
+    {
+      "engine": "bing",
+      "query": "西安交通大学 秦某某 后勤职工 违纪违法 法院",
+      "file": "bing_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+      "path": "../archive/searches/bing_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+      "sizeBytes": 102632
+    },
+    {
+      "engine": "bing",
       "query": "浙江大学 楼某某 副教授 相亲 选妃 通报",
       "file": "bing_浙江大学_楼某某_副教授_相亲_选妃_通报.html",
       "path": "../archive/searches/bing_浙江大学_楼某某_副教授_相亲_选妃_通报.html",
@@ -287,10 +343,24 @@
     },
     {
       "engine": "sogou",
+      "query": "方红卫 清华大学 汽车工程系 严重违纪违法",
+      "file": "sogou_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+      "path": "../archive/searches/sogou_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+      "sizeBytes": 425155
+    },
+    {
+      "engine": "sogou",
       "query": "复旦 王灿 学术不端 通报",
       "file": "sogou_复旦_王灿_学术不端_通报.html",
       "path": "../archive/searches/sogou_复旦_王灿_学术不端_通报.html",
       "sizeBytes": 486916
+    },
+    {
+      "engine": "sogou",
+      "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
+      "file": "sogou_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+      "path": "../archive/searches/sogou_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+      "sizeBytes": 468110
     },
     {
       "engine": "sogou",
@@ -350,10 +420,24 @@
     },
     {
       "engine": "sogou",
+      "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
+      "file": "sogou_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+      "path": "../archive/searches/sogou_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+      "sizeBytes": 626578
+    },
+    {
+      "engine": "sogou",
       "query": "西安交大 学术妲己 李某某 通报",
       "file": "sogou_西安交大_学术妲己_李某某_通报.html",
       "path": "../archive/searches/sogou_西安交大_学术妲己_李某某_通报.html",
       "sizeBytes": 487506
+    },
+    {
+      "engine": "sogou",
+      "query": "西安交通大学 秦某某 后勤职工 违纪违法 法院",
+      "file": "sogou_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+      "path": "../archive/searches/sogou_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+      "sizeBytes": 476080
     },
     {
       "engine": "sogou",
@@ -6681,6 +6765,77 @@
       "id": "e118",
       "section": "第四轮新近争议补充",
       "subsection": "",
+      "name": "王腾",
+      "school": "华中科技大学",
+      "schoolRaw": "华中科技大学",
+      "identity": "华中科技大学生物信息技术专业本科；媒体称2004年入学、2008届毕业",
+      "year": "",
+      "eventName": "小米王腾泄密与利益冲突辞退事件",
+      "summary": "2025年9月，小米集团内部通报称中国区市场部员工王腾存在泄露公司机密信息、利益冲突等严重违规违纪行为并予以辞退；王腾本人回应承认过去犯错并接受代价，同时否认窃取出售机密和收钱等传言。",
+      "impact": "小米高管、长期“泄密”人设、母校官网撤下校友资料页和科技圈讨论同时发酵。",
+      "nature": "企业合规 / 泄密争议 / 校友形象争议",
+      "sourcesMarkdown": "[每日经济新闻](https://www.nbd.com.cn/articles/2025-09-09/4054809.html)；[新浪科技](https://finance.sina.com.cn/tech/roll/2025-09-09/doc-infpwqyh8694363.shtml)；[川观新闻](https://cbgc.scol.com.cn/news/6728253)；[IT之家](https://www.ithome.com/0/881/373.htm)",
+      "photoMarkdown": "[川观新闻含图](https://cbgc.scol.com.cn/news/6728253)",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "每日经济新闻",
+          "url": "https://www.nbd.com.cn/articles/2025-09-09/4054809.html"
+        },
+        {
+          "label": "新浪科技",
+          "url": "https://finance.sina.com.cn/tech/roll/2025-09-09/doc-infpwqyh8694363.shtml"
+        },
+        {
+          "label": "川观新闻",
+          "url": "https://cbgc.scol.com.cn/news/6728253"
+        },
+        {
+          "label": "IT之家",
+          "url": "https://www.ithome.com/0/881/373.htm"
+        },
+        {
+          "label": "知网检索：王腾 华中科技大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%8E%8B%E8%85%BE%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "每日经济新闻",
+          "url": "https://www.nbd.com.cn/articles/2025-09-09/4054809.html"
+        },
+        {
+          "label": "新浪科技",
+          "url": "https://finance.sina.com.cn/tech/roll/2025-09-09/doc-infpwqyh8694363.shtml"
+        },
+        {
+          "label": "川观新闻",
+          "url": "https://cbgc.scol.com.cn/news/6728253"
+        },
+        {
+          "label": "IT之家",
+          "url": "https://www.ithome.com/0/881/373.htm"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "川观新闻含图",
+          "url": "https://cbgc.scol.com.cn/news/6728253"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：王腾 华中科技大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%8E%8B%E8%85%BE%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "王腾",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e119",
+      "section": "第四轮新近争议补充",
+      "subsection": "",
       "name": "赵伟国",
       "school": "清华大学",
       "schoolRaw": "清华大学",
@@ -6745,7 +6900,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e119",
+      "id": "e120",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "高材林",
@@ -6808,7 +6963,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e120",
+      "id": "e121",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "马宁宇",
@@ -6871,7 +7026,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e121",
+      "id": "e122",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "杨亚俊",
@@ -6934,7 +7089,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e122",
+      "id": "e123",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "Charles M. Lieber / 查尔斯·利伯",
@@ -7001,7 +7156,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e123",
+      "id": "e124",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "吴勇",
@@ -7068,7 +7223,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e124",
+      "id": "e125",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "清华违规报备入校牟利相关人员（公开称谓）",
@@ -7122,7 +7277,78 @@
       "credibility": "需核验"
     },
     {
-      "id": "e125",
+      "id": "e126",
+      "section": "第四轮新近争议补充",
+      "subsection": "",
+      "name": "方红卫",
+      "school": "清华大学",
+      "schoolRaw": "清华大学",
+      "identity": "清华大学汽车工程系汽车专业本科；1984级，1989年毕业",
+      "year": "",
+      "eventName": "西安市委书记方红卫涉嫌严重违纪违法被查",
+      "summary": "2025年11月，中央纪委国家监委通报陕西省委常委、西安市委书记方红卫涉嫌严重违纪违法，接受中央纪委国家监委纪律审查和监察调查。",
+      "impact": "省会城市市委书记、清华汽车系校友、国企转政履历和陕西政坛反腐线索叠加传播。",
+      "nature": "违纪违法 / 审查调查",
+      "sourcesMarkdown": "[中央纪委国家监委](https://www.ccdi.gov.cn/toutiaon/202511/t20251107_457727_m.html)；[央视网](https://news.cctv.cn/2025/11/07/ARTIp6VNWeAe7nMr7tZux5N8251107.shtml)；[长安大学校友会履历](https://xyh.chd.edu.cn/2020/0731/c8576a188002/page.htm)；[新浪新闻](https://news.sina.com.cn/c/2025-11-08/doc-infwrwyz1746426.shtml)",
+      "photoMarkdown": "[新浪新闻含图](https://news.sina.com.cn/c/2025-11-08/doc-infwrwyz1746426.shtml)",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://www.ccdi.gov.cn/toutiaon/202511/t20251107_457727_m.html"
+        },
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.cn/2025/11/07/ARTIp6VNWeAe7nMr7tZux5N8251107.shtml"
+        },
+        {
+          "label": "长安大学校友会履历",
+          "url": "https://xyh.chd.edu.cn/2020/0731/c8576a188002/page.htm"
+        },
+        {
+          "label": "新浪新闻",
+          "url": "https://news.sina.com.cn/c/2025-11-08/doc-infwrwyz1746426.shtml"
+        },
+        {
+          "label": "知网检索：方红卫 清华大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%96%B9%E7%BA%A2%E5%8D%AB%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://www.ccdi.gov.cn/toutiaon/202511/t20251107_457727_m.html"
+        },
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.cn/2025/11/07/ARTIp6VNWeAe7nMr7tZux5N8251107.shtml"
+        },
+        {
+          "label": "长安大学校友会履历",
+          "url": "https://xyh.chd.edu.cn/2020/0731/c8576a188002/page.htm"
+        },
+        {
+          "label": "新浪新闻",
+          "url": "https://news.sina.com.cn/c/2025-11-08/doc-infwrwyz1746426.shtml"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "新浪新闻含图",
+          "url": "https://news.sina.com.cn/c/2025-11-08/doc-infwrwyz1746426.shtml"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：方红卫 清华大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%96%B9%E7%BA%A2%E5%8D%AB%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "方红卫",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e127",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "北大软微2024级男硕士（公开称谓）",
@@ -7176,7 +7402,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e126",
+      "id": "e128",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "北京大学违规预约校友（公开称谓）",
@@ -7230,7 +7456,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e127",
+      "id": "e129",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "叶寒冰",
@@ -7293,7 +7519,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e128",
+      "id": "e130",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "曹全民",
@@ -7348,7 +7574,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e129",
+      "id": "e131",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "严同学（公开称谓）",
@@ -7410,7 +7636,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e130",
+      "id": "e132",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "楼某某",
@@ -7464,7 +7690,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e131",
+      "id": "e133",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "诸自强",
@@ -7527,7 +7753,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e132",
+      "id": "e134",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "程某华",
@@ -7568,7 +7794,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e133",
+      "id": "e135",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "徐某（科研经费套取人员）",
@@ -7609,7 +7835,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e134",
+      "id": "e136",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "孟某",
@@ -7658,7 +7884,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e135",
+      "id": "e137",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "黄培坚",
@@ -7716,7 +7942,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e136",
+      "id": "e138",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王鹏",
@@ -7774,7 +8000,7 @@
       "credibility": "候选待补强"
     },
     {
-      "id": "e137",
+      "id": "e139",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "沈健",
@@ -7829,7 +8055,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e138",
+      "id": "e140",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "刘赛连",
@@ -7879,7 +8105,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e139",
+      "id": "e141",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王某某 / “萌心涌动NJU”",
@@ -7937,7 +8163,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e140",
+      "id": "e142",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "徐湖平",
@@ -8000,7 +8226,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e141",
+      "id": "e143",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "张康之",
@@ -8066,7 +8292,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e142",
+      "id": "e144",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "何某某（中国科大推免拟录取对象）",
@@ -8107,7 +8333,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e143",
+      "id": "e145",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "季子越",
@@ -8149,7 +8375,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e144",
+      "id": "e146",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "苏俊",
@@ -8191,7 +8417,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e145",
+      "id": "e147",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "许安",
@@ -8254,7 +8480,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e146",
+      "id": "e148",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "陈晓军 / 范维澄",
@@ -8305,7 +8531,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e147",
+      "id": "e149",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "Qiushi Wu",
@@ -8364,7 +8590,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e148",
+      "id": "e150",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "徐某某",
@@ -8413,7 +8639,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e149",
+      "id": "e151",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "郭某（原西安交大学生）/ 王某",
@@ -8459,6 +8685,39 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "郭某（原西安交大学生）/ 王某",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e152",
+      "section": "第四轮新近争议补充",
+      "subsection": "",
+      "name": "秦某某（西安交大原后勤职工）",
+      "school": "西安交通大学",
+      "schoolRaw": "西安交通大学",
+      "identity": "西安交通大学原后勤职工；学校公开报道采用匿名",
+      "year": "",
+      "eventName": "西安交大秦某某违纪违法案件警示教育",
+      "summary": "2024年4月，西安交通大学新闻网转载《中国纪检监察报》头版报道，称学校警示教育课剖析原后勤职工秦某某等多起违纪违法案件；秦某某案由西安市碑林区人民法院公开开庭审理，学校组织相关单位旁听庭审。",
+      "impact": "校内后勤岗位、违纪违法、公开庭审旁听和高校纪检监察警示教育形成内部治理案例。",
+      "nature": "违纪违法 / 校内警示教育 / 法院公开审理",
+      "sourcesMarkdown": "[西安交通大学新闻网](https://news.xjtu.edu.cn/info/1219/209153.htm)",
+      "photoMarkdown": "匿名处理，无可靠个人照片",
+      "paperMarkdown": "无可列",
+      "links": [
+        {
+          "label": "西安交通大学新闻网",
+          "url": "https://news.xjtu.edu.cn/info/1219/209153.htm"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "西安交通大学新闻网",
+          "url": "https://news.xjtu.edu.cn/info/1219/209153.htm"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [],
+      "displayName": "秦某某（西安交大原后勤职工）",
       "credibility": "需核验"
     }
   ]

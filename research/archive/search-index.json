@@ -8,10 +8,24 @@
   },
   {
     "engine": "baidu",
+    "query": "方红卫 清华大学 汽车工程系 严重违纪违法",
+    "file": "baidu_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+    "path": "../archive/searches/baidu_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+    "sizeBytes": 1491
+  },
+  {
+    "engine": "baidu",
     "query": "复旦 夏某某 毕业典礼 袭击老师 开除学籍",
     "file": "baidu_复旦_夏某某_毕业典礼_袭击老师_开除学籍.html",
     "path": "../archive/searches/baidu_复旦_夏某某_毕业典礼_袭击老师_开除学籍.html",
     "sizeBytes": 912563
+  },
+  {
+    "engine": "baidu",
+    "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
+    "file": "baidu_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+    "path": "../archive/searches/baidu_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+    "sizeBytes": 1491
   },
   {
     "engine": "baidu",
@@ -61,6 +75,20 @@
     "file": "baidu_上海交通大学_黄培坚_严重违纪违法_瑞金医院海南医院.html",
     "path": "../archive/searches/baidu_上海交通大学_黄培坚_严重违纪违法_瑞金医院海南医院.html",
     "sizeBytes": 1488
+  },
+  {
+    "engine": "baidu",
+    "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
+    "file": "baidu_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+    "path": "../archive/searches/baidu_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+    "sizeBytes": 930337
+  },
+  {
+    "engine": "baidu",
+    "query": "西安交通大学 秦某某 后勤职工 违纪违法 法院",
+    "file": "baidu_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+    "path": "../archive/searches/baidu_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+    "sizeBytes": 1491
   },
   {
     "engine": "baidu",
@@ -134,6 +162,13 @@
   },
   {
     "engine": "bing",
+    "query": "方红卫 清华大学 汽车工程系 严重违纪违法",
+    "file": "bing_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+    "path": "../archive/searches/bing_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+    "sizeBytes": 102962
+  },
+  {
+    "engine": "bing",
     "query": "华中科技大学 韩承轩 走私 生物材料 DOJ",
     "file": "bing_华中科技大学_韩承轩_走私_生物材料_DOJ.html",
     "path": "../archive/searches/bing_华中科技大学_韩承轩_走私_生物材料_DOJ.html",
@@ -159,6 +194,13 @@
     "file": "bing_华中科技大学_中信建投_实习生_王某某.html",
     "path": "../archive/searches/bing_华中科技大学_中信建投_实习生_王某某.html",
     "sizeBytes": 71608
+  },
+  {
+    "engine": "bing",
+    "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
+    "file": "bing_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+    "path": "../archive/searches/bing_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+    "sizeBytes": 101056
   },
   {
     "engine": "bing",
@@ -225,6 +267,20 @@
   },
   {
     "engine": "bing",
+    "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
+    "file": "bing_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+    "path": "../archive/searches/bing_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+    "sizeBytes": 102323
+  },
+  {
+    "engine": "bing",
+    "query": "西安交通大学 秦某某 后勤职工 违纪违法 法院",
+    "file": "bing_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+    "path": "../archive/searches/bing_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+    "sizeBytes": 102632
+  },
+  {
+    "engine": "bing",
     "query": "浙江大学 楼某某 副教授 相亲 选妃 通报",
     "file": "bing_浙江大学_楼某某_副教授_相亲_选妃_通报.html",
     "path": "../archive/searches/bing_浙江大学_楼某某_副教授_相亲_选妃_通报.html",
@@ -260,10 +316,24 @@
   },
   {
     "engine": "sogou",
+    "query": "方红卫 清华大学 汽车工程系 严重违纪违法",
+    "file": "sogou_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+    "path": "../archive/searches/sogou_方红卫_清华大学_汽车工程系_严重违纪违法.html",
+    "sizeBytes": 425155
+  },
+  {
+    "engine": "sogou",
     "query": "复旦 王灿 学术不端 通报",
     "file": "sogou_复旦_王灿_学术不端_通报.html",
     "path": "../archive/searches/sogou_复旦_王灿_学术不端_通报.html",
     "sizeBytes": 486916
+  },
+  {
+    "engine": "sogou",
+    "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
+    "file": "sogou_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+    "path": "../archive/searches/sogou_李堂堂_西安交通大学_EMBA_双开_受贿.html",
+    "sizeBytes": 468110
   },
   {
     "engine": "sogou",
@@ -323,10 +393,24 @@
   },
   {
     "engine": "sogou",
+    "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
+    "file": "sogou_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+    "path": "../archive/searches/sogou_王腾_小米_泄密_辞退_华中科技大学_校友.html",
+    "sizeBytes": 626578
+  },
+  {
+    "engine": "sogou",
     "query": "西安交大 学术妲己 李某某 通报",
     "file": "sogou_西安交大_学术妲己_李某某_通报.html",
     "path": "../archive/searches/sogou_西安交大_学术妲己_李某某_通报.html",
     "sizeBytes": 487506
+  },
+  {
+    "engine": "sogou",
+    "query": "西安交通大学 秦某某 后勤职工 违纪违法 法院",
+    "file": "sogou_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+    "path": "../archive/searches/sogou_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
+    "sizeBytes": 476080
   },
   {
     "engine": "sogou",

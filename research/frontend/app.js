@@ -23,6 +23,7 @@ const els = {
   totalEntries: document.querySelector('#totalEntries'),
   visibleEntries: document.querySelector('#visibleEntries'),
   archiveCount: document.querySelector('#archiveCount'),
+  feedCount: document.querySelector('#feedCount'),
   searchInput: document.querySelector('#searchInput'),
   schoolFilter: document.querySelector('#schoolFilter'),
   natureFilter: document.querySelector('#natureFilter'),
@@ -86,6 +87,7 @@ function renderStats(data, filtered) {
   els.totalEntries.textContent = data.totalEntries;
   els.visibleEntries.textContent = filtered.length;
   els.archiveCount.textContent = data.searchArchive.length;
+  if (els.feedCount) els.feedCount.textContent = `${filtered.length} / ${data.totalEntries}`;
 }
 
 function renderSchoolStrip(data, filtered) {
