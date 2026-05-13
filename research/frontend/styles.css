@@ -1,22 +1,23 @@
 :root {
   color-scheme: light;
-  --bg: #f6f7f9;
-  --bg-top: #fcfcfd;
+  --bg: #f4f6f8;
+  --bg-top: #fbfcfd;
   --surface: #ffffff;
-  --surface-soft: #f2f5f8;
-  --ink: #15171a;
-  --ink-soft: #333842;
-  --muted: #667085;
-  --subtle: #98a2b3;
-  --line: #d9dee7;
-  --line-strong: #c9d0dc;
+  --surface-soft: #f6f8fb;
+  --ink: #111318;
+  --ink-soft: #303642;
+  --muted: #657083;
+  --subtle: #9aa4b2;
+  --line: #dce2ea;
+  --line-strong: #c9d2df;
   --blue: #0a66c2;
   --blue-dark: #064a8f;
   --red: #b42318;
   --green: #067647;
   --amber: #a15c07;
-  --shadow-soft: 0 18px 45px rgba(15, 23, 42, 0.08);
-  --shadow-card: 0 12px 30px rgba(15, 23, 42, 0.1);
+  --shadow-soft: 0 20px 55px rgba(16, 24, 40, 0.1);
+  --shadow-card: 0 16px 36px rgba(16, 24, 40, 0.12);
+  --shadow-hairline: 0 1px 2px rgba(16, 24, 40, 0.06);
 }
 
 * {
@@ -30,7 +31,7 @@ html {
 body {
   margin: 0;
   background:
-    linear-gradient(180deg, var(--bg-top) 0, #eef2f6 360px, var(--bg) 820px),
+    linear-gradient(180deg, var(--bg-top) 0, #edf2f7 410px, var(--bg) 820px),
     var(--bg);
   color: var(--ink);
   font-family:
@@ -89,17 +90,25 @@ a:hover {
 
 .brand-mark {
   align-items: center;
-  background: #14171a;
+  background:
+    linear-gradient(#fff, #fff) padding-box,
+    conic-gradient(from 160deg, var(--blue), var(--green), var(--amber), var(--red), var(--blue)) border-box;
+  border: 2px solid transparent;
   border-radius: 999px;
-  color: #fff;
   display: inline-flex;
   flex: 0 0 auto;
-  font-size: 11px;
-  font-weight: 800;
   height: 30px;
   justify-content: center;
-  letter-spacing: 0;
   width: 30px;
+}
+
+.brand-mark::after {
+  background: #111318;
+  border-radius: 999px;
+  content: "";
+  display: block;
+  height: 12px;
+  width: 12px;
 }
 
 .source-link,
@@ -108,7 +117,7 @@ a:hover {
   background: var(--surface);
   border: 1px solid var(--line-strong);
   border-radius: 999px;
-  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+  box-shadow: var(--shadow-hairline);
   color: var(--ink-soft);
   cursor: pointer;
   display: inline-flex;
@@ -151,10 +160,10 @@ a:hover {
   align-items: stretch;
   border-radius: 8px;
   display: grid;
-  gap: 22px;
+  gap: 26px;
   grid-template-columns: minmax(0, 1fr) minmax(430px, 0.78fr);
   overflow: hidden;
-  padding: 22px;
+  padding: 28px;
   position: relative;
 }
 
@@ -213,16 +222,17 @@ h2 {
 
 .metrics {
   display: grid;
-  gap: 10px;
+  gap: 12px;
   grid-template-columns: repeat(4, minmax(0, 1fr));
   min-width: 0;
 }
 
 .metrics div {
   background:
-    linear-gradient(180deg, rgba(248, 250, 252, 0.96), rgba(255, 255, 255, 0.96));
+    linear-gradient(180deg, rgba(248, 250, 252, 0.98), rgba(255, 255, 255, 0.98));
   border: 1px solid var(--line);
   border-radius: 8px;
+  box-shadow: var(--shadow-hairline);
   display: grid;
   min-height: 92px;
   padding: 14px;
@@ -261,6 +271,7 @@ h2 {
 .panel,
 .archive-panel {
   border-radius: 8px;
+  box-shadow: var(--shadow-hairline);
 }
 
 .controls {
@@ -326,6 +337,7 @@ a:focus-visible {
   background: rgba(255, 255, 255, 0.92);
   border: 1px solid var(--line);
   border-radius: 8px;
+  box-shadow: var(--shadow-hairline);
   display: grid;
   gap: 8px;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -387,6 +399,7 @@ a:focus-visible {
   background: #fff;
   border: 1px solid var(--line);
   border-radius: 8px;
+  box-shadow: 0 1px 1px rgba(16, 24, 40, 0.04);
   display: grid;
   flex: 0 0 42px;
   height: 42px;
@@ -408,26 +421,16 @@ a:focus-visible {
   display: block;
   height: 100%;
   object-fit: contain;
-  padding: 4px;
-  position: relative;
+  padding: 5px;
   width: 100%;
-  z-index: 2;
 }
 
-.logo-fallback {
-  color: var(--blue);
-  display: grid;
-  font-weight: 850;
-  inset: 0;
-  justify-items: center;
-  place-items: center;
-  position: absolute;
-  text-shadow: 0 1px 0 #fff;
-  z-index: 1;
-}
-
-.school-logo img + .logo-fallback {
-  display: none;
+.logo-empty {
+  background: linear-gradient(135deg, #e8edf4, #fff);
+  border-radius: 6px;
+  display: block;
+  height: 22px;
+  width: 22px;
 }
 
 .visually-hidden {
@@ -459,7 +462,7 @@ a:focus-visible {
 
 .cards {
   display: grid;
-  gap: 14px;
+  gap: 16px;
   grid-template-columns: repeat(auto-fill, minmax(252px, 1fr));
 }
 
@@ -467,10 +470,10 @@ a:focus-visible {
   border-radius: 8px;
   cursor: pointer;
   display: grid;
-  grid-template-rows: 78px auto 1fr;
-  min-height: 238px;
+  grid-template-rows: auto 1fr auto;
+  min-height: 218px;
   overflow: hidden;
-  padding: 0;
+  padding: 16px;
   position: relative;
   text-align: left;
   transition:
@@ -480,6 +483,18 @@ a:focus-visible {
     background-color 180ms ease;
 }
 
+.person-card::before {
+  background: linear-gradient(90deg, var(--blue), var(--green), var(--amber), var(--red));
+  content: "";
+  height: 2px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: opacity 180ms ease;
+}
+
 .person-card:hover {
   background: #fff;
   border-color: #a8b1c1;
@@ -487,43 +502,22 @@ a:focus-visible {
   transform: translateY(-2px);
 }
 
-.card-cover {
-  align-items: start;
-  background:
-    linear-gradient(135deg, #eff6ff 0 42%, #f8fafc 42% 68%, #fff3eb 68% 100%);
-  border-bottom: 1px solid var(--line);
-  display: flex;
-  justify-content: flex-end;
-  padding: 12px;
-}
-
-.card-cover .school-logo {
-  box-shadow: 0 8px 18px rgba(15, 23, 42, 0.08);
+.person-card:hover::before {
+  opacity: 1;
 }
 
 .card-top {
   align-items: center;
-  display: flex;
+  display: grid;
   gap: 10px;
-  justify-content: space-between;
-  margin-top: -26px;
-  padding: 0 16px;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  min-width: 0;
 }
 
-.person-avatar {
-  align-items: center;
-  background: #15171a;
-  border: 3px solid #fff;
-  border-radius: 50%;
-  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.12);
-  color: #fff;
+.card-school-wrap {
   display: grid;
-  flex: 0 0 58px;
-  font-size: 24px;
-  font-weight: 850;
-  height: 58px;
-  justify-items: center;
-  width: 58px;
+  gap: 2px;
+  min-width: 0;
 }
 
 .credibility-pill {
@@ -539,13 +533,14 @@ a:focus-visible {
 }
 
 .card-body {
+  align-content: start;
   display: grid;
-  padding: 10px 16px 17px;
+  padding: 18px 0 0;
 }
 
 .person-card h3 {
   color: var(--ink);
-  font-size: 19px;
+  font-size: 22px;
   font-weight: 800;
   letter-spacing: 0;
   line-height: 1.25;
@@ -554,24 +549,47 @@ a:focus-visible {
 
 .card-school {
   display: block;
+  font-size: 13px;
+  font-weight: 780;
+  line-height: 1.3;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.card-nature {
+  color: var(--muted);
+  display: block;
   font-size: 12px;
   font-weight: 650;
-  line-height: 1.45;
-  margin-top: 6px;
+  line-height: 1.35;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .event-title {
-  border-top: 1px solid var(--line);
   color: var(--ink-soft);
   display: -webkit-box;
   font-size: 14px;
   line-height: 1.55;
-  margin-top: 13px;
-  min-height: 66px;
+  margin-top: 14px;
+  min-height: 64px;
   overflow: hidden;
-  padding-top: 12px;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
+}
+
+.card-foot {
+  align-items: center;
+  border-top: 1px solid var(--line);
+  color: var(--blue);
+  display: flex;
+  font-size: 13px;
+  font-weight: 780;
+  justify-content: space-between;
+  margin-top: 16px;
+  padding-top: 12px;
 }
 
 .archive-panel {

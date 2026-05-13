@@ -1,13 +1,13 @@
 const schoolLogos = {
-  清华大学: { domain: 'www.tsinghua.edu.cn', fallback: '清' },
-  北京大学: { domain: 'www.pku.edu.cn', fallback: '北' },
-  浙江大学: { domain: 'www.zju.edu.cn', fallback: '浙' },
-  上海交通大学: { domain: 'www.sjtu.edu.cn', fallback: '交' },
-  复旦大学: { domain: 'www.fudan.edu.cn', fallback: '复' },
-  南京大学: { domain: 'www.nju.edu.cn', fallback: '南' },
-  中国科学技术大学: { domain: 'www.ustc.edu.cn', fallback: '科' },
-  华中科技大学: { domain: 'www.hust.edu.cn', fallback: '华' },
-  西安交通大学: { domain: 'www.xjtu.edu.cn', fallback: '西' },
+  清华大学: './assets/logos/tsinghua.ico',
+  北京大学: './assets/logos/pku.ico',
+  浙江大学: './assets/logos/zju.png',
+  上海交通大学: './assets/logos/sjtu.png',
+  复旦大学: './assets/logos/fudan.ico',
+  南京大学: './assets/logos/nju.png',
+  中国科学技术大学: './assets/logos/ustc.ico',
+  华中科技大学: './assets/logos/hust.ico',
+  西安交通大学: './assets/logos/xjtu.ico',
 };
 
 const state = {
@@ -47,18 +47,15 @@ function escapeHtml(value) {
 }
 
 function logoUrl(school) {
-  const item = schoolLogos[school];
-  if (!item) return '';
-  return `https://www.google.com/s2/favicons?sz=128&domain_url=https://${item.domain}`;
+  return schoolLogos[school] || '';
 }
 
 function logoMarkup(school, size = 'regular') {
-  const item = schoolLogos[school] || { fallback: school.slice(0, 1) || '?' };
   const url = logoUrl(school);
   const image = url
-    ? `<img src="${escapeHtml(url)}" alt="" loading="lazy" onerror="this.remove()" />`
-    : '';
-  return `<span class="school-logo ${size}" aria-hidden="true">${image}<span class="logo-fallback">${escapeHtml(item.fallback)}</span></span>`;
+    ? `<img src="${escapeHtml(url)}" alt="" loading="lazy" />`
+    : '<span class="logo-empty" aria-hidden="true"></span>';
+  return `<span class="school-logo ${size}" aria-hidden="true">${image}</span>`;
 }
 
 function fillFilters(data) {
@@ -165,17 +162,21 @@ function renderCards(entries) {
     .map(
       (entry) => `
         <button class="person-card" type="button" data-entry-id="${escapeHtml(entry.id)}">
-          <span class="card-cover">
-            ${logoMarkup(entry.school, 'small')}
-          </span>
           <span class="card-top">
-            <span class="person-avatar">${escapeHtml((entry.displayName || entry.name).slice(0, 1))}</span>
+            ${logoMarkup(entry.school, 'small')}
+            <span class="card-school-wrap">
+              <span class="card-school">${escapeHtml(entry.school)}</span>
+              <span class="card-nature">${escapeHtml(entry.nature || '待核')}</span>
+            </span>
             <span class="credibility-pill">${escapeHtml(entry.credibility)}</span>
           </span>
           <span class="card-body">
             <h3>${escapeHtml(entry.displayName || entry.name)}</h3>
-            <span class="card-school">${escapeHtml(entry.school)} · ${escapeHtml(entry.nature || '待核')}</span>
             <p class="event-title">${escapeHtml(entry.eventName || entry.summary)}</p>
+          </span>
+          <span class="card-foot">
+            <span>查看详情</span>
+            <span aria-hidden="true">›</span>
           </span>
         </button>
       `,
