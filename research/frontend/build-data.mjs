@@ -9,8 +9,9 @@ const dataPath = path.join(root, 'research', 'frontend', 'data.json');
 const archiveSnapshotPath = path.join(root, 'research', 'archive', 'research-snapshot.json');
 const searchDir = path.join(root, 'research', 'archive', 'searches');
 const searchIndexPath = path.join(root, 'research', 'archive', 'search-index.json');
+const bulkDataDir = path.join(root, 'research', 'data');
 
-const schools = [
+const baseSchools = [
   '清华大学',
   '北京大学',
   '浙江大学',
@@ -70,7 +71,7 @@ function parseRow(line) {
 }
 
 function normalizeSchool(text) {
-  for (const school of schools) {
+  for (const school of baseSchools) {
     if (text.includes(school)) return school;
   }
   for (const [alias, school] of aliases) {
@@ -296,7 +297,7 @@ function buildEntries(markdown) {
 }
 
 function scoreEntry(entry) {
-  const recencyBonus = /第六轮|第五轮|第四轮|第三轮|第二轮/.test(entry.section) ? 180 : 0;
+  const recencyBonus = /第八轮|第七轮|第六轮|第五轮|第四轮|第三轮|第二轮/.test(entry.section) ? 180 : 0;
   return (
     entry.summary.length +
     entry.impact.length +
@@ -326,6 +327,27 @@ function prepareDisplayEntries(entries) {
   }));
 }
 
+function buildSchoolList(entries) {
+  const seen = new Set();
+  const ordered = [];
+
+  for (const school of baseSchools) {
+    if (entries.some((entry) => entry.school === school)) {
+      seen.add(school);
+      ordered.push(school);
+    }
+  }
+
+  for (const entry of entries) {
+    if (!seen.has(entry.school)) {
+      seen.add(entry.school);
+      ordered.push(entry.school);
+    }
+  }
+
+  return ordered;
+}
+
 function buildSearchArchiveIndex() {
   if (!fs.existsSync(searchDir)) return [];
   return fs
@@ -346,9 +368,71 @@ function buildSearchArchiveIndex() {
     });
 }
 
+function normalizeBulkEntry(rawEntry, sourceFile, index) {
+  const sourcesMarkdown = rawEntry.sourcesMarkdown || rawEntry.sources || '';
+  const photoMarkdown = rawEntry.photoMarkdown || rawEntry.photos || '';
+  const paperMarkdown = rawEntry.paperMarkdown || rawEntry.papers || '';
+  const sourceLinks = extractLinks(sourcesMarkdown);
+  const photoLinks = extractLinks(photoMarkdown);
+  const paperLinks = extractLinks(paperMarkdown);
+  const name = stripMarkdown(rawEntry.name || rawEntry['姓名或公开称谓'] || rawEntry['姓名'] || '');
+  const summary = stripMarkdown(rawEntry.summary || rawEntry['事件概要'] || '');
+  const nature = stripMarkdown(rawEntry.nature || rawEntry['事件性质'] || '');
+
+  const entry = {
+    id: `bulk-${sourceFile}-${index + 1}`,
+    section: stripMarkdown(rawEntry.section || '批量扩展数据'),
+    subsection: stripMarkdown(rawEntry.subsection || ''),
+    name,
+    school: normalizeSchool(stripMarkdown(rawEntry.school || rawEntry['学校'] || rawEntry['就读学校'] || '待核')),
+    schoolRaw: stripMarkdown(rawEntry.school || rawEntry['学校'] || rawEntry['就读学校'] || '待核'),
+    identity: stripMarkdown(rawEntry.identity || rawEntry['身份/专业/年级/毕业年份'] || rawEntry['所学专业/学位'] || ''),
+    year: stripMarkdown(rawEntry.year || rawEntry['毕业年份或就读年份'] || ''),
+    eventName: stripMarkdown(rawEntry.eventName || rawEntry['事件名称'] || '') || inferEventName(name, summary, nature),
+    summary,
+    impact: stripMarkdown(rawEntry.impact || rawEntry['舆论影响'] || rawEntry['为何舆论大'] || ''),
+    nature,
+    sourcesMarkdown,
+    photoMarkdown,
+    paperMarkdown,
+    links: extractLinks(sourcesMarkdown, photoMarkdown, paperMarkdown),
+    sourceLinks,
+    photoLinks,
+    paperLinks,
+  };
+
+  entry.displayName = stripMarkdown(rawEntry.displayName || '') || displayNameFor(entry);
+  entry.paperLinks = addAcademicSearchLinks(entry);
+  entry.links = [...entry.links, ...entry.paperLinks.filter((link) => !entry.links.some((item) => item.url === link.url))];
+  entry.credibility = stripMarkdown(rawEntry.credibility || '') || credibilityFor(entry);
+  return entry;
+}
+
+function buildBulkEntries() {
+  if (!fs.existsSync(bulkDataDir)) return [];
+
+  return fs
+    .readdirSync(bulkDataDir)
+    .filter((file) => file.endsWith('.json'))
+    .sort((a, b) => a.localeCompare(b, 'zh-Hans-CN'))
+    .flatMap((file) => {
+      const fullPath = path.join(bulkDataDir, file);
+      const payload = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
+      const rows = Array.isArray(payload) ? payload : payload.entries;
+      if (!Array.isArray(rows)) return [];
+
+      return rows
+        .map((row, index) => normalizeBulkEntry(row, path.basename(file, '.json'), index))
+        .filter((entry) => entry.name && entry.school && entry.summary);
+    });
+}
+
 const markdown = fs.readFileSync(markdownPath, 'utf8');
-const sourceEntries = buildEntries(markdown);
+const markdownEntries = buildEntries(markdown);
+const bulkEntries = buildBulkEntries();
+const sourceEntries = [...markdownEntries, ...bulkEntries];
 const entries = prepareDisplayEntries(sourceEntries);
+const schools = buildSchoolList(entries);
 const searchArchive = buildSearchArchiveIndex();
 
 const bySchool = Object.fromEntries(

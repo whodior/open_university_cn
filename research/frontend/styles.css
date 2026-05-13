@@ -790,7 +790,7 @@ a:focus-visible {
   }
 
   .school-strip {
-    grid-template-columns: repeat(9, minmax(64px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(64px, 1fr));
     overflow-x: auto;
   }
 }
@@ -844,7 +844,7 @@ a:focus-visible {
   }
 
   .school-strip {
-    grid-template-columns: repeat(9, 64px);
+    grid-template-columns: repeat(auto-fill, minmax(64px, 1fr));
   }
 
   .school-chip {
