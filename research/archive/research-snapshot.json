@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-13T03:12:00.200Z",
+  "generatedAt": "2026-05-13T04:30:21.007Z",
   "markdownFile": "../controversial-alumni-soft-ranking-2026.md",
-  "sourceEntries": 192,
-  "totalEntries": 178,
+  "sourceEntries": 206,
+  "totalEntries": 192,
   "schools": [
     "清华大学",
     "北京大学",
@@ -15,15 +15,15 @@
     "西安交通大学"
   ],
   "bySchool": {
-    "清华大学": 26,
-    "北京大学": 31,
-    "浙江大学": 18,
-    "上海交通大学": 16,
-    "复旦大学": 18,
+    "清华大学": 27,
+    "北京大学": 32,
+    "浙江大学": 21,
+    "上海交通大学": 18,
+    "复旦大学": 22,
     "南京大学": 19,
     "中国科学技术大学": 12,
     "华中科技大学": 17,
-    "西安交通大学": 21
+    "西安交通大学": 24
   },
   "searchArchive": [
     {
@@ -690,6 +690,20 @@
       "file": "bing_邹恒甫_北京大学_名誉权_诽谤_判决.html",
       "path": "../archive/searches/bing_邹恒甫_北京大学_名誉权_诽谤_判决.html",
       "sizeBytes": 117888
+    },
+    {
+      "engine": "nsfc-2026-first-batch-zhanghongyu.html",
+      "query": "nsfc-2026-first-batch-zhanghongyu",
+      "file": "nsfc-2026-first-batch-zhanghongyu.html",
+      "path": "../archive/searches/nsfc-2026-first-batch-zhanghongyu.html",
+      "sizeBytes": 14457
+    },
+    {
+      "engine": "sina-2026-nsfc-first-batch.html",
+      "query": "sina-2026-nsfc-first-batch",
+      "file": "sina-2026-nsfc-first-batch.html",
+      "path": "../archive/searches/sina-2026-nsfc-first-batch.html",
+      "sizeBytes": 106956
     },
     {
       "engine": "sogou",
@@ -3225,17 +3239,17 @@
       "id": "e40",
       "section": "高舆论事件补充表",
       "subsection": "清华大学",
-      "name": "叶肖鑫；唐国翌",
+      "name": "叶肖鑫",
       "school": "清华大学",
       "schoolRaw": "清华大学",
-      "identity": "叶肖鑫：清华深圳研究生院2010级材料科学与工程博士生；唐国翌：导师/教授",
+      "identity": "清华深圳研究生院2010级材料科学与工程博士生；2015年获博士学位",
       "year": "",
-      "eventName": "清华深研院11篇论文撤稿事件",
-      "summary": "多篇论文因图像操纵、重复使用、虚假署名等问题撤稿；校方撤销叶肖鑫博士学位并追责导师。",
-      "impact": "研究生学术诚信、导师责任、名校论文撤稿链条受到关注。",
+      "eventName": "清华博士叶肖鑫严重学术不端撤销博士学位事件",
+      "summary": "清华深研院说明称叶肖鑫博士期间发表的多篇论文存在自我抄袭、图片重复利用、编造实验结果等问题，学校认定其严重学术不端并撤销博士学位。",
+      "impact": "研究生学术诚信、名校博士论文撤稿链条和学位撤销处理受到关注。",
       "nature": "学术不端 / 学位撤销",
       "sourcesMarkdown": "[清华深研院官方说明](https://www.sigs.tsinghua.edu.cn/2018/1021/c952a6407/page.htm)；[央视](https://m.news.cctv.com/2018/10/22/ARTIqAd7VPdTpM6fTXXwtaZg181022.shtml)；[Retraction Watch](https://retractionwatch.com/2018/10/22/graduate-student-in-china-stripped-of-phd-after-investigation-that-led-to-a-dozen-retractions/)",
-      "photoMarkdown": "待核",
+      "photoMarkdown": "暂无可靠个人照片",
       "paperMarkdown": "[Retraction Watch撤稿汇总](https://retractionwatch.com/2018/10/22/graduate-student-in-china-stripped-of-phd-after-investigation-that-led-to-a-dozen-retractions/)",
       "links": [
         {
@@ -3251,8 +3265,8 @@
           "url": "https://retractionwatch.com/2018/10/22/graduate-student-in-china-stripped-of-phd-after-investigation-that-led-to-a-dozen-retractions/"
         },
         {
-          "label": "知网检索：叶肖鑫；唐国翌 清华大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8F%B6%E8%82%96%E9%91%AB%EF%BC%9B%E5%94%90%E5%9B%BD%E7%BF%8C%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
+          "label": "知网检索：叶肖鑫 清华大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8F%B6%E8%82%96%E9%91%AB%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
         }
       ],
       "sourceLinks": [
@@ -3276,15 +3290,73 @@
           "url": "https://retractionwatch.com/2018/10/22/graduate-student-in-china-stripped-of-phd-after-investigation-that-led-to-a-dozen-retractions/"
         },
         {
-          "label": "知网检索：叶肖鑫；唐国翌 清华大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8F%B6%E8%82%96%E9%91%AB%EF%BC%9B%E5%94%90%E5%9B%BD%E7%BF%8C%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
+          "label": "知网检索：叶肖鑫 清华大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8F%B6%E8%82%96%E9%91%AB%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
         }
       ],
-      "displayName": "叶肖鑫；唐国翌",
+      "displayName": "叶肖鑫",
       "credibility": "较强"
     },
     {
       "id": "e41",
+      "section": "高舆论事件补充表",
+      "subsection": "清华大学",
+      "name": "唐国翌",
+      "school": "清华大学",
+      "schoolRaw": "清华大学",
+      "identity": "清华深圳研究生院新材料研究所教授；叶肖鑫导师",
+      "year": "",
+      "eventName": "清华深研院叶肖鑫撤稿事件导师追责",
+      "summary": "清华深研院说明称唐国翌作为导师对叶肖鑫严重学术不端负有指导管理责任，学院停止其招收研究生资格，撤销其材料学科负责人和新材料研究所副所长职务。",
+      "impact": "导师责任、研究生培养管理和论文撤稿后的校内问责引发讨论。",
+      "nature": "导师管理失责 / 学术不端追责",
+      "sourcesMarkdown": "[清华深研院官方说明](https://www.sigs.tsinghua.edu.cn/2018/1021/c952a6407/page.htm)；[央视](https://m.news.cctv.com/2018/10/22/ARTIqAd7VPdTpM6fTXXwtaZg181022.shtml)；[Retraction Watch](https://retractionwatch.com/2018/10/22/graduate-student-in-china-stripped-of-phd-after-investigation-that-led-to-a-dozen-retractions/)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "知网待核；检索词：唐国翌 清华大学 新材料",
+      "links": [
+        {
+          "label": "清华深研院官方说明",
+          "url": "https://www.sigs.tsinghua.edu.cn/2018/1021/c952a6407/page.htm"
+        },
+        {
+          "label": "央视",
+          "url": "https://m.news.cctv.com/2018/10/22/ARTIqAd7VPdTpM6fTXXwtaZg181022.shtml"
+        },
+        {
+          "label": "Retraction Watch",
+          "url": "https://retractionwatch.com/2018/10/22/graduate-student-in-china-stripped-of-phd-after-investigation-that-led-to-a-dozen-retractions/"
+        },
+        {
+          "label": "知网检索：唐国翌 清华大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%94%90%E5%9B%BD%E7%BF%8C%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "清华深研院官方说明",
+          "url": "https://www.sigs.tsinghua.edu.cn/2018/1021/c952a6407/page.htm"
+        },
+        {
+          "label": "央视",
+          "url": "https://m.news.cctv.com/2018/10/22/ARTIqAd7VPdTpM6fTXXwtaZg181022.shtml"
+        },
+        {
+          "label": "Retraction Watch",
+          "url": "https://retractionwatch.com/2018/10/22/graduate-student-in-china-stripped-of-phd-after-investigation-that-led-to-a-dozen-retractions/"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：唐国翌 清华大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%94%90%E5%9B%BD%E7%BF%8C%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "唐国翌",
+      "credibility": "较强"
+    },
+    {
+      "id": "e42",
       "section": "高舆论事件补充表",
       "subsection": "清华大学",
       "name": "汪晖",
@@ -3351,7 +3423,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e42",
+      "id": "e43",
       "section": "高舆论事件补充表",
       "subsection": "北京大学",
       "name": "牟林翰",
@@ -3409,7 +3481,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e43",
+      "id": "e44",
       "section": "高舆论事件补充表",
       "subsection": "北京大学",
       "name": "沈阳",
@@ -3450,7 +3522,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e44",
+      "id": "e45",
       "section": "高舆论事件补充表",
       "subsection": "北京大学",
       "name": "翟天临",
@@ -3513,7 +3585,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e45",
+      "id": "e46",
       "section": "高舆论事件补充表",
       "subsection": "北京大学",
       "name": "王铭铭",
@@ -3571,7 +3643,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e46",
+      "id": "e47",
       "section": "高舆论事件补充表",
       "subsection": "北京大学",
       "name": "王晓龙",
@@ -3629,7 +3701,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e47",
+      "id": "e48",
       "section": "高舆论事件补充表",
       "subsection": "浙江大学",
       "name": "贺海波",
@@ -3687,7 +3759,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e48",
+      "id": "e49",
       "section": "高舆论事件补充表",
       "subsection": "上海交通大学",
       "name": "田源",
@@ -3741,22 +3813,26 @@
       "credibility": "较强"
     },
     {
-      "id": "e49",
+      "id": "e50",
       "section": "高舆论事件补充表",
       "subsection": "上海交通大学",
-      "name": "李奇峰、马杰、励峰",
+      "name": "李奇峰",
       "school": "上海交通大学",
       "schoolRaw": "上海交通大学",
-      "identity": "上海交大相关医生/科研人员，具体职务待核",
+      "identity": "上海交通大学相关科研人员，医学研究方向",
       "year": "",
-      "eventName": "上海交大3位医生涉国自然科研不端",
-      "summary": "国自然相关通报涉及李奇峰、马杰论文数据造假及结题报告虚假信息，励峰项目申请书抄袭剽窃；均受通报批评及项目资格限制等处理。",
-      "impact": "国家自然科学基金、医学科研诚信、撤销项目和追回经费受到关注。",
+      "eventName": "李奇峰论文数据造假及基金结题报告虚假信息事件",
+      "summary": "基金委通报称上海交通大学李奇峰、马杰等发表的论文涉嫌学术不端，经查存在数据造假等问题；李奇峰被取消国家自然科学基金项目申请和参与申请资格3年并通报批评。",
+      "impact": "国家自然科学基金、医学科研诚信和论文数据造假处理受到关注。",
       "nature": "学术不端 / 科研诚信",
-      "sourcesMarkdown": "[澎湃新闻转国自然通报](https://www.thepaper.cn/newsDetail_forward_20475936)；[涉事论文1 PubMed](https://pubmed.ncbi.nlm.nih.gov/23587485/)；[涉事论文2 PubMed](https://pubmed.ncbi.nlm.nih.gov/24325785/)",
-      "photoMarkdown": "待核",
-      "paperMarkdown": "教师/医生身份，按本口径留空",
+      "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)；[澎湃新闻转国自然通报](https://www.thepaper.cn/newsDetail_forward_20475936)；[涉事论文1 PubMed](https://pubmed.ncbi.nlm.nih.gov/23587485/)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "论文：MicroRNA-222 promotes tumorigenesis via targeting DKK2 and activating the Wnt/beta-catenin signaling pathway",
       "links": [
+        {
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
+        },
         {
           "label": "澎湃新闻转国自然通报",
           "url": "https://www.thepaper.cn/newsDetail_forward_20475936"
@@ -3764,24 +3840,78 @@
         {
           "label": "涉事论文1 PubMed",
           "url": "https://pubmed.ncbi.nlm.nih.gov/23587485/"
+        },
+        {
+          "label": "知网检索：李奇峰 上海交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E5%A5%87%E5%B3%B0%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
+        },
+        {
+          "label": "澎湃新闻转国自然通报",
+          "url": "https://www.thepaper.cn/newsDetail_forward_20475936"
+        },
+        {
+          "label": "涉事论文1 PubMed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23587485/"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：李奇峰 上海交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E5%A5%87%E5%B3%B0%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "李奇峰",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e51",
+      "section": "高舆论事件补充表",
+      "subsection": "上海交通大学",
+      "name": "马杰",
+      "school": "上海交通大学",
+      "schoolRaw": "上海交通大学",
+      "identity": "上海交通大学相关科研人员，医学研究方向",
+      "year": "",
+      "eventName": "马杰论文数据造假及基金结题报告虚假信息事件",
+      "summary": "基金委通报称上海交通大学李奇峰、马杰等发表的论文涉嫌学术不端，经查存在数据造假及结题报告虚假信息等问题；马杰项目被撤销、追回资金，申请和参与申请资格被取消3年并通报批评。",
+      "impact": "国家自然科学基金、医学科研诚信、撤销项目和追回经费受到关注。",
+      "nature": "学术不端 / 科研诚信",
+      "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)；[澎湃新闻转国自然通报](https://www.thepaper.cn/newsDetail_forward_20475936)；[涉事论文2 PubMed](https://pubmed.ncbi.nlm.nih.gov/24325785/)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "论文：Impaired hippocampal neurogenesis in Alzheimer's disease is rescued by valproate via activation of the Wnt/beta-catenin signaling pathway",
+      "links": [
+        {
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
+        },
+        {
+          "label": "澎湃新闻转国自然通报",
+          "url": "https://www.thepaper.cn/newsDetail_forward_20475936"
         },
         {
           "label": "涉事论文2 PubMed",
           "url": "https://pubmed.ncbi.nlm.nih.gov/24325785/"
         },
         {
-          "label": "知网检索：李奇峰、马杰、励峰 上海交通大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E5%A5%87%E5%B3%B0%E3%80%81%E9%A9%AC%E6%9D%B0%E3%80%81%E5%8A%B1%E5%B3%B0%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+          "label": "知网检索：马杰 上海交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%A9%AC%E6%9D%B0%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
         }
       ],
       "sourceLinks": [
         {
-          "label": "澎湃新闻转国自然通报",
-          "url": "https://www.thepaper.cn/newsDetail_forward_20475936"
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
         },
         {
-          "label": "涉事论文1 PubMed",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/23587485/"
+          "label": "澎湃新闻转国自然通报",
+          "url": "https://www.thepaper.cn/newsDetail_forward_20475936"
         },
         {
           "label": "涉事论文2 PubMed",
@@ -3791,15 +3921,65 @@
       "photoLinks": [],
       "paperLinks": [
         {
-          "label": "知网检索：李奇峰、马杰、励峰 上海交通大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E5%A5%87%E5%B3%B0%E3%80%81%E9%A9%AC%E6%9D%B0%E3%80%81%E5%8A%B1%E5%B3%B0%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+          "label": "知网检索：马杰 上海交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%A9%AC%E6%9D%B0%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
         }
       ],
-      "displayName": "李奇峰、马杰、励峰",
+      "displayName": "马杰",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e52",
+      "section": "高舆论事件补充表",
+      "subsection": "上海交通大学",
+      "name": "励峰",
+      "school": "上海交通大学",
+      "schoolRaw": "上海交通大学",
+      "identity": "上海交通大学相关科研人员，医学研究方向",
+      "year": "",
+      "eventName": "励峰国家自然科学基金项目申请书抄袭剽窃事件",
+      "summary": "基金委通报称上海交通大学励峰使用他人申请书内容申报基金项目，存在抄袭剽窃他人项目申请书内容问题，相关申请被撤销，申请和参与申请资格被取消3年并通报批评。",
+      "impact": "基金申请书抄袭、项目申报诚信和高校科研管理受到关注。",
+      "nature": "学术不端 / 基金委通报",
+      "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)；[澎湃新闻转国自然通报](https://www.thepaper.cn/newsDetail_forward_20475936)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "项目：急性高血糖诱导脾脏SND1-AGTR1通路参与急性心肌缺血再灌注损伤的机制研究",
+      "links": [
+        {
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
+        },
+        {
+          "label": "澎湃新闻转国自然通报",
+          "url": "https://www.thepaper.cn/newsDetail_forward_20475936"
+        },
+        {
+          "label": "知网检索：励峰 上海交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8A%B1%E5%B3%B0%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
+        },
+        {
+          "label": "澎湃新闻转国自然通报",
+          "url": "https://www.thepaper.cn/newsDetail_forward_20475936"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：励峰 上海交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8A%B1%E5%B3%B0%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "励峰",
       "credibility": "较强"
     },
     {
-      "id": "e50",
+      "id": "e53",
       "section": "高舆论事件补充表",
       "subsection": "上海交通大学",
       "name": "谢耘耕",
@@ -3841,7 +4021,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e51",
+      "id": "e54",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "邵某 / 邵某峰",
@@ -3890,7 +4070,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e52",
+      "id": "e55",
       "section": "高舆论事件补充表",
       "subsection": "复旦大学",
       "name": "“复旦十八驴” / 侯盼",
@@ -3957,7 +4137,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e53",
+      "id": "e56",
       "section": "高舆论事件补充表",
       "subsection": "复旦大学",
       "name": "姜文华",
@@ -4007,7 +4187,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e54",
+      "id": "e57",
       "section": "高舆论事件补充表",
       "subsection": "南京大学",
       "name": "梁莹",
@@ -4057,7 +4237,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e55",
+      "id": "e58",
       "section": "高舆论事件补充表",
       "subsection": "南京大学",
       "name": "沈阳",
@@ -4098,7 +4278,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e56",
+      "id": "e59",
       "section": "高舆论事件补充表",
       "subsection": "南京大学",
       "name": "王欣",
@@ -4148,7 +4328,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e57",
+      "id": "e60",
       "section": "高舆论事件补充表",
       "subsection": "华中科技大学",
       "name": "张某某",
@@ -4189,7 +4369,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e58",
+      "id": "e61",
       "section": "高舆论事件补充表",
       "subsection": "华中科技大学",
       "name": "肖传国",
@@ -4239,7 +4419,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e59",
+      "id": "e62",
       "section": "高舆论事件补充表",
       "subsection": "华中科技大学",
       "name": "李一男",
@@ -4289,7 +4469,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e60",
+      "id": "e63",
       "section": "高舆论事件补充表",
       "subsection": "西安交通大学",
       "name": "周筠",
@@ -4322,7 +4502,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e61",
+      "id": "e64",
       "section": "高舆论事件补充表",
       "subsection": "西安交通大学",
       "name": "李连生",
@@ -4364,7 +4544,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e62",
+      "id": "e65",
       "section": "第三轮检索增补",
       "subsection": "西安交通大学",
       "name": "王建辉 / 王某某",
@@ -4422,7 +4602,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e63",
+      "id": "e66",
       "section": "高舆论事件补充表",
       "subsection": "西安交通大学",
       "name": "张汉荣",
@@ -4460,7 +4640,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e64",
+      "id": "e67",
       "section": "高舆论事件补充表",
       "subsection": "西安交通大学",
       "name": "强小安",
@@ -4493,7 +4673,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e65",
+      "id": "e68",
       "section": "高舆论事件补充表",
       "subsection": "西安交通大学",
       "name": "张曙光",
@@ -4543,7 +4723,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e66",
+      "id": "e69",
       "section": "第三轮检索增补",
       "subsection": "清华大学",
       "name": "刘辉",
@@ -4594,7 +4774,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e67",
+      "id": "e70",
       "section": "第三轮检索增补",
       "subsection": "清华大学",
       "name": "张生家",
@@ -4652,7 +4832,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e68",
+      "id": "e71",
       "section": "第三轮检索增补",
       "subsection": "清华大学",
       "name": "陈立人",
@@ -4711,7 +4891,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e69",
+      "id": "e72",
       "section": "第三轮检索增补",
       "subsection": "清华大学",
       "name": "陈丹蕾",
@@ -4761,7 +4941,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e70",
+      "id": "e73",
       "section": "第三轮检索增补",
       "subsection": "清华大学",
       "name": "高晓松",
@@ -4815,7 +4995,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e71",
+      "id": "e74",
       "section": "第三轮检索增补",
       "subsection": "北京大学",
       "name": "卢刚",
@@ -4873,7 +5053,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e72",
+      "id": "e75",
       "section": "第三轮检索增补",
       "subsection": "北京大学",
       "name": "李天乐",
@@ -4931,7 +5111,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e73",
+      "id": "e76",
       "section": "第三轮检索增补",
       "subsection": "北京大学",
       "name": "陈春花",
@@ -4986,7 +5166,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e74",
+      "id": "e77",
       "section": "第三轮检索增补",
       "subsection": "北京大学",
       "name": "王登峰",
@@ -5049,7 +5229,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e75",
+      "id": "e78",
       "section": "第三轮检索增补",
       "subsection": "北京大学",
       "name": "付某 / 付睿琦",
@@ -5090,7 +5270,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e76",
+      "id": "e79",
       "section": "第三轮检索增补",
       "subsection": "浙江大学",
       "name": "吴理茂",
@@ -5132,7 +5312,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e77",
+      "id": "e80",
       "section": "第三轮检索增补",
       "subsection": "上海交通大学",
       "name": "陈进",
@@ -5182,7 +5362,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e78",
+      "id": "e81",
       "section": "第三轮检索增补",
       "subsection": "上海交通大学",
       "name": "倪冰冰",
@@ -5237,7 +5417,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e79",
+      "id": "e82",
       "section": "第三轮检索增补",
       "subsection": "上海交通大学",
       "name": "陈欣",
@@ -5292,7 +5472,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e80",
+      "id": "e83",
       "section": "第三轮检索增补",
       "subsection": "复旦大学",
       "name": "郑筱萸",
@@ -5355,7 +5535,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e81",
+      "id": "e84",
       "section": "第三轮检索增补",
       "subsection": "南京大学",
       "name": "闻海虎",
@@ -5413,7 +5593,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e82",
+      "id": "e85",
       "section": "第三轮检索增补",
       "subsection": "南京大学",
       "name": "朱涵",
@@ -5463,7 +5643,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e83",
+      "id": "e86",
       "section": "第三轮检索增补",
       "subsection": "南京大学",
       "name": "施毅等论文作者",
@@ -5501,7 +5681,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e84",
+      "id": "e87",
       "section": "第三轮检索增补",
       "subsection": "南京大学",
       "name": "仇子明 / “辣笔小球”",
@@ -5551,7 +5731,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e85",
+      "id": "e88",
       "section": "第三轮检索增补",
       "subsection": "中国科学技术大学",
       "name": "姚雪彪",
@@ -5606,7 +5786,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e86",
+      "id": "e89",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "张正波",
@@ -5681,7 +5861,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e87",
+      "id": "e90",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "万宏伟",
@@ -5740,7 +5920,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e88",
+      "id": "e91",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "李新元",
@@ -5803,7 +5983,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e89",
+      "id": "e92",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "张坚",
@@ -5866,7 +6046,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e90",
+      "id": "e93",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "李世镕",
@@ -5921,7 +6101,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e91",
+      "id": "e94",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "李爱庆",
@@ -5968,7 +6148,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e92",
+      "id": "e95",
       "section": "第三轮检索增补",
       "subsection": "西安交通大学",
       "name": "周凯旋",
@@ -6018,7 +6198,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e93",
+      "id": "e96",
       "section": "第三轮检索增补",
       "subsection": "西安交通大学",
       "name": "王文学",
@@ -6068,7 +6248,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e94",
+      "id": "e97",
       "section": "第三轮检索增补",
       "subsection": "候选待补强",
       "name": "李兴华",
@@ -6110,7 +6290,7 @@
       "credibility": "候选待补强"
     },
     {
-      "id": "e95",
+      "id": "e98",
       "section": "第三轮检索增补",
       "subsection": "候选待补强",
       "name": "李堂堂",
@@ -6152,7 +6332,7 @@
       "credibility": "候选待补强"
     },
     {
-      "id": "e96",
+      "id": "e99",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "清华外校冲突学生（公开称谓）",
@@ -6193,7 +6373,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e97",
+      "id": "e100",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "夏某某",
@@ -6242,7 +6422,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e98",
+      "id": "e101",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王灿",
@@ -6300,7 +6480,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e99",
+      "id": "e102",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "田某 / 小田",
@@ -6354,7 +6534,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e100",
+      "id": "e103",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "陈某某、葛某、李某",
@@ -6403,7 +6583,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e101",
+      "id": "e104",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "吴宏翔",
@@ -6458,7 +6638,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e102",
+      "id": "e105",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "仇思隽",
@@ -6516,7 +6696,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e103",
+      "id": "e106",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "薛晨",
@@ -6579,7 +6759,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e104",
+      "id": "e107",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "玄一",
@@ -6634,7 +6814,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e105",
+      "id": "e108",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "方某",
@@ -6683,7 +6863,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e106",
+      "id": "e109",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "浙江大学经济学院项目负责教师（媒体报道提及王清风）",
@@ -6732,7 +6912,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e107",
+      "id": "e110",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "何某某",
@@ -6781,7 +6961,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e108",
+      "id": "e111",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王某某（中信建投研学学生）",
@@ -6830,7 +7010,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e109",
+      "id": "e112",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "韩承轩 Chengxuan Han",
@@ -6888,7 +7068,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e110",
+      "id": "e113",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王腾",
@@ -6959,7 +7139,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e111",
+      "id": "e114",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "赵伟国",
@@ -7026,7 +7206,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e112",
+      "id": "e115",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "高材林",
@@ -7089,7 +7269,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e113",
+      "id": "e116",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "马宁宇",
@@ -7152,7 +7332,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e114",
+      "id": "e117",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "杨亚俊",
@@ -7215,7 +7395,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e115",
+      "id": "e118",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "Charles M. Lieber / 查尔斯·利伯",
@@ -7282,7 +7462,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e116",
+      "id": "e119",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "吴勇",
@@ -7349,7 +7529,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e117",
+      "id": "e120",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "清华违规报备入校牟利相关人员（公开称谓）",
@@ -7403,7 +7583,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e118",
+      "id": "e121",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "方红卫",
@@ -7474,7 +7654,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e119",
+      "id": "e122",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "北大软微2024级男硕士（公开称谓）",
@@ -7528,7 +7708,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e120",
+      "id": "e123",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "北京大学违规预约校友（公开称谓）",
@@ -7582,7 +7762,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e121",
+      "id": "e124",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "叶寒冰",
@@ -7645,7 +7825,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e122",
+      "id": "e125",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "曹全民",
@@ -7700,7 +7880,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e123",
+      "id": "e126",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "严同学（公开称谓）",
@@ -7762,7 +7942,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e124",
+      "id": "e127",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "楼某某",
@@ -7816,7 +7996,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e125",
+      "id": "e128",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "诸自强",
@@ -7879,7 +8059,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e126",
+      "id": "e129",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "程某华",
@@ -7920,7 +8100,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e127",
+      "id": "e130",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "徐某（科研经费套取人员）",
@@ -7961,7 +8141,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e128",
+      "id": "e131",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "孟某",
@@ -8010,7 +8190,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e129",
+      "id": "e132",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "黄培坚",
@@ -8068,7 +8248,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e130",
+      "id": "e133",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王鹏",
@@ -8126,7 +8306,7 @@
       "credibility": "候选待补强"
     },
     {
-      "id": "e131",
+      "id": "e134",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "沈健",
@@ -8181,7 +8361,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e132",
+      "id": "e135",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "刘赛连",
@@ -8231,7 +8411,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e133",
+      "id": "e136",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王某某 / “萌心涌动NJU”",
@@ -8289,7 +8469,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e134",
+      "id": "e137",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "徐湖平",
@@ -8352,7 +8532,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e135",
+      "id": "e138",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "张康之",
@@ -8418,7 +8598,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e136",
+      "id": "e139",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "何某某（中国科大推免拟录取对象）",
@@ -8459,7 +8639,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e137",
+      "id": "e140",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "季子越",
@@ -8501,7 +8681,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e138",
+      "id": "e141",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "苏俊",
@@ -8543,7 +8723,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e139",
+      "id": "e142",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "许安",
@@ -8606,7 +8786,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e140",
+      "id": "e143",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "陈晓军 / 范维澄",
@@ -8657,7 +8837,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e141",
+      "id": "e144",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "Qiushi Wu",
@@ -8716,7 +8896,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e142",
+      "id": "e145",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "徐某某",
@@ -8765,7 +8945,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e143",
+      "id": "e146",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "郭某（原西安交大学生）/ 王某",
@@ -8814,7 +8994,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e144",
+      "id": "e147",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "秦某某（西安交大原后勤职工）",
@@ -8847,7 +9027,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e145",
+      "id": "e148",
       "section": "第五轮权威来源增补",
       "subsection": "清华大学",
       "name": "肖明辉",
@@ -8910,7 +9090,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e146",
+      "id": "e149",
       "section": "第五轮权威来源增补",
       "subsection": "北京大学",
       "name": "孟宏伟",
@@ -8977,7 +9157,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e147",
+      "id": "e150",
       "section": "第五轮权威来源增补",
       "subsection": "北京大学",
       "name": "项俊波",
@@ -9040,7 +9220,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e148",
+      "id": "e151",
       "section": "第五轮权威来源增补",
       "subsection": "北京大学",
       "name": "童道驰",
@@ -9107,7 +9287,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e149",
+      "id": "e152",
       "section": "第五轮权威来源增补",
       "subsection": "北京大学",
       "name": "彭波",
@@ -9162,7 +9342,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e150",
+      "id": "e153",
       "section": "第五轮权威来源增补",
       "subsection": "北京大学",
       "name": "奚晓明",
@@ -9229,7 +9409,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e151",
+      "id": "e154",
       "section": "第五轮权威来源增补",
       "subsection": "浙江大学",
       "name": "周江勇",
@@ -9284,7 +9464,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e152",
+      "id": "e155",
       "section": "第五轮权威来源增补",
       "subsection": "浙江大学",
       "name": "卢子跃",
@@ -9339,7 +9519,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e153",
+      "id": "e156",
       "section": "第五轮权威来源增补",
       "subsection": "浙江大学",
       "name": "斯鑫良",
@@ -9389,7 +9569,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e154",
+      "id": "e157",
       "section": "第五轮权威来源增补",
       "subsection": "上海交通大学",
       "name": "孙路一",
@@ -9439,7 +9619,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e155",
+      "id": "e158",
       "section": "第五轮权威来源增补",
       "subsection": "复旦大学",
       "name": "李东生",
@@ -9497,7 +9677,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e156",
+      "id": "e159",
       "section": "第五轮权威来源增补",
       "subsection": "复旦大学",
       "name": "方西屏",
@@ -9552,7 +9732,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e157",
+      "id": "e160",
       "section": "第五轮权威来源增补",
       "subsection": "南京大学",
       "name": "李云峰",
@@ -9611,7 +9791,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e158",
+      "id": "e161",
       "section": "第五轮权威来源增补",
       "subsection": "南京大学",
       "name": "胡建学",
@@ -9661,7 +9841,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e159",
+      "id": "e162",
       "section": "第五轮权威来源增补",
       "subsection": "中国科学技术大学",
       "name": "杨敬农",
@@ -9711,7 +9891,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e160",
+      "id": "e163",
       "section": "第五轮权威来源增补",
       "subsection": "中国科学技术大学",
       "name": "唐兴和",
@@ -9766,7 +9946,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e161",
+      "id": "e164",
       "section": "第五轮权威来源增补",
       "subsection": "华中科技大学",
       "name": "王富玉",
@@ -9821,7 +10001,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e162",
+      "id": "e165",
       "section": "第五轮权威来源增补",
       "subsection": "西安交通大学",
       "name": "刘志奎",
@@ -9871,7 +10051,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e163",
+      "id": "e166",
       "section": "第五轮权威来源增补",
       "subsection": "西安交通大学",
       "name": "刘青光",
@@ -9921,7 +10101,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e164",
+      "id": "e167",
       "section": "第五轮权威来源增补",
       "subsection": "西安交通大学",
       "name": "涂康生",
@@ -9971,7 +10151,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e165",
+      "id": "e168",
       "section": "第五轮权威来源增补",
       "subsection": "西安交通大学",
       "name": "杨楠",
@@ -10021,7 +10201,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e166",
+      "id": "e169",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "清华大学",
       "name": "潘海东",
@@ -10076,7 +10256,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e167",
+      "id": "e170",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "北京大学",
       "name": "冯仁杰",
@@ -10134,7 +10314,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e168",
+      "id": "e171",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "北京大学",
       "name": "邹恒甫",
@@ -10192,7 +10372,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e169",
+      "id": "e172",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "北京大学",
       "name": "孔庆东",
@@ -10250,7 +10430,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e170",
+      "id": "e173",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "北京大学",
       "name": "唐师曾",
@@ -10313,7 +10493,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e171",
+      "id": "e174",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "北京大学",
       "name": "李超",
@@ -10371,7 +10551,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e172",
+      "id": "e175",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "上海交通大学",
       "name": "王永成",
@@ -10418,7 +10598,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e173",
+      "id": "e176",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "复旦大学",
       "name": "周运中 / “东海道子”",
@@ -10468,7 +10648,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e174",
+      "id": "e177",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "中国科学技术大学",
       "name": "方是民 / 方舟子",
@@ -10531,7 +10711,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e175",
+      "id": "e178",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "华中科技大学",
       "name": "廖永德",
@@ -10581,7 +10761,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e176",
+      "id": "e179",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "华中科技大学",
       "name": "吴亢",
@@ -10631,7 +10811,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e177",
+      "id": "e180",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "西安交通大学",
       "name": "周鸿祎",
@@ -10694,7 +10874,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e178",
+      "id": "e181",
       "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
       "subsection": "西安交通大学",
       "name": "蔡元真",
@@ -10742,6 +10922,605 @@
       ],
       "displayName": "蔡元真",
       "credibility": "较强"
+    },
+    {
+      "id": "e182",
+      "section": "第七轮专题增补：基金委通报、教材抄袭、名誉侵权和师德争议",
+      "subsection": "北京大学",
+      "name": "张红宇",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "北京大学深圳医院血液科相关作者；公开论文列其为通讯作者并标注国家自然科学基金82170191",
+      "year": "",
+      "eventName": "张红宇购买国家自然科学基金申请书代写服务事件",
+      "summary": "国家自然科学基金委2026年第1批通报称，北京某高校张红宇在2021年基金项目申请过程中向第三方公司购买申请书代写服务，撤销相关基金项目、追回资金，取消申请和参与申请资格5年并通报批评；公开论文可见Hongyu Zhang/张红宇与Peking University Shenzhen Hospital及项目号82170191关联，学校归属按交叉核验标注。",
+      "impact": "基金申请代写、医学科研诚信和附属医院科研管理成为新近公开案例。",
+      "nature": "科研不端 / 基金申请代写 / 通报批评",
+      "sourcesMarkdown": "[国家自然科学基金委2026年第1批通报](https://www.nsfc.gov.cn/p1/2812/2816/99722.html)；[新浪财经转基金委通报](https://finance.sina.com.cn/jjxw/2026-01-24/doc-inhikria0226114.shtml)；[PMC论文项目号页](https://pmc.ncbi.nlm.nih.gov/articles/PMC10164800/)；[Frontiers论文项目号页](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.997482/full)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "[论文：EBNA2 mediates lipid metabolism and tumorigenesis through activation of ATF4 pathway](https://pmc.ncbi.nlm.nih.gov/articles/PMC10164800/)；[论文：Treatment of aggressive T-cell lymphoma/leukemia with anti-CD4 CAR T cells](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.997482/full)",
+      "links": [
+        {
+          "label": "国家自然科学基金委2026年第1批通报",
+          "url": "https://www.nsfc.gov.cn/p1/2812/2816/99722.html"
+        },
+        {
+          "label": "新浪财经转基金委通报",
+          "url": "https://finance.sina.com.cn/jjxw/2026-01-24/doc-inhikria0226114.shtml"
+        },
+        {
+          "label": "PMC论文项目号页",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10164800/"
+        },
+        {
+          "label": "Frontiers论文项目号页",
+          "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.997482/full"
+        },
+        {
+          "label": "知网检索：张红宇 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%BC%A0%E7%BA%A2%E5%AE%87%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "国家自然科学基金委2026年第1批通报",
+          "url": "https://www.nsfc.gov.cn/p1/2812/2816/99722.html"
+        },
+        {
+          "label": "新浪财经转基金委通报",
+          "url": "https://finance.sina.com.cn/jjxw/2026-01-24/doc-inhikria0226114.shtml"
+        },
+        {
+          "label": "PMC论文项目号页",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10164800/"
+        },
+        {
+          "label": "Frontiers论文项目号页",
+          "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.997482/full"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "论文：EBNA2 mediates lipid metabolism and tumorigenesis through activation of ATF4 pathway",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10164800/"
+        },
+        {
+          "label": "论文：Treatment of aggressive T-cell lymphoma/leukemia with anti-CD4 CAR T cells",
+          "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.997482/full"
+        },
+        {
+          "label": "知网检索：张红宇 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%BC%A0%E7%BA%A2%E5%AE%87%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "张红宇",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e183",
+      "section": "第七轮专题增补：基金委通报、教材抄袭、名誉侵权和师德争议",
+      "subsection": "浙江大学",
+      "name": "潘宏铭",
+      "school": "浙江大学",
+      "schoolRaw": "浙江大学",
+      "identity": "浙江大学肿瘤医学方向科研人员；涉事论文通讯作者、国自然项目负责人",
+      "year": "",
+      "eventName": "潘宏铭论文图片问题及基金材料虚假信息处理决定",
+      "summary": "基金委通报称浙江大学潘宏铭等发表的论文存在图片不当操作和使用混乱问题，潘宏铭作为通讯作者负主要责任，并将论文列入项目申请书和结题报告；相关项目被撤销、追回资金，取消申请资格2年并通报批评。",
+      "impact": "医学论文图片问题、基金项目撤销和结题报告虚假信息受到关注。",
+      "nature": "学术不端 / 基金委处理",
+      "sourcesMarkdown": "[基金委处理决定PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/09/15/207035.pdf)；[新浪财经转述](https://finance.sina.cn/chanjing/gdxw/2022-05-14/detail-imcwipii9770330.d.html)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "论文：p53 suppresses stress-induced cellular senescence via regulation of autophagy under the hypoxia condition；知网待核",
+      "links": [
+        {
+          "label": "基金委处理决定PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/09/15/207035.pdf"
+        },
+        {
+          "label": "新浪财经转述",
+          "url": "https://finance.sina.cn/chanjing/gdxw/2022-05-14/detail-imcwipii9770330.d.html"
+        },
+        {
+          "label": "知网检索：潘宏铭 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%BD%98%E5%AE%8F%E9%93%AD%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "基金委处理决定PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/09/15/207035.pdf"
+        },
+        {
+          "label": "新浪财经转述",
+          "url": "https://finance.sina.cn/chanjing/gdxw/2022-05-14/detail-imcwipii9770330.d.html"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：潘宏铭 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%BD%98%E5%AE%8F%E9%93%AD%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "潘宏铭",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e184",
+      "section": "第七轮专题增补：基金委通报、教材抄袭、名誉侵权和师德争议",
+      "subsection": "浙江大学",
+      "name": "隋新兵",
+      "school": "浙江大学",
+      "schoolRaw": "浙江大学",
+      "identity": "基金委通报称先后就职于浙江大学、杭州师范大学；涉事论文第一作者",
+      "year": "",
+      "eventName": "隋新兵论文图片问题及基金申请书虚假信息处理决定",
+      "summary": "基金委通报称隋新兵等发表的论文存在图片不当操作和使用混乱问题，隋新兵作为第一作者负主要责任，并将论文多次列入基金项目申请书；相关项目被撤销、追回资金，取消申请资格3年并通报批评。",
+      "impact": "医学论文图片问题、项目申请书虚假信息和青年项目资助规范受到关注。",
+      "nature": "学术不端 / 基金委处理",
+      "sourcesMarkdown": "[基金委处理决定PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/09/15/207035.pdf)；[丁香园转述](https://paper.dxy.cn/article/818930)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "论文：p53 suppresses stress-induced cellular senescence via regulation of autophagy under the hypoxia condition；知网待核",
+      "links": [
+        {
+          "label": "基金委处理决定PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/09/15/207035.pdf"
+        },
+        {
+          "label": "丁香园转述",
+          "url": "https://paper.dxy.cn/article/818930"
+        },
+        {
+          "label": "知网检索：隋新兵 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%9A%8B%E6%96%B0%E5%85%B5%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "基金委处理决定PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/09/15/207035.pdf"
+        },
+        {
+          "label": "丁香园转述",
+          "url": "https://paper.dxy.cn/article/818930"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：隋新兵 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%9A%8B%E6%96%B0%E5%85%B5%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "隋新兵",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e185",
+      "section": "第七轮专题增补：基金委通报、教材抄袭、名誉侵权和师德争议",
+      "subsection": "浙江大学",
+      "name": "李连达",
+      "school": "浙江大学",
+      "schoolRaw": "浙江大学",
+      "identity": "曾任浙江大学药学院院长；中国工程院院士",
+      "year": "",
+      "eventName": "天士力诉李连达名誉权纠纷终审败诉",
+      "summary": "媒体报道显示，天士力制药集团诉李连达名誉权案二审维持侵权认定，判令停止发表不实评论、登报道歉并赔偿经济损失30万元；浙江大学身份由药学院聘任信息和相关报道交叉核验。",
+      "impact": "院士公开评价、药品争议、专家言论与企业名誉权边界引发讨论。",
+      "nature": "名誉侵权 / 法院判决报道",
+      "sourcesMarkdown": "[香港商报网](https://hkcd.com/content_p/2014-09/16/content_15303.html)；[浙江大学聘任信息](https://www.zju.edu.cn/2005/0113/c32861a1513907/pagem.htm)；[科学网身份背景](https://paper.sciencenet.cn/htmlnews/2009/3/217356.html)",
+      "photoMarkdown": "[科学网纪念报道](https://news.sciencenet.cn/htmlnews/2018/1/400698.shtm)",
+      "paperMarkdown": "知网待核；检索词：李连达 天士力 名誉权 复方丹参滴丸",
+      "links": [
+        {
+          "label": "香港商报网",
+          "url": "https://hkcd.com/content_p/2014-09/16/content_15303.html"
+        },
+        {
+          "label": "浙江大学聘任信息",
+          "url": "https://www.zju.edu.cn/2005/0113/c32861a1513907/pagem.htm"
+        },
+        {
+          "label": "科学网身份背景",
+          "url": "https://paper.sciencenet.cn/htmlnews/2009/3/217356.html"
+        },
+        {
+          "label": "科学网纪念报道",
+          "url": "https://news.sciencenet.cn/htmlnews/2018/1/400698.shtm"
+        },
+        {
+          "label": "知网检索：李连达 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E8%BF%9E%E8%BE%BE%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "香港商报网",
+          "url": "https://hkcd.com/content_p/2014-09/16/content_15303.html"
+        },
+        {
+          "label": "浙江大学聘任信息",
+          "url": "https://www.zju.edu.cn/2005/0113/c32861a1513907/pagem.htm"
+        },
+        {
+          "label": "科学网身份背景",
+          "url": "https://paper.sciencenet.cn/htmlnews/2009/3/217356.html"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "科学网纪念报道",
+          "url": "https://news.sciencenet.cn/htmlnews/2018/1/400698.shtm"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：李连达 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E8%BF%9E%E8%BE%BE%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "李连达",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e186",
+      "section": "第七轮专题增补：基金委通报、教材抄袭、名誉侵权和师德争议",
+      "subsection": "复旦大学",
+      "name": "陆效用",
+      "school": "复旦大学",
+      "schoolRaw": "复旦大学",
+      "identity": "复旦大学外文学院教授；《研究生英语论文及应用文写作》主编",
+      "year": "",
+      "eventName": "复旦外文学院教材严重抄袭事件",
+      "summary": "复旦大学通报三起学术违规事件时称，外文学院陆姓教授主编教材严重抄袭国外出版物；公开图书信息显示《研究生英语论文及应用文写作》主编为陆效用，处理建议包括撤销教材并处理相关课题经费。",
+      "impact": "高校教材抄袭、教师续聘处理和课题经费责任引发媒体关注。",
+      "nature": "学术不端 / 教材抄袭",
+      "sourcesMarkdown": "[央视网](https://news.cctv.com/china/20071224/107315.shtml)；[新浪实名线索](https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap)；[当当图书作者信息](https://e.dangdang.com/touch/products/1900289512.html)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "教材：《研究生英语论文及应用文写作》；知网待核",
+      "links": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/china/20071224/107315.shtml"
+        },
+        {
+          "label": "新浪实名线索",
+          "url": "https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap"
+        },
+        {
+          "label": "当当图书作者信息",
+          "url": "https://e.dangdang.com/touch/products/1900289512.html"
+        },
+        {
+          "label": "知网检索：陆效用 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%99%86%E6%95%88%E7%94%A8%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/china/20071224/107315.shtml"
+        },
+        {
+          "label": "新浪实名线索",
+          "url": "https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap"
+        },
+        {
+          "label": "当当图书作者信息",
+          "url": "https://e.dangdang.com/touch/products/1900289512.html"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：陆效用 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%99%86%E6%95%88%E7%94%A8%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "陆效用",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e187",
+      "section": "第七轮专题增补：基金委通报、教材抄袭、名誉侵权和师德争议",
+      "subsection": "复旦大学",
+      "name": "叶炜",
+      "school": "复旦大学",
+      "schoolRaw": "复旦大学",
+      "identity": "复旦大学信息学院博士研究生",
+      "year": "",
+      "eventName": "复旦信息学院论文抄袭及一稿两投事件",
+      "summary": "复旦通报称信息学院叶某、顾姓教授两篇论文涉嫌抄袭，经查两篇论文实质为同一内容且部分内容涉嫌抄袭；媒体实名报道为叶炜、顾宁，处理建议包括开除叶炜研究生学籍。",
+      "impact": "博士生论文抄袭、一稿两投和研究生学籍处分引发讨论。",
+      "nature": "学术不端 / 论文抄袭 / 一稿两投",
+      "sourcesMarkdown": "[央视网](https://news.cctv.com/china/20071225/100012.shtml)；[新浪实名报道](https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap)；[万方论文页线索](https://sns.wanfangdata.com.cn/perio/txxb/?tabId=column&ztext=%E6%96%B0%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84%E5%8D%8F%E5%90%8C%E5%B7%A5%E4%BD%9C)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "论文：《在数据网格环境中可靠获取分布式数据的方法》；知网待核",
+      "links": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/china/20071225/100012.shtml"
+        },
+        {
+          "label": "新浪实名报道",
+          "url": "https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap"
+        },
+        {
+          "label": "万方论文页线索",
+          "url": "https://sns.wanfangdata.com.cn/perio/txxb/?tabId=column&ztext=%E6%96%B0%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84%E5%8D%8F%E5%90%8C%E5%B7%A5%E4%BD%9C"
+        },
+        {
+          "label": "知网检索：叶炜 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8F%B6%E7%82%9C%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/china/20071225/100012.shtml"
+        },
+        {
+          "label": "新浪实名报道",
+          "url": "https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap"
+        },
+        {
+          "label": "万方论文页线索",
+          "url": "https://sns.wanfangdata.com.cn/perio/txxb/?tabId=column&ztext=%E6%96%B0%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84%E5%8D%8F%E5%90%8C%E5%B7%A5%E4%BD%9C"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：叶炜 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8F%B6%E7%82%9C%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "叶炜",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e188",
+      "section": "第七轮专题增补：基金委通报、教材抄袭、名誉侵权和师德争议",
+      "subsection": "复旦大学",
+      "name": "顾宁",
+      "school": "复旦大学",
+      "schoolRaw": "复旦大学",
+      "identity": "复旦大学信息学院教授；媒体称曾任信息学院副院长",
+      "year": "",
+      "eventName": "复旦信息学院论文抄袭导师追责事件",
+      "summary": "复旦通报同一组信息学院论文违规事件；财经报道实名指出顾宁教授被建议暂停两年招收研究生资格，并建议同意其辞去信息学院副院长职务。",
+      "impact": "导师共同作者责任、暂停招生和学院行政职务处理受到关注。",
+      "nature": "学术不端追责 / 导师责任",
+      "sourcesMarkdown": "[央视网](https://news.cctv.com/china/20071225/100012.shtml)；[新浪实名报道](https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap)；[财经转载](https://xysblogs.org/fangzhouzi/archives/1451)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "论文：《在数据网格环境中可靠获取分布式数据的方法》；知网待核",
+      "links": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/china/20071225/100012.shtml"
+        },
+        {
+          "label": "新浪实名报道",
+          "url": "https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap"
+        },
+        {
+          "label": "财经转载",
+          "url": "https://xysblogs.org/fangzhouzi/archives/1451"
+        },
+        {
+          "label": "知网检索：顾宁 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%A1%BE%E5%AE%81%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/china/20071225/100012.shtml"
+        },
+        {
+          "label": "新浪实名报道",
+          "url": "https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap"
+        },
+        {
+          "label": "财经转载",
+          "url": "https://xysblogs.org/fangzhouzi/archives/1451"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：顾宁 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%A1%BE%E5%AE%81%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "顾宁",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e189",
+      "section": "第七轮专题增补：基金委通报、教材抄袭、名誉侵权和师德争议",
+      "subsection": "复旦大学",
+      "name": "迟放鲁",
+      "school": "复旦大学",
+      "schoolRaw": "复旦大学",
+      "identity": "复旦大学附属眼耳鼻喉科医院教授；博士后指导教师",
+      "year": "",
+      "eventName": "复旦五官科医院论文造假、剽窃处理事件",
+      "summary": "复旦三起学术违规通报涉及五官科医院论文造假、剽窃；财经报道实名指出迟放鲁教授被停止招收博士后两年，并在一定范围内通报批评、作出检讨。",
+      "impact": "附属医院科研诚信、博士后指导教师责任和论文剽窃处理形成关注。",
+      "nature": "学术不端追责 / 论文造假剽窃",
+      "sourcesMarkdown": "[央视网](https://news.cctv.com/china/20071224/107315.shtml)；[搜狐报道](https://news.sohu.com/20080102/n254422296.shtml)；[财经转载](https://xysblogs.org/fangzhouzi/archives/1451)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "知网待核；检索词：迟放鲁 复旦 五官科 造假 剽窃",
+      "links": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/china/20071224/107315.shtml"
+        },
+        {
+          "label": "搜狐报道",
+          "url": "https://news.sohu.com/20080102/n254422296.shtml"
+        },
+        {
+          "label": "财经转载",
+          "url": "https://xysblogs.org/fangzhouzi/archives/1451"
+        },
+        {
+          "label": "知网检索：迟放鲁 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E8%BF%9F%E6%94%BE%E9%B2%81%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/china/20071224/107315.shtml"
+        },
+        {
+          "label": "搜狐报道",
+          "url": "https://news.sohu.com/20080102/n254422296.shtml"
+        },
+        {
+          "label": "财经转载",
+          "url": "https://xysblogs.org/fangzhouzi/archives/1451"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：迟放鲁 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E8%BF%9F%E6%94%BE%E9%B2%81%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "迟放鲁",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e190",
+      "section": "第七轮专题增补：基金委通报、教材抄袭、名誉侵权和师德争议",
+      "subsection": "西安交通大学",
+      "name": "单涛",
+      "school": "西安交通大学",
+      "schoolRaw": "西安交通大学",
+      "identity": "西安交通大学；涉事论文通讯作者、基金项目负责人",
+      "year": "",
+      "eventName": "单涛论文伪造篡改研究数据及基金项目撤销事件",
+      "summary": "基金委通报称西安交通大学单涛等发表的论文存在伪造、篡改研究数据问题，通讯作者单涛负主要责任；相关基金项目被撤销、追回资金，申请和参与申请资格被取消3年并通报批评。",
+      "impact": "医学论文数据造假、国自然项目撤销和高校科研诚信管理受到关注。",
+      "nature": "学术不端 / 基金委通报",
+      "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "论文：Conversion of epithelial-to-mesenchymal transition to mesenchymal-to-epithelial transition is mediated by oxygen concentration in pancreatic cancer cells",
+      "links": [
+        {
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
+        },
+        {
+          "label": "知网检索：单涛 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8D%95%E6%B6%9B%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：单涛 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8D%95%E6%B6%9B%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "单涛",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e191",
+      "section": "第七轮专题增补：基金委通报、教材抄袭、名誉侵权和师德争议",
+      "subsection": "西安交通大学",
+      "name": "张国锋",
+      "school": "西安交通大学",
+      "schoolRaw": "西安交通大学",
+      "identity": "西安交通大学；2022年国家自然科学基金申请人",
+      "year": "",
+      "eventName": "张国锋国家自然科学基金项目申请书抄袭剽窃事件",
+      "summary": "基金委通报称西安交通大学张国锋使用他人申请书内容申报基金项目，存在抄袭剽窃他人项目申请书内容问题，撤销申请，取消申请和参与申请资格3年并通报批评。",
+      "impact": "基金申请书抄袭剽窃和项目申请诚信治理受到关注。",
+      "nature": "学术不端 / 基金委通报",
+      "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "项目：人参皂甙Rd通过降低多聚ADP-核糖水平护脑缺血损伤的实验研究",
+      "links": [
+        {
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
+        },
+        {
+          "label": "知网检索：张国锋 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%BC%A0%E5%9B%BD%E9%94%8B%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：张国锋 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%BC%A0%E5%9B%BD%E9%94%8B%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "张国锋",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e192",
+      "section": "第七轮专题增补：基金委通报、教材抄袭、名誉侵权和师德争议",
+      "subsection": "西安交通大学",
+      "name": "李晓燕",
+      "school": "西安交通大学",
+      "schoolRaw": "西安交通大学",
+      "identity": "西安交通大学；2022年国家自然科学基金申请人",
+      "year": "",
+      "eventName": "李晓燕国家自然科学基金项目申请书抄袭事件",
+      "summary": "基金委通报称西安交通大学李晓燕使用他人申请书内容申报基金项目，存在抄袭他人项目申请书内容问题，撤销申请，取消申请和参与申请资格3年并通报批评。",
+      "impact": "医学基金申请材料抄袭和科研诚信承诺问题受到关注。",
+      "nature": "学术不端 / 基金委通报",
+      "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "项目：雌激素信号调控分子PITX1靶向TGF-beta1信号调节类风湿关节炎成纤维样滑膜细胞生物学活性的机制研究",
+      "links": [
+        {
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
+        },
+        {
+          "label": "知网检索：李晓燕 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E6%99%93%E7%87%95%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "基金委通报PDF转存",
+          "url": "https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：李晓燕 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E6%99%93%E7%87%95%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "李晓燕",
+      "credibility": "需核验"
     }
   ]
 }
