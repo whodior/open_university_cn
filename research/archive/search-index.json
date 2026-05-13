@@ -8,10 +8,31 @@
   },
   {
     "engine": "baidu",
+    "query": "蔡元真 西安交通大学 基金申请书 抄袭 剽窃",
+    "file": "baidu_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+    "path": "../archive/searches/baidu_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+    "sizeBytes": 394
+  },
+  {
+    "engine": "baidu",
     "query": "方红卫 清华大学 汽车工程系 严重违纪违法",
     "file": "baidu_方红卫_清华大学_汽车工程系_严重违纪违法.html",
     "path": "../archive/searches/baidu_方红卫_清华大学_汽车工程系_严重违纪违法.html",
     "sizeBytes": 1491
+  },
+  {
+    "engine": "baidu",
+    "query": "方舟子 崔永元 名誉权 北京大学 中国科学技术大学",
+    "file": "baidu_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+    "path": "../archive/searches/baidu_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+    "sizeBytes": 430
+  },
+  {
+    "engine": "baidu",
+    "query": "冯仁杰 北京大学 师德失范 撤销教师资格",
+    "file": "baidu_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+    "path": "../archive/searches/baidu_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+    "sizeBytes": 379
   },
   {
     "engine": "baidu",
@@ -22,10 +43,45 @@
   },
   {
     "engine": "baidu",
+    "query": "孔庆东 关凯元 名誉权 判决 北京大学",
+    "file": "baidu_孔庆东_关凯元_名誉权_判决_北京大学.html",
+    "path": "../archive/searches/baidu_孔庆东_关凯元_名誉权_判决_北京大学.html",
+    "sizeBytes": 359
+  },
+  {
+    "engine": "baidu",
+    "query": "李超 北京大学 基金 申请书 抄袭 通报",
+    "file": "baidu_李超_北京大学_基金_申请书_抄袭_通报.html",
+    "path": "../archive/searches/baidu_李超_北京大学_基金_申请书_抄袭_通报.html",
+    "sizeBytes": 363
+  },
+  {
+    "engine": "baidu",
     "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
     "file": "baidu_李堂堂_西安交通大学_EMBA_双开_受贿.html",
     "path": "../archive/searches/baidu_李堂堂_西安交通大学_EMBA_双开_受贿.html",
     "sizeBytes": 1491
+  },
+  {
+    "engine": "baidu",
+    "query": "廖永德 华中科技大学 基金评审 请托 通报",
+    "file": "baidu_廖永德_华中科技大学_基金评审_请托_通报.html",
+    "path": "../archive/searches/baidu_廖永德_华中科技大学_基金评审_请托_通报.html",
+    "sizeBytes": 382
+  },
+  {
+    "engine": "baidu",
+    "query": "卢子跃 浙江大学 EMBA 受贿 无期",
+    "file": "baidu_卢子跃_浙江大学_EMBA_受贿_无期.html",
+    "path": "../archive/searches/baidu_卢子跃_浙江大学_EMBA_受贿_无期.html",
+    "sizeBytes": 114
+  },
+  {
+    "engine": "baidu",
+    "query": "孟宏伟 北京大学 法律系 受贿 判决",
+    "file": "baidu_孟宏伟_北京大学_法律系_受贿_判决.html",
+    "path": "../archive/searches/baidu_孟宏伟_北京大学_法律系_受贿_判决.html",
+    "sizeBytes": 115
   },
   {
     "engine": "baidu",
@@ -40,6 +96,20 @@
     "file": "baidu_南京大学_徐某某_虐猫_复试_通报.html",
     "path": "../archive/searches/baidu_南京大学_徐某某_虐猫_复试_通报.html",
     "sizeBytes": 948084
+  },
+  {
+    "engine": "baidu",
+    "query": "潘海东 清华大学 名誉权 百度 判决",
+    "file": "baidu_潘海东_清华大学_名誉权_百度_判决.html",
+    "path": "../archive/searches/baidu_潘海东_清华大学_名誉权_百度_判决.html",
+    "sizeBytes": 347
+  },
+  {
+    "engine": "baidu",
+    "query": "彭波 北京大学 经济学博士 受贿 判决",
+    "file": "baidu_彭波_北京大学_经济学博士_受贿_判决.html",
+    "path": "../archive/searches/baidu_彭波_北京大学_经济学博士_受贿_判决.html",
+    "sizeBytes": 115
   },
   {
     "engine": "baidu",
@@ -78,10 +148,59 @@
   },
   {
     "engine": "baidu",
+    "query": "斯鑫良 浙江农业大学 畜牧兽医 受贿 判决",
+    "file": "baidu_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+    "path": "../archive/searches/baidu_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+    "sizeBytes": 114
+  },
+  {
+    "engine": "baidu",
+    "query": "孙路一 上海交通大学 社会科学系 受贿 判决",
+    "file": "baidu_孙路一_上海交通大学_社会科学系_受贿_判决.html",
+    "path": "../archive/searches/baidu_孙路一_上海交通大学_社会科学系_受贿_判决.html",
+    "sizeBytes": 114
+  },
+  {
+    "engine": "baidu",
+    "query": "唐师曾 王湘宁 名誉权 终审 北京大学",
+    "file": "baidu_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+    "path": "../archive/searches/baidu_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+    "sizeBytes": 359
+  },
+  {
+    "engine": "baidu",
+    "query": "童道驰 北京大学 国民经济管理 受贿 内幕交易 死缓",
+    "file": "baidu_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+    "path": "../archive/searches/baidu_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+    "sizeBytes": 115
+  },
+  {
+    "engine": "baidu",
+    "query": "童道驰 北京大学 经济管理系 受贿 内幕交易 死缓",
+    "file": "baidu_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+    "path": "../archive/searches/baidu_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+    "sizeBytes": 115
+  },
+  {
+    "engine": "baidu",
     "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
     "file": "baidu_王腾_小米_泄密_辞退_华中科技大学_校友.html",
     "path": "../archive/searches/baidu_王腾_小米_泄密_辞退_华中科技大学_校友.html",
     "sizeBytes": 930337
+  },
+  {
+    "engine": "baidu",
+    "query": "王永成 上海交通大学 9名博士 更换导师",
+    "file": "baidu_王永成_上海交通大学_9名博士_更换导师.html",
+    "path": "../archive/searches/baidu_王永成_上海交通大学_9名博士_更换导师.html",
+    "sizeBytes": 369
+  },
+  {
+    "engine": "baidu",
+    "query": "吴亢 华中科技大学 基金申请书 抄袭 通报",
+    "file": "baidu_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+    "path": "../archive/searches/baidu_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+    "sizeBytes": 382
   },
   {
     "engine": "baidu",
@@ -96,6 +215,34 @@
     "file": "baidu_西安交通大学_许宗衡_受贿.html",
     "path": "../archive/searches/baidu_西安交通大学_许宗衡_受贿.html",
     "sizeBytes": 909056
+  },
+  {
+    "engine": "baidu",
+    "query": "奚晓明 北京大学 经济法学 博士 受贿 无期",
+    "file": "baidu_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+    "path": "../archive/searches/baidu_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+    "sizeBytes": 115
+  },
+  {
+    "engine": "baidu",
+    "query": "项俊波 北京大学 博士 受贿 判决",
+    "file": "baidu_项俊波_北京大学_博士_受贿_判决.html",
+    "path": "../archive/searches/baidu_项俊波_北京大学_博士_受贿_判决.html",
+    "sizeBytes": 115
+  },
+  {
+    "engine": "baidu",
+    "query": "项俊波 北京大学 法学博士 受贿 判决",
+    "file": "baidu_项俊波_北京大学_法学博士_受贿_判决.html",
+    "path": "../archive/searches/baidu_项俊波_北京大学_法学博士_受贿_判决.html",
+    "sizeBytes": 115
+  },
+  {
+    "engine": "baidu",
+    "query": "肖明辉 清华大学 土木系 硕士 受贿 无期",
+    "file": "baidu_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+    "path": "../archive/searches/baidu_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+    "sizeBytes": 1491
   },
   {
     "engine": "baidu",
@@ -147,6 +294,34 @@
     "sizeBytes": 1488
   },
   {
+    "engine": "baidu",
+    "query": "周鸿祎 金山 名誉权 微博 第一案 西安交通大学",
+    "file": "baidu_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+    "path": "../archive/searches/baidu_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+    "sizeBytes": 410
+  },
+  {
+    "engine": "baidu",
+    "query": "周江勇 浙江大学 工商管理硕士 受贿 死缓",
+    "file": "baidu_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+    "path": "../archive/searches/baidu_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+    "sizeBytes": 115
+  },
+  {
+    "engine": "baidu",
+    "query": "周运中 东海道子 复旦大学 错误言论 解聘",
+    "file": "baidu_周运中_东海道子_复旦大学_错误言论_解聘.html",
+    "path": "../archive/searches/baidu_周运中_东海道子_复旦大学_错误言论_解聘.html",
+    "sizeBytes": 382
+  },
+  {
+    "engine": "baidu",
+    "query": "邹恒甫 北京大学 名誉权 诽谤 判决",
+    "file": "baidu_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+    "path": "../archive/searches/baidu_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+    "sizeBytes": 347
+  },
+  {
     "engine": "bing",
     "query": "北大 卢刚 爱荷华 枪击案",
     "file": "bing_北大_卢刚_爱荷华_枪击案.html",
@@ -162,10 +337,31 @@
   },
   {
     "engine": "bing",
+    "query": "蔡元真 西安交通大学 基金申请书 抄袭 剽窃",
+    "file": "bing_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+    "path": "../archive/searches/bing_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+    "sizeBytes": 117179
+  },
+  {
+    "engine": "bing",
     "query": "方红卫 清华大学 汽车工程系 严重违纪违法",
     "file": "bing_方红卫_清华大学_汽车工程系_严重违纪违法.html",
     "path": "../archive/searches/bing_方红卫_清华大学_汽车工程系_严重违纪违法.html",
     "sizeBytes": 102962
+  },
+  {
+    "engine": "bing",
+    "query": "方舟子 崔永元 名誉权 北京大学 中国科学技术大学",
+    "file": "bing_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+    "path": "../archive/searches/bing_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+    "sizeBytes": 119176
+  },
+  {
+    "engine": "bing",
+    "query": "冯仁杰 北京大学 师德失范 撤销教师资格",
+    "file": "bing_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+    "path": "../archive/searches/bing_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+    "sizeBytes": 118267
   },
   {
     "engine": "bing",
@@ -197,10 +393,45 @@
   },
   {
     "engine": "bing",
+    "query": "孔庆东 关凯元 名誉权 判决 北京大学",
+    "file": "bing_孔庆东_关凯元_名誉权_判决_北京大学.html",
+    "path": "../archive/searches/bing_孔庆东_关凯元_名誉权_判决_北京大学.html",
+    "sizeBytes": 119195
+  },
+  {
+    "engine": "bing",
+    "query": "李超 北京大学 基金 申请书 抄袭 通报",
+    "file": "bing_李超_北京大学_基金_申请书_抄袭_通报.html",
+    "path": "../archive/searches/bing_李超_北京大学_基金_申请书_抄袭_通报.html",
+    "sizeBytes": 117234
+  },
+  {
+    "engine": "bing",
     "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
     "file": "bing_李堂堂_西安交通大学_EMBA_双开_受贿.html",
     "path": "../archive/searches/bing_李堂堂_西安交通大学_EMBA_双开_受贿.html",
     "sizeBytes": 101056
+  },
+  {
+    "engine": "bing",
+    "query": "廖永德 华中科技大学 基金评审 请托 通报",
+    "file": "bing_廖永德_华中科技大学_基金评审_请托_通报.html",
+    "path": "../archive/searches/bing_廖永德_华中科技大学_基金评审_请托_通报.html",
+    "sizeBytes": 118682
+  },
+  {
+    "engine": "bing",
+    "query": "卢子跃 浙江大学 EMBA 受贿 无期",
+    "file": "bing_卢子跃_浙江大学_EMBA_受贿_无期.html",
+    "path": "../archive/searches/bing_卢子跃_浙江大学_EMBA_受贿_无期.html",
+    "sizeBytes": 68608
+  },
+  {
+    "engine": "bing",
+    "query": "孟宏伟 北京大学 法律系 受贿 判决",
+    "file": "bing_孟宏伟_北京大学_法律系_受贿_判决.html",
+    "path": "../archive/searches/bing_孟宏伟_北京大学_法律系_受贿_判决.html",
+    "sizeBytes": 69874
   },
   {
     "engine": "bing",
@@ -215,6 +446,27 @@
     "file": "bing_南京大学_施工方_偷窃_学生物品_通报.html",
     "path": "../archive/searches/bing_南京大学_施工方_偷窃_学生物品_通报.html",
     "sizeBytes": 72040
+  },
+  {
+    "engine": "bing",
+    "query": "潘海东 清华大学 名誉权 百度 判决",
+    "file": "bing_潘海东_清华大学_名誉权_百度_判决.html",
+    "path": "../archive/searches/bing_潘海东_清华大学_名誉权_百度_判决.html",
+    "sizeBytes": 119133
+  },
+  {
+    "engine": "bing",
+    "query": "彭波 北京大学 经济学博士 受贿 判决",
+    "file": "bing_彭波_北京大学_经济学博士_受贿_判决.html",
+    "path": "../archive/searches/bing_彭波_北京大学_经济学博士_受贿_判决.html",
+    "sizeBytes": 69554
+  },
+  {
+    "engine": "bing",
+    "query": "彭波 北京大学 中文系 受贿 判决",
+    "file": "bing_彭波_北京大学_中文系_受贿_判决.html",
+    "path": "../archive/searches/bing_彭波_北京大学_中文系_受贿_判决.html",
+    "sizeBytes": 69419
   },
   {
     "engine": "bing",
@@ -267,6 +519,41 @@
   },
   {
     "engine": "bing",
+    "query": "斯鑫良 浙江农业大学 畜牧兽医 受贿 判决",
+    "file": "bing_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+    "path": "../archive/searches/bing_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+    "sizeBytes": 69378
+  },
+  {
+    "engine": "bing",
+    "query": "孙路一 上海交通大学 社会科学系 受贿 判决",
+    "file": "bing_孙路一_上海交通大学_社会科学系_受贿_判决.html",
+    "path": "../archive/searches/bing_孙路一_上海交通大学_社会科学系_受贿_判决.html",
+    "sizeBytes": 70618
+  },
+  {
+    "engine": "bing",
+    "query": "唐师曾 王湘宁 名誉权 终审 北京大学",
+    "file": "bing_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+    "path": "../archive/searches/bing_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+    "sizeBytes": 118697
+  },
+  {
+    "engine": "bing",
+    "query": "童道驰 北京大学 国民经济管理 受贿 内幕交易 死缓",
+    "file": "bing_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+    "path": "../archive/searches/bing_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+    "sizeBytes": 69130
+  },
+  {
+    "engine": "bing",
+    "query": "童道驰 北京大学 经济管理系 受贿 内幕交易 死缓",
+    "file": "bing_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+    "path": "../archive/searches/bing_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+    "sizeBytes": 69075
+  },
+  {
+    "engine": "bing",
     "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
     "file": "bing_王腾_小米_泄密_辞退_华中科技大学_校友.html",
     "path": "../archive/searches/bing_王腾_小米_泄密_辞退_华中科技大学_校友.html",
@@ -274,10 +561,52 @@
   },
   {
     "engine": "bing",
+    "query": "王永成 上海交通大学 9名博士 更换导师",
+    "file": "bing_王永成_上海交通大学_9名博士_更换导师.html",
+    "path": "../archive/searches/bing_王永成_上海交通大学_9名博士_更换导师.html",
+    "sizeBytes": 119172
+  },
+  {
+    "engine": "bing",
+    "query": "吴亢 华中科技大学 基金申请书 抄袭 通报",
+    "file": "bing_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+    "path": "../archive/searches/bing_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+    "sizeBytes": 118326
+  },
+  {
+    "engine": "bing",
     "query": "西安交通大学 秦某某 后勤职工 违纪违法 法院",
     "file": "bing_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
     "path": "../archive/searches/bing_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
     "sizeBytes": 102632
+  },
+  {
+    "engine": "bing",
+    "query": "奚晓明 北京大学 经济法学 博士 受贿 无期",
+    "file": "bing_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+    "path": "../archive/searches/bing_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+    "sizeBytes": 69765
+  },
+  {
+    "engine": "bing",
+    "query": "项俊波 北京大学 博士 受贿 判决",
+    "file": "bing_项俊波_北京大学_博士_受贿_判决.html",
+    "path": "../archive/searches/bing_项俊波_北京大学_博士_受贿_判决.html",
+    "sizeBytes": 210319
+  },
+  {
+    "engine": "bing",
+    "query": "项俊波 北京大学 法学博士 受贿 判决",
+    "file": "bing_项俊波_北京大学_法学博士_受贿_判决.html",
+    "path": "../archive/searches/bing_项俊波_北京大学_法学博士_受贿_判决.html",
+    "sizeBytes": 69786
+  },
+  {
+    "engine": "bing",
+    "query": "肖明辉 清华大学 土木系 硕士 受贿 无期",
+    "file": "bing_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+    "path": "../archive/searches/bing_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+    "sizeBytes": 206192
   },
   {
     "engine": "bing",
@@ -308,11 +637,46 @@
     "sizeBytes": 95781
   },
   {
+    "engine": "bing",
+    "query": "周鸿祎 金山 名誉权 微博 第一案 西安交通大学",
+    "file": "bing_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+    "path": "../archive/searches/bing_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+    "sizeBytes": 120882
+  },
+  {
+    "engine": "bing",
+    "query": "周江勇 浙江大学 工商管理硕士 受贿 死缓",
+    "file": "bing_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+    "path": "../archive/searches/bing_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+    "sizeBytes": 70515
+  },
+  {
+    "engine": "bing",
+    "query": "周运中 东海道子 复旦大学 错误言论 解聘",
+    "file": "bing_周运中_东海道子_复旦大学_错误言论_解聘.html",
+    "path": "../archive/searches/bing_周运中_东海道子_复旦大学_错误言论_解聘.html",
+    "sizeBytes": 118990
+  },
+  {
+    "engine": "bing",
+    "query": "邹恒甫 北京大学 名誉权 诽谤 判决",
+    "file": "bing_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+    "path": "../archive/searches/bing_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+    "sizeBytes": 117888
+  },
+  {
     "engine": "sogou",
     "query": "北京大学 软微 男硕士 女厕 偷拍 行政拘留",
     "file": "sogou_北京大学_软微_男硕士_女厕_偷拍_行政拘留.html",
     "path": "../archive/searches/sogou_北京大学_软微_男硕士_女厕_偷拍_行政拘留.html",
     "sizeBytes": 507516
+  },
+  {
+    "engine": "sogou",
+    "query": "蔡元真 西安交通大学 基金申请书 抄袭 剽窃",
+    "file": "sogou_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+    "path": "../archive/searches/sogou_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+    "sizeBytes": 399
   },
   {
     "engine": "sogou",
@@ -323,6 +687,20 @@
   },
   {
     "engine": "sogou",
+    "query": "方舟子 崔永元 名誉权 北京大学 中国科学技术大学",
+    "file": "sogou_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+    "path": "../archive/searches/sogou_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+    "sizeBytes": 409
+  },
+  {
+    "engine": "sogou",
+    "query": "冯仁杰 北京大学 师德失范 撤销教师资格",
+    "file": "sogou_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+    "path": "../archive/searches/sogou_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+    "sizeBytes": 357
+  },
+  {
+    "engine": "sogou",
     "query": "复旦 王灿 学术不端 通报",
     "file": "sogou_复旦_王灿_学术不端_通报.html",
     "path": "../archive/searches/sogou_复旦_王灿_学术不端_通报.html",
@@ -330,10 +708,45 @@
   },
   {
     "engine": "sogou",
+    "query": "孔庆东 关凯元 名誉权 判决 北京大学",
+    "file": "sogou_孔庆东_关凯元_名誉权_判决_北京大学.html",
+    "path": "../archive/searches/sogou_孔庆东_关凯元_名誉权_判决_北京大学.html",
+    "sizeBytes": 337
+  },
+  {
+    "engine": "sogou",
+    "query": "李超 北京大学 基金 申请书 抄袭 通报",
+    "file": "sogou_李超_北京大学_基金_申请书_抄袭_通报.html",
+    "path": "../archive/searches/sogou_李超_北京大学_基金_申请书_抄袭_通报.html",
+    "sizeBytes": 368
+  },
+  {
+    "engine": "sogou",
     "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
     "file": "sogou_李堂堂_西安交通大学_EMBA_双开_受贿.html",
     "path": "../archive/searches/sogou_李堂堂_西安交通大学_EMBA_双开_受贿.html",
     "sizeBytes": 468110
+  },
+  {
+    "engine": "sogou",
+    "query": "廖永德 华中科技大学 基金评审 请托 通报",
+    "file": "sogou_廖永德_华中科技大学_基金评审_请托_通报.html",
+    "path": "../archive/searches/sogou_廖永德_华中科技大学_基金评审_请托_通报.html",
+    "sizeBytes": 361
+  },
+  {
+    "engine": "sogou",
+    "query": "卢子跃 浙江大学 EMBA 受贿 无期",
+    "file": "sogou_卢子跃_浙江大学_EMBA_受贿_无期.html",
+    "path": "../archive/searches/sogou_卢子跃_浙江大学_EMBA_受贿_无期.html",
+    "sizeBytes": 388558
+  },
+  {
+    "engine": "sogou",
+    "query": "孟宏伟 北京大学 法律系 受贿 判决",
+    "file": "sogou_孟宏伟_北京大学_法律系_受贿_判决.html",
+    "path": "../archive/searches/sogou_孟宏伟_北京大学_法律系_受贿_判决.html",
+    "sizeBytes": 310303
   },
   {
     "engine": "sogou",
@@ -348,6 +761,20 @@
     "file": "sogou_南京大学_刘赛连_硕士论文_抄袭.html",
     "path": "../archive/searches/sogou_南京大学_刘赛连_硕士论文_抄袭.html",
     "sizeBytes": 183
+  },
+  {
+    "engine": "sogou",
+    "query": "潘海东 清华大学 名誉权 百度 判决",
+    "file": "sogou_潘海东_清华大学_名誉权_百度_判决.html",
+    "path": "../archive/searches/sogou_潘海东_清华大学_名誉权_百度_判决.html",
+    "sizeBytes": 325
+  },
+  {
+    "engine": "sogou",
+    "query": "彭波 北京大学 经济学博士 受贿 判决",
+    "file": "sogou_彭波_北京大学_经济学博士_受贿_判决.html",
+    "path": "../archive/searches/sogou_彭波_北京大学_经济学博士_受贿_判决.html",
+    "sizeBytes": 548953
   },
   {
     "engine": "sogou",
@@ -393,10 +820,52 @@
   },
   {
     "engine": "sogou",
+    "query": "斯鑫良 浙江农业大学 畜牧兽医 受贿 判决",
+    "file": "sogou_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+    "path": "../archive/searches/sogou_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+    "sizeBytes": 503809
+  },
+  {
+    "engine": "sogou",
+    "query": "唐师曾 王湘宁 名誉权 终审 北京大学",
+    "file": "sogou_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+    "path": "../archive/searches/sogou_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+    "sizeBytes": 337
+  },
+  {
+    "engine": "sogou",
+    "query": "童道驰 北京大学 国民经济管理 受贿 内幕交易 死缓",
+    "file": "sogou_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+    "path": "../archive/searches/sogou_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+    "sizeBytes": 483969
+  },
+  {
+    "engine": "sogou",
+    "query": "童道驰 北京大学 经济管理系 受贿 内幕交易 死缓",
+    "file": "sogou_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+    "path": "../archive/searches/sogou_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+    "sizeBytes": 115
+  },
+  {
+    "engine": "sogou",
     "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
     "file": "sogou_王腾_小米_泄密_辞退_华中科技大学_校友.html",
     "path": "../archive/searches/sogou_王腾_小米_泄密_辞退_华中科技大学_校友.html",
     "sizeBytes": 626578
+  },
+  {
+    "engine": "sogou",
+    "query": "王永成 上海交通大学 9名博士 更换导师",
+    "file": "sogou_王永成_上海交通大学_9名博士_更换导师.html",
+    "path": "../archive/searches/sogou_王永成_上海交通大学_9名博士_更换导师.html",
+    "sizeBytes": 347
+  },
+  {
+    "engine": "sogou",
+    "query": "吴亢 华中科技大学 基金申请书 抄袭 通报",
+    "file": "sogou_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+    "path": "../archive/searches/sogou_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+    "sizeBytes": 361
   },
   {
     "engine": "sogou",
@@ -418,6 +887,34 @@
     "file": "sogou_西安交通大学_学术妲己_李某某_警方_通报.html",
     "path": "../archive/searches/sogou_西安交通大学_学术妲己_李某某_警方_通报.html",
     "sizeBytes": 474337
+  },
+  {
+    "engine": "sogou",
+    "query": "奚晓明 北京大学 经济法学 博士 受贿 无期",
+    "file": "sogou_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+    "path": "../archive/searches/sogou_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+    "sizeBytes": 617009
+  },
+  {
+    "engine": "sogou",
+    "query": "项俊波 北京大学 博士 受贿 判决",
+    "file": "sogou_项俊波_北京大学_博士_受贿_判决.html",
+    "path": "../archive/searches/sogou_项俊波_北京大学_博士_受贿_判决.html",
+    "sizeBytes": 513841
+  },
+  {
+    "engine": "sogou",
+    "query": "项俊波 北京大学 法学博士 受贿 判决",
+    "file": "sogou_项俊波_北京大学_法学博士_受贿_判决.html",
+    "path": "../archive/searches/sogou_项俊波_北京大学_法学博士_受贿_判决.html",
+    "sizeBytes": 583145
+  },
+  {
+    "engine": "sogou",
+    "query": "肖明辉 清华大学 土木系 硕士 受贿 无期",
+    "file": "sogou_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+    "path": "../archive/searches/sogou_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+    "sizeBytes": 500582
   },
   {
     "engine": "sogou",
@@ -460,5 +957,33 @@
     "file": "sogou_中国科学技术大学_季子越_开除学籍.html",
     "path": "../archive/searches/sogou_中国科学技术大学_季子越_开除学籍.html",
     "sizeBytes": 198
+  },
+  {
+    "engine": "sogou",
+    "query": "周鸿祎 金山 名誉权 微博 第一案 西安交通大学",
+    "file": "sogou_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+    "path": "../archive/searches/sogou_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+    "sizeBytes": 389
+  },
+  {
+    "engine": "sogou",
+    "query": "周江勇 浙江大学 工商管理硕士 受贿 死缓",
+    "file": "sogou_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+    "path": "../archive/searches/sogou_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+    "sizeBytes": 492226
+  },
+  {
+    "engine": "sogou",
+    "query": "周运中 东海道子 复旦大学 错误言论 解聘",
+    "file": "sogou_周运中_东海道子_复旦大学_错误言论_解聘.html",
+    "path": "../archive/searches/sogou_周运中_东海道子_复旦大学_错误言论_解聘.html",
+    "sizeBytes": 387
+  },
+  {
+    "engine": "sogou",
+    "query": "邹恒甫 北京大学 名誉权 诽谤 判决",
+    "file": "sogou_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+    "path": "../archive/searches/sogou_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+    "sizeBytes": 325
   }
 ]

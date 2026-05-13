@@ -43,10 +43,17 @@ const excludedDisplayNamePatterns = [
   /黄洋/,
   /刁爱青/,
   /邱庆枫/,
+  /岳昕/,
+  /邱占萱/,
   /王丹浩/,
   /胡安明/,
+  /陈刚（Gang Chen）/,
   /王擎\s*Qing\s*Wang/i,
+  /^周恒$/,
   /清华“彩虹旗事件”两名学生/,
+  /孙某\/孙维/,
+  /孙维/,
+  /朱令/,
   /同济医学院护理学院性别信息公示学生/,
   /上海交大被殴学生/,
   /上海交大融媒体中心/,
@@ -98,6 +105,7 @@ function displayNameFor(entry) {
   if (/杨宝德\s*\/\s*周筠/.test(name)) return '周筠';
   if (/王牧\s*\/\s*闻海虎/.test(name)) return '闻海虎';
   if (/魏某、邵某/.test(name) && /学术霸凌|教师/.test(eventText)) return '邵某（被举报教师）';
+  if (/邵某\s*\/\s*邵某峰/.test(name) && /学术霸凌|教师/.test(eventText)) return '邵某（被举报教师）';
   if (/朱令；孙某\/孙维/.test(name)) return '孙某/孙维（公开报道中的曾被调查对象）';
   if (/复旦十八驴/.test(name)) return '侯盼 / 复旦十八驴';
   return name;
@@ -109,6 +117,7 @@ function canonicalPersonKey(entry) {
 
   if (entry.school === '西安交通大学' && /翻译式抄袭|王建辉/.test(eventText)) name = '王建辉';
   if (entry.school === '上海交通大学' && /学术霸凌/.test(eventText)) name = '邵某';
+  if (entry.school === '上海交通大学' && /邵某/.test(name) && /学术霸凌/.test(eventText)) name = '邵某';
   if (entry.school === '华中科技大学' && /陈刚|Gang Chen|MIT/.test(`${entry.name} ${eventText}`)) name = '陈刚MIT案';
 
   return `${entry.school}|${normalizeText(name)}`;
@@ -119,6 +128,9 @@ function isDisplayableNegativePerson(entry) {
 
   if (excludedDisplayNamePatterns.some((pattern) => pattern.test(entry.name))) return false;
   if (/受害人|遇害案|死亡争议|坠亡|追思会/.test(joined)) return false;
+  if (/坠楼|身亡/.test(joined) && !/杀人|故意杀人|投毒|强奸|虐待|受贿|贪污|诈骗|行贿|违法|处分|被判|获刑|犯罪/.test(joined)) return false;
+  if (/申请公开|信息公开|佳士声援|社团自治/.test(joined)) return false;
+  if (/举报材料存在伪造|未发现论文抄袭|校方澄清/.test(joined) && /周恒/.test(entry.name)) return false;
   if (/撤诉|撤销全部指控|宣告无罪|被法院宣告无罪|政府撤销全部指控/.test(joined)) return false;
   if (/匿名学生，网传照片|隐私保护/.test(entry.photoMarkdown) && /隐私泄露|性别变更/.test(joined)) return false;
 
@@ -284,7 +296,7 @@ function buildEntries(markdown) {
 }
 
 function scoreEntry(entry) {
-  const recencyBonus = /第四轮|第三轮|第二轮/.test(entry.section) ? 180 : 0;
+  const recencyBonus = /第六轮|第五轮|第四轮|第三轮|第二轮/.test(entry.section) ? 180 : 0;
   return (
     entry.summary.length +
     entry.impact.length +

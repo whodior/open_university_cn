@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-12T17:13:21.215Z",
+  "generatedAt": "2026-05-13T03:12:00.200Z",
   "markdownFile": "../controversial-alumni-soft-ranking-2026.md",
-  "sourceEntries": 175,
-  "totalEntries": 152,
+  "sourceEntries": 192,
+  "totalEntries": 178,
   "schools": [
     "清华大学",
     "北京大学",
@@ -16,14 +16,14 @@
   ],
   "bySchool": {
     "清华大学": 26,
-    "北京大学": 23,
-    "浙江大学": 15,
-    "上海交通大学": 14,
-    "复旦大学": 16,
-    "南京大学": 18,
-    "中国科学技术大学": 10,
-    "华中科技大学": 15,
-    "西安交通大学": 15
+    "北京大学": 31,
+    "浙江大学": 18,
+    "上海交通大学": 16,
+    "复旦大学": 18,
+    "南京大学": 19,
+    "中国科学技术大学": 12,
+    "华中科技大学": 17,
+    "西安交通大学": 21
   },
   "searchArchive": [
     {
@@ -35,10 +35,31 @@
     },
     {
       "engine": "baidu",
+      "query": "蔡元真 西安交通大学 基金申请书 抄袭 剽窃",
+      "file": "baidu_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+      "path": "../archive/searches/baidu_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+      "sizeBytes": 394
+    },
+    {
+      "engine": "baidu",
       "query": "方红卫 清华大学 汽车工程系 严重违纪违法",
       "file": "baidu_方红卫_清华大学_汽车工程系_严重违纪违法.html",
       "path": "../archive/searches/baidu_方红卫_清华大学_汽车工程系_严重违纪违法.html",
       "sizeBytes": 1491
+    },
+    {
+      "engine": "baidu",
+      "query": "方舟子 崔永元 名誉权 北京大学 中国科学技术大学",
+      "file": "baidu_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+      "path": "../archive/searches/baidu_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+      "sizeBytes": 430
+    },
+    {
+      "engine": "baidu",
+      "query": "冯仁杰 北京大学 师德失范 撤销教师资格",
+      "file": "baidu_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+      "path": "../archive/searches/baidu_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+      "sizeBytes": 379
     },
     {
       "engine": "baidu",
@@ -49,10 +70,45 @@
     },
     {
       "engine": "baidu",
+      "query": "孔庆东 关凯元 名誉权 判决 北京大学",
+      "file": "baidu_孔庆东_关凯元_名誉权_判决_北京大学.html",
+      "path": "../archive/searches/baidu_孔庆东_关凯元_名誉权_判决_北京大学.html",
+      "sizeBytes": 359
+    },
+    {
+      "engine": "baidu",
+      "query": "李超 北京大学 基金 申请书 抄袭 通报",
+      "file": "baidu_李超_北京大学_基金_申请书_抄袭_通报.html",
+      "path": "../archive/searches/baidu_李超_北京大学_基金_申请书_抄袭_通报.html",
+      "sizeBytes": 363
+    },
+    {
+      "engine": "baidu",
       "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
       "file": "baidu_李堂堂_西安交通大学_EMBA_双开_受贿.html",
       "path": "../archive/searches/baidu_李堂堂_西安交通大学_EMBA_双开_受贿.html",
       "sizeBytes": 1491
+    },
+    {
+      "engine": "baidu",
+      "query": "廖永德 华中科技大学 基金评审 请托 通报",
+      "file": "baidu_廖永德_华中科技大学_基金评审_请托_通报.html",
+      "path": "../archive/searches/baidu_廖永德_华中科技大学_基金评审_请托_通报.html",
+      "sizeBytes": 382
+    },
+    {
+      "engine": "baidu",
+      "query": "卢子跃 浙江大学 EMBA 受贿 无期",
+      "file": "baidu_卢子跃_浙江大学_EMBA_受贿_无期.html",
+      "path": "../archive/searches/baidu_卢子跃_浙江大学_EMBA_受贿_无期.html",
+      "sizeBytes": 114
+    },
+    {
+      "engine": "baidu",
+      "query": "孟宏伟 北京大学 法律系 受贿 判决",
+      "file": "baidu_孟宏伟_北京大学_法律系_受贿_判决.html",
+      "path": "../archive/searches/baidu_孟宏伟_北京大学_法律系_受贿_判决.html",
+      "sizeBytes": 115
     },
     {
       "engine": "baidu",
@@ -67,6 +123,20 @@
       "file": "baidu_南京大学_徐某某_虐猫_复试_通报.html",
       "path": "../archive/searches/baidu_南京大学_徐某某_虐猫_复试_通报.html",
       "sizeBytes": 948084
+    },
+    {
+      "engine": "baidu",
+      "query": "潘海东 清华大学 名誉权 百度 判决",
+      "file": "baidu_潘海东_清华大学_名誉权_百度_判决.html",
+      "path": "../archive/searches/baidu_潘海东_清华大学_名誉权_百度_判决.html",
+      "sizeBytes": 347
+    },
+    {
+      "engine": "baidu",
+      "query": "彭波 北京大学 经济学博士 受贿 判决",
+      "file": "baidu_彭波_北京大学_经济学博士_受贿_判决.html",
+      "path": "../archive/searches/baidu_彭波_北京大学_经济学博士_受贿_判决.html",
+      "sizeBytes": 115
     },
     {
       "engine": "baidu",
@@ -105,10 +175,59 @@
     },
     {
       "engine": "baidu",
+      "query": "斯鑫良 浙江农业大学 畜牧兽医 受贿 判决",
+      "file": "baidu_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+      "path": "../archive/searches/baidu_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+      "sizeBytes": 114
+    },
+    {
+      "engine": "baidu",
+      "query": "孙路一 上海交通大学 社会科学系 受贿 判决",
+      "file": "baidu_孙路一_上海交通大学_社会科学系_受贿_判决.html",
+      "path": "../archive/searches/baidu_孙路一_上海交通大学_社会科学系_受贿_判决.html",
+      "sizeBytes": 114
+    },
+    {
+      "engine": "baidu",
+      "query": "唐师曾 王湘宁 名誉权 终审 北京大学",
+      "file": "baidu_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+      "path": "../archive/searches/baidu_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+      "sizeBytes": 359
+    },
+    {
+      "engine": "baidu",
+      "query": "童道驰 北京大学 国民经济管理 受贿 内幕交易 死缓",
+      "file": "baidu_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+      "path": "../archive/searches/baidu_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+      "sizeBytes": 115
+    },
+    {
+      "engine": "baidu",
+      "query": "童道驰 北京大学 经济管理系 受贿 内幕交易 死缓",
+      "file": "baidu_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+      "path": "../archive/searches/baidu_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+      "sizeBytes": 115
+    },
+    {
+      "engine": "baidu",
       "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
       "file": "baidu_王腾_小米_泄密_辞退_华中科技大学_校友.html",
       "path": "../archive/searches/baidu_王腾_小米_泄密_辞退_华中科技大学_校友.html",
       "sizeBytes": 930337
+    },
+    {
+      "engine": "baidu",
+      "query": "王永成 上海交通大学 9名博士 更换导师",
+      "file": "baidu_王永成_上海交通大学_9名博士_更换导师.html",
+      "path": "../archive/searches/baidu_王永成_上海交通大学_9名博士_更换导师.html",
+      "sizeBytes": 369
+    },
+    {
+      "engine": "baidu",
+      "query": "吴亢 华中科技大学 基金申请书 抄袭 通报",
+      "file": "baidu_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+      "path": "../archive/searches/baidu_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+      "sizeBytes": 382
     },
     {
       "engine": "baidu",
@@ -123,6 +242,34 @@
       "file": "baidu_西安交通大学_许宗衡_受贿.html",
       "path": "../archive/searches/baidu_西安交通大学_许宗衡_受贿.html",
       "sizeBytes": 909056
+    },
+    {
+      "engine": "baidu",
+      "query": "奚晓明 北京大学 经济法学 博士 受贿 无期",
+      "file": "baidu_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+      "path": "../archive/searches/baidu_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+      "sizeBytes": 115
+    },
+    {
+      "engine": "baidu",
+      "query": "项俊波 北京大学 博士 受贿 判决",
+      "file": "baidu_项俊波_北京大学_博士_受贿_判决.html",
+      "path": "../archive/searches/baidu_项俊波_北京大学_博士_受贿_判决.html",
+      "sizeBytes": 115
+    },
+    {
+      "engine": "baidu",
+      "query": "项俊波 北京大学 法学博士 受贿 判决",
+      "file": "baidu_项俊波_北京大学_法学博士_受贿_判决.html",
+      "path": "../archive/searches/baidu_项俊波_北京大学_法学博士_受贿_判决.html",
+      "sizeBytes": 115
+    },
+    {
+      "engine": "baidu",
+      "query": "肖明辉 清华大学 土木系 硕士 受贿 无期",
+      "file": "baidu_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+      "path": "../archive/searches/baidu_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+      "sizeBytes": 1491
     },
     {
       "engine": "baidu",
@@ -174,6 +321,34 @@
       "sizeBytes": 1488
     },
     {
+      "engine": "baidu",
+      "query": "周鸿祎 金山 名誉权 微博 第一案 西安交通大学",
+      "file": "baidu_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+      "path": "../archive/searches/baidu_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+      "sizeBytes": 410
+    },
+    {
+      "engine": "baidu",
+      "query": "周江勇 浙江大学 工商管理硕士 受贿 死缓",
+      "file": "baidu_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+      "path": "../archive/searches/baidu_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+      "sizeBytes": 115
+    },
+    {
+      "engine": "baidu",
+      "query": "周运中 东海道子 复旦大学 错误言论 解聘",
+      "file": "baidu_周运中_东海道子_复旦大学_错误言论_解聘.html",
+      "path": "../archive/searches/baidu_周运中_东海道子_复旦大学_错误言论_解聘.html",
+      "sizeBytes": 382
+    },
+    {
+      "engine": "baidu",
+      "query": "邹恒甫 北京大学 名誉权 诽谤 判决",
+      "file": "baidu_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+      "path": "../archive/searches/baidu_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+      "sizeBytes": 347
+    },
+    {
       "engine": "bing",
       "query": "北大 卢刚 爱荷华 枪击案",
       "file": "bing_北大_卢刚_爱荷华_枪击案.html",
@@ -189,10 +364,31 @@
     },
     {
       "engine": "bing",
+      "query": "蔡元真 西安交通大学 基金申请书 抄袭 剽窃",
+      "file": "bing_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+      "path": "../archive/searches/bing_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+      "sizeBytes": 117179
+    },
+    {
+      "engine": "bing",
       "query": "方红卫 清华大学 汽车工程系 严重违纪违法",
       "file": "bing_方红卫_清华大学_汽车工程系_严重违纪违法.html",
       "path": "../archive/searches/bing_方红卫_清华大学_汽车工程系_严重违纪违法.html",
       "sizeBytes": 102962
+    },
+    {
+      "engine": "bing",
+      "query": "方舟子 崔永元 名誉权 北京大学 中国科学技术大学",
+      "file": "bing_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+      "path": "../archive/searches/bing_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+      "sizeBytes": 119176
+    },
+    {
+      "engine": "bing",
+      "query": "冯仁杰 北京大学 师德失范 撤销教师资格",
+      "file": "bing_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+      "path": "../archive/searches/bing_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+      "sizeBytes": 118267
     },
     {
       "engine": "bing",
@@ -224,10 +420,45 @@
     },
     {
       "engine": "bing",
+      "query": "孔庆东 关凯元 名誉权 判决 北京大学",
+      "file": "bing_孔庆东_关凯元_名誉权_判决_北京大学.html",
+      "path": "../archive/searches/bing_孔庆东_关凯元_名誉权_判决_北京大学.html",
+      "sizeBytes": 119195
+    },
+    {
+      "engine": "bing",
+      "query": "李超 北京大学 基金 申请书 抄袭 通报",
+      "file": "bing_李超_北京大学_基金_申请书_抄袭_通报.html",
+      "path": "../archive/searches/bing_李超_北京大学_基金_申请书_抄袭_通报.html",
+      "sizeBytes": 117234
+    },
+    {
+      "engine": "bing",
       "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
       "file": "bing_李堂堂_西安交通大学_EMBA_双开_受贿.html",
       "path": "../archive/searches/bing_李堂堂_西安交通大学_EMBA_双开_受贿.html",
       "sizeBytes": 101056
+    },
+    {
+      "engine": "bing",
+      "query": "廖永德 华中科技大学 基金评审 请托 通报",
+      "file": "bing_廖永德_华中科技大学_基金评审_请托_通报.html",
+      "path": "../archive/searches/bing_廖永德_华中科技大学_基金评审_请托_通报.html",
+      "sizeBytes": 118682
+    },
+    {
+      "engine": "bing",
+      "query": "卢子跃 浙江大学 EMBA 受贿 无期",
+      "file": "bing_卢子跃_浙江大学_EMBA_受贿_无期.html",
+      "path": "../archive/searches/bing_卢子跃_浙江大学_EMBA_受贿_无期.html",
+      "sizeBytes": 68608
+    },
+    {
+      "engine": "bing",
+      "query": "孟宏伟 北京大学 法律系 受贿 判决",
+      "file": "bing_孟宏伟_北京大学_法律系_受贿_判决.html",
+      "path": "../archive/searches/bing_孟宏伟_北京大学_法律系_受贿_判决.html",
+      "sizeBytes": 69874
     },
     {
       "engine": "bing",
@@ -242,6 +473,27 @@
       "file": "bing_南京大学_施工方_偷窃_学生物品_通报.html",
       "path": "../archive/searches/bing_南京大学_施工方_偷窃_学生物品_通报.html",
       "sizeBytes": 72040
+    },
+    {
+      "engine": "bing",
+      "query": "潘海东 清华大学 名誉权 百度 判决",
+      "file": "bing_潘海东_清华大学_名誉权_百度_判决.html",
+      "path": "../archive/searches/bing_潘海东_清华大学_名誉权_百度_判决.html",
+      "sizeBytes": 119133
+    },
+    {
+      "engine": "bing",
+      "query": "彭波 北京大学 经济学博士 受贿 判决",
+      "file": "bing_彭波_北京大学_经济学博士_受贿_判决.html",
+      "path": "../archive/searches/bing_彭波_北京大学_经济学博士_受贿_判决.html",
+      "sizeBytes": 69554
+    },
+    {
+      "engine": "bing",
+      "query": "彭波 北京大学 中文系 受贿 判决",
+      "file": "bing_彭波_北京大学_中文系_受贿_判决.html",
+      "path": "../archive/searches/bing_彭波_北京大学_中文系_受贿_判决.html",
+      "sizeBytes": 69419
     },
     {
       "engine": "bing",
@@ -294,6 +546,41 @@
     },
     {
       "engine": "bing",
+      "query": "斯鑫良 浙江农业大学 畜牧兽医 受贿 判决",
+      "file": "bing_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+      "path": "../archive/searches/bing_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+      "sizeBytes": 69378
+    },
+    {
+      "engine": "bing",
+      "query": "孙路一 上海交通大学 社会科学系 受贿 判决",
+      "file": "bing_孙路一_上海交通大学_社会科学系_受贿_判决.html",
+      "path": "../archive/searches/bing_孙路一_上海交通大学_社会科学系_受贿_判决.html",
+      "sizeBytes": 70618
+    },
+    {
+      "engine": "bing",
+      "query": "唐师曾 王湘宁 名誉权 终审 北京大学",
+      "file": "bing_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+      "path": "../archive/searches/bing_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+      "sizeBytes": 118697
+    },
+    {
+      "engine": "bing",
+      "query": "童道驰 北京大学 国民经济管理 受贿 内幕交易 死缓",
+      "file": "bing_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+      "path": "../archive/searches/bing_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+      "sizeBytes": 69130
+    },
+    {
+      "engine": "bing",
+      "query": "童道驰 北京大学 经济管理系 受贿 内幕交易 死缓",
+      "file": "bing_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+      "path": "../archive/searches/bing_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+      "sizeBytes": 69075
+    },
+    {
+      "engine": "bing",
       "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
       "file": "bing_王腾_小米_泄密_辞退_华中科技大学_校友.html",
       "path": "../archive/searches/bing_王腾_小米_泄密_辞退_华中科技大学_校友.html",
@@ -301,10 +588,52 @@
     },
     {
       "engine": "bing",
+      "query": "王永成 上海交通大学 9名博士 更换导师",
+      "file": "bing_王永成_上海交通大学_9名博士_更换导师.html",
+      "path": "../archive/searches/bing_王永成_上海交通大学_9名博士_更换导师.html",
+      "sizeBytes": 119172
+    },
+    {
+      "engine": "bing",
+      "query": "吴亢 华中科技大学 基金申请书 抄袭 通报",
+      "file": "bing_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+      "path": "../archive/searches/bing_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+      "sizeBytes": 118326
+    },
+    {
+      "engine": "bing",
       "query": "西安交通大学 秦某某 后勤职工 违纪违法 法院",
       "file": "bing_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
       "path": "../archive/searches/bing_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
       "sizeBytes": 102632
+    },
+    {
+      "engine": "bing",
+      "query": "奚晓明 北京大学 经济法学 博士 受贿 无期",
+      "file": "bing_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+      "path": "../archive/searches/bing_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+      "sizeBytes": 69765
+    },
+    {
+      "engine": "bing",
+      "query": "项俊波 北京大学 博士 受贿 判决",
+      "file": "bing_项俊波_北京大学_博士_受贿_判决.html",
+      "path": "../archive/searches/bing_项俊波_北京大学_博士_受贿_判决.html",
+      "sizeBytes": 210319
+    },
+    {
+      "engine": "bing",
+      "query": "项俊波 北京大学 法学博士 受贿 判决",
+      "file": "bing_项俊波_北京大学_法学博士_受贿_判决.html",
+      "path": "../archive/searches/bing_项俊波_北京大学_法学博士_受贿_判决.html",
+      "sizeBytes": 69786
+    },
+    {
+      "engine": "bing",
+      "query": "肖明辉 清华大学 土木系 硕士 受贿 无期",
+      "file": "bing_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+      "path": "../archive/searches/bing_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+      "sizeBytes": 206192
     },
     {
       "engine": "bing",
@@ -335,11 +664,46 @@
       "sizeBytes": 95781
     },
     {
+      "engine": "bing",
+      "query": "周鸿祎 金山 名誉权 微博 第一案 西安交通大学",
+      "file": "bing_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+      "path": "../archive/searches/bing_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+      "sizeBytes": 120882
+    },
+    {
+      "engine": "bing",
+      "query": "周江勇 浙江大学 工商管理硕士 受贿 死缓",
+      "file": "bing_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+      "path": "../archive/searches/bing_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+      "sizeBytes": 70515
+    },
+    {
+      "engine": "bing",
+      "query": "周运中 东海道子 复旦大学 错误言论 解聘",
+      "file": "bing_周运中_东海道子_复旦大学_错误言论_解聘.html",
+      "path": "../archive/searches/bing_周运中_东海道子_复旦大学_错误言论_解聘.html",
+      "sizeBytes": 118990
+    },
+    {
+      "engine": "bing",
+      "query": "邹恒甫 北京大学 名誉权 诽谤 判决",
+      "file": "bing_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+      "path": "../archive/searches/bing_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+      "sizeBytes": 117888
+    },
+    {
       "engine": "sogou",
       "query": "北京大学 软微 男硕士 女厕 偷拍 行政拘留",
       "file": "sogou_北京大学_软微_男硕士_女厕_偷拍_行政拘留.html",
       "path": "../archive/searches/sogou_北京大学_软微_男硕士_女厕_偷拍_行政拘留.html",
       "sizeBytes": 507516
+    },
+    {
+      "engine": "sogou",
+      "query": "蔡元真 西安交通大学 基金申请书 抄袭 剽窃",
+      "file": "sogou_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+      "path": "../archive/searches/sogou_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
+      "sizeBytes": 399
     },
     {
       "engine": "sogou",
@@ -350,6 +714,20 @@
     },
     {
       "engine": "sogou",
+      "query": "方舟子 崔永元 名誉权 北京大学 中国科学技术大学",
+      "file": "sogou_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+      "path": "../archive/searches/sogou_方舟子_崔永元_名誉权_北京大学_中国科学技术大学.html",
+      "sizeBytes": 409
+    },
+    {
+      "engine": "sogou",
+      "query": "冯仁杰 北京大学 师德失范 撤销教师资格",
+      "file": "sogou_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+      "path": "../archive/searches/sogou_冯仁杰_北京大学_师德失范_撤销教师资格.html",
+      "sizeBytes": 357
+    },
+    {
+      "engine": "sogou",
       "query": "复旦 王灿 学术不端 通报",
       "file": "sogou_复旦_王灿_学术不端_通报.html",
       "path": "../archive/searches/sogou_复旦_王灿_学术不端_通报.html",
@@ -357,10 +735,45 @@
     },
     {
       "engine": "sogou",
+      "query": "孔庆东 关凯元 名誉权 判决 北京大学",
+      "file": "sogou_孔庆东_关凯元_名誉权_判决_北京大学.html",
+      "path": "../archive/searches/sogou_孔庆东_关凯元_名誉权_判决_北京大学.html",
+      "sizeBytes": 337
+    },
+    {
+      "engine": "sogou",
+      "query": "李超 北京大学 基金 申请书 抄袭 通报",
+      "file": "sogou_李超_北京大学_基金_申请书_抄袭_通报.html",
+      "path": "../archive/searches/sogou_李超_北京大学_基金_申请书_抄袭_通报.html",
+      "sizeBytes": 368
+    },
+    {
+      "engine": "sogou",
       "query": "李堂堂 西安交通大学 EMBA 双开 受贿",
       "file": "sogou_李堂堂_西安交通大学_EMBA_双开_受贿.html",
       "path": "../archive/searches/sogou_李堂堂_西安交通大学_EMBA_双开_受贿.html",
       "sizeBytes": 468110
+    },
+    {
+      "engine": "sogou",
+      "query": "廖永德 华中科技大学 基金评审 请托 通报",
+      "file": "sogou_廖永德_华中科技大学_基金评审_请托_通报.html",
+      "path": "../archive/searches/sogou_廖永德_华中科技大学_基金评审_请托_通报.html",
+      "sizeBytes": 361
+    },
+    {
+      "engine": "sogou",
+      "query": "卢子跃 浙江大学 EMBA 受贿 无期",
+      "file": "sogou_卢子跃_浙江大学_EMBA_受贿_无期.html",
+      "path": "../archive/searches/sogou_卢子跃_浙江大学_EMBA_受贿_无期.html",
+      "sizeBytes": 388558
+    },
+    {
+      "engine": "sogou",
+      "query": "孟宏伟 北京大学 法律系 受贿 判决",
+      "file": "sogou_孟宏伟_北京大学_法律系_受贿_判决.html",
+      "path": "../archive/searches/sogou_孟宏伟_北京大学_法律系_受贿_判决.html",
+      "sizeBytes": 310303
     },
     {
       "engine": "sogou",
@@ -375,6 +788,20 @@
       "file": "sogou_南京大学_刘赛连_硕士论文_抄袭.html",
       "path": "../archive/searches/sogou_南京大学_刘赛连_硕士论文_抄袭.html",
       "sizeBytes": 183
+    },
+    {
+      "engine": "sogou",
+      "query": "潘海东 清华大学 名誉权 百度 判决",
+      "file": "sogou_潘海东_清华大学_名誉权_百度_判决.html",
+      "path": "../archive/searches/sogou_潘海东_清华大学_名誉权_百度_判决.html",
+      "sizeBytes": 325
+    },
+    {
+      "engine": "sogou",
+      "query": "彭波 北京大学 经济学博士 受贿 判决",
+      "file": "sogou_彭波_北京大学_经济学博士_受贿_判决.html",
+      "path": "../archive/searches/sogou_彭波_北京大学_经济学博士_受贿_判决.html",
+      "sizeBytes": 548953
     },
     {
       "engine": "sogou",
@@ -420,10 +847,52 @@
     },
     {
       "engine": "sogou",
+      "query": "斯鑫良 浙江农业大学 畜牧兽医 受贿 判决",
+      "file": "sogou_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+      "path": "../archive/searches/sogou_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
+      "sizeBytes": 503809
+    },
+    {
+      "engine": "sogou",
+      "query": "唐师曾 王湘宁 名誉权 终审 北京大学",
+      "file": "sogou_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+      "path": "../archive/searches/sogou_唐师曾_王湘宁_名誉权_终审_北京大学.html",
+      "sizeBytes": 337
+    },
+    {
+      "engine": "sogou",
+      "query": "童道驰 北京大学 国民经济管理 受贿 内幕交易 死缓",
+      "file": "sogou_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+      "path": "../archive/searches/sogou_童道驰_北京大学_国民经济管理_受贿_内幕交易_死缓.html",
+      "sizeBytes": 483969
+    },
+    {
+      "engine": "sogou",
+      "query": "童道驰 北京大学 经济管理系 受贿 内幕交易 死缓",
+      "file": "sogou_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+      "path": "../archive/searches/sogou_童道驰_北京大学_经济管理系_受贿_内幕交易_死缓.html",
+      "sizeBytes": 115
+    },
+    {
+      "engine": "sogou",
       "query": "王腾 小米 泄密 辞退 华中科技大学 校友",
       "file": "sogou_王腾_小米_泄密_辞退_华中科技大学_校友.html",
       "path": "../archive/searches/sogou_王腾_小米_泄密_辞退_华中科技大学_校友.html",
       "sizeBytes": 626578
+    },
+    {
+      "engine": "sogou",
+      "query": "王永成 上海交通大学 9名博士 更换导师",
+      "file": "sogou_王永成_上海交通大学_9名博士_更换导师.html",
+      "path": "../archive/searches/sogou_王永成_上海交通大学_9名博士_更换导师.html",
+      "sizeBytes": 347
+    },
+    {
+      "engine": "sogou",
+      "query": "吴亢 华中科技大学 基金申请书 抄袭 通报",
+      "file": "sogou_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+      "path": "../archive/searches/sogou_吴亢_华中科技大学_基金申请书_抄袭_通报.html",
+      "sizeBytes": 361
     },
     {
       "engine": "sogou",
@@ -445,6 +914,34 @@
       "file": "sogou_西安交通大学_学术妲己_李某某_警方_通报.html",
       "path": "../archive/searches/sogou_西安交通大学_学术妲己_李某某_警方_通报.html",
       "sizeBytes": 474337
+    },
+    {
+      "engine": "sogou",
+      "query": "奚晓明 北京大学 经济法学 博士 受贿 无期",
+      "file": "sogou_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+      "path": "../archive/searches/sogou_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
+      "sizeBytes": 617009
+    },
+    {
+      "engine": "sogou",
+      "query": "项俊波 北京大学 博士 受贿 判决",
+      "file": "sogou_项俊波_北京大学_博士_受贿_判决.html",
+      "path": "../archive/searches/sogou_项俊波_北京大学_博士_受贿_判决.html",
+      "sizeBytes": 513841
+    },
+    {
+      "engine": "sogou",
+      "query": "项俊波 北京大学 法学博士 受贿 判决",
+      "file": "sogou_项俊波_北京大学_法学博士_受贿_判决.html",
+      "path": "../archive/searches/sogou_项俊波_北京大学_法学博士_受贿_判决.html",
+      "sizeBytes": 583145
+    },
+    {
+      "engine": "sogou",
+      "query": "肖明辉 清华大学 土木系 硕士 受贿 无期",
+      "file": "sogou_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+      "path": "../archive/searches/sogou_肖明辉_清华大学_土木系_硕士_受贿_无期.html",
+      "sizeBytes": 500582
     },
     {
       "engine": "sogou",
@@ -487,6 +984,34 @@
       "file": "sogou_中国科学技术大学_季子越_开除学籍.html",
       "path": "../archive/searches/sogou_中国科学技术大学_季子越_开除学籍.html",
       "sizeBytes": 198
+    },
+    {
+      "engine": "sogou",
+      "query": "周鸿祎 金山 名誉权 微博 第一案 西安交通大学",
+      "file": "sogou_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+      "path": "../archive/searches/sogou_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
+      "sizeBytes": 389
+    },
+    {
+      "engine": "sogou",
+      "query": "周江勇 浙江大学 工商管理硕士 受贿 死缓",
+      "file": "sogou_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+      "path": "../archive/searches/sogou_周江勇_浙江大学_工商管理硕士_受贿_死缓.html",
+      "sizeBytes": 492226
+    },
+    {
+      "engine": "sogou",
+      "query": "周运中 东海道子 复旦大学 错误言论 解聘",
+      "file": "sogou_周运中_东海道子_复旦大学_错误言论_解聘.html",
+      "path": "../archive/searches/sogou_周运中_东海道子_复旦大学_错误言论_解聘.html",
+      "sizeBytes": 387
+    },
+    {
+      "engine": "sogou",
+      "query": "邹恒甫 北京大学 名誉权 诽谤 判决",
+      "file": "sogou_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+      "path": "../archive/searches/sogou_邹恒甫_北京大学_名誉权_诽谤_判决.html",
+      "sizeBytes": 325
     }
   ],
   "entries": [
@@ -2633,64 +3158,6 @@
       "id": "e39",
       "section": "高舆论事件补充表",
       "subsection": "清华大学",
-      "name": "朱令；孙某/孙维（公开报道中的曾被调查对象）",
-      "school": "清华大学",
-      "schoolRaw": "清华大学",
-      "identity": "朱令：1992级化学系物理化学和仪器分析专业本科生；孙某/孙维：同班同学，身份按公开报道审慎表述",
-      "year": "",
-      "eventName": "清华朱令铊中毒案",
-      "summary": "朱令在校期间铊中毒致严重伤残，案件长期悬而未决；2023年朱令去世后舆论再次集中爆发。",
-      "impact": "实验室危化品管理、侦查透明度、网络申诉、名校校园安全长期被讨论。",
-      "nature": "校园刑事悬案 / 投毒案",
-      "sourcesMarkdown": "[央视朱令去世](https://news.cctv.com/2023/12/23/ARTIPBlPY3K3pSsp3nC0gzcU231223.shtml)；[中新网旧案再受关注](https://www.chinanews.com.cn/sh/2013/04-20/4747750.shtml)；[国家教委危化品通知](https://zh.wikisource.org/zh/%E5%9B%BD%E5%AE%B6%E6%95%99%E8%82%B2%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E5%AD%A6%E6%A0%A1%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8C%96%E5%AD%A6%E5%8D%B1%E9%99%A9%E5%93%81%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5)",
-      "photoMarkdown": "[南方人物周刊转载图文](https://news.sina.com.cn/h/2006-01-11/14088836952.shtml)",
-      "paperMarkdown": "待核",
-      "links": [
-        {
-          "label": "央视朱令去世",
-          "url": "https://news.cctv.com/2023/12/23/ARTIPBlPY3K3pSsp3nC0gzcU231223.shtml"
-        },
-        {
-          "label": "中新网旧案再受关注",
-          "url": "https://www.chinanews.com.cn/sh/2013/04-20/4747750.shtml"
-        },
-        {
-          "label": "国家教委危化品通知",
-          "url": "https://zh.wikisource.org/zh/%E5%9B%BD%E5%AE%B6%E6%95%99%E8%82%B2%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E5%AD%A6%E6%A0%A1%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8C%96%E5%AD%A6%E5%8D%B1%E9%99%A9%E5%93%81%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5"
-        },
-        {
-          "label": "南方人物周刊转载图文",
-          "url": "https://news.sina.com.cn/h/2006-01-11/14088836952.shtml"
-        }
-      ],
-      "sourceLinks": [
-        {
-          "label": "央视朱令去世",
-          "url": "https://news.cctv.com/2023/12/23/ARTIPBlPY3K3pSsp3nC0gzcU231223.shtml"
-        },
-        {
-          "label": "中新网旧案再受关注",
-          "url": "https://www.chinanews.com.cn/sh/2013/04-20/4747750.shtml"
-        },
-        {
-          "label": "国家教委危化品通知",
-          "url": "https://zh.wikisource.org/zh/%E5%9B%BD%E5%AE%B6%E6%95%99%E8%82%B2%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E5%AD%A6%E6%A0%A1%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8C%96%E5%AD%A6%E5%8D%B1%E9%99%A9%E5%93%81%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5"
-        }
-      ],
-      "photoLinks": [
-        {
-          "label": "南方人物周刊转载图文",
-          "url": "https://news.sina.com.cn/h/2006-01-11/14088836952.shtml"
-        }
-      ],
-      "paperLinks": [],
-      "displayName": "孙某/孙维（公开报道中的曾被调查对象）",
-      "credibility": "需核验"
-    },
-    {
-      "id": "e40",
-      "section": "高舆论事件补充表",
-      "subsection": "清华大学",
       "name": "刘海洋",
       "school": "清华大学",
       "schoolRaw": "清华大学",
@@ -2755,7 +3222,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e41",
+      "id": "e40",
       "section": "高舆论事件补充表",
       "subsection": "清华大学",
       "name": "叶肖鑫；唐国翌",
@@ -2817,7 +3284,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e42",
+      "id": "e41",
       "section": "高舆论事件补充表",
       "subsection": "清华大学",
       "name": "汪晖",
@@ -2884,66 +3351,16 @@
       "credibility": "需核验"
     },
     {
-      "id": "e43",
-      "section": "高舆论事件补充表",
-      "subsection": "清华大学",
-      "name": "许章润",
-      "school": "清华大学",
-      "schoolRaw": "清华大学",
-      "identity": "法学院原教授",
-      "year": "",
-      "eventName": "许章润被处分/解聘事件",
-      "summary": "因公共言论、警方带走、随后被清华处分和解聘，引发国内外讨论。",
-      "impact": "高校教师处分程序、学术自由、公共表达边界受到关注。",
-      "nature": "教师公共争议 / 处分争议",
-      "sourcesMarkdown": "[DW](https://www.dw.com/zh/%E8%AE%B8%E7%AB%A0%E6%B6%A6%E6%95%99%E6%8E%88%E8%A2%AB%E6%B8%85%E5%8D%8E%E4%BB%A5%E9%81%93%E5%BE%B7%E8%B4%A5%E5%9D%8F%E4%B8%BA%E7%94%B1%E9%9D%A9%E8%81%8C/a-54168677)；[RFA](https://www.rfa.org/mandarin/Xinwen/6-07182020123909.html)",
-      "photoMarkdown": "[维基资料页](https://zh.wikipedia.org/wiki/%E8%AE%B8%E7%AB%A0%E6%B6%A6)",
-      "paperMarkdown": "无可列",
-      "links": [
-        {
-          "label": "DW",
-          "url": "https://www.dw.com/zh/%E8%AE%B8%E7%AB%A0%E6%B6%A6%E6%95%99%E6%8E%88%E8%A2%AB%E6%B8%85%E5%8D%8E%E4%BB%A5%E9%81%93%E5%BE%B7%E8%B4%A5%E5%9D%8F%E4%B8%BA%E7%94%B1%E9%9D%A9%E8%81%8C/a-54168677"
-        },
-        {
-          "label": "RFA",
-          "url": "https://www.rfa.org/mandarin/Xinwen/6-07182020123909.html"
-        },
-        {
-          "label": "维基资料页",
-          "url": "https://zh.wikipedia.org/wiki/%E8%AE%B8%E7%AB%A0%E6%B6%A6"
-        }
-      ],
-      "sourceLinks": [
-        {
-          "label": "DW",
-          "url": "https://www.dw.com/zh/%E8%AE%B8%E7%AB%A0%E6%B6%A6%E6%95%99%E6%8E%88%E8%A2%AB%E6%B8%85%E5%8D%8E%E4%BB%A5%E9%81%93%E5%BE%B7%E8%B4%A5%E5%9D%8F%E4%B8%BA%E7%94%B1%E9%9D%A9%E8%81%8C/a-54168677"
-        },
-        {
-          "label": "RFA",
-          "url": "https://www.rfa.org/mandarin/Xinwen/6-07182020123909.html"
-        }
-      ],
-      "photoLinks": [
-        {
-          "label": "维基资料页",
-          "url": "https://zh.wikipedia.org/wiki/%E8%AE%B8%E7%AB%A0%E6%B6%A6"
-        }
-      ],
-      "paperLinks": [],
-      "displayName": "许章润",
-      "credibility": "需核验"
-    },
-    {
-      "id": "e44",
+      "id": "e42",
       "section": "高舆论事件补充表",
       "subsection": "北京大学",
-      "name": "牟林翰；包丽/陈某某",
+      "name": "牟林翰",
       "school": "北京大学",
       "schoolRaw": "北京大学",
-      "identity": "牟林翰：政府管理学院学生；包丽/陈某某：法学院女生",
+      "identity": "政府管理学院学生",
       "year": "",
       "eventName": "包丽死亡/牟林翰虐待案",
-      "summary": "法院认定同居恋爱关系中的长期辱骂、贬损等构成虐待并致被害人死亡。",
+      "summary": "法院认定牟林翰在同居恋爱关系中的长期辱骂、贬损等行为构成虐待并致被害人死亡。",
       "impact": "PUA、精神暴力、亲密关系暴力入刑和高校学生关系治理成为公共议题。",
       "nature": "刑事案件 / 亲密关系暴力",
       "sourcesMarkdown": "[人民网一审宣判](https://society.people.com.cn/n1/2023/0615/c1008-40014181.html)；[北京日报主审法官回应](https://news.bjd.com.cn/2023/06/15/10464811.shtml)；[澎湃最高检白皮书提及](https://www.thepaper.cn/newsDetail_forward_26620294)",
@@ -2961,6 +3378,10 @@
         {
           "label": "澎湃最高检白皮书提及",
           "url": "https://www.thepaper.cn/newsDetail_forward_26620294"
+        },
+        {
+          "label": "知网检索：牟林翰 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%89%9F%E6%9E%97%E7%BF%B0%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
         }
       ],
       "sourceLinks": [
@@ -2978,21 +3399,26 @@
         }
       ],
       "photoLinks": [],
-      "paperLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：牟林翰 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%89%9F%E6%9E%97%E7%BF%B0%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
       "displayName": "牟林翰",
       "credibility": "较强"
     },
     {
-      "id": "e45",
+      "id": "e43",
       "section": "高舆论事件补充表",
       "subsection": "北京大学",
-      "name": "沈阳；高岩",
+      "name": "沈阳",
       "school": "北京大学",
       "schoolRaw": "北京大学",
-      "identity": "沈阳：中文系原副教授；高岩：中文系1995级本科生",
+      "identity": "中文系原副教授",
       "year": "",
       "eventName": "沈阳/高岩事件",
-      "summary": "1998年高岩自杀事件在2018年由校友实名举报重新引爆，北大、南大等相继回应。",
+      "summary": "1998年高岩事件在2018年由校友实名举报重新引爆，北大、南大等相继回应。",
       "impact": "高校性骚扰处理、旧案公开、师德问责和#MeToo在高校传播成为焦点。",
       "nature": "师德师风 / 性侵指控争议",
       "sourcesMarkdown": "[中国经济网转载中青报](https://www.ce.cn/xwzx/gnsz/gdxw/201804/09/t20180409_28754617.shtml)；[全球深度报道网梳理](https://zh.gijn.org/stories/%E5%8C%97%E5%A4%A7%E6%B2%88%E9%98%B3%E6%80%A7%E4%BE%B5%E4%BA%8B%E4%BB%B6-%E5%AA%92%E4%BD%93%E6%8E%A5%E5%8A%9B%E6%8A%A5%E9%81%93%E6%A2%B3%E7%90%86/)",
@@ -3024,65 +3450,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e46",
-      "section": "高舆论事件补充表",
-      "subsection": "北京大学",
-      "name": "岳昕",
-      "school": "北京大学",
-      "schoolRaw": "北京大学",
-      "identity": "外国语学院2014级本科生",
-      "year": "",
-      "eventName": "岳昕申请公开沈阳案信息事件",
-      "summary": "学生申请公开沈阳案资料并发公开信称遭校方施压。",
-      "impact": "高校信息公开、学生公共表达、#MeToo议题在校园内扩散。",
-      "nature": "校园治理 / 信息公开争议",
-      "sourcesMarkdown": "[DW](https://www.dw.com/zh/%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E6%A0%A1%E6%96%B9%E8%A6%81%E6%8C%9F%E5%8F%91%E5%85%AC%E5%BC%80%E4%BF%A1-%E5%87%BA%E7%8E%B0%E5%A4%A7%E5%AD%97%E6%8A%A5%E5%A3%B0%E6%8F%B4/a-43511099)；[RFA](https://www.rfa.org/mandarin/yataibaodao/kejiaowen/ql2-04242018100202.html)；[VOA](https://www.voachinese.com/a/pku-harassment-20180430/4371341.html)",
-      "photoMarkdown": "待核",
-      "paperMarkdown": "待核",
-      "links": [
-        {
-          "label": "DW",
-          "url": "https://www.dw.com/zh/%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E6%A0%A1%E6%96%B9%E8%A6%81%E6%8C%9F%E5%8F%91%E5%85%AC%E5%BC%80%E4%BF%A1-%E5%87%BA%E7%8E%B0%E5%A4%A7%E5%AD%97%E6%8A%A5%E5%A3%B0%E6%8F%B4/a-43511099"
-        },
-        {
-          "label": "RFA",
-          "url": "https://www.rfa.org/mandarin/yataibaodao/kejiaowen/ql2-04242018100202.html"
-        },
-        {
-          "label": "VOA",
-          "url": "https://www.voachinese.com/a/pku-harassment-20180430/4371341.html"
-        },
-        {
-          "label": "知网检索：岳昕 北京大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%B2%B3%E6%98%95%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
-        }
-      ],
-      "sourceLinks": [
-        {
-          "label": "DW",
-          "url": "https://www.dw.com/zh/%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%81%AD%E6%A0%A1%E6%96%B9%E8%A6%81%E6%8C%9F%E5%8F%91%E5%85%AC%E5%BC%80%E4%BF%A1-%E5%87%BA%E7%8E%B0%E5%A4%A7%E5%AD%97%E6%8A%A5%E5%A3%B0%E6%8F%B4/a-43511099"
-        },
-        {
-          "label": "RFA",
-          "url": "https://www.rfa.org/mandarin/yataibaodao/kejiaowen/ql2-04242018100202.html"
-        },
-        {
-          "label": "VOA",
-          "url": "https://www.voachinese.com/a/pku-harassment-20180430/4371341.html"
-        }
-      ],
-      "photoLinks": [],
-      "paperLinks": [
-        {
-          "label": "知网检索：岳昕 北京大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%B2%B3%E6%98%95%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
-        }
-      ],
-      "displayName": "岳昕",
-      "credibility": "需核验"
-    },
-    {
-      "id": "e47",
+      "id": "e44",
       "section": "高舆论事件补充表",
       "subsection": "北京大学",
       "name": "翟天临",
@@ -3145,7 +3513,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e48",
+      "id": "e45",
       "section": "高舆论事件补充表",
       "subsection": "北京大学",
       "name": "王铭铭",
@@ -3203,17 +3571,17 @@
       "credibility": "较强"
     },
     {
-      "id": "e49",
+      "id": "e46",
       "section": "高舆论事件补充表",
       "subsection": "北京大学",
-      "name": "王晓龙；江林、陆晨光",
+      "name": "王晓龙",
       "school": "北京大学",
       "schoolRaw": "北京大学",
       "identity": "化学系学生",
       "year": "",
       "eventName": "北京大学铊投毒案",
-      "summary": "1997年北大化学系学生被投铊，公开资料称犯罪嫌疑人王晓龙被判刑。",
-      "impact": "与清华朱令案共同指向高校危化品管理和校园投毒恐惧。",
+      "summary": "1997年北大化学系发生铊投毒案，公开资料称犯罪嫌疑人王晓龙被判刑。",
+      "impact": "高校危化品管理、实验室安全和校园投毒风险被共同讨论。",
       "nature": "投毒 / 校园刑事案",
       "sourcesMarkdown": "[国家教委危化品通知](https://zh.wikisource.org/zh/%E5%9B%BD%E5%AE%B6%E6%95%99%E8%82%B2%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E5%AD%A6%E6%A0%A1%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8C%96%E5%AD%A6%E5%8D%B1%E9%99%A9%E5%93%81%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5)；[中新网高校投毒盘点](https://www.chinanews.com.cn/edu/2013/04-17/4737161.shtml)；[第一财经盘点](https://www.yicai.com/news/2635409.html)",
       "photoMarkdown": "待核",
@@ -3261,65 +3629,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e50",
-      "section": "高舆论事件补充表",
-      "subsection": "北京大学",
-      "name": "邱占萱；北大马克思主义学会公开当事人",
-      "school": "北京大学",
-      "schoolRaw": "北京大学",
-      "identity": "邱占萱：化学与分子工程学院保送生，后转社会学系；学生社团负责人",
-      "year": "",
-      "eventName": "北大马会/佳士声援相关争议",
-      "summary": "社团注册、改组、学生社会行动引发国际媒体关注。",
-      "impact": "高校社团自治、学生政治表达和校园管理边界被讨论。",
-      "nature": "校园社团 / 公共舆论争议",
-      "sourcesMarkdown": "[北大马会资料页](https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%AD%A6%E4%BC%9A)；[佳士事件资料页](https://zh.wikipedia.org/wiki/%E4%BD%B3%E5%A3%AB%E4%BA%8B%E4%BB%B6)；[邱占萱资料页](https://zh.wikipedia.org/wiki/%E9%82%B1%E5%8D%A0%E8%90%B1)",
-      "photoMarkdown": "待核",
-      "paperMarkdown": "待核",
-      "links": [
-        {
-          "label": "北大马会资料页",
-          "url": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%AD%A6%E4%BC%9A"
-        },
-        {
-          "label": "佳士事件资料页",
-          "url": "https://zh.wikipedia.org/wiki/%E4%BD%B3%E5%A3%AB%E4%BA%8B%E4%BB%B6"
-        },
-        {
-          "label": "邱占萱资料页",
-          "url": "https://zh.wikipedia.org/wiki/%E9%82%B1%E5%8D%A0%E8%90%B1"
-        },
-        {
-          "label": "知网检索：邱占萱；北大马克思主义学会公开当事人 北京大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%82%B1%E5%8D%A0%E8%90%B1%EF%BC%9B%E5%8C%97%E5%A4%A7%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%AD%A6%E4%BC%9A%E5%85%AC%E5%BC%80%E5%BD%93%E4%BA%8B%E4%BA%BA%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
-        }
-      ],
-      "sourceLinks": [
-        {
-          "label": "北大马会资料页",
-          "url": "https://zh.wikipedia.org/wiki/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%AD%A6%E4%BC%9A"
-        },
-        {
-          "label": "佳士事件资料页",
-          "url": "https://zh.wikipedia.org/wiki/%E4%BD%B3%E5%A3%AB%E4%BA%8B%E4%BB%B6"
-        },
-        {
-          "label": "邱占萱资料页",
-          "url": "https://zh.wikipedia.org/wiki/%E9%82%B1%E5%8D%A0%E8%90%B1"
-        }
-      ],
-      "photoLinks": [],
-      "paperLinks": [
-        {
-          "label": "知网检索：邱占萱；北大马克思主义学会公开当事人 北京大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%82%B1%E5%8D%A0%E8%90%B1%EF%BC%9B%E5%8C%97%E5%A4%A7%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%AD%A6%E4%BC%9A%E5%85%AC%E5%BC%80%E5%BD%93%E4%BA%8B%E4%BA%BA%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
-        }
-      ],
-      "displayName": "邱占萱；北大马克思主义学会公开当事人",
-      "credibility": "需核验"
-    },
-    {
-      "id": "e51",
+      "id": "e47",
       "section": "高舆论事件补充表",
       "subsection": "浙江大学",
       "name": "贺海波",
@@ -3377,7 +3687,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e52",
+      "id": "e48",
       "section": "高舆论事件补充表",
       "subsection": "上海交通大学",
       "name": "田源",
@@ -3431,7 +3741,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e53",
+      "id": "e49",
       "section": "高舆论事件补充表",
       "subsection": "上海交通大学",
       "name": "李奇峰、马杰、励峰",
@@ -3489,7 +3799,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e54",
+      "id": "e50",
       "section": "高舆论事件补充表",
       "subsection": "上海交通大学",
       "name": "谢耘耕",
@@ -3531,7 +3841,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e55",
+      "id": "e51",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "邵某 / 邵某峰",
@@ -3576,11 +3886,11 @@
       ],
       "photoLinks": [],
       "paperLinks": [],
-      "displayName": "邵某 / 邵某峰",
+      "displayName": "邵某（被举报教师）",
       "credibility": "需核验"
     },
     {
-      "id": "e56",
+      "id": "e52",
       "section": "高舆论事件补充表",
       "subsection": "复旦大学",
       "name": "“复旦十八驴” / 侯盼",
@@ -3647,7 +3957,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e57",
+      "id": "e53",
       "section": "高舆论事件补充表",
       "subsection": "复旦大学",
       "name": "姜文华",
@@ -3657,8 +3967,8 @@
       "year": "",
       "eventName": "复旦数学学院杀人案",
       "summary": "2021年杀害学院党委书记王永珍；2024年上海二中院一审判处死缓并限制减刑。",
-      "impact": "高校预聘制、科研考核、院系治理与恶性刑案被共同讨论。",
-      "nature": "刑事案件 / 校园治理争议",
+      "impact": "高校预聘制、科研考核、院系管理与恶性刑案被共同讨论。",
+      "nature": "刑事案件 / 高校管理争议",
       "sourcesMarkdown": "[央视开庭](https://news.cctv.com/2023/05/23/ARTI3L0CvlV47f34pAWZwbSk230523.shtml)；[每日经济新闻转法院宣判](https://www.nbd.com.cn/articles/2024-02-01/3232482.html)",
       "photoMarkdown": "待核",
       "paperMarkdown": "待核",
@@ -3697,7 +4007,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e58",
+      "id": "e54",
       "section": "高舆论事件补充表",
       "subsection": "南京大学",
       "name": "梁莹",
@@ -3747,7 +4057,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e59",
+      "id": "e55",
       "section": "高舆论事件补充表",
       "subsection": "南京大学",
       "name": "沈阳",
@@ -3788,7 +4098,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e60",
+      "id": "e56",
       "section": "高舆论事件补充表",
       "subsection": "南京大学",
       "name": "王欣",
@@ -3838,7 +4148,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e61",
+      "id": "e57",
       "section": "高舆论事件补充表",
       "subsection": "华中科技大学",
       "name": "张某某",
@@ -3879,40 +4189,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e62",
-      "section": "高舆论事件补充表",
-      "subsection": "华中科技大学",
-      "name": "陈某某",
-      "school": "华中科技大学",
-      "schoolRaw": "华中科技大学",
-      "identity": "计算机学院2016级专业硕士生",
-      "year": "",
-      "eventName": "华科研究生坠楼事件",
-      "summary": "2019年9月2日坠楼身亡，警方初步排除他杀；网传遗文涉及研究生培养和导师关系争议。",
-      "impact": "导师制、延期毕业、研究生心理压力议题叠加。",
-      "nature": "校园安全 / 研究生培养争议",
-      "sourcesMarkdown": "[人民网/新浪湖北校方说明](https://hb.sina.com.cn/news/b/2019-09-06/detail-iicezueu3790269.shtml)",
-      "photoMarkdown": "隐私保护，暂列官方匿名",
-      "paperMarkdown": "无可列",
-      "links": [
-        {
-          "label": "人民网/新浪湖北校方说明",
-          "url": "https://hb.sina.com.cn/news/b/2019-09-06/detail-iicezueu3790269.shtml"
-        }
-      ],
-      "sourceLinks": [
-        {
-          "label": "人民网/新浪湖北校方说明",
-          "url": "https://hb.sina.com.cn/news/b/2019-09-06/detail-iicezueu3790269.shtml"
-        }
-      ],
-      "photoLinks": [],
-      "paperLinks": [],
-      "displayName": "陈某某",
-      "credibility": "需核验"
-    },
-    {
-      "id": "e63",
+      "id": "e58",
       "section": "高舆论事件补充表",
       "subsection": "华中科技大学",
       "name": "肖传国",
@@ -3962,7 +4239,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e64",
+      "id": "e59",
       "section": "高舆论事件补充表",
       "subsection": "华中科技大学",
       "name": "李一男",
@@ -4012,18 +4289,18 @@
       "credibility": "较强"
     },
     {
-      "id": "e65",
+      "id": "e60",
       "section": "高舆论事件补充表",
       "subsection": "西安交通大学",
-      "name": "杨宝德 / 周筠",
+      "name": "周筠",
       "school": "西安交通大学",
       "schoolRaw": "西安交通大学",
-      "identity": "杨宝德：博士生；周筠：博士生导师",
+      "identity": "博士生导师",
       "year": "",
-      "eventName": "“寒门博士之死”",
-      "summary": "杨宝德2017年底溺亡；其导师周筠被质疑压榨学生，学校取消其研究生招生资格等处理引发家属争议。",
+      "eventName": "“寒门博士之死”导师失范争议",
+      "summary": "杨宝德2017年底溺亡后，其导师周筠被质疑压榨学生，学校取消其研究生招生资格等处理引发家属争议。",
       "impact": "研究生导师制、寒门学生、师生权力关系成为标志性讨论。",
-      "nature": "校园安全 / 导师失范争议",
+      "nature": "导师失范争议 / 研究生培养争议",
       "sourcesMarkdown": "[界面新闻](https://www.jiemian.com/article/1903675.html)",
       "photoMarkdown": "暂无可靠官方照片页",
       "paperMarkdown": "无可列",
@@ -4045,7 +4322,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e66",
+      "id": "e61",
       "section": "高舆论事件补充表",
       "subsection": "西安交通大学",
       "name": "李连生",
@@ -4087,7 +4364,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e67",
+      "id": "e62",
       "section": "第三轮检索增补",
       "subsection": "西安交通大学",
       "name": "王建辉 / 王某某",
@@ -4145,7 +4422,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e68",
+      "id": "e63",
       "section": "高舆论事件补充表",
       "subsection": "西安交通大学",
       "name": "张汉荣",
@@ -4183,7 +4460,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e69",
+      "id": "e64",
       "section": "高舆论事件补充表",
       "subsection": "西安交通大学",
       "name": "强小安",
@@ -4216,7 +4493,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e70",
+      "id": "e65",
       "section": "高舆论事件补充表",
       "subsection": "西安交通大学",
       "name": "张曙光",
@@ -4266,7 +4543,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e71",
+      "id": "e66",
       "section": "第三轮检索增补",
       "subsection": "清华大学",
       "name": "刘辉",
@@ -4317,7 +4594,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e72",
+      "id": "e67",
       "section": "第三轮检索增补",
       "subsection": "清华大学",
       "name": "张生家",
@@ -4375,7 +4652,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e73",
+      "id": "e68",
       "section": "第三轮检索增补",
       "subsection": "清华大学",
       "name": "陈立人",
@@ -4434,7 +4711,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e74",
+      "id": "e69",
       "section": "第三轮检索增补",
       "subsection": "清华大学",
       "name": "陈丹蕾",
@@ -4484,7 +4761,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e75",
+      "id": "e70",
       "section": "第三轮检索增补",
       "subsection": "清华大学",
       "name": "高晓松",
@@ -4538,7 +4815,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e76",
+      "id": "e71",
       "section": "第三轮检索增补",
       "subsection": "北京大学",
       "name": "卢刚",
@@ -4596,7 +4873,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e77",
+      "id": "e72",
       "section": "第三轮检索增补",
       "subsection": "北京大学",
       "name": "李天乐",
@@ -4606,7 +4883,7 @@
       "year": "",
       "eventName": "留美北大化学师铊杀清华丈夫案",
       "summary": "新泽西州法院判处李天乐终身监禁，案件涉及以铊毒害丈夫王晓业。",
-      "impact": "铊投毒、北大/清华背景、海外华人家庭悲剧，与朱令案形成舆论联想。",
+      "impact": "铊投毒、北大/清华背景和海外华人家庭悲剧形成舆论联想。",
       "nature": "刑事案件 / 已判",
       "sourcesMarkdown": "[UPI判决](https://www.upi.com/Top_News/US/2013/09/30/Woman-sentenced-to-life-in-prison-for-thallium-poisoning-of-husband/67381380572485/)；[CBS定罪](https://www.cbsnews.com/news/tianle-li-nj-chemist-convicted-of-fatally-poisoning-husband/)；[科学网中文报道](https://news.sciencenet.cn/htmlnews/2013/10/283370.shtm)",
       "photoMarkdown": "待核",
@@ -4654,7 +4931,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e78",
+      "id": "e73",
       "section": "第三轮检索增补",
       "subsection": "北京大学",
       "name": "陈春花",
@@ -4709,7 +4986,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e79",
+      "id": "e74",
       "section": "第三轮检索增补",
       "subsection": "北京大学",
       "name": "王登峰",
@@ -4772,7 +5049,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e80",
+      "id": "e75",
       "section": "第三轮检索增补",
       "subsection": "北京大学",
       "name": "付某 / 付睿琦",
@@ -4813,7 +5090,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e81",
+      "id": "e76",
       "section": "第三轮检索增补",
       "subsection": "浙江大学",
       "name": "吴理茂",
@@ -4855,7 +5132,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e82",
+      "id": "e77",
       "section": "第三轮检索增补",
       "subsection": "上海交通大学",
       "name": "陈进",
@@ -4905,7 +5182,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e83",
+      "id": "e78",
       "section": "第三轮检索增补",
       "subsection": "上海交通大学",
       "name": "倪冰冰",
@@ -4960,7 +5237,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e84",
+      "id": "e79",
       "section": "第三轮检索增补",
       "subsection": "上海交通大学",
       "name": "陈欣",
@@ -5015,66 +5292,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e85",
-      "section": "第三轮检索增补",
-      "subsection": "复旦大学",
-      "name": "张文宏",
-      "school": "复旦大学",
-      "schoolRaw": "复旦大学",
-      "identity": "复旦大学附属华山医院感染科主任、教授；原上海医科大学博士",
-      "year": "",
-      "eventName": "张文宏博士论文举报争议",
-      "summary": "复旦学术规范委员会调查认定其博士论文符合当年要求，附录综述部分存在写作不规范。",
-      "impact": "抗疫公众人物、“与病毒共存”争议和博士论文举报叠加，舆论强度极高。",
-      "nature": "学术规范争议 / 校方核查",
-      "sourcesMarkdown": "[新华网](https://www.news.cn/politics/2021-08/23/c_1127787335.htm)；[联合早报](https://www.zaobao.com.sg/news/china/story20210816-1182642)",
-      "photoMarkdown": "[复旦校报PDF含图信息](https://www.fudan.edu.cn/_upload/article/files/a7/b0/8ec8b7e948518cf4ae1890e3821c/6939c9fe-8eec-47f7-9def-5c6c1d2d7ee8.pdf)",
-      "paperMarkdown": "学生时期论文即被举报博士学位论文；公开网页仅见调查结论摘要",
-      "links": [
-        {
-          "label": "新华网",
-          "url": "https://www.news.cn/politics/2021-08/23/c_1127787335.htm"
-        },
-        {
-          "label": "联合早报",
-          "url": "https://www.zaobao.com.sg/news/china/story20210816-1182642"
-        },
-        {
-          "label": "复旦校报PDF含图信息",
-          "url": "https://www.fudan.edu.cn/_upload/article/files/a7/b0/8ec8b7e948518cf4ae1890e3821c/6939c9fe-8eec-47f7-9def-5c6c1d2d7ee8.pdf"
-        },
-        {
-          "label": "知网检索：张文宏 复旦大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%BC%A0%E6%96%87%E5%AE%8F%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
-        }
-      ],
-      "sourceLinks": [
-        {
-          "label": "新华网",
-          "url": "https://www.news.cn/politics/2021-08/23/c_1127787335.htm"
-        },
-        {
-          "label": "联合早报",
-          "url": "https://www.zaobao.com.sg/news/china/story20210816-1182642"
-        }
-      ],
-      "photoLinks": [
-        {
-          "label": "复旦校报PDF含图信息",
-          "url": "https://www.fudan.edu.cn/_upload/article/files/a7/b0/8ec8b7e948518cf4ae1890e3821c/6939c9fe-8eec-47f7-9def-5c6c1d2d7ee8.pdf"
-        }
-      ],
-      "paperLinks": [
-        {
-          "label": "知网检索：张文宏 复旦大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%BC%A0%E6%96%87%E5%AE%8F%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
-        }
-      ],
-      "displayName": "张文宏",
-      "credibility": "需核验"
-    },
-    {
-      "id": "e86",
+      "id": "e80",
       "section": "第三轮检索增补",
       "subsection": "复旦大学",
       "name": "郑筱萸",
@@ -5137,60 +5355,10 @@
       "credibility": "较强"
     },
     {
-      "id": "e87",
+      "id": "e81",
       "section": "第三轮检索增补",
       "subsection": "南京大学",
-      "name": "周恒",
-      "school": "南京大学",
-      "schoolRaw": "南京大学",
-      "identity": "南京大学政府管理学院工作人员/校友关联",
-      "year": "",
-      "eventName": "周恒被举报事件",
-      "summary": "网传其存在多项问题；南京大学调查通报称相关举报材料存在伪造，未发现论文抄袭等学术不端。",
-      "impact": "社交媒体传播极广，牵涉师德、学术诚信、校园权力关系等议题。",
-      "nature": "公开举报争议 / 校方澄清",
-      "sourcesMarkdown": "[新浪转载南大通报](https://news.sina.com.cn/s/2022-12-29/doc-imxyixrz7789770.shtml)；[界面新闻线索](https://www.jiemian.com/article/8671870.html)",
-      "photoMarkdown": "报道页含通报图",
-      "paperMarkdown": "举报涉及论文；校方通报称未发现抄袭等学术不端",
-      "links": [
-        {
-          "label": "新浪转载南大通报",
-          "url": "https://news.sina.com.cn/s/2022-12-29/doc-imxyixrz7789770.shtml"
-        },
-        {
-          "label": "界面新闻线索",
-          "url": "https://www.jiemian.com/article/8671870.html"
-        },
-        {
-          "label": "知网检索：周恒 南京大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%91%A8%E6%81%92%20%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
-        }
-      ],
-      "sourceLinks": [
-        {
-          "label": "新浪转载南大通报",
-          "url": "https://news.sina.com.cn/s/2022-12-29/doc-imxyixrz7789770.shtml"
-        },
-        {
-          "label": "界面新闻线索",
-          "url": "https://www.jiemian.com/article/8671870.html"
-        }
-      ],
-      "photoLinks": [],
-      "paperLinks": [
-        {
-          "label": "知网检索：周恒 南京大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%91%A8%E6%81%92%20%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
-        }
-      ],
-      "displayName": "周恒",
-      "credibility": "需核验"
-    },
-    {
-      "id": "e88",
-      "section": "第三轮检索增补",
-      "subsection": "南京大学",
-      "name": "王牧 / 闻海虎",
+      "name": "闻海虎",
       "school": "南京大学",
       "schoolRaw": "南京大学",
       "identity": "南京大学物理学院教授",
@@ -5245,7 +5413,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e89",
+      "id": "e82",
       "section": "第三轮检索增补",
       "subsection": "南京大学",
       "name": "朱涵",
@@ -5295,7 +5463,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e90",
+      "id": "e83",
       "section": "第三轮检索增补",
       "subsection": "南京大学",
       "name": "施毅等论文作者",
@@ -5333,7 +5501,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e91",
+      "id": "e84",
       "section": "第三轮检索增补",
       "subsection": "南京大学",
       "name": "仇子明 / “辣笔小球”",
@@ -5383,7 +5551,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e92",
+      "id": "e85",
       "section": "第三轮检索增补",
       "subsection": "中国科学技术大学",
       "name": "姚雪彪",
@@ -5438,49 +5606,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e93",
-      "section": "第三轮检索增补",
-      "subsection": "中国科学技术大学",
-      "name": "方励之",
-      "school": "中国科学技术大学",
-      "schoolRaw": "中国科学技术大学",
-      "identity": "原中国科大副校长、物理学家",
-      "year": "",
-      "eventName": "方励之政治争议",
-      "summary": "1980年代因公共言论和政治风波成为高度敏感人物，曾被撤销党内外职务。",
-      "impact": "高校思想政治、知识分子公共表达、重大历史事件长期受到关注。",
-      "nature": "历史公共争议 / 政治处分",
-      "sourcesMarkdown": "[人民日报资料线索](https://www.laoziliao.net/rmrb/1987-01-20-1)",
-      "photoMarkdown": "官方稳定图页待补强",
-      "paperMarkdown": "学生时期论文公开稳定页待补强",
-      "links": [
-        {
-          "label": "人民日报资料线索",
-          "url": "https://www.laoziliao.net/rmrb/1987-01-20-1"
-        },
-        {
-          "label": "知网检索：方励之 中国科学技术大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%96%B9%E5%8A%B1%E4%B9%8B%20%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6"
-        }
-      ],
-      "sourceLinks": [
-        {
-          "label": "人民日报资料线索",
-          "url": "https://www.laoziliao.net/rmrb/1987-01-20-1"
-        }
-      ],
-      "photoLinks": [],
-      "paperLinks": [
-        {
-          "label": "知网检索：方励之 中国科学技术大学",
-          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%96%B9%E5%8A%B1%E4%B9%8B%20%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6"
-        }
-      ],
-      "displayName": "方励之",
-      "credibility": "需核验"
-    },
-    {
-      "id": "e94",
+      "id": "e86",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "张正波",
@@ -5555,7 +5681,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e95",
+      "id": "e87",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "万宏伟",
@@ -5614,7 +5740,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e96",
+      "id": "e88",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "李新元",
@@ -5677,7 +5803,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e97",
+      "id": "e89",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "张坚",
@@ -5740,7 +5866,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e98",
+      "id": "e90",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "李世镕",
@@ -5795,7 +5921,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e99",
+      "id": "e91",
       "section": "第三轮检索增补",
       "subsection": "华中科技大学",
       "name": "李爱庆",
@@ -5842,7 +5968,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e100",
+      "id": "e92",
       "section": "第三轮检索增补",
       "subsection": "西安交通大学",
       "name": "周凯旋",
@@ -5892,7 +6018,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e101",
+      "id": "e93",
       "section": "第三轮检索增补",
       "subsection": "西安交通大学",
       "name": "王文学",
@@ -5942,7 +6068,7 @@
       "credibility": "较强"
     },
     {
-      "id": "e102",
+      "id": "e94",
       "section": "第三轮检索增补",
       "subsection": "候选待补强",
       "name": "李兴华",
@@ -5984,7 +6110,7 @@
       "credibility": "候选待补强"
     },
     {
-      "id": "e103",
+      "id": "e95",
       "section": "第三轮检索增补",
       "subsection": "候选待补强",
       "name": "李堂堂",
@@ -6026,7 +6152,7 @@
       "credibility": "候选待补强"
     },
     {
-      "id": "e104",
+      "id": "e96",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "清华外校冲突学生（公开称谓）",
@@ -6067,7 +6193,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e105",
+      "id": "e97",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "夏某某",
@@ -6116,7 +6242,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e106",
+      "id": "e98",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王灿",
@@ -6174,7 +6300,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e107",
+      "id": "e99",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "田某 / 小田",
@@ -6228,7 +6354,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e108",
+      "id": "e100",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "陈某某、葛某、李某",
@@ -6277,7 +6403,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e109",
+      "id": "e101",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "吴宏翔",
@@ -6332,7 +6458,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e110",
+      "id": "e102",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "仇思隽",
@@ -6390,7 +6516,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e111",
+      "id": "e103",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "薛晨",
@@ -6453,7 +6579,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e112",
+      "id": "e104",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "玄一",
@@ -6508,7 +6634,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e113",
+      "id": "e105",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "方某",
@@ -6557,7 +6683,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e114",
+      "id": "e106",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "浙江大学经济学院项目负责教师（媒体报道提及王清风）",
@@ -6606,7 +6732,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e115",
+      "id": "e107",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "何某某",
@@ -6655,7 +6781,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e116",
+      "id": "e108",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王某某（中信建投研学学生）",
@@ -6704,7 +6830,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e117",
+      "id": "e109",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "韩承轩 Chengxuan Han",
@@ -6762,7 +6888,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e118",
+      "id": "e110",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王腾",
@@ -6833,7 +6959,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e119",
+      "id": "e111",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "赵伟国",
@@ -6900,7 +7026,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e120",
+      "id": "e112",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "高材林",
@@ -6963,7 +7089,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e121",
+      "id": "e113",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "马宁宇",
@@ -7026,7 +7152,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e122",
+      "id": "e114",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "杨亚俊",
@@ -7089,7 +7215,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e123",
+      "id": "e115",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "Charles M. Lieber / 查尔斯·利伯",
@@ -7156,7 +7282,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e124",
+      "id": "e116",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "吴勇",
@@ -7223,7 +7349,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e125",
+      "id": "e117",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "清华违规报备入校牟利相关人员（公开称谓）",
@@ -7277,7 +7403,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e126",
+      "id": "e118",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "方红卫",
@@ -7348,7 +7474,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e127",
+      "id": "e119",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "北大软微2024级男硕士（公开称谓）",
@@ -7402,7 +7528,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e128",
+      "id": "e120",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "北京大学违规预约校友（公开称谓）",
@@ -7456,7 +7582,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e129",
+      "id": "e121",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "叶寒冰",
@@ -7519,7 +7645,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e130",
+      "id": "e122",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "曹全民",
@@ -7574,7 +7700,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e131",
+      "id": "e123",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "严同学（公开称谓）",
@@ -7636,7 +7762,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e132",
+      "id": "e124",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "楼某某",
@@ -7690,7 +7816,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e133",
+      "id": "e125",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "诸自强",
@@ -7753,7 +7879,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e134",
+      "id": "e126",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "程某华",
@@ -7794,7 +7920,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e135",
+      "id": "e127",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "徐某（科研经费套取人员）",
@@ -7835,7 +7961,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e136",
+      "id": "e128",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "孟某",
@@ -7884,7 +8010,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e137",
+      "id": "e129",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "黄培坚",
@@ -7942,7 +8068,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e138",
+      "id": "e130",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王鹏",
@@ -8000,7 +8126,7 @@
       "credibility": "候选待补强"
     },
     {
-      "id": "e139",
+      "id": "e131",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "沈健",
@@ -8055,7 +8181,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e140",
+      "id": "e132",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "刘赛连",
@@ -8105,7 +8231,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e141",
+      "id": "e133",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "王某某 / “萌心涌动NJU”",
@@ -8163,7 +8289,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e142",
+      "id": "e134",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "徐湖平",
@@ -8226,7 +8352,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e143",
+      "id": "e135",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "张康之",
@@ -8292,7 +8418,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e144",
+      "id": "e136",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "何某某（中国科大推免拟录取对象）",
@@ -8333,7 +8459,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e145",
+      "id": "e137",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "季子越",
@@ -8375,7 +8501,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e146",
+      "id": "e138",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "苏俊",
@@ -8417,7 +8543,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e147",
+      "id": "e139",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "许安",
@@ -8480,7 +8606,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e148",
+      "id": "e140",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "陈晓军 / 范维澄",
@@ -8531,7 +8657,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e149",
+      "id": "e141",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "Qiushi Wu",
@@ -8590,7 +8716,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e150",
+      "id": "e142",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "徐某某",
@@ -8639,7 +8765,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e151",
+      "id": "e143",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "郭某（原西安交大学生）/ 王某",
@@ -8688,7 +8814,7 @@
       "credibility": "需核验"
     },
     {
-      "id": "e152",
+      "id": "e144",
       "section": "第四轮新近争议补充",
       "subsection": "",
       "name": "秦某某（西安交大原后勤职工）",
@@ -8719,6 +8845,1903 @@
       "paperLinks": [],
       "displayName": "秦某某（西安交大原后勤职工）",
       "credibility": "需核验"
+    },
+    {
+      "id": "e145",
+      "section": "第五轮权威来源增补",
+      "subsection": "清华大学",
+      "name": "肖明辉",
+      "school": "清华大学",
+      "schoolRaw": "清华大学",
+      "identity": "土木系硕士研究生，2006年获工学硕士",
+      "year": "",
+      "eventName": "海南洋浦原副局长肖明辉受贿案",
+      "summary": "海南省二中院一审认定肖明辉利用职务便利伙同他人收受财物，以受贿罪判处无期徒刑。",
+      "impact": "“80后清华硕士副局长”、工程项目腐败和年轻干部权力失控形成传播点。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[中国经济网](https://district.ce.cn/newarea/sddy/201210/12/t20121012_23750325.shtml)；[观察者网转南海网](https://www.guancha.cn/society/2012_10_15_103779.shtml)；[共产党员网](https://news.12371.cn/2012/10/18/ARTI1350538135725403.shtml)",
+      "photoMarkdown": "[共产党员网含资料图](https://news.12371.cn/2012/10/18/ARTI1350538135725403.shtml)",
+      "paperMarkdown": "知网待核；检索词：肖明辉 清华大学 土木系 硕士",
+      "links": [
+        {
+          "label": "中国经济网",
+          "url": "https://district.ce.cn/newarea/sddy/201210/12/t20121012_23750325.shtml"
+        },
+        {
+          "label": "观察者网转南海网",
+          "url": "https://www.guancha.cn/society/2012_10_15_103779.shtml"
+        },
+        {
+          "label": "共产党员网",
+          "url": "https://news.12371.cn/2012/10/18/ARTI1350538135725403.shtml"
+        },
+        {
+          "label": "知网检索：肖明辉 清华大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E8%82%96%E6%98%8E%E8%BE%89%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中国经济网",
+          "url": "https://district.ce.cn/newarea/sddy/201210/12/t20121012_23750325.shtml"
+        },
+        {
+          "label": "观察者网转南海网",
+          "url": "https://www.guancha.cn/society/2012_10_15_103779.shtml"
+        },
+        {
+          "label": "共产党员网",
+          "url": "https://news.12371.cn/2012/10/18/ARTI1350538135725403.shtml"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "共产党员网含资料图",
+          "url": "https://news.12371.cn/2012/10/18/ARTI1350538135725403.shtml"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：肖明辉 清华大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E8%82%96%E6%98%8E%E8%BE%89%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "肖明辉",
+      "credibility": "较强"
+    },
+    {
+      "id": "e146",
+      "section": "第五轮权威来源增补",
+      "subsection": "北京大学",
+      "name": "孟宏伟",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "法律系法律专业，法学学士；毕业年份待核",
+      "year": "",
+      "eventName": "公安部原副部长孟宏伟受贿案",
+      "summary": "天津一中院以受贿罪判处孟宏伟有期徒刑13年6个月，并处罚金。",
+      "impact": "国际刑警组织主席、公安部副部长身份和高层反腐叠加，舆论关注度高。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[中国政府网/新华社](https://www.gov.cn/xinwen/2020-01/21/content_5471296.htm)；[中央纪委国家监委](https://m.ccdi.gov.cn/content/33/0a/41342.html)；[中国经济网简历](https://district.ce.cn/newarea/sddy/201904/24/t20190424_31932953.shtml)",
+      "photoMarkdown": "[央视庭审图文](https://m.news.cctv.com/2019/06/20/ARTIGfkqSzoB6AwNBnhwweHw190620.shtml)",
+      "paperMarkdown": "知网待核；检索词：孟宏伟 北京大学 法律系",
+      "links": [
+        {
+          "label": "中国政府网/新华社",
+          "url": "https://www.gov.cn/xinwen/2020-01/21/content_5471296.htm"
+        },
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://m.ccdi.gov.cn/content/33/0a/41342.html"
+        },
+        {
+          "label": "中国经济网简历",
+          "url": "https://district.ce.cn/newarea/sddy/201904/24/t20190424_31932953.shtml"
+        },
+        {
+          "label": "央视庭审图文",
+          "url": "https://m.news.cctv.com/2019/06/20/ARTIGfkqSzoB6AwNBnhwweHw190620.shtml"
+        },
+        {
+          "label": "知网检索：孟宏伟 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%AD%9F%E5%AE%8F%E4%BC%9F%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中国政府网/新华社",
+          "url": "https://www.gov.cn/xinwen/2020-01/21/content_5471296.htm"
+        },
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://m.ccdi.gov.cn/content/33/0a/41342.html"
+        },
+        {
+          "label": "中国经济网简历",
+          "url": "https://district.ce.cn/newarea/sddy/201904/24/t20190424_31932953.shtml"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "央视庭审图文",
+          "url": "https://m.news.cctv.com/2019/06/20/ARTIGfkqSzoB6AwNBnhwweHw190620.shtml"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：孟宏伟 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%AD%9F%E5%AE%8F%E4%BC%9F%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "孟宏伟",
+      "credibility": "较强"
+    },
+    {
+      "id": "e147",
+      "section": "第五轮权威来源增补",
+      "subsection": "北京大学",
+      "name": "项俊波",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "北京大学博士；专业和毕业年份待核",
+      "year": "",
+      "eventName": "原保监会主席项俊波受贿案",
+      "summary": "常州中院以受贿罪判处项俊波有期徒刑11年，并处罚金。",
+      "impact": "金融监管高官、保监会主席落马和金融系统反腐引发持续关注。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[央视网宣判](https://news.cctv.com/2020/06/16/ARTIdulKLSmewRsqEvANhY3E200616.shtml)；[央视网简历](https://news.cctv.com/2017/04/09/ARTIRYD930kMAKdd2r2OpqdX170409.shtml)；[新华网庭审](https://www.xinhuanet.com/politics/2018-06/14/c_1122987313_2.htm)",
+      "photoMarkdown": "[新华网庭审图](https://www.xinhuanet.com/politics/2018-06/14/c_1122987313_2.htm)",
+      "paperMarkdown": "知网待核；检索词：项俊波 北京大学 博士论文",
+      "links": [
+        {
+          "label": "央视网宣判",
+          "url": "https://news.cctv.com/2020/06/16/ARTIdulKLSmewRsqEvANhY3E200616.shtml"
+        },
+        {
+          "label": "央视网简历",
+          "url": "https://news.cctv.com/2017/04/09/ARTIRYD930kMAKdd2r2OpqdX170409.shtml"
+        },
+        {
+          "label": "新华网庭审",
+          "url": "https://www.xinhuanet.com/politics/2018-06/14/c_1122987313_2.htm"
+        },
+        {
+          "label": "知网检索：项俊波 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%A1%B9%E4%BF%8A%E6%B3%A2%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网宣判",
+          "url": "https://news.cctv.com/2020/06/16/ARTIdulKLSmewRsqEvANhY3E200616.shtml"
+        },
+        {
+          "label": "央视网简历",
+          "url": "https://news.cctv.com/2017/04/09/ARTIRYD930kMAKdd2r2OpqdX170409.shtml"
+        },
+        {
+          "label": "新华网庭审",
+          "url": "https://www.xinhuanet.com/politics/2018-06/14/c_1122987313_2.htm"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "新华网庭审图",
+          "url": "https://www.xinhuanet.com/politics/2018-06/14/c_1122987313_2.htm"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：项俊波 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%A1%B9%E4%BF%8A%E6%B3%A2%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "项俊波",
+      "credibility": "较强"
+    },
+    {
+      "id": "e148",
+      "section": "第五轮权威来源增补",
+      "subsection": "北京大学",
+      "name": "童道驰",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "经济管理系国民经济管理专业，本科，1988年毕业",
+      "year": "",
+      "eventName": "童道驰受贿、内幕交易案",
+      "summary": "深圳中院以受贿罪、内幕交易罪判处童道驰死刑缓期二年执行。",
+      "impact": "海南省部级干部、2.74亿余元受贿额和内幕交易罪名共同形成高关注。",
+      "nature": "刑事案件 / 受贿 / 内幕交易",
+      "sourcesMarkdown": "[中央纪委国家监委简历](https://m.ccdi.gov.cn/content/c6/ce/76605.html)；[新华网庭审](https://www.news.cn/legal/2022-01/13/c_1128260076.htm)；[每日经济新闻转央视宣判](https://www.nbd.com.cn/articles/2308341.html)",
+      "photoMarkdown": "[新华网图文](https://www.xinhuanet.com/politics/2016-12/01/c_1120035576.htm)",
+      "paperMarkdown": "知网待核；检索词：童道驰 北京大学 国民经济管理",
+      "links": [
+        {
+          "label": "中央纪委国家监委简历",
+          "url": "https://m.ccdi.gov.cn/content/c6/ce/76605.html"
+        },
+        {
+          "label": "新华网庭审",
+          "url": "https://www.news.cn/legal/2022-01/13/c_1128260076.htm"
+        },
+        {
+          "label": "每日经济新闻转央视宣判",
+          "url": "https://www.nbd.com.cn/articles/2308341.html"
+        },
+        {
+          "label": "新华网图文",
+          "url": "https://www.xinhuanet.com/politics/2016-12/01/c_1120035576.htm"
+        },
+        {
+          "label": "知网检索：童道驰 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%AB%A5%E9%81%93%E9%A9%B0%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中央纪委国家监委简历",
+          "url": "https://m.ccdi.gov.cn/content/c6/ce/76605.html"
+        },
+        {
+          "label": "新华网庭审",
+          "url": "https://www.news.cn/legal/2022-01/13/c_1128260076.htm"
+        },
+        {
+          "label": "每日经济新闻转央视宣判",
+          "url": "https://www.nbd.com.cn/articles/2308341.html"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "新华网图文",
+          "url": "https://www.xinhuanet.com/politics/2016-12/01/c_1120035576.htm"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：童道驰 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%AB%A5%E9%81%93%E9%A9%B0%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "童道驰",
+      "credibility": "较强"
+    },
+    {
+      "id": "e149",
+      "section": "第五轮权威来源增补",
+      "subsection": "北京大学",
+      "name": "彭波",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "经济学院金融学专业，经济学博士；中文系新闻专业本科线索待核",
+      "year": "",
+      "eventName": "彭波受贿案",
+      "summary": "无锡中院以受贿罪判处彭波有期徒刑14年，并处罚金。",
+      "impact": "中央网信办、政法系统舆情治理和受贿案叠加，引发媒体关注。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[新华网/新华社宣判](https://www.news.cn/2022-11/24/c_1129157011.htm)；[中国青年报经新浪转载履历](https://finance.sina.cn/2021-08-17/detail-ikqcfncc3395977.d.html)",
+      "photoMarkdown": "[中国青年报经新浪图文](https://finance.sina.cn/2021-08-17/detail-ikqcfncc3395977.d.html)",
+      "paperMarkdown": "知网待核；检索词：彭波 北京大学经济学院 金融学 博士",
+      "links": [
+        {
+          "label": "新华网/新华社宣判",
+          "url": "https://www.news.cn/2022-11/24/c_1129157011.htm"
+        },
+        {
+          "label": "中国青年报经新浪转载履历",
+          "url": "https://finance.sina.cn/2021-08-17/detail-ikqcfncc3395977.d.html"
+        },
+        {
+          "label": "知网检索：彭波 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%BD%AD%E6%B3%A2%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "新华网/新华社宣判",
+          "url": "https://www.news.cn/2022-11/24/c_1129157011.htm"
+        },
+        {
+          "label": "中国青年报经新浪转载履历",
+          "url": "https://finance.sina.cn/2021-08-17/detail-ikqcfncc3395977.d.html"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "中国青年报经新浪图文",
+          "url": "https://finance.sina.cn/2021-08-17/detail-ikqcfncc3395977.d.html"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：彭波 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%BD%AD%E6%B3%A2%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "彭波",
+      "credibility": "较强"
+    },
+    {
+      "id": "e150",
+      "section": "第五轮权威来源增补",
+      "subsection": "北京大学",
+      "name": "奚晓明",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "法律系民法学硕士，1993年；经济法学在职博士，2002年",
+      "year": "",
+      "eventName": "最高法原副院长奚晓明受贿案",
+      "summary": "天津二中院以受贿罪判处奚晓明无期徒刑，并处没收个人全部财产。",
+      "impact": "最高法副院长落马、司法系统反腐和亿元级受贿额形成重大舆论冲击。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[中央纪委国家监委宣判](https://www.ccdi.gov.cn/yaowen/201702/t20170216_145749.html)；[中央纪委国家监委简历](https://m.ccdi.gov.cn/content/df/e3/4473.html?mType=Group)；[中新网庭审](https://www.chinanews.com.cn/m/gn/2017/01-10/8119663.shtml)",
+      "photoMarkdown": "[中新网庭审图](https://www.chinanews.com/2017/0110/2017110164647.jpg)",
+      "paperMarkdown": "知网待核；检索词：奚晓明 北京大学 经济法学 博士论文",
+      "links": [
+        {
+          "label": "中央纪委国家监委宣判",
+          "url": "https://www.ccdi.gov.cn/yaowen/201702/t20170216_145749.html"
+        },
+        {
+          "label": "中央纪委国家监委简历",
+          "url": "https://m.ccdi.gov.cn/content/df/e3/4473.html?mType=Group"
+        },
+        {
+          "label": "中新网庭审",
+          "url": "https://www.chinanews.com.cn/m/gn/2017/01-10/8119663.shtml"
+        },
+        {
+          "label": "中新网庭审图",
+          "url": "https://www.chinanews.com/2017/0110/2017110164647.jpg"
+        },
+        {
+          "label": "知网检索：奚晓明 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%A5%9A%E6%99%93%E6%98%8E%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中央纪委国家监委宣判",
+          "url": "https://www.ccdi.gov.cn/yaowen/201702/t20170216_145749.html"
+        },
+        {
+          "label": "中央纪委国家监委简历",
+          "url": "https://m.ccdi.gov.cn/content/df/e3/4473.html?mType=Group"
+        },
+        {
+          "label": "中新网庭审",
+          "url": "https://www.chinanews.com.cn/m/gn/2017/01-10/8119663.shtml"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "中新网庭审图",
+          "url": "https://www.chinanews.com/2017/0110/2017110164647.jpg"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：奚晓明 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%A5%9A%E6%99%93%E6%98%8E%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "奚晓明",
+      "credibility": "较强"
+    },
+    {
+      "id": "e151",
+      "section": "第五轮权威来源增补",
+      "subsection": "浙江大学",
+      "name": "周江勇",
+      "school": "浙江大学",
+      "schoolRaw": "浙江大学",
+      "identity": "工商管理硕士；毕业年份待核",
+      "year": "",
+      "eventName": "浙江省委原常委、杭州市委原书记周江勇受贿案",
+      "summary": "滁州中院以受贿罪判处周江勇死刑缓期二年执行，剥夺政治权利终身。",
+      "impact": "杭州市委书记、平台经济和家族资本线索长期被舆论讨论。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[新华网宣判](https://www.news.cn/local/2023-07/25/c_1129767465.htm)；[澎湃新闻图文](https://m.thepaper.cn/detail/23980392)",
+      "photoMarkdown": "[澎湃新闻图文](https://m.thepaper.cn/detail/23980392)",
+      "paperMarkdown": "知网待核；检索词：周江勇 浙江大学 工商管理硕士",
+      "links": [
+        {
+          "label": "新华网宣判",
+          "url": "https://www.news.cn/local/2023-07/25/c_1129767465.htm"
+        },
+        {
+          "label": "澎湃新闻图文",
+          "url": "https://m.thepaper.cn/detail/23980392"
+        },
+        {
+          "label": "知网检索：周江勇 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%91%A8%E6%B1%9F%E5%8B%87%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "新华网宣判",
+          "url": "https://www.news.cn/local/2023-07/25/c_1129767465.htm"
+        },
+        {
+          "label": "澎湃新闻图文",
+          "url": "https://m.thepaper.cn/detail/23980392"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "澎湃新闻图文",
+          "url": "https://m.thepaper.cn/detail/23980392"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：周江勇 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%91%A8%E6%B1%9F%E5%8B%87%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "周江勇",
+      "credibility": "较强"
+    },
+    {
+      "id": "e152",
+      "section": "第五轮权威来源增补",
+      "subsection": "浙江大学",
+      "name": "卢子跃",
+      "school": "浙江大学",
+      "schoolRaw": "浙江大学（原浙江农业大学线索待核）",
+      "identity": "高级管理人员工商管理硕士/浙江农业大学经历待核",
+      "year": "",
+      "eventName": "浙江省政府原党组成员、宁波市原市长卢子跃受贿案",
+      "summary": "珠海中院以受贿罪判处卢子跃无期徒刑，并处没收个人全部财产。",
+      "impact": "宁波市长、省政府党组成员和1.47亿余元受贿额形成高关注。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[中国政府网/新华社](https://www.gov.cn/xinwen/2017-05/31/content_5198589.htm)；[央视网庭审](https://m.news.cctv.com/2017/04/14/ARTILUZsQlks84C4FfkbEcfV170414.shtml)",
+      "photoMarkdown": "[央视网庭审页](https://m.news.cctv.com/2017/04/14/ARTILUZsQlks84C4FfkbEcfV170414.shtml)",
+      "paperMarkdown": "知网待核；检索词：卢子跃 浙江大学 EMBA",
+      "links": [
+        {
+          "label": "中国政府网/新华社",
+          "url": "https://www.gov.cn/xinwen/2017-05/31/content_5198589.htm"
+        },
+        {
+          "label": "央视网庭审",
+          "url": "https://m.news.cctv.com/2017/04/14/ARTILUZsQlks84C4FfkbEcfV170414.shtml"
+        },
+        {
+          "label": "知网检索：卢子跃 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8D%A2%E5%AD%90%E8%B7%83%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中国政府网/新华社",
+          "url": "https://www.gov.cn/xinwen/2017-05/31/content_5198589.htm"
+        },
+        {
+          "label": "央视网庭审",
+          "url": "https://m.news.cctv.com/2017/04/14/ARTILUZsQlks84C4FfkbEcfV170414.shtml"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "央视网庭审页",
+          "url": "https://m.news.cctv.com/2017/04/14/ARTILUZsQlks84C4FfkbEcfV170414.shtml"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：卢子跃 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%8D%A2%E5%AD%90%E8%B7%83%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "卢子跃",
+      "credibility": "较强"
+    },
+    {
+      "id": "e153",
+      "section": "第五轮权威来源增补",
+      "subsection": "浙江大学",
+      "name": "斯鑫良",
+      "school": "浙江大学",
+      "schoolRaw": "浙江大学（原浙江农业大学）",
+      "identity": "浙江农业大学畜牧兽医系；毕业年份待核",
+      "year": "",
+      "eventName": "浙江省政协原副主席斯鑫良受贿案",
+      "summary": "公开报道显示斯鑫良因受贿获刑13年，涉案财物1955万余元。",
+      "impact": "浙江省级官员腐败、组织系统任职经历和家风问题被媒体关注。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[央视网庭审](https://news.cctv.com/2016/08/18/ARTIZuReEcAaRb8fGv600nWy160818.shtml)；[中国经济网简历线索](https://district.ce.cn/newarea/sddy/201506/19/t20150619_5690462.shtml)",
+      "photoMarkdown": "暂无可靠官方肖像页",
+      "paperMarkdown": "知网待核；检索词：斯鑫良 浙江农业大学 畜牧兽医系",
+      "links": [
+        {
+          "label": "央视网庭审",
+          "url": "https://news.cctv.com/2016/08/18/ARTIZuReEcAaRb8fGv600nWy160818.shtml"
+        },
+        {
+          "label": "中国经济网简历线索",
+          "url": "https://district.ce.cn/newarea/sddy/201506/19/t20150619_5690462.shtml"
+        },
+        {
+          "label": "知网检索：斯鑫良 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%96%AF%E9%91%AB%E8%89%AF%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网庭审",
+          "url": "https://news.cctv.com/2016/08/18/ARTIZuReEcAaRb8fGv600nWy160818.shtml"
+        },
+        {
+          "label": "中国经济网简历线索",
+          "url": "https://district.ce.cn/newarea/sddy/201506/19/t20150619_5690462.shtml"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：斯鑫良 浙江大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%96%AF%E9%91%AB%E8%89%AF%20%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "斯鑫良",
+      "credibility": "较强"
+    },
+    {
+      "id": "e154",
+      "section": "第五轮权威来源增补",
+      "subsection": "上海交通大学",
+      "name": "孙路一",
+      "school": "上海交通大学",
+      "schoolRaw": "上海交通大学",
+      "identity": "社会科学系双学士学位经历，1986年攻读；毕业年份待核",
+      "year": "",
+      "eventName": "上海市委原副秘书长孙路一受贿案",
+      "summary": "长春中院一审认定孙路一犯受贿罪，判处有期徒刑15年。",
+      "impact": "上海社保案相关官员、字画受贿和市委办公厅系统腐败受到关注。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[央视网判决](https://news.cctv.com/china/20070928/100861.shtml)；[财新学历和庭审线索](https://china.caixin.com/2007-09-24/100068247.html)",
+      "photoMarkdown": "暂无可靠官方肖像页",
+      "paperMarkdown": "知网待核；检索词：孙路一 上海交通大学 社会科学系",
+      "links": [
+        {
+          "label": "央视网判决",
+          "url": "https://news.cctv.com/china/20070928/100861.shtml"
+        },
+        {
+          "label": "财新学历和庭审线索",
+          "url": "https://china.caixin.com/2007-09-24/100068247.html"
+        },
+        {
+          "label": "知网检索：孙路一 上海交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%AD%99%E8%B7%AF%E4%B8%80%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网判决",
+          "url": "https://news.cctv.com/china/20070928/100861.shtml"
+        },
+        {
+          "label": "财新学历和庭审线索",
+          "url": "https://china.caixin.com/2007-09-24/100068247.html"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：孙路一 上海交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%AD%99%E8%B7%AF%E4%B8%80%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "孙路一",
+      "credibility": "较强"
+    },
+    {
+      "id": "e155",
+      "section": "第五轮权威来源增补",
+      "subsection": "复旦大学",
+      "name": "李东生",
+      "school": "复旦大学",
+      "schoolRaw": "复旦大学",
+      "identity": "新闻系，大学学历；毕业年份待核",
+      "year": "",
+      "eventName": "公安部原副部长李东生受贿案",
+      "summary": "天津二中院以受贿罪判处李东生有期徒刑15年，并处没收个人财产。",
+      "impact": "央视、政法委、公安部履历叠加，成为周永康案背景下高关注人物。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[人民网判决](https://paper.people.com.cn/rmrbhwb/html/2016-01/13/content_1647341.htm)；[中国经济网简历](https://district.ce.cn/newarea/sddy/201601/12/t20160112_8211896.shtml)；[人民网双开通报](https://politics.people.com.cn/n/2014/0701/c1001-25220725.html)",
+      "photoMarkdown": "暂无可靠官方肖像页",
+      "paperMarkdown": "知网待核；检索词：李东生 复旦大学 新闻系",
+      "links": [
+        {
+          "label": "人民网判决",
+          "url": "https://paper.people.com.cn/rmrbhwb/html/2016-01/13/content_1647341.htm"
+        },
+        {
+          "label": "中国经济网简历",
+          "url": "https://district.ce.cn/newarea/sddy/201601/12/t20160112_8211896.shtml"
+        },
+        {
+          "label": "人民网双开通报",
+          "url": "https://politics.people.com.cn/n/2014/0701/c1001-25220725.html"
+        },
+        {
+          "label": "知网检索：李东生 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E4%B8%9C%E7%94%9F%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "人民网判决",
+          "url": "https://paper.people.com.cn/rmrbhwb/html/2016-01/13/content_1647341.htm"
+        },
+        {
+          "label": "中国经济网简历",
+          "url": "https://district.ce.cn/newarea/sddy/201601/12/t20160112_8211896.shtml"
+        },
+        {
+          "label": "人民网双开通报",
+          "url": "https://politics.people.com.cn/n/2014/0701/c1001-25220725.html"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：李东生 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E4%B8%9C%E7%94%9F%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "李东生",
+      "credibility": "较强"
+    },
+    {
+      "id": "e156",
+      "section": "第五轮权威来源增补",
+      "subsection": "复旦大学",
+      "name": "方西屏",
+      "school": "复旦大学",
+      "schoolRaw": "复旦大学",
+      "identity": "政治经济学专业，硕士研究生学历；毕业年份待核",
+      "year": "",
+      "eventName": "淮南市委原书记方西屏违纪违法案",
+      "summary": "纪委通报称方西屏利用职务便利为多人谋利，本人或通过家人索取、收受巨额贿赂，并被开除党籍、公职、移送司法。",
+      "impact": "淮南市委书记、包养情妇和地方官员腐败形成舆论传播。",
+      "nature": "违纪违法 / 移送司法",
+      "sourcesMarkdown": "[新华网](https://www.xinhuanet.com/politics/2015-07/24/c_128056631.htm)；[人民网通报转载](https://politics.people.com.cn/n/2015/0724/c1001-27355322.html)",
+      "photoMarkdown": "[新华网通报页](https://www.xinhuanet.com/politics/2015-07/24/c_128056631.htm)",
+      "paperMarkdown": "知网待核；检索词：方西屏 复旦大学 政治经济学",
+      "links": [
+        {
+          "label": "新华网",
+          "url": "https://www.xinhuanet.com/politics/2015-07/24/c_128056631.htm"
+        },
+        {
+          "label": "人民网通报转载",
+          "url": "https://politics.people.com.cn/n/2015/0724/c1001-27355322.html"
+        },
+        {
+          "label": "知网检索：方西屏 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%96%B9%E8%A5%BF%E5%B1%8F%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "新华网",
+          "url": "https://www.xinhuanet.com/politics/2015-07/24/c_128056631.htm"
+        },
+        {
+          "label": "人民网通报转载",
+          "url": "https://politics.people.com.cn/n/2015/0724/c1001-27355322.html"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "新华网通报页",
+          "url": "https://www.xinhuanet.com/politics/2015-07/24/c_128056631.htm"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：方西屏 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%96%B9%E8%A5%BF%E5%B1%8F%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "方西屏",
+      "credibility": "较强"
+    },
+    {
+      "id": "e157",
+      "section": "第五轮权威来源增补",
+      "subsection": "南京大学",
+      "name": "李云峰",
+      "school": "南京大学",
+      "schoolRaw": "南京大学",
+      "identity": "国际商学院工商管理专业研究生课程进修班，1996-1998；学位待核",
+      "year": "",
+      "eventName": "江苏省原副省长李云峰受贿案",
+      "summary": "菏泽中院一审以受贿罪判处李云峰有期徒刑12年，并处罚金。",
+      "impact": "江苏省部级官员、私人会所和干部选拔任用腐败线索受到关注。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[人民网判决](https://fanfu.people.com.cn/n1/2018/0323/c64371-29885346.html)；[新浪简历线索](https://news.sina.com.cn/c/nd/2017-04-07/doc-ifyecezv2450099.shtml)",
+      "photoMarkdown": "[新浪资料图](https://news.sina.com.cn/c/nd/2016-05-30/doc-ifxsqxxu4698296.shtml)",
+      "paperMarkdown": "知网待核；检索词：李云峰 南京大学 国际商学院 工商管理",
+      "links": [
+        {
+          "label": "人民网判决",
+          "url": "https://fanfu.people.com.cn/n1/2018/0323/c64371-29885346.html"
+        },
+        {
+          "label": "新浪简历线索",
+          "url": "https://news.sina.com.cn/c/nd/2017-04-07/doc-ifyecezv2450099.shtml"
+        },
+        {
+          "label": "新浪资料图",
+          "url": "https://news.sina.com.cn/c/nd/2016-05-30/doc-ifxsqxxu4698296.shtml"
+        },
+        {
+          "label": "知网检索：李云峰 南京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E4%BA%91%E5%B3%B0%20%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "人民网判决",
+          "url": "https://fanfu.people.com.cn/n1/2018/0323/c64371-29885346.html"
+        },
+        {
+          "label": "新浪简历线索",
+          "url": "https://news.sina.com.cn/c/nd/2017-04-07/doc-ifyecezv2450099.shtml"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "新浪资料图",
+          "url": "https://news.sina.com.cn/c/nd/2016-05-30/doc-ifxsqxxu4698296.shtml"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：李云峰 南京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E4%BA%91%E5%B3%B0%20%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "李云峰",
+      "credibility": "较强"
+    },
+    {
+      "id": "e158",
+      "section": "第五轮权威来源增补",
+      "subsection": "南京大学",
+      "name": "胡建学",
+      "school": "南京大学",
+      "schoolRaw": "南京大学",
+      "identity": "化学系，毕业年份待核",
+      "year": "",
+      "eventName": "泰安市委原书记胡建学受贿案",
+      "summary": "公开资料显示胡建学因受贿等问题被判死缓，属早期地方腐败典型案例。",
+      "impact": "“泰安书记”、买官卖官和地方政治生态问题长期被反腐材料引用。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[山东省情资料](https://shandong-chorography.org/database/d90/section/7/article/53/)；[人民网反腐资料](https://politics.people.com.cn/n/2014/0826/c1001-25539880.html)",
+      "photoMarkdown": "暂无可靠官方肖像页",
+      "paperMarkdown": "知网待核；检索词：胡建学 南京大学 化学系",
+      "links": [
+        {
+          "label": "山东省情资料",
+          "url": "https://shandong-chorography.org/database/d90/section/7/article/53/"
+        },
+        {
+          "label": "人民网反腐资料",
+          "url": "https://politics.people.com.cn/n/2014/0826/c1001-25539880.html"
+        },
+        {
+          "label": "知网检索：胡建学 南京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E8%83%A1%E5%BB%BA%E5%AD%A6%20%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "山东省情资料",
+          "url": "https://shandong-chorography.org/database/d90/section/7/article/53/"
+        },
+        {
+          "label": "人民网反腐资料",
+          "url": "https://politics.people.com.cn/n/2014/0826/c1001-25539880.html"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：胡建学 南京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E8%83%A1%E5%BB%BA%E5%AD%A6%20%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "胡建学",
+      "credibility": "较强"
+    },
+    {
+      "id": "e159",
+      "section": "第五轮权威来源增补",
+      "subsection": "中国科学技术大学",
+      "name": "杨敬农",
+      "school": "中国科学技术大学",
+      "schoolRaw": "中国科学技术大学",
+      "identity": "管理科学与工程专业，管理学硕士；毕业年份待核",
+      "year": "",
+      "eventName": "安徽省政府原秘书长杨敬农受贿案",
+      "summary": "法院认定杨敬农受贿人民币约1762万元、美元19万元，一审判处有期徒刑10年。",
+      "impact": "省政府秘书长、地产和项目审批线索引发安徽官场反腐关注。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[澎湃庭审报道](https://www.thepaper.cn/newsDetail_forward_1955699)；[解放日报判决报道](https://www.jfdaily.com/wx/detail.do?id=94533)",
+      "photoMarkdown": "暂无可靠官方肖像页",
+      "paperMarkdown": "知网待核；检索词：杨敬农 中国科学技术大学 管理科学与工程",
+      "links": [
+        {
+          "label": "澎湃庭审报道",
+          "url": "https://www.thepaper.cn/newsDetail_forward_1955699"
+        },
+        {
+          "label": "解放日报判决报道",
+          "url": "https://www.jfdaily.com/wx/detail.do?id=94533"
+        },
+        {
+          "label": "知网检索：杨敬农 中国科学技术大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%A8%E6%95%AC%E5%86%9C%20%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "澎湃庭审报道",
+          "url": "https://www.thepaper.cn/newsDetail_forward_1955699"
+        },
+        {
+          "label": "解放日报判决报道",
+          "url": "https://www.jfdaily.com/wx/detail.do?id=94533"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：杨敬农 中国科学技术大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%A8%E6%95%AC%E5%86%9C%20%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "杨敬农",
+      "credibility": "较强"
+    },
+    {
+      "id": "e160",
+      "section": "第五轮权威来源增补",
+      "subsection": "中国科学技术大学",
+      "name": "唐兴和",
+      "school": "中国科学技术大学",
+      "schoolRaw": "中国科学技术大学",
+      "identity": "公共管理专业，在职博士研究生；毕业年份待核",
+      "year": "",
+      "eventName": "安徽省原旅游局局长唐兴和受贿案",
+      "summary": "检察机关信息显示唐兴和涉嫌受贿案进入司法程序，后续公开报道显示案件审理。",
+      "impact": "文旅系统官员、在职博士履历和地方反腐案件形成关注。",
+      "nature": "刑事案件 / 受贿",
+      "sourcesMarkdown": "[中国政府网检察机关信息](https://www.gov.cn/xinwen/2019-09/18/content_5430889.htm)；[新浪庭审报道](https://news.sina.com.cn/c/2018-12-12/doc-ihqackaa6940959.shtml)",
+      "photoMarkdown": "[新浪庭审资料图](https://news.sina.com.cn/c/2018-12-12/doc-ihqackaa6940959.shtml)",
+      "paperMarkdown": "知网待核；检索词：唐兴和 中国科学技术大学 公共管理 博士",
+      "links": [
+        {
+          "label": "中国政府网检察机关信息",
+          "url": "https://www.gov.cn/xinwen/2019-09/18/content_5430889.htm"
+        },
+        {
+          "label": "新浪庭审报道",
+          "url": "https://news.sina.com.cn/c/2018-12-12/doc-ihqackaa6940959.shtml"
+        },
+        {
+          "label": "知网检索：唐兴和 中国科学技术大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%94%90%E5%85%B4%E5%92%8C%20%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中国政府网检察机关信息",
+          "url": "https://www.gov.cn/xinwen/2019-09/18/content_5430889.htm"
+        },
+        {
+          "label": "新浪庭审报道",
+          "url": "https://news.sina.com.cn/c/2018-12-12/doc-ihqackaa6940959.shtml"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "新浪庭审资料图",
+          "url": "https://news.sina.com.cn/c/2018-12-12/doc-ihqackaa6940959.shtml"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：唐兴和 中国科学技术大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%94%90%E5%85%B4%E5%92%8C%20%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "唐兴和",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e161",
+      "section": "第五轮权威来源增补",
+      "subsection": "华中科技大学",
+      "name": "王富玉",
+      "school": "华中科技大学",
+      "schoolRaw": "华中科技大学（原华中理工大学）",
+      "identity": "应用社会学在职硕士研究生，1992.09-1995.10；管理科学与工程在职博士研究生，1996.09-1999.07",
+      "year": "",
+      "eventName": "贵州省政协原主席王富玉受贿、利用影响力受贿案",
+      "summary": "法院公开宣判王富玉受贿、利用影响力受贿，决定执行死刑缓期二年执行。",
+      "impact": "省政协主席、退休后继续受贿和“靠旅游吃旅游”等通报表述引发关注。",
+      "nature": "刑事案件 / 受贿 / 利用影响力受贿",
+      "sourcesMarkdown": "[中央纪委国家监委审查调查及简历](https://m.ccdi.gov.cn/content/79/ef/73823.html)；[央视宣判视频页](https://tv.cctv.com/2022/01/17/VIDEIfxRKQiqztIS45BBzpLD220117.shtml)",
+      "photoMarkdown": "[央视宣判视频页](https://tv.cctv.com/2022/01/17/VIDEIfxRKQiqztIS45BBzpLD220117.shtml)",
+      "paperMarkdown": "知网待核；检索词：王富玉 华中理工大学 管理科学与工程 博士",
+      "links": [
+        {
+          "label": "中央纪委国家监委审查调查及简历",
+          "url": "https://m.ccdi.gov.cn/content/79/ef/73823.html"
+        },
+        {
+          "label": "央视宣判视频页",
+          "url": "https://tv.cctv.com/2022/01/17/VIDEIfxRKQiqztIS45BBzpLD220117.shtml"
+        },
+        {
+          "label": "知网检索：王富玉 华中科技大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%8E%8B%E5%AF%8C%E7%8E%89%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中央纪委国家监委审查调查及简历",
+          "url": "https://m.ccdi.gov.cn/content/79/ef/73823.html"
+        },
+        {
+          "label": "央视宣判视频页",
+          "url": "https://tv.cctv.com/2022/01/17/VIDEIfxRKQiqztIS45BBzpLD220117.shtml"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "央视宣判视频页",
+          "url": "https://tv.cctv.com/2022/01/17/VIDEIfxRKQiqztIS45BBzpLD220117.shtml"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：王富玉 华中科技大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%8E%8B%E5%AF%8C%E7%8E%89%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "王富玉",
+      "credibility": "较强"
+    },
+    {
+      "id": "e162",
+      "section": "第五轮权威来源增补",
+      "subsection": "西安交通大学",
+      "name": "刘志奎",
+      "school": "西安交通大学",
+      "schoolRaw": "西安交通大学",
+      "identity": "西安交通大学第一附属医院/医学研究相关作者",
+      "year": "",
+      "eventName": "国家自然科学基金委通报论文涉嫌学术不端事件",
+      "summary": "2024年国家自然科学基金委通报涉西安交大/一附院论文涉嫌学术不端，刘志奎等被点名处理。",
+      "impact": "医学论文、国自然基金和附属医院科研诚信问题受到媒体关注。",
+      "nature": "学术不端 / 基金委通报",
+      "sourcesMarkdown": "[央视网转基金委通报](https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml)；[澎湃陕西](https://www.thepaper.cn/newsDetail_forward_27059603)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "知网待核；检索词：刘志奎 西安交通大学",
+      "links": [
+        {
+          "label": "央视网转基金委通报",
+          "url": "https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml"
+        },
+        {
+          "label": "澎湃陕西",
+          "url": "https://www.thepaper.cn/newsDetail_forward_27059603"
+        },
+        {
+          "label": "知网检索：刘志奎 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%88%98%E5%BF%97%E5%A5%8E%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网转基金委通报",
+          "url": "https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml"
+        },
+        {
+          "label": "澎湃陕西",
+          "url": "https://www.thepaper.cn/newsDetail_forward_27059603"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：刘志奎 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%88%98%E5%BF%97%E5%A5%8E%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "刘志奎",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e163",
+      "section": "第五轮权威来源增补",
+      "subsection": "西安交通大学",
+      "name": "刘青光",
+      "school": "西安交通大学",
+      "schoolRaw": "西安交通大学",
+      "identity": "西安交通大学第一附属医院/医学研究相关作者",
+      "year": "",
+      "eventName": "国家自然科学基金委通报论文涉嫌学术不端事件",
+      "summary": "2024年国家自然科学基金委通报涉西安交大/一附院论文涉嫌学术不端，刘青光等被点名处理。",
+      "impact": "医学论文、国自然基金和附属医院科研诚信问题受到媒体关注。",
+      "nature": "学术不端 / 基金委通报",
+      "sourcesMarkdown": "[央视网转基金委通报](https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml)；[澎湃陕西](https://www.thepaper.cn/newsDetail_forward_27059603)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "知网待核；检索词：刘青光 西安交通大学",
+      "links": [
+        {
+          "label": "央视网转基金委通报",
+          "url": "https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml"
+        },
+        {
+          "label": "澎湃陕西",
+          "url": "https://www.thepaper.cn/newsDetail_forward_27059603"
+        },
+        {
+          "label": "知网检索：刘青光 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%88%98%E9%9D%92%E5%85%89%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网转基金委通报",
+          "url": "https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml"
+        },
+        {
+          "label": "澎湃陕西",
+          "url": "https://www.thepaper.cn/newsDetail_forward_27059603"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：刘青光 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%88%98%E9%9D%92%E5%85%89%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "刘青光",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e164",
+      "section": "第五轮权威来源增补",
+      "subsection": "西安交通大学",
+      "name": "涂康生",
+      "school": "西安交通大学",
+      "schoolRaw": "西安交通大学",
+      "identity": "西安交通大学第一附属医院/医学研究相关作者",
+      "year": "",
+      "eventName": "国家自然科学基金委通报论文涉嫌学术不端事件",
+      "summary": "2024年国家自然科学基金委通报涉西安交大/一附院论文涉嫌学术不端，涂康生等被点名处理。",
+      "impact": "医学论文、国自然基金和附属医院科研诚信问题受到媒体关注。",
+      "nature": "学术不端 / 基金委通报",
+      "sourcesMarkdown": "[央视网转基金委通报](https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml)；[澎湃陕西](https://www.thepaper.cn/newsDetail_forward_27059603)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "知网待核；检索词：涂康生 西安交通大学",
+      "links": [
+        {
+          "label": "央视网转基金委通报",
+          "url": "https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml"
+        },
+        {
+          "label": "澎湃陕西",
+          "url": "https://www.thepaper.cn/newsDetail_forward_27059603"
+        },
+        {
+          "label": "知网检索：涂康生 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%B6%82%E5%BA%B7%E7%94%9F%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网转基金委通报",
+          "url": "https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml"
+        },
+        {
+          "label": "澎湃陕西",
+          "url": "https://www.thepaper.cn/newsDetail_forward_27059603"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：涂康生 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%B6%82%E5%BA%B7%E7%94%9F%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "涂康生",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e165",
+      "section": "第五轮权威来源增补",
+      "subsection": "西安交通大学",
+      "name": "杨楠",
+      "school": "西安交通大学",
+      "schoolRaw": "西安交通大学",
+      "identity": "西安交通大学第一附属医院/医学研究相关作者",
+      "year": "",
+      "eventName": "国家自然科学基金委通报论文涉嫌学术不端事件",
+      "summary": "2024年国家自然科学基金委通报涉西安交大/一附院论文涉嫌学术不端，杨楠等被点名处理。",
+      "impact": "医学论文、国自然基金和附属医院科研诚信问题受到媒体关注。",
+      "nature": "学术不端 / 基金委通报",
+      "sourcesMarkdown": "[央视网转基金委通报](https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml)；[澎湃陕西](https://www.thepaper.cn/newsDetail_forward_27059603)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "知网待核；检索词：杨楠 西安交通大学",
+      "links": [
+        {
+          "label": "央视网转基金委通报",
+          "url": "https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml"
+        },
+        {
+          "label": "澎湃陕西",
+          "url": "https://www.thepaper.cn/newsDetail_forward_27059603"
+        },
+        {
+          "label": "知网检索：杨楠 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%A8%E6%A5%A0%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网转基金委通报",
+          "url": "https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml"
+        },
+        {
+          "label": "澎湃陕西",
+          "url": "https://www.thepaper.cn/newsDetail_forward_27059603"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：杨楠 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%A8%E6%A5%A0%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "杨楠",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e166",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "清华大学",
+      "name": "潘海东",
+      "school": "清华大学",
+      "schoolRaw": "清华大学",
+      "identity": "清华大学精密仪器与机械学系硕士，1995-1998",
+      "year": "",
+      "eventName": "百度诉潘海东、互动在线名誉权案",
+      "summary": "生效判决认定潘海东相关微博和公开信中部分言论缺乏事实依据且含侮辱性表达，构成对百度公司名誉权侵害，判令停止侵权、删除、公开道歉并赔偿。",
+      "impact": "互联网公司竞争、实名微博表达和企业名誉权边界引发关注。",
+      "nature": "名誉侵权 / 法院判决",
+      "sourcesMarkdown": "[清华校友总会身份页](https://www.tsinghua.org.cn/info/1014/9384.htm)；[央视网/中国网络电视台](https://news.cntv.cn/20120316/105189.shtml)",
+      "photoMarkdown": "[清华校友总会含图页](https://www.tsinghua.org.cn/info/1014/9384.htm)",
+      "paperMarkdown": "[知网检索](https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%BD%98%E6%B5%B7%E4%B8%9C%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6)",
+      "links": [
+        {
+          "label": "清华校友总会身份页",
+          "url": "https://www.tsinghua.org.cn/info/1014/9384.htm"
+        },
+        {
+          "label": "央视网/中国网络电视台",
+          "url": "https://news.cntv.cn/20120316/105189.shtml"
+        },
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%BD%98%E6%B5%B7%E4%B8%9C%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "清华校友总会身份页",
+          "url": "https://www.tsinghua.org.cn/info/1014/9384.htm"
+        },
+        {
+          "label": "央视网/中国网络电视台",
+          "url": "https://news.cntv.cn/20120316/105189.shtml"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "清华校友总会含图页",
+          "url": "https://www.tsinghua.org.cn/info/1014/9384.htm"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%BD%98%E6%B5%B7%E4%B8%9C%20%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "潘海东",
+      "credibility": "较强"
+    },
+    {
+      "id": "e167",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "北京大学",
+      "name": "冯仁杰",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "北京大学国际关系学院助理教授、博士生导师；2019年被处理",
+      "year": "",
+      "eventName": "北大教师冯仁杰师德失范处理",
+      "summary": "北京大学通报称冯仁杰严重违反师德师风，造成恶劣影响，决定撤销教师资格、取消研究生导师资格并予以解聘。",
+      "impact": "博导、师德失范、撤销教师资格和解聘处理成为高校教师行为红线案例。",
+      "nature": "师德失范 / 教师资格撤销 / 解聘",
+      "sourcesMarkdown": "[人民网](https://society.people.com.cn/n1/2019/1211/c1008-31501921.html)；[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_5206429)；[界面新闻](https://www.jiemian.com/article/3768989.html)",
+      "photoMarkdown": "官方通报转引页，暂不收录个人照片",
+      "paperMarkdown": "知网待核；检索词：冯仁杰 北京大学 国际关系",
+      "links": [
+        {
+          "label": "人民网",
+          "url": "https://society.people.com.cn/n1/2019/1211/c1008-31501921.html"
+        },
+        {
+          "label": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_5206429"
+        },
+        {
+          "label": "界面新闻",
+          "url": "https://www.jiemian.com/article/3768989.html"
+        },
+        {
+          "label": "知网检索：冯仁杰 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%86%AF%E4%BB%81%E6%9D%B0%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "人民网",
+          "url": "https://society.people.com.cn/n1/2019/1211/c1008-31501921.html"
+        },
+        {
+          "label": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_5206429"
+        },
+        {
+          "label": "界面新闻",
+          "url": "https://www.jiemian.com/article/3768989.html"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：冯仁杰 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%86%AF%E4%BB%81%E6%9D%B0%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "冯仁杰",
+      "credibility": "较强"
+    },
+    {
+      "id": "e168",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "北京大学",
+      "name": "邹恒甫",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "原北京大学教授；经济学家",
+      "year": "",
+      "eventName": "北大、梦桃源诉邹恒甫名誉权侵权案",
+      "summary": "海淀法院认定邹恒甫多篇实名微博涉及对北京大学、教授群体和梦桃源公司的诽谤、侮辱性言论，判令删帖、连续道歉并承担费用；二审维持。",
+      "impact": "高校声誉、教授群体名誉权和微博言论边界形成公共案例。",
+      "nature": "名誉侵权 / 法院判决",
+      "sourcesMarkdown": "[网信办转载新华社](https://www.cac.gov.cn/2014-08/20/c_1112158718.htm)；[中新网一审](https://www.chinanews.com.cn/cul/2014/08-21/6514558.shtml)；[中新网二审](https://www.chinanews.com/fz/2014/12-23/6904130.shtml)",
+      "photoMarkdown": "暂无可靠官方肖像页",
+      "paperMarkdown": "[知网检索](https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%82%B9%E6%81%92%E7%94%AB%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6)",
+      "links": [
+        {
+          "label": "网信办转载新华社",
+          "url": "https://www.cac.gov.cn/2014-08/20/c_1112158718.htm"
+        },
+        {
+          "label": "中新网一审",
+          "url": "https://www.chinanews.com.cn/cul/2014/08-21/6514558.shtml"
+        },
+        {
+          "label": "中新网二审",
+          "url": "https://www.chinanews.com/fz/2014/12-23/6904130.shtml"
+        },
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%82%B9%E6%81%92%E7%94%AB%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "网信办转载新华社",
+          "url": "https://www.cac.gov.cn/2014-08/20/c_1112158718.htm"
+        },
+        {
+          "label": "中新网一审",
+          "url": "https://www.chinanews.com.cn/cul/2014/08-21/6514558.shtml"
+        },
+        {
+          "label": "中新网二审",
+          "url": "https://www.chinanews.com/fz/2014/12-23/6904130.shtml"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%82%B9%E6%81%92%E7%94%AB%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "邹恒甫",
+      "credibility": "较强"
+    },
+    {
+      "id": "e169",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "北京大学",
+      "name": "孔庆东",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "北京大学中文系教授",
+      "year": "",
+      "eventName": "孔庆东微博辱骂学生名誉权案",
+      "summary": "海淀法院一审判令孔庆东向关凯元书面赔礼道歉，并支付精神损害抚慰金和公证费。",
+      "impact": "高校教师公共表达、师生关系和网络辱骂侵权形成讨论。",
+      "nature": "名誉侵权 / 法院判决",
+      "sourcesMarkdown": "[中新网](https://www.chinanews.com.cn/fz/2013/05-29/4868730.shtml)；[人民网评论](https://cpc.people.com.cn/n/2013/0514/c78779-21475395.html)；[搜狐转新京报](https://news.sohu.com/20130509/n375285567.shtml)",
+      "photoMarkdown": "暂无可靠官方肖像页",
+      "paperMarkdown": "[知网检索](https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%AD%94%E5%BA%86%E4%B8%9C%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6)",
+      "links": [
+        {
+          "label": "中新网",
+          "url": "https://www.chinanews.com.cn/fz/2013/05-29/4868730.shtml"
+        },
+        {
+          "label": "人民网评论",
+          "url": "https://cpc.people.com.cn/n/2013/0514/c78779-21475395.html"
+        },
+        {
+          "label": "搜狐转新京报",
+          "url": "https://news.sohu.com/20130509/n375285567.shtml"
+        },
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%AD%94%E5%BA%86%E4%B8%9C%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中新网",
+          "url": "https://www.chinanews.com.cn/fz/2013/05-29/4868730.shtml"
+        },
+        {
+          "label": "人民网评论",
+          "url": "https://cpc.people.com.cn/n/2013/0514/c78779-21475395.html"
+        },
+        {
+          "label": "搜狐转新京报",
+          "url": "https://news.sohu.com/20130509/n375285567.shtml"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%AD%94%E5%BA%86%E4%B8%9C%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "孔庆东",
+      "credibility": "较强"
+    },
+    {
+      "id": "e170",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "北京大学",
+      "name": "唐师曾",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "1979-1983年北京大学国际政治系学生；新华社记者、摄影记者",
+      "year": "",
+      "eventName": "唐师曾转载文章名誉权侵权案",
+      "summary": "法院认定唐师曾转载的文章含缺乏充分事实依据的推测和定性，构成侵犯王湘宁名誉权；终审维持删文、道歉、赔偿。",
+      "impact": "公共人物转发责任、实名文章传播和名誉权边界引发关注。",
+      "nature": "名誉侵权 / 法院判决",
+      "sourcesMarkdown": "[北京大学新闻网身份页](https://news.pku.edu.cn/bdrw/137-116601.htm)；[荔枝网转载新京报](https://news.jstv.com/a/20170620/1497935752703.shtml)；[搜狐同源报道](https://www.sohu.com/a/150844884_391294)",
+      "photoMarkdown": "[北京大学新闻网含图页](https://news.pku.edu.cn/bdrw/137-116601.htm)",
+      "paperMarkdown": "[知网检索](https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%94%90%E5%B8%88%E6%9B%BE%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6)",
+      "links": [
+        {
+          "label": "北京大学新闻网身份页",
+          "url": "https://news.pku.edu.cn/bdrw/137-116601.htm"
+        },
+        {
+          "label": "荔枝网转载新京报",
+          "url": "https://news.jstv.com/a/20170620/1497935752703.shtml"
+        },
+        {
+          "label": "搜狐同源报道",
+          "url": "https://www.sohu.com/a/150844884_391294"
+        },
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%94%90%E5%B8%88%E6%9B%BE%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "北京大学新闻网身份页",
+          "url": "https://news.pku.edu.cn/bdrw/137-116601.htm"
+        },
+        {
+          "label": "荔枝网转载新京报",
+          "url": "https://news.jstv.com/a/20170620/1497935752703.shtml"
+        },
+        {
+          "label": "搜狐同源报道",
+          "url": "https://www.sohu.com/a/150844884_391294"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "北京大学新闻网含图页",
+          "url": "https://news.pku.edu.cn/bdrw/137-116601.htm"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%94%90%E5%B8%88%E6%9B%BE%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "唐师曾",
+      "credibility": "较强"
+    },
+    {
+      "id": "e171",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "北京大学",
+      "name": "李超",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "北京大学；2022年国家自然科学基金申请人",
+      "year": "",
+      "eventName": "李超国家自然科学基金项目申请书抄袭事件",
+      "summary": "国家自然科学基金委通报称李超使用他人申请书内容申报项目，决定撤销申请、取消申请和参与申请资格3年并给予通报批评。",
+      "impact": "基金申请书抄袭、医学研究项目诚信和科研评价规范引发关注。",
+      "nature": "学术不端 / 基金委通报",
+      "sourcesMarkdown": "[国家自然科学基金委](https://www.nsfc.gov.cn/p1/2812/2816/71098.html)；[每日经济新闻](https://www.nbd.com.cn/articles/2022-10-26/2515893.html)；[北京日报网](https://news.bjd.com.cn/2022/10/26/10197939.shtml)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "项目：利钠肽轴关键蛋白Furin及其编码基因甲基化与动脉粥样硬化性心血管病关系的前瞻性队列研究",
+      "links": [
+        {
+          "label": "国家自然科学基金委",
+          "url": "https://www.nsfc.gov.cn/p1/2812/2816/71098.html"
+        },
+        {
+          "label": "每日经济新闻",
+          "url": "https://www.nbd.com.cn/articles/2022-10-26/2515893.html"
+        },
+        {
+          "label": "北京日报网",
+          "url": "https://news.bjd.com.cn/2022/10/26/10197939.shtml"
+        },
+        {
+          "label": "知网检索：李超 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E8%B6%85%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "国家自然科学基金委",
+          "url": "https://www.nsfc.gov.cn/p1/2812/2816/71098.html"
+        },
+        {
+          "label": "每日经济新闻",
+          "url": "https://www.nbd.com.cn/articles/2022-10-26/2515893.html"
+        },
+        {
+          "label": "北京日报网",
+          "url": "https://news.bjd.com.cn/2022/10/26/10197939.shtml"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：李超 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%9D%8E%E8%B6%85%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "李超",
+      "credibility": "较强"
+    },
+    {
+      "id": "e172",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "上海交通大学",
+      "name": "王永成",
+      "school": "上海交通大学",
+      "schoolRaw": "上海交通大学",
+      "identity": "上海交通大学计算机系教授、博士生导师",
+      "year": "",
+      "eventName": "9名博士生联名要求更换导师事件",
+      "summary": "媒体报道，上海交大9名博士生联名要求更换导师，理由涉及长期被安排为导师家属公司做项目、学业指导不足等；校方同意更换导师。",
+      "impact": "导师权力边界、研究生培养质量和校企项目利益关系受到关注。",
+      "nature": "导师权力争议 / 研究生培养争议",
+      "sourcesMarkdown": "[新浪转南方都市报](https://news.sina.cn/sa/2004-02-25/detail-ikknscsi2775420.d.html)",
+      "photoMarkdown": "[新浪报道页](https://news.sina.cn/sa/2004-02-25/detail-ikknscsi2775420.d.html)",
+      "paperMarkdown": "知网待核；检索词：王永成 上海交通大学 计算机",
+      "links": [
+        {
+          "label": "新浪转南方都市报",
+          "url": "https://news.sina.cn/sa/2004-02-25/detail-ikknscsi2775420.d.html"
+        },
+        {
+          "label": "知网检索：王永成 上海交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%8E%8B%E6%B0%B8%E6%88%90%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "新浪转南方都市报",
+          "url": "https://news.sina.cn/sa/2004-02-25/detail-ikknscsi2775420.d.html"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "新浪报道页",
+          "url": "https://news.sina.cn/sa/2004-02-25/detail-ikknscsi2775420.d.html"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：王永成 上海交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%8E%8B%E6%B0%B8%E6%88%90%20%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "王永成",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e173",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "复旦大学",
+      "name": "周运中 / “东海道子”",
+      "school": "复旦大学",
+      "schoolRaw": "复旦大学",
+      "identity": "公开资料称2010年获复旦大学博士；后任厦门大学历史系助理教授",
+      "year": "",
+      "eventName": "厦大助理教授网络言论处理事件",
+      "summary": "媒体援引厦门大学通报称，周运中微博多次发表错误言论、歪曲历史事实并损害党和国家形象，学校解除聘用关系。",
+      "impact": "高校教师网络言论、历史叙事和聘用处理形成舆论争议。",
+      "nature": "公共言论争议 / 解除聘用",
+      "sourcesMarkdown": "[VOA中文](https://www.voachinese.com/a/news-chinese-assistant-professor-fired-for-online-remarks-20180902/4554467.html)；[搜狐转载厦大通报](https://www.sohu.com/a/251457675_684252)",
+      "photoMarkdown": "暂无可靠官方肖像页",
+      "paperMarkdown": "知网待核；检索词：周运中 东海道子 复旦大学 博士",
+      "links": [
+        {
+          "label": "VOA中文",
+          "url": "https://www.voachinese.com/a/news-chinese-assistant-professor-fired-for-online-remarks-20180902/4554467.html"
+        },
+        {
+          "label": "搜狐转载厦大通报",
+          "url": "https://www.sohu.com/a/251457675_684252"
+        },
+        {
+          "label": "知网检索：周运中 / “东海道子” 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%91%A8%E8%BF%90%E4%B8%AD%20%2F%20%E2%80%9C%E4%B8%9C%E6%B5%B7%E9%81%93%E5%AD%90%E2%80%9D%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "VOA中文",
+          "url": "https://www.voachinese.com/a/news-chinese-assistant-professor-fired-for-online-remarks-20180902/4554467.html"
+        },
+        {
+          "label": "搜狐转载厦大通报",
+          "url": "https://www.sohu.com/a/251457675_684252"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：周运中 / “东海道子” 复旦大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%91%A8%E8%BF%90%E4%B8%AD%20%2F%20%E2%80%9C%E4%B8%9C%E6%B5%B7%E9%81%93%E5%AD%90%E2%80%9D%20%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "周运中 / “东海道子”",
+      "credibility": "需核验"
+    },
+    {
+      "id": "e174",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "中国科学技术大学",
+      "name": "方是民 / 方舟子",
+      "school": "中国科学技术大学",
+      "schoolRaw": "中国科学技术大学",
+      "identity": "1985年入中国科大生物系；1990年获细胞生物学学士，身份来源仍需校方材料补强",
+      "year": "",
+      "eventName": "方舟子、崔永元名誉权纠纷案",
+      "summary": "海淀法院认定方是民与崔永元双方连续微博人身攻击均构成对对方名誉权损害，判令相互道歉、删帖、互赔。",
+      "impact": "科普争议、食品安全公共辩论和网络名誉权边界长期受到关注。",
+      "nature": "名誉侵权 / 法院判决",
+      "sourcesMarkdown": "[新华网](https://www.xinhuanet.com/politics/2015-06/25/c_127949584.htm)；[人民网](https://media.people.com.cn/n/2015/0627/c14677-27216853.html)；[新华网二审开庭](https://www.xinhuanet.com/politics/2015-09/17/c_128239748.htm)",
+      "photoMarkdown": "[新华网资料图页](https://www.xinhuanet.com/politics/2015-06/25/c_127949584.htm)",
+      "paperMarkdown": "[知网检索](https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%96%B9%E6%98%AF%E6%B0%91%20%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6)",
+      "links": [
+        {
+          "label": "新华网",
+          "url": "https://www.xinhuanet.com/politics/2015-06/25/c_127949584.htm"
+        },
+        {
+          "label": "人民网",
+          "url": "https://media.people.com.cn/n/2015/0627/c14677-27216853.html"
+        },
+        {
+          "label": "新华网二审开庭",
+          "url": "https://www.xinhuanet.com/politics/2015-09/17/c_128239748.htm"
+        },
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%96%B9%E6%98%AF%E6%B0%91%20%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "新华网",
+          "url": "https://www.xinhuanet.com/politics/2015-06/25/c_127949584.htm"
+        },
+        {
+          "label": "人民网",
+          "url": "https://media.people.com.cn/n/2015/0627/c14677-27216853.html"
+        },
+        {
+          "label": "新华网二审开庭",
+          "url": "https://www.xinhuanet.com/politics/2015-09/17/c_128239748.htm"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "新华网资料图页",
+          "url": "https://www.xinhuanet.com/politics/2015-06/25/c_127949584.htm"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%96%B9%E6%98%AF%E6%B0%91%20%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "方是民 / 方舟子",
+      "credibility": "较强"
+    },
+    {
+      "id": "e175",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "华中科技大学",
+      "name": "廖永德",
+      "school": "华中科技大学",
+      "schoolRaw": "华中科技大学",
+      "identity": "华中科技大学；2023年国家自然科学基金申请人",
+      "year": "",
+      "eventName": "廖永德基金评审请托事件",
+      "summary": "国家自然科学基金委通报称廖永德在基金评审阶段向可能的通讯评议专家发送项目信息并寻求关照，决定撤销申请、取消申请和参与申请资格3年并通报批评。",
+      "impact": "基金评审公正性、专家请托和科研诚信承诺问题受到关注。",
+      "nature": "科研诚信 / 评审请托",
+      "sourcesMarkdown": "[中国科大科研诚信网转载基金委通报](https://kycx.ustc.edu.cn/2023/1218/c34385a625719/page.htm)；[新浪科技](https://finance.sina.cn/tech/2023-11-24/detail-imzvtprq4409346.d.html?from=wap)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "项目：去泛素化的ERβ通过维持ROS稳态促进NSCLC奥希替尼耐药的机制研究",
+      "links": [
+        {
+          "label": "中国科大科研诚信网转载基金委通报",
+          "url": "https://kycx.ustc.edu.cn/2023/1218/c34385a625719/page.htm"
+        },
+        {
+          "label": "新浪科技",
+          "url": "https://finance.sina.cn/tech/2023-11-24/detail-imzvtprq4409346.d.html?from=wap"
+        },
+        {
+          "label": "知网检索：廖永德 华中科技大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%BB%96%E6%B0%B8%E5%BE%B7%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中国科大科研诚信网转载基金委通报",
+          "url": "https://kycx.ustc.edu.cn/2023/1218/c34385a625719/page.htm"
+        },
+        {
+          "label": "新浪科技",
+          "url": "https://finance.sina.cn/tech/2023-11-24/detail-imzvtprq4409346.d.html?from=wap"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：廖永德 华中科技大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%BB%96%E6%B0%B8%E5%BE%B7%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "廖永德",
+      "credibility": "较强"
+    },
+    {
+      "id": "e176",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "华中科技大学",
+      "name": "吴亢",
+      "school": "华中科技大学",
+      "schoolRaw": "华中科技大学",
+      "identity": "华中科技大学；2023年国家自然科学基金申请人",
+      "year": "",
+      "eventName": "吴亢基金申请书抄袭剽窃事件",
+      "summary": "国家自然科学基金委通报称吴亢将网上获得的他人往年基金申请书草稿作为本人项目申请，存在抄袭、剽窃申请书内容问题，决定撤销申请、取消资格3年并通报批评。",
+      "impact": "基金申请材料来源、项目申报诚信和高校科研管理受到关注。",
+      "nature": "学术不端 / 基金委通报",
+      "sourcesMarkdown": "[中国科大科研诚信网转载基金委通报](https://kycx.ustc.edu.cn/2023/1218/c34385a625719/page.htm)；[科学网转载](https://m.vanbien.com/htmlnews/2023/11/512972.shtm)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "项目：低氧环境下RLIP76-乳酸正反馈调节促进CD8+T细胞耗竭介导胶质母细胞瘤免疫逃逸的机制研究",
+      "links": [
+        {
+          "label": "中国科大科研诚信网转载基金委通报",
+          "url": "https://kycx.ustc.edu.cn/2023/1218/c34385a625719/page.htm"
+        },
+        {
+          "label": "科学网转载",
+          "url": "https://m.vanbien.com/htmlnews/2023/11/512972.shtm"
+        },
+        {
+          "label": "知网检索：吴亢 华中科技大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%90%B4%E4%BA%A2%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中国科大科研诚信网转载基金委通报",
+          "url": "https://kycx.ustc.edu.cn/2023/1218/c34385a625719/page.htm"
+        },
+        {
+          "label": "科学网转载",
+          "url": "https://m.vanbien.com/htmlnews/2023/11/512972.shtm"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：吴亢 华中科技大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%90%B4%E4%BA%A2%20%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "吴亢",
+      "credibility": "较强"
+    },
+    {
+      "id": "e177",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "西安交通大学",
+      "name": "周鸿祎",
+      "school": "西安交通大学",
+      "schoolRaw": "西安交通大学",
+      "identity": "1988-1992年西安交通大学计算机专业学士；1995年系统工程硕士",
+      "year": "",
+      "eventName": "“微博第一案”：金山诉周鸿祎名誉权案",
+      "summary": "北京二中院终审确认周鸿祎7条微博构成对北京金山软件有限公司名誉侵权，判令删帖、公开道歉并赔偿5万元。",
+      "impact": "企业竞争、互联网高管公开表达和微博名誉权边界成为典型案例。",
+      "nature": "名誉侵权 / 法院判决",
+      "sourcesMarkdown": "[西安交通大学官方身份页](https://www.xjtu.edu.cn/info/1242/365317.htm)；[中新网终审](https://www.chinanews.com/cj/2013/07-30/5099978.shtml)；[中新网庭审](https://www.chinanews.com.cn/fz/2010/12-07/2704230.shtml)",
+      "photoMarkdown": "[西安交通大学官方身份页](https://www.xjtu.edu.cn/info/1242/365317.htm)",
+      "paperMarkdown": "[知网检索](https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%91%A8%E9%B8%BF%E7%A5%8E%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6)",
+      "links": [
+        {
+          "label": "西安交通大学官方身份页",
+          "url": "https://www.xjtu.edu.cn/info/1242/365317.htm"
+        },
+        {
+          "label": "中新网终审",
+          "url": "https://www.chinanews.com/cj/2013/07-30/5099978.shtml"
+        },
+        {
+          "label": "中新网庭审",
+          "url": "https://www.chinanews.com.cn/fz/2010/12-07/2704230.shtml"
+        },
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%91%A8%E9%B8%BF%E7%A5%8E%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "西安交通大学官方身份页",
+          "url": "https://www.xjtu.edu.cn/info/1242/365317.htm"
+        },
+        {
+          "label": "中新网终审",
+          "url": "https://www.chinanews.com/cj/2013/07-30/5099978.shtml"
+        },
+        {
+          "label": "中新网庭审",
+          "url": "https://www.chinanews.com.cn/fz/2010/12-07/2704230.shtml"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "西安交通大学官方身份页",
+          "url": "https://www.xjtu.edu.cn/info/1242/365317.htm"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%91%A8%E9%B8%BF%E7%A5%8E%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "周鸿祎",
+      "credibility": "较强"
+    },
+    {
+      "id": "e178",
+      "section": "第六轮专题增补：诽谤、师德失范、言论处分、学术不端",
+      "subsection": "西安交通大学",
+      "name": "蔡元真",
+      "school": "西安交通大学",
+      "schoolRaw": "西安交通大学",
+      "identity": "西安交通大学；2022年国家自然科学基金申请人",
+      "year": "",
+      "eventName": "蔡元真国家自然科学基金申请书抄袭剽窃事件",
+      "summary": "国家自然科学基金委通报称蔡元真私自拷贝他人评审的基金项目申请书并用于本人项目申请，存在抄袭剽窃问题，决定撤销申请、取消申请和参与申请资格5年并通报批评。",
+      "impact": "基金评审材料保密、申请书抄袭和科研诚信治理引发关注。",
+      "nature": "学术不端 / 基金委通报",
+      "sourcesMarkdown": "[国家自然科学基金委](https://www.nsfc.gov.cn/p1/2812/2816/71098.html)；[财新](https://science.caixin.com/2022-10-27/101956464.html)",
+      "photoMarkdown": "暂无可靠个人照片",
+      "paperMarkdown": "项目：外泌体来源HMGB1在骨关节炎中的作用效应及机制研究",
+      "links": [
+        {
+          "label": "国家自然科学基金委",
+          "url": "https://www.nsfc.gov.cn/p1/2812/2816/71098.html"
+        },
+        {
+          "label": "财新",
+          "url": "https://science.caixin.com/2022-10-27/101956464.html"
+        },
+        {
+          "label": "知网检索：蔡元真 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E8%94%A1%E5%85%83%E7%9C%9F%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "国家自然科学基金委",
+          "url": "https://www.nsfc.gov.cn/p1/2812/2816/71098.html"
+        },
+        {
+          "label": "财新",
+          "url": "https://science.caixin.com/2022-10-27/101956464.html"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：蔡元真 西安交通大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E8%94%A1%E5%85%83%E7%9C%9F%20%E8%A5%BF%E5%AE%89%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "蔡元真",
+      "credibility": "较强"
     }
   ]
 }

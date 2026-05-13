@@ -56,9 +56,9 @@ function logoMarkup(school, size = 'regular') {
   const item = schoolLogos[school] || { fallback: school.slice(0, 1) || '?' };
   const url = logoUrl(school);
   const image = url
-    ? `<img src="${escapeHtml(url)}" alt="${escapeHtml(school)}校徽" loading="lazy" onerror="this.remove()" />`
+    ? `<img src="${escapeHtml(url)}" alt="" loading="lazy" onerror="this.remove()" />`
     : '';
-  return `<span class="school-logo ${size}">${image}<span class="logo-fallback">${escapeHtml(item.fallback)}</span></span>`;
+  return `<span class="school-logo ${size}" aria-hidden="true">${image}<span class="logo-fallback">${escapeHtml(item.fallback)}</span></span>`;
 }
 
 function fillFilters(data) {
@@ -97,12 +97,10 @@ function renderSchoolStrip(data, filtered) {
       const total = data.bySchool[school] || 0;
       const pressed = state.school === school ? 'true' : 'false';
       return `
-        <button class="school-chip" type="button" data-school="${escapeHtml(school)}" aria-pressed="${pressed}">
+        <button class="school-chip" type="button" data-school="${escapeHtml(school)}" aria-pressed="${pressed}" aria-label="${escapeHtml(school)}，${visible} / ${total}" title="${escapeHtml(school)} ${visible} / ${total}">
           ${logoMarkup(school)}
-          <span>
-            <strong>${escapeHtml(school)}</strong>
-            <span>${visible} / ${total}</span>
-          </span>
+          <span class="school-chip-count">${visible}</span>
+          <span class="visually-hidden">${escapeHtml(school)} ${visible} / ${total}</span>
         </button>
       `;
     })
@@ -167,14 +165,16 @@ function renderCards(entries) {
     .map(
       (entry) => `
         <button class="person-card" type="button" data-entry-id="${escapeHtml(entry.id)}">
-          <span class="card-cover"></span>
-          <span class="card-top">
-            <span class="person-avatar">${escapeHtml((entry.displayName || entry.name).slice(0, 1))}</span>
+          <span class="card-cover">
             ${logoMarkup(entry.school, 'small')}
           </span>
-          <span>
+          <span class="card-top">
+            <span class="person-avatar">${escapeHtml((entry.displayName || entry.name).slice(0, 1))}</span>
+            <span class="credibility-pill">${escapeHtml(entry.credibility)}</span>
+          </span>
+          <span class="card-body">
             <h3>${escapeHtml(entry.displayName || entry.name)}</h3>
-            <span class="card-school">${escapeHtml(entry.school)}</span>
+            <span class="card-school">${escapeHtml(entry.school)} · ${escapeHtml(entry.nature || '待核')}</span>
             <p class="event-title">${escapeHtml(entry.eventName || entry.summary)}</p>
           </span>
         </button>
@@ -203,7 +203,7 @@ function showDetail(entry) {
       ${logoMarkup(entry.school)}
       <div>
         <h2>${escapeHtml(entry.displayName || entry.name)}</h2>
-        <p>${escapeHtml(entry.school)} · ${escapeHtml(entry.eventName || '事件标题待核')}</p>
+        <p>${escapeHtml(entry.eventName || '事件标题待核')}</p>
       </div>
     </header>
 
@@ -215,6 +215,10 @@ function showDetail(entry) {
       <section class="detail-block full">
         <h3>舆论影响</h3>
         <p>${escapeHtml(entry.impact || '待补强')}</p>
+      </section>
+      <section class="detail-block">
+        <h3>学校</h3>
+        <p>${escapeHtml(entry.school)}</p>
       </section>
       <section class="detail-block">
         <h3>身份 / 专业</h3>
