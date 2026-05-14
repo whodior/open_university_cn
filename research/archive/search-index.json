@@ -337,20 +337,6 @@
   },
   {
     "engine": "bing",
-    "query": "北京航空航天大学 陈小武 性骚扰 取消教师资格 通报",
-    "file": "bing_北京航空航天大学_陈小武_性骚扰_取消教师资格_通报.html",
-    "path": "../archive/searches/bing_北京航空航天大学_陈小武_性骚扰_取消教师资格_通报.html",
-    "sizeBytes": 121896
-  },
-  {
-    "engine": "bing",
-    "query": "北京理工大学 宫琳 师德失范 解除聘用 通报",
-    "file": "bing_北京理工大学_宫琳_师德失范_解除聘用_通报.html",
-    "path": "../archive/searches/bing_北京理工大学_宫琳_师德失范_解除聘用_通报.html",
-    "sizeBytes": 120337
-  },
-  {
-    "engine": "bing",
     "query": "蔡元真 西安交通大学 基金申请书 抄袭 剽窃",
     "file": "bing_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
     "path": "../archive/searches/bing_蔡元真_西安交通大学_基金申请书_抄袭_剽窃.html",
@@ -379,13 +365,6 @@
   },
   {
     "engine": "bing",
-    "query": "华南理工大学 张军 更改复试分数 教育部 通报",
-    "file": "bing_华南理工大学_张军_更改复试分数_教育部_通报.html",
-    "path": "../archive/searches/bing_华南理工大学_张军_更改复试分数_教育部_通报.html",
-    "sizeBytes": 120682
-  },
-  {
-    "engine": "bing",
     "query": "华中科技大学 韩承轩 走私 生物材料 DOJ",
     "file": "bing_华中科技大学_韩承轩_走私_生物材料_DOJ.html",
     "path": "../archive/searches/bing_华中科技大学_韩承轩_走私_生物材料_DOJ.html",
@@ -411,13 +390,6 @@
     "file": "bing_华中科技大学_中信建投_实习生_王某某.html",
     "path": "../archive/searches/bing_华中科技大学_中信建投_实习生_王某某.html",
     "sizeBytes": 71608
-  },
-  {
-    "engine": "bing",
-    "query": "华中农业大学 黄飞若 11名学生 举报 学术不端 通报",
-    "file": "bing_华中农业大学_黄飞若_11名学生_举报_学术不端_通报.html",
-    "path": "../archive/searches/bing_华中农业大学_黄飞若_11名学生_举报_学术不端_通报.html",
-    "sizeBytes": 121637
   },
   {
     "engine": "bing",
@@ -463,13 +435,6 @@
   },
   {
     "engine": "bing",
-    "query": "南华大学 何某某 造黄谣 开除学籍 推免取消",
-    "file": "bing_南华大学_何某某_造黄谣_开除学籍_推免取消.html",
-    "path": "../archive/searches/bing_南华大学_何某某_造黄谣_开除学籍_推免取消.html",
-    "sizeBytes": 101208
-  },
-  {
-    "engine": "bing",
     "query": "南京大学 刘赛连 硕士论文 抄袭",
     "file": "bing_南京大学_刘赛连_硕士论文_抄袭.html",
     "path": "../archive/searches/bing_南京大学_刘赛连_硕士论文_抄袭.html",
@@ -481,13 +446,6 @@
     "file": "bing_南京大学_施工方_偷窃_学生物品_通报.html",
     "path": "../archive/searches/bing_南京大学_施工方_偷窃_学生物品_通报.html",
     "sizeBytes": 72040
-  },
-  {
-    "engine": "bing",
-    "query": "南京审计大学 顾某某 偷拍 开除学籍 通报",
-    "file": "bing_南京审计大学_顾某某_偷拍_开除学籍_通报.html",
-    "path": "../archive/searches/bing_南京审计大学_顾某某_偷拍_开除学籍_通报.html",
-    "sizeBytes": 120170
   },
   {
     "engine": "bing",
@@ -547,27 +505,6 @@
   },
   {
     "engine": "bing",
-    "query": "厦门大学 田佳良 学术不端 退学 通报",
-    "file": "bing_厦门大学_田佳良_学术不端_退学_通报.html",
-    "path": "../archive/searches/bing_厦门大学_田佳良_学术不端_退学_通报.html",
-    "sizeBytes": 485953
-  },
-  {
-    "engine": "bing",
-    "query": "山东理工大学 陈春秀 陈艳萍 冒名顶替 学历注销",
-    "file": "bing_山东理工大学_陈春秀_陈艳萍_冒名顶替_学历注销.html",
-    "path": "../archive/searches/bing_山东理工大学_陈春秀_陈艳萍_冒名顶替_学历注销.html",
-    "sizeBytes": 101645
-  },
-  {
-    "engine": "bing",
-    "query": "上海财经大学 钱逢胜 师德失范 撤销教师资格",
-    "file": "bing_上海财经大学_钱逢胜_师德失范_撤销教师资格.html",
-    "path": "../archive/searches/bing_上海财经大学_钱逢胜_师德失范_撤销教师资格.html",
-    "sizeBytes": 101288
-  },
-  {
-    "engine": "bing",
     "query": "上海交通大学 程某华 科研经费 通报",
     "file": "bing_上海交通大学_程某华_科研经费_通报.html",
     "path": "../archive/searches/bing_上海交通大学_程某华_科研经费_通报.html",
@@ -586,27 +523,6 @@
     "file": "bing_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
     "path": "../archive/searches/bing_斯鑫良_浙江农业大学_畜牧兽医_受贿_判决.html",
     "sizeBytes": 69378
-  },
-  {
-    "engine": "bing",
-    "query": "四川大学 王竹卿 学生举报 科研失信 通报",
-    "file": "bing_四川大学_王竹卿_学生举报_科研失信_通报.html",
-    "path": "../archive/searches/bing_四川大学_王竹卿_学生举报_科研失信_通报.html",
-    "sizeBytes": 119939
-  },
-  {
-    "engine": "bing",
-    "query": "四川大学 张薇 地铁偷拍 留校察看 通报",
-    "file": "bing_四川大学_张薇_地铁偷拍_留校察看_通报.html",
-    "path": "../archive/searches/bing_四川大学_张薇_地铁偷拍_留校察看_通报.html",
-    "sizeBytes": 120178
-  },
-  {
-    "engine": "bing",
-    "query": "苏州大学 赵某峰 造黄谣 开除学籍 通报",
-    "file": "bing_苏州大学_赵某峰_造黄谣_开除学籍_通报.html",
-    "path": "../archive/searches/bing_苏州大学_赵某峰_造黄谣_开除学籍_通报.html",
-    "sizeBytes": 118056
   },
   {
     "engine": "bing",
@@ -659,13 +575,6 @@
   },
   {
     "engine": "bing",
-    "query": "武汉理工大学 王攀 陶崇园 招生资格 通报",
-    "file": "bing_武汉理工大学_王攀_陶崇园_招生资格_通报.html",
-    "path": "../archive/searches/bing_武汉理工大学_王攀_陶崇园_招生资格_通报.html",
-    "sizeBytes": 414460
-  },
-  {
-    "engine": "bing",
     "query": "西安交通大学 秦某某 后勤职工 违纪违法 法院",
     "file": "bing_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
     "path": "../archive/searches/bing_西安交通大学_秦某某_后勤职工_违纪违法_法院.html",
@@ -673,24 +582,10 @@
   },
   {
     "engine": "bing",
-    "query": "西南交通大学 陈玉钰 保研 成绩造假 通报",
-    "file": "bing_西南交通大学_陈玉钰_保研_成绩造假_通报.html",
-    "path": "../archive/searches/bing_西南交通大学_陈玉钰_保研_成绩造假_通报.html",
-    "sizeBytes": 119463
-  },
-  {
-    "engine": "bing",
     "query": "奚晓明 北京大学 经济法学 博士 受贿 无期",
     "file": "bing_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
     "path": "../archive/searches/bing_奚晓明_北京大学_经济法学_博士_受贿_无期.html",
     "sizeBytes": 69765
-  },
-  {
-    "engine": "bing",
-    "query": "湘潭大学 周立人 投毒案 判决 执行死刑",
-    "file": "bing_湘潭大学_周立人_投毒案_判决_执行死刑.html",
-    "path": "../archive/searches/bing_湘潭大学_周立人_投毒案_判决_执行死刑.html",
-    "sizeBytes": 100873
   },
   {
     "engine": "bing",
@@ -743,27 +638,6 @@
   },
   {
     "engine": "bing",
-    "query": "中国人民大学 王贵元 性骚扰 解除聘用 通报",
-    "file": "bing_中国人民大学_王贵元_性骚扰_解除聘用_通报.html",
-    "path": "../archive/searches/bing_中国人民大学_王贵元_性骚扰_解除聘用_通报.html",
-    "sizeBytes": 121125
-  },
-  {
-    "engine": "bing",
-    "query": "中山大学 赵某晨 造黄谣 开除学籍 通报",
-    "file": "bing_中山大学_赵某晨_造黄谣_开除学籍_通报.html",
-    "path": "../archive/searches/bing_中山大学_赵某晨_造黄谣_开除学籍_通报.html",
-    "sizeBytes": 119554
-  },
-  {
-    "engine": "bing",
-    "query": "中央戏剧学院 仝卓 毕业证 撤销 高考舞弊",
-    "file": "bing_中央戏剧学院_仝卓_毕业证_撤销_高考舞弊.html",
-    "path": "../archive/searches/bing_中央戏剧学院_仝卓_毕业证_撤销_高考舞弊.html",
-    "sizeBytes": 100612
-  },
-  {
-    "engine": "bing",
     "query": "周鸿祎 金山 名誉权 微博 第一案 西安交通大学",
     "file": "bing_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
     "path": "../archive/searches/bing_周鸿祎_金山_名誉权_微博_第一案_西安交通大学.html",
@@ -791,130 +665,11 @@
     "sizeBytes": 117888
   },
   {
-    "engine": "nsfc-2024-second-batch.html",
-    "query": "nsfc-2024-second-batch",
-    "file": "nsfc-2024-second-batch.html",
-    "path": "../archive/searches/nsfc-2024-second-batch.html",
-    "sizeBytes": 41394
-  },
-  {
     "engine": "nsfc-2026-first-batch-zhanghongyu.html",
     "query": "nsfc-2026-first-batch-zhanghongyu",
     "file": "nsfc-2026-first-batch-zhanghongyu.html",
     "path": "../archive/searches/nsfc-2026-first-batch-zhanghongyu.html",
     "sizeBytes": 14457
-  },
-  {
-    "engine": "nsfc-71093.html",
-    "query": "nsfc-71093",
-    "file": "nsfc-71093.html",
-    "path": "../archive/searches/nsfc-71093.html",
-    "sizeBytes": 41394
-  },
-  {
-    "engine": "nsfc-71094.html",
-    "query": "nsfc-71094",
-    "file": "nsfc-71094.html",
-    "path": "../archive/searches/nsfc-71094.html",
-    "sizeBytes": 44335
-  },
-  {
-    "engine": "nsfc-71095.html",
-    "query": "nsfc-71095",
-    "file": "nsfc-71095.html",
-    "path": "../archive/searches/nsfc-71095.html",
-    "sizeBytes": 34838
-  },
-  {
-    "engine": "nsfc-71096.html",
-    "query": "nsfc-71096",
-    "file": "nsfc-71096.html",
-    "path": "../archive/searches/nsfc-71096.html",
-    "sizeBytes": 20674
-  },
-  {
-    "engine": "nsfc-71098.html",
-    "query": "nsfc-71098",
-    "file": "nsfc-71098.html",
-    "path": "../archive/searches/nsfc-71098.html",
-    "sizeBytes": 10500
-  },
-  {
-    "engine": "nsfc-71099.html",
-    "query": "nsfc-71099",
-    "file": "nsfc-71099.html",
-    "path": "../archive/searches/nsfc-71099.html",
-    "sizeBytes": 19726
-  },
-  {
-    "engine": "nsfc-71100.html",
-    "query": "nsfc-71100",
-    "file": "nsfc-71100.html",
-    "path": "../archive/searches/nsfc-71100.html",
-    "sizeBytes": 48282
-  },
-  {
-    "engine": "nsfc-71101.html",
-    "query": "nsfc-71101",
-    "file": "nsfc-71101.html",
-    "path": "../archive/searches/nsfc-71101.html",
-    "sizeBytes": 13131
-  },
-  {
-    "engine": "nsfc-71102.html",
-    "query": "nsfc-71102",
-    "file": "nsfc-71102.html",
-    "path": "../archive/searches/nsfc-71102.html",
-    "sizeBytes": 30593
-  },
-  {
-    "engine": "nsfc-71103.html",
-    "query": "nsfc-71103",
-    "file": "nsfc-71103.html",
-    "path": "../archive/searches/nsfc-71103.html",
-    "sizeBytes": 12673
-  },
-  {
-    "engine": "nsfc-71104.html",
-    "query": "nsfc-71104",
-    "file": "nsfc-71104.html",
-    "path": "../archive/searches/nsfc-71104.html",
-    "sizeBytes": 28743
-  },
-  {
-    "engine": "nsfc-71107.html",
-    "query": "nsfc-71107",
-    "file": "nsfc-71107.html",
-    "path": "../archive/searches/nsfc-71107.html",
-    "sizeBytes": 8038
-  },
-  {
-    "engine": "nsfc-83174.html",
-    "query": "nsfc-83174",
-    "file": "nsfc-83174.html",
-    "path": "../archive/searches/nsfc-83174.html",
-    "sizeBytes": 69843
-  },
-  {
-    "engine": "nsfc-83175.html",
-    "query": "nsfc-83175",
-    "file": "nsfc-83175.html",
-    "path": "../archive/searches/nsfc-83175.html",
-    "sizeBytes": 26243
-  },
-  {
-    "engine": "nsfc-99722.html",
-    "query": "nsfc-99722",
-    "file": "nsfc-99722.html",
-    "path": "../archive/searches/nsfc-99722.html",
-    "sizeBytes": 14457
-  },
-  {
-    "engine": "nsfc-cljd-index.html",
-    "query": "nsfc-cljd-index",
-    "file": "nsfc-cljd-index.html",
-    "path": "../archive/searches/nsfc-cljd-index.html",
-    "sizeBytes": 14945
   },
   {
     "engine": "sina-2026-nsfc-first-batch.html",

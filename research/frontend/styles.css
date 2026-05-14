@@ -339,12 +339,9 @@ a:focus-visible {
   border-radius: 8px;
   box-shadow: var(--shadow-hairline);
   display: grid;
-  gap: 6px;
-  grid-template-columns: 1fr;
-  max-height: min(58vh, 620px);
-  overflow: auto;
-  padding: 8px;
-  scrollbar-gutter: stable;
+  gap: 8px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  padding: 10px;
 }
 
 .school-chip {
@@ -354,12 +351,11 @@ a:focus-visible {
   border-radius: 8px;
   cursor: pointer;
   display: grid;
-  gap: 10px;
-  grid-template-columns: auto minmax(0, 1fr) auto;
-  min-height: 46px;
-  padding: 6px 8px;
+  height: 72px;
+  justify-items: center;
+  padding: 8px;
   position: relative;
-  text-align: left;
+  text-align: center;
   transition:
     background-color 160ms ease,
     border-color 160ms ease,
@@ -382,36 +378,20 @@ a:focus-visible {
 
 .school-chip-count {
   align-items: center;
-  background: #eef6ff;
-  border: 1px solid rgba(10, 102, 194, 0.22);
+  background: var(--ink);
+  border: 2px solid #fff;
   border-radius: 999px;
-  color: var(--blue-dark);
+  color: #fff;
   display: inline-flex;
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 800;
-  gap: 2px;
-  height: 26px;
+  height: 24px;
   justify-content: center;
   min-width: 24px;
   padding: 0 6px;
-  white-space: nowrap;
-}
-
-.school-chip-count small {
-  color: var(--muted);
-  font-size: 11px;
-  font-weight: 700;
-}
-
-.school-chip-name {
-  color: var(--ink-soft);
-  font-size: 13px;
-  font-weight: 750;
-  line-height: 1.25;
-  min-width: 0;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  position: absolute;
+  right: 7px;
+  top: 7px;
 }
 
 .school-logo {
@@ -434,13 +414,6 @@ a:focus-visible {
   flex-basis: 32px;
   height: 32px;
   width: 32px;
-}
-
-.school-logo.tiny {
-  border-radius: 6px;
-  flex-basis: 30px;
-  height: 30px;
-  width: 30px;
 }
 
 .school-logo img {
@@ -622,35 +595,6 @@ a:focus-visible {
 .archive-panel {
   margin-top: 20px;
   padding: 16px;
-}
-
-.load-more {
-  background: var(--ink);
-  border: 1px solid var(--ink);
-  border-radius: 8px;
-  color: #fff;
-  cursor: pointer;
-  display: block;
-  font-size: 14px;
-  font-weight: 800;
-  margin-top: 18px;
-  min-height: 46px;
-  padding: 12px 18px;
-  transition:
-    background-color 160ms ease,
-    border-color 160ms ease,
-    transform 160ms ease;
-  width: 100%;
-}
-
-.load-more:hover {
-  background: var(--blue-dark);
-  border-color: var(--blue-dark);
-  transform: translateY(-1px);
-}
-
-.load-more[hidden] {
-  display: none;
 }
 
 .archive-panel summary {
@@ -846,7 +790,8 @@ a:focus-visible {
   }
 
   .school-strip {
-    max-height: 280px;
+    grid-template-columns: repeat(9, minmax(64px, 1fr));
+    overflow-x: auto;
   }
 }
 
@@ -899,11 +844,11 @@ a:focus-visible {
   }
 
   .school-strip {
-    max-height: 250px;
+    grid-template-columns: repeat(9, 64px);
   }
 
   .school-chip {
-    min-height: 44px;
+    height: 64px;
   }
 
   .detail-title,
