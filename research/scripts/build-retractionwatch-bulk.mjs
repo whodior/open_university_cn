@@ -728,14 +728,18 @@ function recordToEntries(record) {
   const date = normalizeDate(record.RetractionDate);
   const articleType = clean(record.ArticleType);
   const journal = clean(record.Journal);
+  const sourceRecordId = record['Record ID'];
+  const authorCount = authors.length;
+  const displayName = sourceRecordId ? `撤稿记录${sourceRecordId}作者组` : '撤稿记录作者组';
 
-  return authors.map((author) => {
-    const summary = `开放撤稿数据库记录显示，论文《${title}》于 ${date || '日期待核'} 在 ${journal || '期刊待核'} 形成${nature}记录；数据库列出的原因包括：${reason || '未列明'}。该条目按论文作者与机构字段归集，用于呈现公开数据库中的科研诚信风险线索。`;
-    const contextNarrative = `${author}被列入该条目，原因是其姓名出现在开放撤稿数据库的论文作者字段中，机构字段归一为${school}。记录链条为：论文发表后，数据库收录了与该论文相关的${nature}信息；记录日期为${date || '待核'}，期刊为${journal || '待核'}，原因字段包括${reason || '未列明'}，原论文题名见下方论文记录。事实边界限定在论文记录、作者字段和机构字段。`;
-    return {
-    name: author,
+  const summary = `开放撤稿数据库记录显示，论文《${title}》于 ${date || '日期待核'} 在 ${journal || '期刊待核'} 形成${nature}记录；数据库列出的原因包括：${reason || '未列明'}。该条目按论文与机构字段归集，用于呈现公开数据库中的科研诚信风险线索。`;
+  const contextNarrative = `${displayName}来自开放撤稿数据库的同一篇论文记录，数据库作者字段共列出 ${authorCount} 人，机构字段归一为${school}。记录链条为：论文发表后，数据库收录了与该论文相关的${nature}信息；记录日期为${date || '待核'}，期刊为${journal || '待核'}，原因字段包括${reason || '未列明'}，原论文题名为《${title}》。事实边界限定在论文记录、作者字段和机构字段。`;
+
+  return [{
+    name: displayName,
+    displayName,
     school,
-    identity: `${school}关联作者；机构字段归一：${institutionForDisplay}`,
+    identity: `${school}关联作者组；开放撤稿数据库作者字段计 ${authorCount} 人；机构字段归一：${institutionForDisplay}`,
     year: date,
     eventName,
     summary,
@@ -745,24 +749,25 @@ function recordToEntries(record) {
     sourcesMarkdown: sourceMarkdown(record),
     photoMarkdown: '无可列',
     paperMarkdown: record.OriginalPaperDOI && record.OriginalPaperDOI !== 'unavailable'
-      ? `[原论文 DOI](https://doi.org/${record.OriginalPaperDOI})`
+      ? `[原论文：${title}](https://doi.org/${record.OriginalPaperDOI})`
       : `论文题名：${title}`,
     section: '批量扩展：中国高校/科研机构撤稿数据库关联记录',
     subsection: school,
     credibility: '需核验',
-    sourceRecordId: record['Record ID'],
+    sourceRecordId,
     sourceDataset: '开放撤稿数据库',
+    sourceAuthorCount: authorCount,
     factBoundary: '论文撤稿/更正数据库记录；个人责任认定以权威结论为准',
     articleType,
-  };
-  });
+  }];
 }
 
 function uniqueEntries(entries) {
   const seen = new Set();
   const result = [];
   for (const entry of entries) {
-    const key = `${entry.name}|${entry.school}|${entry.eventName}`;
+    const sourceKey = entry.sourceRecordId || entry.paperMarkdown || entry.eventName;
+    const key = `${entry.school}|${sourceKey}|${entry.nature}`;
     if (seen.has(key)) continue;
     seen.add(key);
     result.push(entry);
@@ -777,16 +782,24 @@ function main() {
 
   fs.mkdirSync(dataDir, { recursive: true });
   const records = recordsFromCsv(fs.readFileSync(sourceCsvPath, 'utf8'));
-  const entries = uniqueEntries(
-    records
-      .filter(isChinaRelated)
-      .flatMap(recordToEntries),
-  ).slice(0, targetEntries);
+  const sampled = [];
+  let sampledAuthorRows = 0;
+
+  for (const record of records.filter(isChinaRelated)) {
+    if (sampledAuthorRows >= targetEntries) break;
+    const rows = recordToEntries(record);
+    if (!rows.length) continue;
+    sampled.push(...rows);
+    sampledAuthorRows += splitList(record.Author).slice(0, 8).length;
+  }
+
+  const entries = uniqueEntries(sampled);
 
   const payload = {
     generatedAt: new Date().toISOString(),
     source: sourceUrl,
-    factBoundary: '开放撤稿数据库中的论文撤稿或更正记录；按作者与机构字段关联展示，个人责任认定以权威结论为准。',
+    sampledAuthorRows,
+    factBoundary: '开放撤稿数据库中的论文撤稿或更正记录；按论文记录与机构字段归并展示，个人责任认定以权威结论为准。',
     entries,
   };
 

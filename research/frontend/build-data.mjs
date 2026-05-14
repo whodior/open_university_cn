@@ -100,6 +100,10 @@ function displayNameFor(entry) {
   const name = entry.name;
   const eventText = `${entry.eventName} ${entry.summary}`;
 
+  if (/韩承轩\s+Chengxuan Han/i.test(name)) return '韩承轩';
+  if (/Charles M\. Lieber|查尔斯·利伯/i.test(name)) return '查尔斯·利伯';
+  if (/王某某.*萌心涌动NJU/.test(name)) return '王某某';
+  if (/^Qiushi Wu$/i.test(name)) return '吴秋实';
   if (/沈阳；高岩/.test(name)) return '沈阳';
   if (/牟林翰；包丽/.test(name)) return '牟林翰';
   if (/王晓龙；江林/.test(name)) return '王晓龙';
@@ -115,6 +119,10 @@ function displayNameFor(entry) {
 function canonicalPersonKey(entry) {
   const eventText = `${entry.eventName} ${entry.summary}`;
   let name = displayNameFor(entry);
+
+  if (entry.sourceRecordId || entry.sourceDataset === '开放撤稿数据库') {
+    return `${entry.school}|${entry.sourceRecordId || normalizeText(entry.paperMarkdown)}|${normalizeText(entry.nature)}`;
+  }
 
   if (entry.school === '西安交通大学' && /翻译式抄袭|王建辉/.test(eventText)) name = '王建辉';
   if (entry.school === '上海交通大学' && /学术霸凌/.test(eventText)) name = '邵某';
@@ -164,6 +172,7 @@ function extractLinks(...values) {
 function shouldAddCnkiSearch(entry) {
   const joined = `${entry.displayName} ${entry.name} ${entry.paperMarkdown}`;
 
+  if (entry.sourceRecordId || entry.sourceDataset === '开放撤稿数据库') return false;
   if (/某|匿名|公开称谓|参演|作者|学生物品|无可列|隐私保护/.test(joined)) return false;
   if (entry.paperLinks.some((link) => /cnki\.net/i.test(link.url))) return false;
   return true;
@@ -398,6 +407,10 @@ function normalizeBulkEntry(rawEntry, sourceFile, index) {
     sourcesMarkdown,
     photoMarkdown,
     paperMarkdown,
+    sourceRecordId: stripMarkdown(rawEntry.sourceRecordId || ''),
+    sourceDataset: stripMarkdown(rawEntry.sourceDataset || ''),
+    sourceAuthorCount: Number.parseInt(rawEntry.sourceAuthorCount || '0', 10) || 0,
+    factBoundary: stripMarkdown(rawEntry.factBoundary || ''),
     links: extractLinks(sourcesMarkdown, photoMarkdown, paperMarkdown),
     sourceLinks,
     photoLinks,

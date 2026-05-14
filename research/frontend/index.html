@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>高校争议人物资料库</title>
+    <title>高校争议人物与事件资料库</title>
     <link rel="icon" href="data:," />
     <link rel="stylesheet" href="./styles.css" />
   </head>
@@ -12,7 +12,7 @@
       <div class="topbar-inner">
         <div class="brand">
           <span class="brand-mark" aria-hidden="true"></span>
-          <span>高校争议人物资料库</span>
+          <span>高校争议人物与事件资料库</span>
         </div>
         <a class="source-link" href="../controversial-alumni-soft-ranking-2026.md">数据原档</a>
       </div>
@@ -21,7 +21,7 @@
       <section class="masthead" aria-label="数据概览">
         <div class="masthead-copy">
           <p class="eyebrow">公开来源索引</p>
-          <h1>人物索引</h1>
+          <h1>事件索引</h1>
           <p>按学校、事件性质、可信度快速筛选。</p>
         </div>
         <section class="metrics" aria-label="统计">
@@ -31,7 +31,7 @@
           </div>
           <div>
             <span id="totalEntries">-</span>
-            <p>展示人物</p>
+            <p>展示条目</p>
           </div>
           <div>
             <span id="visibleEntries">-</span>
@@ -53,7 +53,7 @@
             </div>
             <label class="search-field">
               <span>关键词</span>
-              <input id="searchInput" type="search" placeholder="姓名、学校、事件、来源关键词" />
+              <input id="searchInput" type="search" placeholder="姓名、作者组、学校、事件、来源关键词" />
             </label>
             <label>
               <span>学校</span>
@@ -84,11 +84,11 @@
 
         <section class="feed">
           <section class="results-head">
-            <h2>人物</h2>
+            <h2>事件条目</h2>
             <span id="feedCaption" class="feed-caption">点击卡片查看详情、来源和论文链接</span>
           </section>
 
-          <section id="cards" class="cards" aria-label="人物卡片"></section>
+          <section id="cards" class="cards" aria-label="事件卡片"></section>
           <button id="loadMore" class="load-more" type="button" hidden>显示更多</button>
 
           <details class="archive-panel" aria-label="本地搜索归档">

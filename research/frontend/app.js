@@ -127,7 +127,7 @@ function buildEventContext(entry) {
   if (entry.contextNarrative) return entry.contextNarrative;
 
   const parts = [];
-  const name = entry.displayName || entry.name || '该人物';
+  const name = entry.displayName || entry.name || '该条目';
   if (entry.school) parts.push(`${name}条目关联学校为${entry.school}`);
   if (hasUsefulText(entry.identity)) parts.push(`公开资料中的身份线索为：${entry.identity}`);
   if (hasUsefulText(entry.year)) parts.push(`时间线索为：${entry.year}`);
@@ -143,10 +143,15 @@ function buildEventContext(entry) {
 
 function buildImpactText(entry) {
   if (hasUsefulText(entry.impact)) return entry.impact;
-  if (/论文记录/.test(entry.nature || '')) {
+  if (entry.sourceRecordId || entry.sourceDataset === '开放撤稿数据库' || /论文记录|撤稿|更正/.test(entry.nature || '')) {
     return '该记录主要用于观察公开撤稿数据库中的论文、作者和机构关联线索，具体责任边界需要结合期刊通知、机构调查和原始论文继续核验。';
   }
   return '该事件已经进入公开资料索引，后续影响需要结合详情页来源、官方通报和媒体报道继续核验。';
+}
+
+function paperSectionTitle(entry) {
+  if (entry.sourceRecordId || entry.sourceDataset === '开放撤稿数据库') return '论文记录';
+  return '毕业设计 / 学生时期论文';
 }
 
 function logoUrl(school) {
@@ -321,6 +326,16 @@ function renderLinkList(title, links, fallbackText = '') {
   `;
 }
 
+function renderTextBlock(title, text) {
+  if (!hasUsefulText(text)) return '';
+  return `
+    <section class="detail-block full">
+      <h3>${escapeHtml(title)}</h3>
+      <p>${escapeHtml(text)}</p>
+    </section>
+  `;
+}
+
 function showDetail(entry) {
   els.dialogContent.innerHTML = `
     <header class="detail-title">
@@ -336,6 +351,7 @@ function showDetail(entry) {
         <h3>事件脉络</h3>
         <p>${escapeHtml(buildEventContext(entry))}</p>
       </section>
+      ${renderTextBlock('事件概要', entry.summary)}
       <section class="detail-block full">
         <h3>舆论影响</h3>
         <p>${escapeHtml(buildImpactText(entry))}</p>
@@ -362,7 +378,7 @@ function showDetail(entry) {
       </section>
       ${renderLinkList('信息来源', entry.sourceLinks, entry.sourcesMarkdown || '待补强')}
       ${renderLinkList('照片 / 含图页', entry.photoLinks, entry.photoMarkdown || '待补强')}
-      ${renderLinkList('毕业设计 / 学生时期论文', entry.paperLinks, entry.paperMarkdown || '待补强')}
+      ${renderLinkList(paperSectionTitle(entry), entry.paperLinks, entry.paperMarkdown || '待补强')}
     </div>
   `;
   els.detailDialog.showModal();
