@@ -254,6 +254,7 @@ function buildEntries(markdown) {
       const year = row['毕业年份或就读年份'] || '';
       const eventName = row['事件名称'] || '';
       const summary = row['事件概要'] || '';
+      const contextNarrative = row['事件脉络'] || row['来龙去脉'] || '';
       const impact = row['舆论影响'] || row['为何舆论大'] || '';
       const nature = row['事件性质'] || '';
       const sourcesMarkdown = row['信息来源链接'] || row['可靠来源链接'] || '';
@@ -272,6 +273,7 @@ function buildEntries(markdown) {
           year: stripMarkdown(year),
           eventName: stripMarkdown(eventName) || inferEventName(stripMarkdown(name), stripMarkdown(summary), stripMarkdown(nature)),
           summary: stripMarkdown(summary),
+          contextNarrative: stripMarkdown(contextNarrative),
           impact: stripMarkdown(impact),
           nature: stripMarkdown(nature),
           sourcesMarkdown,
@@ -390,6 +392,7 @@ function normalizeBulkEntry(rawEntry, sourceFile, index) {
     year: stripMarkdown(rawEntry.year || rawEntry['毕业年份或就读年份'] || ''),
     eventName: stripMarkdown(rawEntry.eventName || rawEntry['事件名称'] || '') || inferEventName(name, summary, nature),
     summary,
+    contextNarrative: stripMarkdown(rawEntry.contextNarrative || rawEntry['事件脉络'] || ''),
     impact: stripMarkdown(rawEntry.impact || rawEntry['舆论影响'] || rawEntry['为何舆论大'] || ''),
     nature,
     sourcesMarkdown,
