@@ -13,7 +13,7 @@
 
 ```powershell
 curl.exe -L -o research\archive\sources\retractionwatch.csv https://api.labs.crossref.org/data/retractionwatch
-$env:RETRACTIONWATCH_TARGET='1400'; node research\scripts\build-retractionwatch-bulk.mjs
+$env:RETRACTIONWATCH_TARGET='1800'; node research\scripts\build-retractionwatch-bulk.mjs
 node research\frontend\build-data.mjs
 ```
 

@@ -9,7 +9,7 @@ const archiveDir = path.join(root, 'research', 'archive', 'sources');
 const outputPath = path.join(dataDir, 'retractionwatch-china-authors.json');
 const sourceCsvPath = path.join(archiveDir, 'retractionwatch.csv');
 const sourceUrl = 'https://api.labs.crossref.org/data/retractionwatch';
-const targetEntries = Number.parseInt(process.env.RETRACTIONWATCH_TARGET || '1200', 10);
+const targetEntries = Number.parseInt(process.env.RETRACTIONWATCH_TARGET || '1800', 10);
 
 const institutionPatterns = [
   /University/i,

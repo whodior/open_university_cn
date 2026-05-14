@@ -463,6 +463,13 @@
   },
   {
     "engine": "bing",
+    "query": "南华大学 何某某 造黄谣 开除学籍 推免取消",
+    "file": "bing_南华大学_何某某_造黄谣_开除学籍_推免取消.html",
+    "path": "../archive/searches/bing_南华大学_何某某_造黄谣_开除学籍_推免取消.html",
+    "sizeBytes": 101208
+  },
+  {
+    "engine": "bing",
     "query": "南京大学 刘赛连 硕士论文 抄袭",
     "file": "bing_南京大学_刘赛连_硕士论文_抄袭.html",
     "path": "../archive/searches/bing_南京大学_刘赛连_硕士论文_抄袭.html",
@@ -544,6 +551,20 @@
     "file": "bing_厦门大学_田佳良_学术不端_退学_通报.html",
     "path": "../archive/searches/bing_厦门大学_田佳良_学术不端_退学_通报.html",
     "sizeBytes": 485953
+  },
+  {
+    "engine": "bing",
+    "query": "山东理工大学 陈春秀 陈艳萍 冒名顶替 学历注销",
+    "file": "bing_山东理工大学_陈春秀_陈艳萍_冒名顶替_学历注销.html",
+    "path": "../archive/searches/bing_山东理工大学_陈春秀_陈艳萍_冒名顶替_学历注销.html",
+    "sizeBytes": 101645
+  },
+  {
+    "engine": "bing",
+    "query": "上海财经大学 钱逢胜 师德失范 撤销教师资格",
+    "file": "bing_上海财经大学_钱逢胜_师德失范_撤销教师资格.html",
+    "path": "../archive/searches/bing_上海财经大学_钱逢胜_师德失范_撤销教师资格.html",
+    "sizeBytes": 101288
   },
   {
     "engine": "bing",
@@ -666,6 +687,13 @@
   },
   {
     "engine": "bing",
+    "query": "湘潭大学 周立人 投毒案 判决 执行死刑",
+    "file": "bing_湘潭大学_周立人_投毒案_判决_执行死刑.html",
+    "path": "../archive/searches/bing_湘潭大学_周立人_投毒案_判决_执行死刑.html",
+    "sizeBytes": 100873
+  },
+  {
+    "engine": "bing",
     "query": "项俊波 北京大学 博士 受贿 判决",
     "file": "bing_项俊波_北京大学_博士_受贿_判决.html",
     "path": "../archive/searches/bing_项俊波_北京大学_博士_受贿_判决.html",
@@ -726,6 +754,13 @@
     "file": "bing_中山大学_赵某晨_造黄谣_开除学籍_通报.html",
     "path": "../archive/searches/bing_中山大学_赵某晨_造黄谣_开除学籍_通报.html",
     "sizeBytes": 119554
+  },
+  {
+    "engine": "bing",
+    "query": "中央戏剧学院 仝卓 毕业证 撤销 高考舞弊",
+    "file": "bing_中央戏剧学院_仝卓_毕业证_撤销_高考舞弊.html",
+    "path": "../archive/searches/bing_中央戏剧学院_仝卓_毕业证_撤销_高考舞弊.html",
+    "sizeBytes": 100612
   },
   {
     "engine": "bing",

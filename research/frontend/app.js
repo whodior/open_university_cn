@@ -16,7 +16,10 @@ const state = {
   school: '',
   nature: '',
   credibility: '',
+  visibleLimit: 96,
 };
+
+const pageSize = 96;
 
 const els = {
   sourceEntries: document.querySelector('#sourceEntries'),
@@ -32,6 +35,8 @@ const els = {
   schoolStrip: document.querySelector('#schoolStrip'),
   archiveList: document.querySelector('#archiveList'),
   cards: document.querySelector('#cards'),
+  loadMore: document.querySelector('#loadMore'),
+  feedCaption: document.querySelector('#feedCaption'),
   detailDialog: document.querySelector('#detailDialog'),
   dialogContent: document.querySelector('#dialogContent'),
   closeDialog: document.querySelector('#closeDialog'),
@@ -88,16 +93,26 @@ function renderStats(data, filtered) {
 }
 
 function renderSchoolStrip(data, filtered) {
-  els.schoolStrip.innerHTML = data.schools
+  const schoolRows = data.schools
     .map((school) => {
       const visible = filtered.filter((entry) => entry.school === school).length;
       const total = data.bySchool[school] || 0;
+      return { school, visible, total };
+    })
+    .sort((a, b) => {
+      if (a.school === state.school) return -1;
+      if (b.school === state.school) return 1;
+      return b.visible - a.visible || b.total - a.total || a.school.localeCompare(b.school, 'zh-Hans-CN');
+    });
+
+  els.schoolStrip.innerHTML = schoolRows
+    .map(({ school, visible, total }) => {
       const pressed = state.school === school ? 'true' : 'false';
       return `
         <button class="school-chip" type="button" data-school="${escapeHtml(school)}" aria-pressed="${pressed}" aria-label="${escapeHtml(school)}，${visible} / ${total}" title="${escapeHtml(school)} ${visible} / ${total}">
-          ${logoMarkup(school)}
-          <span class="school-chip-count">${visible}</span>
-          <span class="visually-hidden">${escapeHtml(school)} ${visible} / ${total}</span>
+          ${logoMarkup(school, 'tiny')}
+          <span class="school-chip-name">${escapeHtml(school)}</span>
+          <span class="school-chip-count">${visible}<small>/ ${total}</small></span>
         </button>
       `;
     })
@@ -155,10 +170,13 @@ function getFilteredEntries() {
 function renderCards(entries) {
   if (!entries.length) {
     els.cards.innerHTML = '<div class="empty">没有匹配记录。</div>';
+    els.loadMore.hidden = true;
+    if (els.feedCaption) els.feedCaption.textContent = '调整筛选条件后查看匹配记录';
     return;
   }
 
-  els.cards.innerHTML = entries
+  const visibleEntries = entries.slice(0, state.visibleLimit);
+  els.cards.innerHTML = visibleEntries
     .map(
       (entry) => `
         <button class="person-card" type="button" data-entry-id="${escapeHtml(entry.id)}">
@@ -182,6 +200,13 @@ function renderCards(entries) {
       `,
     )
     .join('');
+
+  const shown = visibleEntries.length;
+  if (els.feedCaption) {
+    els.feedCaption.textContent = `当前显示 ${shown} / ${entries.length} 条，点击卡片查看详情、来源和论文链接`;
+  }
+  els.loadMore.hidden = shown >= entries.length;
+  els.loadMore.textContent = `显示更多（${shown} / ${entries.length}）`;
 }
 
 function renderLinkList(title, links, fallbackText = '') {
@@ -252,15 +277,21 @@ function render() {
   renderCards(filtered);
 }
 
+function resetVisibleLimit() {
+  state.visibleLimit = pageSize;
+}
+
 function syncSchoolFilter(value) {
   state.school = value;
   els.schoolFilter.value = value;
+  resetVisibleLimit();
   render();
 }
 
 function bindEvents() {
   els.searchInput.addEventListener('input', (event) => {
     state.query = event.target.value;
+    resetVisibleLimit();
     render();
   });
 
@@ -270,11 +301,13 @@ function bindEvents() {
 
   els.natureFilter.addEventListener('change', (event) => {
     state.nature = event.target.value;
+    resetVisibleLimit();
     render();
   });
 
   els.credibilityFilter.addEventListener('change', (event) => {
     state.credibility = event.target.value;
+    resetVisibleLimit();
     render();
   });
 
@@ -287,6 +320,7 @@ function bindEvents() {
     els.schoolFilter.value = '';
     els.natureFilter.value = '';
     els.credibilityFilter.value = '';
+    resetVisibleLimit();
     render();
   });
 
@@ -302,6 +336,12 @@ function bindEvents() {
     if (!button) return;
     const entry = state.data.entries.find((item) => item.id === button.dataset.entryId);
     if (entry) showDetail(entry);
+  });
+
+  els.loadMore.addEventListener('click', () => {
+    state.visibleLimit += pageSize;
+    render();
+    els.loadMore.focus();
   });
 
   els.closeDialog.addEventListener('click', () => {
