@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T05:37:59.417Z",
+  "generatedAt": "2026-05-15T06:13:54.299Z",
   "markdownFile": "../controversial-alumni-soft-ranking-2026.md",
-  "sourceEntries": 514,
-  "totalEntries": 500,
+  "sourceEntries": 524,
+  "totalEntries": 510,
   "schools": [
     "清华大学",
     "北京大学",
@@ -28561,6 +28561,562 @@
       "eventYear": 2026,
       "sourceCount": 3,
       "credibility": "需核验"
+    },
+    {
+      "id": "e501",
+      "section": "第十二轮高舆论人物补充",
+      "subsection": "高校师生与公共事件样本",
+      "name": "张薇 / 张某",
+      "school": "四川大学",
+      "schoolRaw": "四川大学",
+      "identity": "四川大学2022级硕士研究生；官方通报采用张某",
+      "year": "",
+      "eventName": "广州地铁偷拍误会及网络曝光事件",
+      "summary": "2023年6月，四川大学通报称该生在个人社交账号发布所拍他人视频及不当言论，造成严重不良社会影响，给予留校察看处分和留党察看处分。",
+      "narrative": "地铁乘客自证未偷拍后，涉事学生仍将未打码视频和相关言论发布到网络，引发隐私、诽谤、保研资格和校纪处分讨论。四川大学后续称经调解取得对方谅解，并核查推荐免试接收过程。",
+      "impact": "名校研究生、公共场所误会、网络曝光、隐私保护、保研公平和处分尺度叠加，成为2023年校园舆论高热事件。",
+      "nature": "校园舆论 / 隐私曝光 / 校纪处分",
+      "sourcesMarkdown": "[新华网](https://www.news.cn/legal/2023-06/21/c_1129710398.htm)；[央视网](https://news.cctv.com/2023/06/21/ARTIABXpedXQ8ZB18mtImZ1c230621.shtml)；[中新网](https://www.chinanews.com.cn/sh/2023/06-21/10029167.shtml)",
+      "photoMarkdown": "普通学生，可靠公开照片页待核",
+      "paperMarkdown": "无可列",
+      "links": [
+        {
+          "label": "新华网",
+          "url": "https://www.news.cn/legal/2023-06/21/c_1129710398.htm"
+        },
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2023/06/21/ARTIABXpedXQ8ZB18mtImZ1c230621.shtml"
+        },
+        {
+          "label": "中新网",
+          "url": "https://www.chinanews.com.cn/sh/2023/06-21/10029167.shtml"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "新华网",
+          "url": "https://www.news.cn/legal/2023-06/21/c_1129710398.htm"
+        },
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2023/06/21/ARTIABXpedXQ8ZB18mtImZ1c230621.shtml"
+        },
+        {
+          "label": "中新网",
+          "url": "https://www.chinanews.com.cn/sh/2023/06-21/10029167.shtml"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [],
+      "displayName": "张薇 / 张某",
+      "eventYear": 2023,
+      "sourceCount": 3,
+      "credibility": "较强"
+    },
+    {
+      "id": "e502",
+      "section": "第十二轮高舆论人物补充",
+      "subsection": "高校师生与公共事件样本",
+      "name": "钱逢胜",
+      "school": "上海财经大学",
+      "schoolRaw": "上海财经大学",
+      "identity": "上海财经大学会计学院原副教授",
+      "year": "",
+      "eventName": "上海财经大学钱逢胜性骚扰学生处理事件",
+      "summary": "2019年12月，上海财经大学通报称钱逢胜严重违背教师职业道德，给予开除处分，撤销副教授专业技术职务和教师资格。",
+      "narrative": "女研究生在社交平台举报后，校方成立调查组核实并发布处理通报；多家媒体同步报道其独立董事职务、教师资格和高校反性骚扰机制问题。",
+      "impact": "高校师生权力不对等、实名举报、师德一票否决、商学院教师公共身份和上市公司独董履历形成持续讨论。",
+      "nature": "师德失范 / 性骚扰 / 解聘处理",
+      "sourcesMarkdown": "[央视网](https://news.cctv.com/2019/12/10/ARTIsyKwSCeC6AauQSb9AFXN191210.shtml)；[中国网](https://news.china.com.cn/txt/2019-12/09/content_75495132.htm)；[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_5194998)",
+      "photoMarkdown": "媒体报道页含图",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2019/12/10/ARTIsyKwSCeC6AauQSb9AFXN191210.shtml"
+        },
+        {
+          "label": "中国网",
+          "url": "https://news.china.com.cn/txt/2019-12/09/content_75495132.htm"
+        },
+        {
+          "label": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_5194998"
+        },
+        {
+          "label": "知网检索：钱逢胜 上海财经大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%92%B1%E9%80%A2%E8%83%9C%20%E4%B8%8A%E6%B5%B7%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2019/12/10/ARTIsyKwSCeC6AauQSb9AFXN191210.shtml"
+        },
+        {
+          "label": "中国网",
+          "url": "https://news.china.com.cn/txt/2019-12/09/content_75495132.htm"
+        },
+        {
+          "label": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_5194998"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：钱逢胜 上海财经大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%92%B1%E9%80%A2%E8%83%9C%20%E4%B8%8A%E6%B5%B7%E8%B4%A2%E7%BB%8F%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "钱逢胜",
+      "eventYear": 2019,
+      "sourceCount": 3,
+      "credibility": "较强"
+    },
+    {
+      "id": "e503",
+      "section": "第十二轮高舆论人物补充",
+      "subsection": "高校师生与公共事件样本",
+      "name": "吴春明",
+      "school": "厦门大学",
+      "schoolRaw": "厦门大学",
+      "identity": "厦门大学历史系原教授、博士生导师",
+      "year": "",
+      "eventName": "厦门大学吴春明师德失范处理事件",
+      "summary": "2014年10月，厦门大学通报查明吴春明与一名女研究生多次发生不正当性关系，并对另一名女研究生有性骚扰行为，给予开除党籍、撤销教师资格处分。",
+      "narrative": "2014年7月，学生网络举报引发关注，厦门大学先中止其研究生导师资格和招生指导工作，经过三个月调查后发布处理结果。",
+      "impact": "博导权力、女研究生权益、师德调查程序和高校性骚扰治理成为早期高传播案例。",
+      "nature": "师德失范 / 性骚扰 / 撤销教师资格",
+      "sourcesMarkdown": "[中新网](https://www.chinanews.com/fz/2014/10-14/6678581.shtml)；[中国日报网](https://cnews.chinadaily.com.cn/2014-10/15/content_18740590.htm)；[人民网](https://politics.people.com.cn/n/2014/1015/c70731-25839892.html)",
+      "photoMarkdown": "媒体报道页含图",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "中新网",
+          "url": "https://www.chinanews.com/fz/2014/10-14/6678581.shtml"
+        },
+        {
+          "label": "中国日报网",
+          "url": "https://cnews.chinadaily.com.cn/2014-10/15/content_18740590.htm"
+        },
+        {
+          "label": "人民网",
+          "url": "https://politics.people.com.cn/n/2014/1015/c70731-25839892.html"
+        },
+        {
+          "label": "知网检索：吴春明 厦门大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%90%B4%E6%98%A5%E6%98%8E%20%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中新网",
+          "url": "https://www.chinanews.com/fz/2014/10-14/6678581.shtml"
+        },
+        {
+          "label": "中国日报网",
+          "url": "https://cnews.chinadaily.com.cn/2014-10/15/content_18740590.htm"
+        },
+        {
+          "label": "人民网",
+          "url": "https://politics.people.com.cn/n/2014/1015/c70731-25839892.html"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：吴春明 厦门大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E5%90%B4%E6%98%A5%E6%98%8E%20%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "吴春明",
+      "eventYear": 2014,
+      "sourceCount": 3,
+      "credibility": "较强"
+    },
+    {
+      "id": "e504",
+      "section": "第十二轮高舆论人物补充",
+      "subsection": "高校师生与公共事件样本",
+      "name": "范源庆",
+      "school": "山东理工大学",
+      "schoolRaw": "山东理工大学",
+      "identity": "山东理工大学数学与统计学院2016级学生",
+      "year": "",
+      "eventName": "山东理工大学范源庆虐猫退学事件",
+      "summary": "2020年4月，山东理工大学通报称范源庆存在虐猫并在网上发布、转发他人虐猫视频情况，依据学校学生学籍管理规定予以退学。",
+      "narrative": "网友曝光相关账号和视频后，学校先核实其学生身份并配合公安机关调查，随后发布处理公告，强调仅通过官方微博发布信息通报。",
+      "impact": "高校学生虐待动物、视频传播、动物保护立法讨论和退学处分尺度成为全国性舆论议题。",
+      "nature": "动物伤害 / 虐猫舆情 / 退学处理",
+      "sourcesMarkdown": "[央视网](https://news.cctv.com/2020/04/16/ARTIeJpXch1BmnOHlcA5ovpV200416.shtml)；[人民网](https://js.people.com.cn/n2/2020/0415/c359574-33951498.html)；[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_6982725)",
+      "photoMarkdown": "普通学生，可靠公开照片页待核",
+      "paperMarkdown": "无可列",
+      "links": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2020/04/16/ARTIeJpXch1BmnOHlcA5ovpV200416.shtml"
+        },
+        {
+          "label": "人民网",
+          "url": "https://js.people.com.cn/n2/2020/0415/c359574-33951498.html"
+        },
+        {
+          "label": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_6982725"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2020/04/16/ARTIeJpXch1BmnOHlcA5ovpV200416.shtml"
+        },
+        {
+          "label": "人民网",
+          "url": "https://js.people.com.cn/n2/2020/0415/c359574-33951498.html"
+        },
+        {
+          "label": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_6982725"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [],
+      "displayName": "范源庆",
+      "eventYear": 2020,
+      "sourceCount": 3,
+      "credibility": "较强"
+    },
+    {
+      "id": "e505",
+      "section": "第十二轮高舆论人物补充",
+      "subsection": "高校师生与公共事件样本",
+      "name": "周立人 / 周某某",
+      "school": "湘潭大学",
+      "schoolRaw": "湘潭大学",
+      "identity": "湘潭大学研究生；司法报道公开姓名",
+      "year": "",
+      "eventName": "湘潭大学宿舍投毒案",
+      "summary": "2025年，法院以故意杀人罪判处周立人死刑，剥夺政治权利终身；二审维持原判后，经最高人民法院核准，2025年10月31日被执行死刑。",
+      "narrative": "法院认定周立人为泄私愤，向寝室内两名室友共食的罐装麦片内投放剧毒物质，致张某某死亡。案件经历一审、二审、死刑复核和执行程序。",
+      "impact": "校园宿舍安全、研究生矛盾、剧毒物质管控、死刑适用和同类投毒案比较形成高强度公共讨论。",
+      "nature": "刑事案件 / 故意杀人 / 死刑执行",
+      "sourcesMarkdown": "[央视新闻](https://news.cctv.cn/2025/10/31/ARTIDGdoUKxNhfoKptaCWIY7251031.shtml)；[央广网二审](https://news.cnr.cn/kuaixun/20250814/t20250814_527318709.shtml)；[人民网](https://society.people.com.cn/n1/2025/0814/c1008-40542662.html)",
+      "photoMarkdown": "司法报道页含图待核",
+      "paperMarkdown": "无可列",
+      "links": [
+        {
+          "label": "央视新闻",
+          "url": "https://news.cctv.cn/2025/10/31/ARTIDGdoUKxNhfoKptaCWIY7251031.shtml"
+        },
+        {
+          "label": "央广网二审",
+          "url": "https://news.cnr.cn/kuaixun/20250814/t20250814_527318709.shtml"
+        },
+        {
+          "label": "人民网",
+          "url": "https://society.people.com.cn/n1/2025/0814/c1008-40542662.html"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视新闻",
+          "url": "https://news.cctv.cn/2025/10/31/ARTIDGdoUKxNhfoKptaCWIY7251031.shtml"
+        },
+        {
+          "label": "央广网二审",
+          "url": "https://news.cnr.cn/kuaixun/20250814/t20250814_527318709.shtml"
+        },
+        {
+          "label": "人民网",
+          "url": "https://society.people.com.cn/n1/2025/0814/c1008-40542662.html"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [],
+      "displayName": "周立人 / 周某某",
+      "eventYear": 2025,
+      "sourceCount": 3,
+      "credibility": "较强"
+    },
+    {
+      "id": "e506",
+      "section": "第十二轮高舆论人物补充",
+      "subsection": "高校师生与公共事件样本",
+      "name": "付成励",
+      "school": "中国政法大学",
+      "schoolRaw": "中国政法大学",
+      "identity": "中国政法大学政治与公共管理学院本科四年级学生",
+      "year": "",
+      "eventName": "中国政法大学弑师案",
+      "summary": "2009年10月，北京市第一中级人民法院以故意杀人罪判处付成励死刑，缓期二年执行。",
+      "narrative": "2008年10月，付成励携刀进入教师程春明备课教室将其砍伤，后程春明死亡。法院认定其具有自首情节且平时表现良好，作出死缓判决。",
+      "impact": "师生关系、校园极端暴力、死缓量刑理由和高校安全管理成为长期被引用的校园刑事案件样本。",
+      "nature": "刑事案件 / 故意杀人 / 死缓判决",
+      "sourcesMarkdown": "[中国教育和科研计算机网转法制日报](https://www.edu.cn/edu/gao_deng/gao_jiao_news/200910/t20091021_414125.shtml)；[中国日报网](https://www.chinadaily.com.cn/zgzx/2009-10/21/content_8823271.htm)；[新浪新闻转检察日报](https://news.sina.com.cn/c/2009-10-24/091018898912.shtml)",
+      "photoMarkdown": "媒体报道页含图",
+      "paperMarkdown": "无可列",
+      "links": [
+        {
+          "label": "中国教育和科研计算机网转法制日报",
+          "url": "https://www.edu.cn/edu/gao_deng/gao_jiao_news/200910/t20091021_414125.shtml"
+        },
+        {
+          "label": "中国日报网",
+          "url": "https://www.chinadaily.com.cn/zgzx/2009-10/21/content_8823271.htm"
+        },
+        {
+          "label": "新浪新闻转检察日报",
+          "url": "https://news.sina.com.cn/c/2009-10-24/091018898912.shtml"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中国教育和科研计算机网转法制日报",
+          "url": "https://www.edu.cn/edu/gao_deng/gao_jiao_news/200910/t20091021_414125.shtml"
+        },
+        {
+          "label": "中国日报网",
+          "url": "https://www.chinadaily.com.cn/zgzx/2009-10/21/content_8823271.htm"
+        },
+        {
+          "label": "新浪新闻转检察日报",
+          "url": "https://news.sina.com.cn/c/2009-10-24/091018898912.shtml"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [],
+      "displayName": "付成励",
+      "eventYear": 2009,
+      "sourceCount": 3,
+      "credibility": "较强"
+    },
+    {
+      "id": "e507",
+      "section": "第十二轮高舆论人物补充",
+      "subsection": "高校师生与公共事件样本",
+      "name": "郑凤 / 郑某",
+      "school": "北京邮电大学",
+      "schoolRaw": "北京邮电大学",
+      "identity": "北京邮电大学信息与通信工程学院教师、副教授、博士生导师",
+      "year": "",
+      "eventName": "北邮15名研究生联名举报导师事件",
+      "summary": "2024年4月，北京邮电大学通报称郑某未能正确履行研究生导师职责，要求学生从事与学习、科研无关事宜，并未按规定发放助研津贴，决定取消其研究生导师资格、停止教学工作并降低岗位等级。",
+      "narrative": "15名研究生联名举报材料在网络传播后，学校成立工作组调查并发布通报，同时为其指导学生调换导师、开展心理疏导和学习科研保障。",
+      "impact": "研究生导师权力边界、学生联名举报、科研劳务与助研津贴、导师资格撤销机制成为2024年高热议题。",
+      "nature": "师德失范 / 导师权力争议 / 岗位降级",
+      "sourcesMarkdown": "[央视网](https://news.cctv.com/2024/04/10/ARTI1BSi3kgMnuGsj1IKspmm240410.shtml)；[央广网](https://news.cnr.cn/local/dftj/20240410/t20240410_526659443.shtml)；[人民网](https://edu.people.com.cn/n1/2024/0411/c367001-40213686.html)",
+      "photoMarkdown": "媒体报道页含图",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2024/04/10/ARTI1BSi3kgMnuGsj1IKspmm240410.shtml"
+        },
+        {
+          "label": "央广网",
+          "url": "https://news.cnr.cn/local/dftj/20240410/t20240410_526659443.shtml"
+        },
+        {
+          "label": "人民网",
+          "url": "https://edu.people.com.cn/n1/2024/0411/c367001-40213686.html"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2024/04/10/ARTI1BSi3kgMnuGsj1IKspmm240410.shtml"
+        },
+        {
+          "label": "央广网",
+          "url": "https://news.cnr.cn/local/dftj/20240410/t20240410_526659443.shtml"
+        },
+        {
+          "label": "人民网",
+          "url": "https://edu.people.com.cn/n1/2024/0411/c367001-40213686.html"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [],
+      "displayName": "郑凤 / 郑某",
+      "eventYear": 2024,
+      "sourceCount": 3,
+      "credibility": "需核验"
+    },
+    {
+      "id": "e508",
+      "section": "第十二轮高舆论人物补充",
+      "subsection": "高校师生与公共事件样本",
+      "name": "陈小武",
+      "school": "北京航空航天大学",
+      "schoolRaw": "北京航空航天大学",
+      "identity": "北京航空航天大学原教授、博士生导师、长江学者特聘教授",
+      "year": "",
+      "eventName": "北航陈小武性骚扰学生处理事件",
+      "summary": "2018年1月，北京航空航天大学通报查明陈小武存在对学生的性骚扰行为，撤销其研究生院常务副院长职务、取消研究生导师资格、撤销教师职务和教师资格；教育部随后撤销其长江学者称号并追回奖金。",
+      "narrative": "华裔女学者罗茜茜实名举报后，学校开展调查并公布处理结果，教育部同步表态对校园性骚扰坚持零容忍。",
+      "impact": "中国高校MeToo开端样本、长江学者荣誉撤销、反性骚扰制度建设和实名举报保护形成标志性公共事件。",
+      "nature": "师德失范 / 性骚扰 / 荣誉撤销",
+      "sourcesMarkdown": "[新华网](https://www.xinhuanet.com/politics/2018-01/14/c_1122257027.htm)；[人民网](https://society.people.com.cn/n1/2018/0115/c1008-29763816.html)；[中新网](https://www.chinanews.com.cn/m/sh/2018/01-12/8422508.shtml)",
+      "photoMarkdown": "媒体报道页含图",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "新华网",
+          "url": "https://www.xinhuanet.com/politics/2018-01/14/c_1122257027.htm"
+        },
+        {
+          "label": "人民网",
+          "url": "https://society.people.com.cn/n1/2018/0115/c1008-29763816.html"
+        },
+        {
+          "label": "中新网",
+          "url": "https://www.chinanews.com.cn/m/sh/2018/01-12/8422508.shtml"
+        },
+        {
+          "label": "知网检索：陈小武 北京航空航天大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%99%88%E5%B0%8F%E6%AD%A6%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "新华网",
+          "url": "https://www.xinhuanet.com/politics/2018-01/14/c_1122257027.htm"
+        },
+        {
+          "label": "人民网",
+          "url": "https://society.people.com.cn/n1/2018/0115/c1008-29763816.html"
+        },
+        {
+          "label": "中新网",
+          "url": "https://www.chinanews.com.cn/m/sh/2018/01-12/8422508.shtml"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：陈小武 北京航空航天大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E9%99%88%E5%B0%8F%E6%AD%A6%20%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "陈小武",
+      "eventYear": 2018,
+      "sourceCount": 3,
+      "credibility": "较强"
+    },
+    {
+      "id": "e509",
+      "section": "第十二轮高舆论人物补充",
+      "subsection": "高校师生与公共事件样本",
+      "name": "王攀",
+      "school": "武汉理工大学",
+      "schoolRaw": "武汉理工大学",
+      "identity": "武汉理工大学自动化学院教师、陶崇园研究生导师",
+      "year": "",
+      "eventName": "武汉理工陶崇园事件导师处理",
+      "summary": "2018年4月，武汉理工大学通报称导师王攀存在与学生认义父子关系等与教学科研无关的行为，学校停止其研究生招生资格。",
+      "narrative": "陶崇园离世后，其家属和网络舆论关注导师权力边界。校方专项调查后发布通报，后续王攀招生资格公示又引发再次讨论。",
+      "impact": "导师权力结构、研究生身心压力、招生资格恢复争议和高校学生保护机制成为长期公共讨论样本。",
+      "nature": "导师权力争议 / 学生保护机制 / 招生资格处理",
+      "sourcesMarkdown": "[央视网](https://news.cctv.com/2018/04/08/ARTIpptyMBkw8C3eCpdDpAH2180408.shtml)；[人民网](https://society.people.com.cn/n1/2018/0408/c1008-29911755.html)；[澎湃新闻后续](https://www.thepaper.cn/newsDetail_forward_10134461)",
+      "photoMarkdown": "媒体报道页含图",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2018/04/08/ARTIpptyMBkw8C3eCpdDpAH2180408.shtml"
+        },
+        {
+          "label": "人民网",
+          "url": "https://society.people.com.cn/n1/2018/0408/c1008-29911755.html"
+        },
+        {
+          "label": "澎湃新闻后续",
+          "url": "https://www.thepaper.cn/newsDetail_forward_10134461"
+        },
+        {
+          "label": "知网检索：王攀 武汉理工大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%8E%8B%E6%94%80%20%E6%AD%A6%E6%B1%89%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2018/04/08/ARTIpptyMBkw8C3eCpdDpAH2180408.shtml"
+        },
+        {
+          "label": "人民网",
+          "url": "https://society.people.com.cn/n1/2018/0408/c1008-29911755.html"
+        },
+        {
+          "label": "澎湃新闻后续",
+          "url": "https://www.thepaper.cn/newsDetail_forward_10134461"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [
+        {
+          "label": "知网检索：王攀 武汉理工大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%8E%8B%E6%94%80%20%E6%AD%A6%E6%B1%89%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "王攀",
+      "eventYear": 2018,
+      "sourceCount": 3,
+      "credibility": "需核验"
+    },
+    {
+      "id": "e510",
+      "section": "第十二轮高舆论人物补充",
+      "subsection": "高校师生与公共事件样本",
+      "name": "王安中 / 王某某",
+      "school": "陕西师范大学",
+      "schoolRaw": "陕西师范大学",
+      "identity": "陕西师范大学新闻与传播学院教师、副教授",
+      "year": "",
+      "eventName": "陕西师范大学王某某性骚扰女毕业生处理事件",
+      "summary": "2024年7月，陕西师范大学通报称王某某严重违反教师职业道德，撤销其副教授职称，取消研究生指导教师资格，撤销教师岗位任职资格并解除聘用关系。",
+      "narrative": "女毕业生在校友群和网络平台反映其涉嫌师德失范后，学校成立工作专班调查核实，并发布处理通报，报请教育行政部门撤销教师资格。",
+      "impact": "与人大王贵元案前后呼应，推动高校性骚扰举报、教师资格撤销、校友群公开举报和调查速度讨论。",
+      "nature": "师德失范 / 性骚扰 / 解聘处理",
+      "sourcesMarkdown": "[人民网](https://edu.people.com.cn/n1/2024/0726/c367001-40286173.html)；[中国网教育](https://edu.china.com.cn/2024-07/26/content_117332430.shtml)；[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_28208313)",
+      "photoMarkdown": "媒体报道页含图",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "人民网",
+          "url": "https://edu.people.com.cn/n1/2024/0726/c367001-40286173.html"
+        },
+        {
+          "label": "中国网教育",
+          "url": "https://edu.china.com.cn/2024-07/26/content_117332430.shtml"
+        },
+        {
+          "label": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_28208313"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "人民网",
+          "url": "https://edu.people.com.cn/n1/2024/0726/c367001-40286173.html"
+        },
+        {
+          "label": "中国网教育",
+          "url": "https://edu.china.com.cn/2024-07/26/content_117332430.shtml"
+        },
+        {
+          "label": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_28208313"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [],
+      "displayName": "王安中 / 王某某",
+      "eventYear": 2024,
+      "sourceCount": 3,
+      "credibility": "较强"
     }
   ]
 }
