@@ -426,10 +426,15 @@ a:focus-visible {
 }
 
 .logo-empty {
+  align-items: center;
   background: linear-gradient(135deg, #e8edf4, #fff);
   border-radius: 6px;
-  display: block;
+  color: var(--blue-dark);
+  display: grid;
+  font-size: 14px;
+  font-weight: 850;
   height: 22px;
+  justify-items: center;
   width: 22px;
 }
 
@@ -471,7 +476,7 @@ a:focus-visible {
   cursor: pointer;
   display: grid;
   grid-template-rows: auto 1fr auto;
-  min-height: 218px;
+  min-height: 252px;
   overflow: hidden;
   padding: 16px;
   position: relative;
@@ -574,10 +579,22 @@ a:focus-visible {
   font-size: 14px;
   line-height: 1.55;
   margin-top: 14px;
-  min-height: 64px;
+  min-height: 44px;
   overflow: hidden;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
+}
+
+.impact-line {
+  color: var(--muted);
+  display: -webkit-box;
+  font-size: 13px;
+  line-height: 1.55;
+  margin-top: 10px;
+  min-height: 40px;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 .card-foot {
@@ -724,11 +741,81 @@ a:focus-visible {
   margin-top: 8px;
 }
 
+.detail-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.detail-badges span {
+  background: #eef6ff;
+  border: 1px solid rgba(10, 102, 194, 0.22);
+  border-radius: 999px;
+  color: var(--blue-dark);
+  font-size: 12px;
+  font-weight: 780;
+  padding: 6px 9px;
+}
+
 .detail-grid {
   display: grid;
   gap: 0 20px;
   grid-template-columns: 1fr 1fr;
   padding: 0 26px 26px;
+}
+
+.wiki-infobox {
+  align-self: start;
+  background: var(--surface-soft);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  grid-column: 1 / -1;
+  margin-bottom: 16px;
+  padding: 14px;
+}
+
+.wiki-infobox h3 {
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 850;
+  margin: 0 0 10px;
+}
+
+.wiki-infobox dl {
+  display: grid;
+  gap: 0;
+  margin: 0;
+}
+
+.wiki-infobox div {
+  border-top: 1px solid var(--line);
+  display: grid;
+  gap: 12px;
+  grid-template-columns: 112px minmax(0, 1fr);
+  padding: 10px 0;
+}
+
+.wiki-infobox div:first-of-type {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.wiki-infobox div:last-of-type {
+  padding-bottom: 0;
+}
+
+.wiki-infobox dt {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.wiki-infobox dd {
+  color: var(--ink-soft);
+  font-size: 13px;
+  line-height: 1.5;
+  margin: 0;
 }
 
 .detail-block {
@@ -864,5 +951,10 @@ a:focus-visible {
   .detail-title {
     align-items: flex-start;
     flex-direction: column;
+  }
+
+  .wiki-infobox div {
+    grid-template-columns: 1fr;
+    gap: 4px;
   }
 }

@@ -6,8 +6,13 @@ const schoolLogos = {
   复旦大学: './assets/logos/fudan.ico',
   南京大学: './assets/logos/nju.png',
   中国科学技术大学: './assets/logos/ustc.ico',
+  武汉大学: '',
   华中科技大学: './assets/logos/hust.ico',
   西安交通大学: './assets/logos/xjtu.ico',
+};
+
+const schoolMarks = {
+  武汉大学: '武',
 };
 
 const state = {
@@ -70,11 +75,15 @@ function logoUrl(school) {
   return schoolLogos[school] || '';
 }
 
+function logoInitial(school) {
+  return schoolMarks[school] || String(school || '校').slice(0, 1);
+}
+
 function logoMarkup(school, size = 'regular') {
   const url = logoUrl(school);
   const image = url
     ? `<img src="${escapeHtml(url)}" alt="" loading="lazy" />`
-    : '<span class="logo-empty" aria-hidden="true"></span>';
+    : `<span class="logo-empty" aria-hidden="true">${escapeHtml(logoInitial(school))}</span>`;
   return `<span class="school-logo ${size}" aria-hidden="true">${image}</span>`;
 }
 
@@ -89,6 +98,29 @@ function localizedLinkLabel(label) {
     .replace(/PDF/g, '文档')
     .replace(/PubMed/g, '医学文献库')
     .replace(/SIGS/g, '深圳国际研究生院');
+}
+
+function entryEventYear(entry) {
+  if (Number.isFinite(entry.eventYear)) return entry.eventYear;
+  const currentYear = new Date().getFullYear();
+  const text = [entry.eventName, entry.summary, entry.narrative, entry.impact, entry.sourcesMarkdown].join(' ');
+  const years = [...text.matchAll(/\b(20[0-2]\d)\b/g)]
+    .map((match) => Number(match[1]))
+    .filter((year) => year >= 2000 && year <= currentYear);
+  return years.length ? Math.max(...years) : null;
+}
+
+function recencyLabel(entry) {
+  const year = entryEventYear(entry);
+  return year ? `${year}` : '时间待核';
+}
+
+function compareEntries(a, b) {
+  const yearDelta = (entryEventYear(b) || 0) - (entryEventYear(a) || 0);
+  if (yearDelta) return yearDelta;
+  const sourceDelta = (b.sourceCount || b.sourceLinks.length) - (a.sourceCount || a.sourceLinks.length);
+  if (sourceDelta) return sourceDelta;
+  return (b.impact.length + b.summary.length) - (a.impact.length + a.summary.length);
 }
 
 function fillFilters(data) {
@@ -171,7 +203,9 @@ function getFilteredEntries() {
         entry.year,
         entry.eventName,
         entry.summary,
+        entry.narrative,
         entry.impact,
+        entry.eventYear,
         entry.nature,
         entry.sourcesMarkdown,
         entry.paperMarkdown,
@@ -182,7 +216,7 @@ function getFilteredEntries() {
     }
 
     return true;
-  });
+  }).sort(compareEntries);
 }
 
 function renderCards(entries) {
@@ -206,9 +240,10 @@ function renderCards(entries) {
           <span class="card-body">
             <h3>${escapeHtml(entry.displayName || entry.name)}</h3>
             <p class="event-title">${escapeHtml(entry.eventName || entry.summary)}</p>
+            <p class="impact-line">${escapeHtml(entry.impact || entry.summary)}</p>
           </span>
           <span class="card-foot">
-            <span>查看详情</span>
+            <span>${escapeHtml(recencyLabel(entry))} · ${entry.sourceLinks.length} 个来源</span>
             <span aria-hidden="true">›</span>
           </span>
         </button>
@@ -238,13 +273,43 @@ function showDetail(entry) {
       <div>
         <h2>${escapeHtml(entry.displayName || entry.name)}</h2>
         <p>${escapeHtml(entry.eventName || '事件标题待核')}</p>
+        <div class="detail-badges" aria-label="事件资料概览">
+          <span>${escapeHtml(recencyLabel(entry))}</span>
+          <span>${entry.sourceLinks.length} 个来源</span>
+          <span>${escapeHtml(entry.credibility)}</span>
+        </div>
       </div>
     </header>
 
     <div class="detail-grid">
+      <aside class="wiki-infobox" aria-label="资料卡">
+        <h3>资料卡</h3>
+        <dl>
+          <div>
+            <dt>学校</dt>
+            <dd>${escapeHtml(entry.school)}</dd>
+          </div>
+          <div>
+            <dt>事件时间</dt>
+            <dd>${escapeHtml(recencyLabel(entry))}</dd>
+          </div>
+          <div>
+            <dt>事件性质</dt>
+            <dd>${escapeHtml(entry.nature || '待核')}</dd>
+          </div>
+          <div>
+            <dt>来源数量</dt>
+            <dd>${entry.sourceLinks.length}</dd>
+          </div>
+        </dl>
+      </aside>
       <section class="detail-block full">
         <h3>事件概要</h3>
         <p>${escapeHtml(entry.summary)}</p>
+      </section>
+      <section class="detail-block full">
+        <h3>事件脉络</h3>
+        <p>${escapeHtml(entry.narrative || entry.summary)}</p>
       </section>
       <section class="detail-block full">
         <h3>舆论影响</h3>

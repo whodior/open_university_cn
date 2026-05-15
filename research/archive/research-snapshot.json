@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T03:48:04.320Z",
+  "generatedAt": "2026-05-15T04:52:17.229Z",
   "markdownFile": "../controversial-alumni-soft-ranking-2026.md",
-  "sourceEntries": 206,
-  "totalEntries": 192,
+  "sourceEntries": 212,
+  "totalEntries": 198,
   "schools": [
     "清华大学",
     "北京大学",
@@ -11,17 +11,19 @@
     "复旦大学",
     "南京大学",
     "中国科学技术大学",
+    "武汉大学",
     "华中科技大学",
     "西安交通大学"
   ],
   "bySchool": {
     "清华大学": 27,
-    "北京大学": 32,
+    "北京大学": 34,
     "浙江大学": 21,
     "上海交通大学": 18,
     "复旦大学": 22,
-    "南京大学": 19,
+    "南京大学": 20,
     "中国科学技术大学": 12,
+    "武汉大学": 3,
     "华中科技大学": 17,
     "西安交通大学": 24
   },
@@ -1040,6 +1042,7 @@
       "year": "待核",
       "eventName": "陈刚职务犯罪案",
       "summary": "南京中院一审以受贿罪判处有期徒刑15年。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[中国政府网/新华社](https://www.gov.cn/xinwen/2021-02/05/content_5585274.htm)；[履历](https://cppcc.china.com.cn/2018-06/22/content_52995965.htm)",
@@ -1082,6 +1085,8 @@
         }
       ],
       "displayName": "陈刚",
+      "eventYear": 2021,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -1095,6 +1100,7 @@
       "year": "1990.09-1995.07",
       "eventName": "黄秋斌职务犯罪案",
       "summary": "六盘水中院一审以受贿罪判处有期徒刑10年6个月。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[中国政府网履历/调查](https://www.gov.cn/xinwen/2018-08/15/content_5314106.htm)；[中国经济网判决](https://finance.ce.cn/bank12/scroll/202003/18/t20200318_34519062.shtml)",
@@ -1141,6 +1147,8 @@
         }
       ],
       "displayName": "黄秋斌",
+      "eventYear": 2018,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -1154,6 +1162,7 @@
       "year": "2001年获硕士",
       "eventName": "常小兵职务犯罪案",
       "summary": "保定中院一审以受贿罪判处有期徒刑6年。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[中国政府网/新华社](https://www.gov.cn/xinwen/2017-05/31/content_5198511.htm)；[共产党员网履历](https://news.12371.cn/2015/12/27/ARTI1451206639086674.shtml)",
@@ -1191,6 +1200,8 @@
         }
       ],
       "displayName": "常小兵",
+      "eventYear": 2017,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -1204,6 +1215,7 @@
       "year": "1968年毕业",
       "eventName": "李嘉廷职务犯罪案",
       "summary": "北京高院终审维持受贿罪死缓判决。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[中国青年报/新华社](https://zqb.cyol.com/content/2003-06/21/content_684227.htm)；[履历报道](https://news.sina.cn/sa/2003-07-25/detail-ikknscsi0857962.d.html)",
@@ -1241,6 +1253,8 @@
         }
       ],
       "displayName": "李嘉廷",
+      "eventYear": 2003,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -1254,6 +1268,7 @@
       "year": "1978年考取",
       "eventName": "周良洛职务犯罪案",
       "summary": "北京二中院一审以受贿罪判处死刑缓期二年执行。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[中新网履历/审理](https://www.chinanews.com.cn/gn/news/2008/03-21/1198648.shtml)；[央视网判决](https://news.cctv.com/society/20080329/100213.shtml)",
@@ -1296,6 +1311,8 @@
         }
       ],
       "displayName": "周良洛",
+      "eventYear": 2008,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -1309,6 +1326,7 @@
       "year": "1970年毕业",
       "eventName": "慕绥新职务犯罪案",
       "summary": "大连中院以受贿罪、巨额财产来源不明罪判处死刑缓期二年执行。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[新浪转载新华网判决](https://news.sina.com.cn/c/2001-10-10/375132.html)；[中新网起诉](https://www.chinanews.com.cn/2001-08-15/26/113608.html)",
@@ -1346,6 +1364,8 @@
         }
       ],
       "displayName": "慕绥新",
+      "eventYear": 2001,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -1359,6 +1379,7 @@
       "year": "待核",
       "eventName": "陈前平职务犯罪案",
       "summary": "最高检通报其涉嫌受贿罪，被依法决定逮捕。",
+      "narrative": "",
       "impact": "",
       "nature": "逮捕/司法程序中",
       "sourcesMarkdown": "[最高人民检察院](https://www.spp.gov.cn/spp/qwfb/202407/t20240722_660931.shtml)；[履历报道](https://finance.sina.com.cn/jjxw/2024-07-22/doc-incezkfs1936665.shtml)",
@@ -1405,6 +1426,8 @@
         }
       ],
       "displayName": "陈前平",
+      "eventYear": 2024,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -1418,6 +1441,7 @@
       "year": "1978.02-1979.09",
       "eventName": "薄熙来职务犯罪案",
       "summary": "济南中院一审认定受贿、贪污、滥用职权，数罪并罚无期；二审维持。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[学历履历](https://district.ce.cn/newarea/sddy/201204/11/t20120411_23230342.shtml)；[一审判决书/人民网](https://politics.people.com.cn/n/2013/0922/c1001-22990301.html)；[二审/中新网](https://www.chinanews.com.cn/fz/2013/10-25/5424240.shtml)",
@@ -1468,6 +1492,8 @@
         }
       ],
       "displayName": "薄熙来",
+      "eventYear": 2013,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -1481,6 +1507,7 @@
       "year": "",
       "eventName": "吴谢宇故意杀人、诈骗、买卖身份证件案",
       "summary": "弑母、骗取亲友钱款并长期潜逃；一审死刑、二审维持，2024年执行死刑。",
+      "narrative": "",
       "impact": "“北大学子弑母案”标签冲击巨大，家庭教育、心理健康、名校光环被反复讨论。",
       "nature": "刑事命案 / 判决执行",
       "sourcesMarkdown": "[中新网一审开庭](https://www.chinanews.com.cn/sh/2020/12-24/9370261.shtml)；[人民网二审宣判](https://society.people.com.cn/n1/2023/0530/c1008-40002122.html)；[新华社执行死刑](https://big5.news.cn/gate/big5/www.news.cn/legal/20240131/2d4433c37611452091e346324be74561/c.html)",
@@ -1535,6 +1562,8 @@
         }
       ],
       "displayName": "吴谢宇",
+      "eventYear": 2024,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -1548,6 +1577,7 @@
       "year": "15岁考入，毕业年份待核",
       "eventName": "肖建华判决事件",
       "summary": "上海一中院一审宣判，肖建华获刑13年，明天控股相关案件涉及非法吸收公众存款等。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[北大校友网](https://www.pku.org.cn/info/1208/4972.htm)；[央视网/上海一中院](https://news.cctv.com/2022/08/19/ARTIwY482XYoSLtZrVxyduyI220819.shtml)",
@@ -1590,6 +1620,8 @@
         }
       ],
       "displayName": "肖建华",
+      "eventYear": 2022,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -1603,6 +1635,7 @@
       "year": "1980年入学",
       "eventName": "姚刚内幕交易案",
       "summary": "邯郸中院一审以受贿罪、内幕交易罪判处有期徒刑18年。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[人民网判决](https://legal.people.com.cn/n1/2018/0929/c42510-30320767.html)；[学历报道](https://www.nbd.com.cn/articles/2018-09-28/1259249.html)",
@@ -1649,6 +1682,8 @@
         }
       ],
       "displayName": "姚刚",
+      "eventYear": 2018,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -1662,6 +1697,7 @@
       "year": "待核",
       "eventName": "宿迟职务犯罪案",
       "summary": "北京四中院一审以受贿罪判处有期徒刑10年6个月。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[北大校友网](https://www.pku.org.cn/xwdt/rwdt/16.htm)；[新华网判决](https://www.news.cn/legal/2023-12/22/c_1130041420.htm)",
@@ -1708,6 +1744,8 @@
         }
       ],
       "displayName": "宿迟",
+      "eventYear": 2023,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -1721,6 +1759,7 @@
       "year": "1997.09-1999.07",
       "eventName": "李亿龙职务犯罪案",
       "summary": "娄底中院一审以受贿、贪污、滥用职权、巨额财产来源不明数罪并罚，执行有期徒刑18年。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[北大校友网](https://www.pku.org.cn/info/1013/2266.htm)；[中国政府网判决](https://www.gov.cn/xinwen/2018-01/15/content_5256863.htm)",
@@ -1763,6 +1802,8 @@
         }
       ],
       "displayName": "李亿龙",
+      "eventYear": 2018,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -1776,6 +1817,7 @@
       "year": "1986年毕业",
       "eventName": "郭京毅职务犯罪案",
       "summary": "北京二中院一审认定受贿845万余元，判处死刑缓期二年执行。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[财新学历](https://china.caixin.com/2008-08-29/100059422.html)；[新华社转引判决](https://news.sina.com.cn/o/2010-05-21/040317541678s.shtml)",
@@ -1813,6 +1855,8 @@
         }
       ],
       "displayName": "郭京毅",
+      "eventYear": 2010,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -1826,6 +1870,7 @@
       "year": "",
       "eventName": "任羽中严重违纪违法案",
       "summary": "2025年9月，中央纪委国家监委披露任羽中主动投案并接受审查调查；2025年12月被“双开”，涉嫌受贿犯罪问题移送检察机关。",
+      "narrative": "",
       "impact": "北大副校长、主动投案、校内高级管理层违纪违法，引发高校治理关注。",
       "nature": "违纪违法 / 移送司法",
       "sourcesMarkdown": "[中央纪委国家监委审查调查](https://www.ccdi.gov.cn/toutiaon/202509/t20250917_448075_m.html)；[中央纪委国家监委双开](https://www.ccdi.gov.cn/yaowenn/202512/t20251208_463272.html)；[中国日报简历](https://world.chinadaily.com.cn/a/202509/17/WS68ca81cba310f0725774903b.html)",
@@ -1880,6 +1925,8 @@
         }
       ],
       "displayName": "任羽中",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -1893,6 +1940,7 @@
       "year": "",
       "eventName": "于艳茹论文抄袭撤销博士学位案",
       "summary": "在校期间发表论文被认定严重抄袭，北大撤销博士学位；后续行政诉讼使其成为学位撤销程序样本。",
+      "narrative": "",
       "impact": "博士学位撤销、学术诚信、行政诉讼程序被持续报道。",
       "nature": "学术不端 / 学位处分",
       "sourcesMarkdown": "[央视/新华社](https://news.cntv.cn/2015/01/10/ARTI1420864880558276.shtml)；[人民网](https://edu.people.com.cn/n/2015/0110/c1006-26360991.html)；[新华网复查维持](https://www.xinhuanet.com/politics/2015-03/17/c_127589929.htm)",
@@ -1946,6 +1994,8 @@
         }
       ],
       "displayName": "于艳茹",
+      "eventYear": 2015,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -1959,6 +2009,7 @@
       "year": "硕士1984；博士1989",
       "eventName": "褚健职务犯罪案",
       "summary": "湖州中院一审认定其犯贪污罪、故意销毁会计凭证/账簿罪，执行有期徒刑3年3个月。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[中国政府网/新华社](https://www.gov.cn/xinwen/2017-01/16/content_5160312.htm)；[最高检起诉信息](https://www.spp.gov.cn/spp/qwfb/201502/t20150217_91451.shtml)；[上海交大个人页学历](https://itf.sjtu.edu.cn/show-214-49.html)",
@@ -2009,6 +2060,8 @@
         }
       ],
       "displayName": "褚健",
+      "eventYear": 2017,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -2022,6 +2075,7 @@
       "year": "",
       "eventName": "浙江大学科研经费腐败案",
       "summary": "杭州中院认定其贪污科研经费945万余元，判处有期徒刑10年。",
+      "narrative": "",
       "impact": "科研经费管理、教授贪腐和高校科研审计受到关注。",
       "nature": "科研经费腐败 / 判决",
       "sourcesMarkdown": "[人民网](https://edu.people.com.cn/n/2014/0110/c1006-24077043.html)；[中科院上海高研院警示材料](https://www.sari.cas.cn/djywh/jjgz/lzxt/202505/t20250509_7647954.html)",
@@ -2068,6 +2122,8 @@
         }
       ],
       "displayName": "陈英旭",
+      "eventYear": 2014,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -2081,6 +2137,7 @@
       "year": "学士2005；硕士2013",
       "eventName": "韦杰批捕/判决报道事件",
       "summary": "金诚集团案中，公开报道显示其被批捕；财经媒体报道一审以集资诈骗罪判处无期徒刑。",
+      "narrative": "",
       "impact": "",
       "nature": "批捕/判决报道",
       "sourcesMarkdown": "[财新](https://finance.caixin.com/2019-06-05/101423828.html)；[证券之星/格隆汇](https://wap.stockstar.com/detail/IG2021122100010475)；[公司公告学历PDF](https://stock.tianyancha.com/an/60e31ec2234aa261eee61c8c4691f0e9.PDF)",
@@ -2131,6 +2188,8 @@
         }
       ],
       "displayName": "韦杰",
+      "eventYear": 2019,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -2144,6 +2203,7 @@
       "year": "",
       "eventName": "孙杨禁赛争议",
       "summary": "CAS重审裁决维持禁赛，禁赛期调整为4年3个月。",
+      "narrative": "",
       "impact": "奥运冠军、反兴奋剂程序、国家队与高校身份叠加引发极高关注。",
       "nature": "体育仲裁 / 公共争议",
       "sourcesMarkdown": "[浙江省体育局人物页](https://tyj.zj.gov.cn/art/2022/11/10/art_1229697377_59060736.html)；[CAS新闻稿](https://www.tas-cas.org/en/general-information/news-detail/article/cas-decision-in-the-matter-wada-v-sun-yang-and-fina.html)；[CAS裁决PDF](https://www.tas-cas.org/fileadmin/user_upload/Award_6148__FINAL_.pdf)",
@@ -2194,6 +2254,8 @@
         }
       ],
       "displayName": "孙杨",
+      "eventYear": 2022,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -2207,6 +2269,7 @@
       "year": "",
       "eventName": "浙大强奸案及处分争议",
       "summary": "因强奸罪被判有期徒刑一年六个月、缓刑一年六个月；浙大初始给予留校察看引发舆论，后改为开除学籍。",
+      "narrative": "",
       "impact": "刑事犯罪与校纪处分尺度被质疑，学校程序和性骚扰线索处理受到追问。",
       "nature": "刑事案件 / 校园处分争议",
       "sourcesMarkdown": "[人民网](https://legal.people.com.cn/n1/2020/0801/c42510-31806510.html)；[每经网初始通报](https://www.nbd.com.cn/articles/2020-07-21/1465059.html)；[南方+通报整理](https://static.nfapp.southcn.com/content/202008/01/c3843913.html)",
@@ -2243,6 +2306,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "努某某",
+      "eventYear": 2020,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -2256,6 +2321,7 @@
       "year": "1975-1978；1978年毕业",
       "eventName": "康日新职务犯罪案",
       "summary": "北京一中院认定其犯受贿罪，判处无期徒刑。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[湖南省纪委监委转载新华社](https://www.sxfj.gov.cn/shen_cha_diao_cha/zhi_ji_shen_cha/222240362.shtml)；[人民网](https://politics.people.com.cn/n1/2016/1028/c1001-28815549-3.html)",
@@ -2302,6 +2368,8 @@
         }
       ],
       "displayName": "康日新",
+      "eventYear": 2016,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -2315,6 +2383,7 @@
       "year": "1984年毕业",
       "eventName": "戴海波职务犯罪案",
       "summary": "上海一中院以受贿罪、隐瞒境外存款罪判处有期徒刑9年。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[新华网](https://www.xinhuanet.com/politics/2017-06/02/c_1121078052.htm)；[中新网学历简历](https://www.chinanews.com/gn/2015/03-17/7136719.shtml)；[中国经济网含图](https://district.ce.cn/newarea/sddy/201508/19/t20150819_6266718.shtml)",
@@ -2365,6 +2434,8 @@
         }
       ],
       "displayName": "戴海波",
+      "eventYear": 2017,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -2378,6 +2449,7 @@
       "year": "待核",
       "eventName": "程峰职务犯罪案",
       "summary": "上海一中院公开宣判其受贿、隐瞒境外存款案，执行有期徒刑11年。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[光明网](https://m.gmw.cn/2025-01/14/content_1303947872.htm)；[证券时报基金披露PDF学历](https://epaper.stcn.com/paper/zqsb/page/1/2018-04/27/B078/20180427B078_pdf.pdf)",
@@ -2415,6 +2487,8 @@
         }
       ],
       "displayName": "程峰",
+      "eventYear": 2025,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -2428,6 +2502,7 @@
       "year": "",
       "eventName": "复旦投毒案",
       "summary": "2013年投毒致同寝室研究生黄洋死亡；一审、二审死刑，2015年执行死刑。",
+      "narrative": "",
       "impact": "名校医学生同寝投毒、实验室危化品管理、死刑存废讨论、177名学生求情信争议。",
       "nature": "刑事案件 / 校园安全",
       "sourcesMarkdown": "[人民网转新华社一审](https://politics.people.com.cn/n/2014/0218/c70731-24396348.html)；[中新网二审](https://www.chinanews.com/fz/2015/01-08/6948416.shtml)；[央视执行死刑](https://m.news.cntv.cn/2015/12/11/ARTI1449812603178439.shtml)",
@@ -2482,6 +2557,8 @@
         }
       ],
       "displayName": "林森浩",
+      "eventYear": 2015,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -2495,6 +2572,7 @@
       "year": "1978.10-1982.08",
       "eventName": "徐钢职务犯罪案",
       "summary": "合肥中院认定其受贿1977万余元，判处有期徒刑13年。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[国际在线/人民网](https://news.cri.cn/2016-12-29/c8663798-99eb-d2b6-2069-88f33ed491ff.html)",
@@ -2529,6 +2607,8 @@
         }
       ],
       "displayName": "徐钢",
+      "eventYear": 2016,
+      "sourceCount": 1,
       "credibility": "较强"
     },
     {
@@ -2542,6 +2622,7 @@
       "year": "1984年7月毕业",
       "eventName": "张恩照职务犯罪案",
       "summary": "北京一中院以受贿罪判处其有期徒刑15年。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[经济参考报/新华社](https://www.jjckb.cn/pl/2006-11/06/content_16751.htm)；[中国石化年报PDF学历](https://static.cninfo.com.cn/finalpage/2003-03-31/10409237.PDF)",
@@ -2579,6 +2660,8 @@
         }
       ],
       "displayName": "张恩照",
+      "eventYear": 2006,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -2592,6 +2675,7 @@
       "year": "学士1989；硕士1999",
       "eventName": "郭广昌协助调查争议",
       "summary": "复星系上市公司公告称其协助相关司法机关调查，后公开现身；引发复星系停复牌与市场争议。",
+      "narrative": "",
       "impact": "",
       "nature": "媒体争议/上市公司公告",
       "sourcesMarkdown": "[央视网简历](https://news.cctv.com/xianchang/20090307/102862.shtml)；[澎湃转载公告要点](https://m.thepaper.cn/newsDetail_forward_1407979)；[中国新闻网](https://cn.chinagate.cn/news/2015-12/14/content_37314116.htm)",
@@ -2642,6 +2726,8 @@
         }
       ],
       "displayName": "郭广昌",
+      "eventYear": 2015,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -2655,6 +2741,7 @@
       "year": "1981-1985",
       "eventName": "张敬华职务犯罪案",
       "summary": "武汉中院公开宣判江苏省委原副书记张敬华受贿案，判处有期徒刑14年，并处罚金400万元。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[新华社/中国网判决](https://news.china.com.cn/2023-11/21/content_116830879.shtml)；[人民网简历](https://politics.people.com.cn/BIG5/n1/2017/0717/c1001-29410233.html)",
@@ -2697,6 +2784,8 @@
         }
       ],
       "displayName": "张敬华",
+      "eventYear": 2023,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -2710,6 +2799,7 @@
       "year": "1978-1981",
       "eventName": "何家成职务犯罪案",
       "summary": "最高法消息：国家行政学院原副院长何家成受贿710.7071万元，一审获刑9年，并处罚金70万元。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[最高人民法院](https://www.court.gov.cn/zixun/xiangqing/37482.html)；[中新网履历报道](https://www.chinanews.com/gn/2014/10-12/6669044.shtml)",
@@ -2747,6 +2837,8 @@
         }
       ],
       "displayName": "何家成",
+      "eventYear": 2014,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -2760,6 +2852,7 @@
       "year": "待核",
       "eventName": "蒋国星职务犯罪案",
       "summary": "澎湃新闻援引江苏省高院消息：蒋国星受贿案一审宣判，获刑12年6个月，没收个人财产40万元。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_1266362)；[人民网](https://politics.people.com.cn/n/2014/1202/c1001-26132193.html)",
@@ -2797,6 +2890,8 @@
         }
       ],
       "displayName": "蒋国星",
+      "eventYear": 2014,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -2810,6 +2905,7 @@
       "year": "",
       "eventName": "“基因编辑婴儿”案",
       "summary": "法院以非法行医罪判处有期徒刑3年，并处罚金300万元。",
+      "narrative": "",
       "impact": "人类胚胎基因编辑伦理、科研监管、国际学术声誉形成全球争议。",
       "nature": "刑事判决 / 科研伦理",
       "sourcesMarkdown": "[央视网](https://news.cctv.com/2019/12/31/ARTIe4pqx0n9J7vEwCS3AV12191231.shtml)；[STAT教育经历](https://www.statnews.com/2018/11/26/he-jiankui-gene-edited-babies-china/)",
@@ -2864,6 +2960,8 @@
         }
       ],
       "displayName": "贺建奎",
+      "eventYear": 2019,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -2877,6 +2975,7 @@
       "year": "2000-2003",
       "eventName": "陈树隆内幕交易案",
       "summary": "中纪委网站发布：陈树隆因受贿、滥用职权、内幕交易、泄露内幕信息数罪并罚，决定执行无期徒刑。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[中央纪委国家监委](https://m.ccdi.gov.cn/content/cb/de/41769.html)；[观察者网履历摘录](https://www.guancha.cn/politics/2017_05_02_406286.shtml)",
@@ -2914,6 +3013,8 @@
         }
       ],
       "displayName": "陈树隆",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -2927,6 +3028,7 @@
       "year": "待核",
       "eventName": "寇伟职务犯罪案",
       "summary": "中纪委国家监委通报其严重违纪违法，被开除党籍，涉嫌贪污、受贿、利用影响力受贿、国有公司人员滥用职权犯罪，移送检察机关审查起诉。",
+      "narrative": "",
       "impact": "",
       "nature": "处分/移送审查起诉",
       "sourcesMarkdown": "[京报网转中纪委通报](https://news.bjd.com.cn/2025/06/06/11189395.shtml)；[界面新闻履历](https://www.jiemian.com/article/12151693.html)",
@@ -2969,6 +3071,8 @@
         }
       ],
       "displayName": "寇伟",
+      "eventYear": 2025,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -2982,6 +3086,7 @@
       "year": "1982",
       "eventName": "许晓鸣职务犯罪案",
       "summary": "上海理工大学原校长许晓鸣受贿案一审宣判，获刑11年，剥夺政治权利3年，没收财产30万元。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[新浪新闻/东方网](https://news.sina.com.cn/c/2013-09-03/113328119649.shtml)；[新浪受审报道含履历](https://news.sina.com.cn/c/2013-03-01/071526393332.shtml)",
@@ -3019,6 +3124,8 @@
         }
       ],
       "displayName": "许晓鸣",
+      "eventYear": 2013,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -3032,6 +3139,7 @@
       "year": "年份待核",
       "eventName": "胡怀邦职务犯罪案",
       "summary": "最高检消息：国开行原党委书记、董事长胡怀邦受贿8552万余元，被判无期徒刑。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[最高人民检察院](https://www.spp.gov.cn/spp/zdgz/202101/t20210107_505755.shtml)；[新浪专题履历](https://finance.sina.com.cn/zt_d/hhb/?cref=cj&ver=cj)",
@@ -3074,6 +3182,8 @@
         }
       ],
       "displayName": "胡怀邦",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -3087,6 +3197,7 @@
       "year": "1977-1982",
       "eventName": "董永安职务犯罪案",
       "summary": "河南省交通运输厅原厅长董永安受贿案一审宣判，认定受贿，判处无期徒刑。",
+      "narrative": "",
       "impact": "",
       "nature": "判决",
       "sourcesMarkdown": "[湖南三湘风纪网](https://www.sxfj.gov.cn/shen_cha_diao_cha/zhi_ji_shen_cha/222240123.shtml)；[河南城建学院廉政网摘录](https://jjw.huuc.edu.cn/info/1124/1371.htm)",
@@ -3124,6 +3235,8 @@
         }
       ],
       "displayName": "董永安",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -3137,6 +3250,7 @@
       "year": "待核",
       "eventName": "杜波职务犯罪案",
       "summary": "陕西省检察机关依法以涉嫌受贿罪对西安市碑林区副区长杜波决定逮捕。",
+      "narrative": "",
       "impact": "",
       "nature": "逮捕/涉嫌受贿",
       "sourcesMarkdown": "[中新网/新浪转载](https://news.sina.com.cn/c/2015-06-16/230731957742.shtml)",
@@ -3166,6 +3280,8 @@
         }
       ],
       "displayName": "杜波",
+      "eventYear": 2015,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -3179,6 +3295,7 @@
       "year": "",
       "eventName": "清华学生硫酸泼熊事件",
       "summary": "2002年前后，两次向北京动物园熊类泼洒掺火碱、硫酸的饮料，后被提起公诉。",
+      "narrative": "",
       "impact": "名校生伦理教育、心理健康、动物保护和校纪处分尺度被集中讨论。",
       "nature": "动物伤害 / 刑事与校园处分争议",
       "sourcesMarkdown": "[光明网文摘报](https://www.gmw.cn/01wzb/2002-03/03/02-E62BAA5929B7702148256B70000F7597.htm)；[央视专题后续](https://www.cctv.com/special/956/2/86910.html)；[搜狐被提起公诉](https://news.sohu.com/03/89/news207728903.shtml)",
@@ -3233,6 +3350,8 @@
         }
       ],
       "displayName": "刘海洋",
+      "eventYear": 2002,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -3246,6 +3365,7 @@
       "year": "",
       "eventName": "清华博士叶肖鑫严重学术不端撤销博士学位事件",
       "summary": "清华深研院说明称叶肖鑫博士期间发表的多篇论文存在自我抄袭、图片重复利用、编造实验结果等问题，学校认定其严重学术不端并撤销博士学位。",
+      "narrative": "",
       "impact": "研究生学术诚信、名校博士论文撤稿链条和学位撤销处理受到关注。",
       "nature": "学术不端 / 学位撤销",
       "sourcesMarkdown": "[清华深研院官方说明](https://www.sigs.tsinghua.edu.cn/2018/1021/c952a6407/page.htm)；[央视](https://m.news.cctv.com/2018/10/22/ARTIqAd7VPdTpM6fTXXwtaZg181022.shtml)；[Retraction Watch](https://retractionwatch.com/2018/10/22/graduate-student-in-china-stripped-of-phd-after-investigation-that-led-to-a-dozen-retractions/)",
@@ -3295,6 +3415,8 @@
         }
       ],
       "displayName": "叶肖鑫",
+      "eventYear": 2018,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -3308,6 +3430,7 @@
       "year": "",
       "eventName": "清华深研院叶肖鑫撤稿事件导师追责",
       "summary": "清华深研院说明称唐国翌作为导师对叶肖鑫严重学术不端负有指导管理责任，学院停止其招收研究生资格，撤销其材料学科负责人和新材料研究所副所长职务。",
+      "narrative": "",
       "impact": "导师责任、研究生培养管理和论文撤稿后的校内问责引发讨论。",
       "nature": "导师管理失责 / 学术不端追责",
       "sourcesMarkdown": "[清华深研院官方说明](https://www.sigs.tsinghua.edu.cn/2018/1021/c952a6407/page.htm)；[央视](https://m.news.cctv.com/2018/10/22/ARTIqAd7VPdTpM6fTXXwtaZg181022.shtml)；[Retraction Watch](https://retractionwatch.com/2018/10/22/graduate-student-in-china-stripped-of-phd-after-investigation-that-led-to-a-dozen-retractions/)",
@@ -3353,6 +3476,8 @@
         }
       ],
       "displayName": "唐国翌",
+      "eventYear": 2018,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -3366,6 +3491,7 @@
       "year": "",
       "eventName": "汪晖涉嫌抄袭争议",
       "summary": "学界围绕其早年博士论文和著作是否抄袭产生公开信、媒体报道与反驳。",
+      "narrative": "",
       "impact": "学术评价、调查机制、名教授学术责任引发持续争议。",
       "nature": "学术不端争议",
       "sourcesMarkdown": "[中新网综述](https://www.chinanews.com.cn/cul/2010/07-13/2397546.shtml)；[新浪/中国青年报公开信报道](https://news.sina.com.cn/c/sd/2010-07-07/092420627271.shtml)；[DW](https://www.dw.com/zh/%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%95%8C%E8%BF%9E%E7%88%86%E6%8A%84%E8%A2%AD%E9%97%A8-%E5%BD%93%E4%BA%8B%E4%BA%BA%E6%80%81%E5%BA%A6%E8%BF%A5%E5%BC%82/a-5795325)",
@@ -3420,6 +3546,8 @@
         }
       ],
       "displayName": "汪晖",
+      "eventYear": 2010,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -3433,6 +3561,7 @@
       "year": "",
       "eventName": "包丽死亡/牟林翰虐待案",
       "summary": "法院认定牟林翰在同居恋爱关系中的长期辱骂、贬损等行为构成虐待并致被害人死亡。",
+      "narrative": "",
       "impact": "PUA、精神暴力、亲密关系暴力入刑和高校学生关系治理成为公共议题。",
       "nature": "刑事案件 / 亲密关系暴力",
       "sourcesMarkdown": "[人民网一审宣判](https://society.people.com.cn/n1/2023/0615/c1008-40014181.html)；[北京日报主审法官回应](https://news.bjd.com.cn/2023/06/15/10464811.shtml)；[澎湃最高检白皮书提及](https://www.thepaper.cn/newsDetail_forward_26620294)",
@@ -3478,6 +3607,8 @@
         }
       ],
       "displayName": "牟林翰",
+      "eventYear": 2023,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -3491,6 +3622,7 @@
       "year": "",
       "eventName": "沈阳/高岩事件",
       "summary": "1998年高岩事件在2018年由校友实名举报重新引爆，北大、南大等相继回应。",
+      "narrative": "",
       "impact": "高校性骚扰处理、旧案公开、师德问责和#MeToo在高校传播成为焦点。",
       "nature": "师德师风 / 性侵指控争议",
       "sourcesMarkdown": "[中国经济网转载中青报](https://www.ce.cn/xwzx/gnsz/gdxw/201804/09/t20180409_28754617.shtml)；[全球深度报道网梳理](https://zh.gijn.org/stories/%E5%8C%97%E5%A4%A7%E6%B2%88%E9%98%B3%E6%80%A7%E4%BE%B5%E4%BA%8B%E4%BB%B6-%E5%AA%92%E4%BD%93%E6%8E%A5%E5%8A%9B%E6%8A%A5%E9%81%93%E6%A2%B3%E7%90%86/)",
@@ -3519,6 +3651,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "沈阳",
+      "eventYear": 2018,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -3532,6 +3666,7 @@
       "year": "",
       "eventName": "翟天临学术不端/北大博士后退站事件",
       "summary": "北大确认其存在学术不端并同意退站，同时承认光华管理学院把关不足。",
+      "narrative": "",
       "impact": "明星学历、博士后录用审核、论文查重和高校背书被广泛讨论。",
       "nature": "学术不端 / 招录审核争议",
       "sourcesMarkdown": "[央视](https://m.news.cctv.com/2019/02/16/ARTIy33zypTUa1i3IHw3TX74190216.shtml)；[人民网北大回应](https://society.people.com.cn/n1/2019/0212/c1008-30624072.html)；[澎湃全纪录](https://m.thepaper.cn/newsDetail_forward_2996570)",
@@ -3582,6 +3717,8 @@
         }
       ],
       "displayName": "翟天临",
+      "eventYear": 2019,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -3595,6 +3732,7 @@
       "year": "",
       "eventName": "王铭铭剽窃事件",
       "summary": "专著《想象的异邦》被指大量剽窃，北大停止其招收博士生并免去学术职务。",
+      "narrative": "",
       "impact": "推动北大学术道德规范讨论，成为早期高校学术不端标志性案例。",
       "nature": "学术不端",
       "sourcesMarkdown": "[新浪转载校方处理](https://news.sina.cn/sa/2002-03-03/detail-ikknscsi0107132.d.html)；[中新网北大学术道德规范](https://www.chinanews.com.cn/2002-04-03/26/175007.html)；[中国青年报](https://zqb.cyol.com/content/2002-04/19/content_433105.htm)",
@@ -3640,6 +3778,8 @@
       ],
       "paperLinks": [],
       "displayName": "王铭铭",
+      "eventYear": 2002,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -3653,6 +3793,7 @@
       "year": "",
       "eventName": "北京大学铊投毒案",
       "summary": "1997年北大化学系发生铊投毒案，公开资料称犯罪嫌疑人王晓龙被判刑。",
+      "narrative": "",
       "impact": "高校危化品管理、实验室安全和校园投毒风险被共同讨论。",
       "nature": "投毒 / 校园刑事案",
       "sourcesMarkdown": "[国家教委危化品通知](https://zh.wikisource.org/zh/%E5%9B%BD%E5%AE%B6%E6%95%99%E8%82%B2%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%B3%E4%BA%8E%E5%8A%A0%E5%BC%BA%E5%AD%A6%E6%A0%A1%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8C%96%E5%AD%A6%E5%8D%B1%E9%99%A9%E5%93%81%E7%AE%A1%E7%90%86%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%9A%E7%9F%A5)；[中新网高校投毒盘点](https://www.chinanews.com.cn/edu/2013/04-17/4737161.shtml)；[第一财经盘点](https://www.yicai.com/news/2635409.html)",
@@ -3698,6 +3839,8 @@
         }
       ],
       "displayName": "王晓龙",
+      "eventYear": 2013,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -3711,6 +3854,7 @@
       "year": "",
       "eventName": "浙大贺海波论文造假事件",
       "summary": "浙大通报其多篇论文存在剽窃、抄袭实验数据、一稿两投等严重学术不端，开除教师队伍；相关实验室主任被解聘。",
+      "narrative": "",
       "impact": "院士团队、国际期刊撤稿、名校科研诚信成为热点。",
       "nature": "学术不端",
       "sourcesMarkdown": "[央视](https://news.cctv.com/china/20090316/105066.shtml)；[新浪转新华社](https://news.sina.com.cn/o/2009-03-16/085715315882s.shtml)；[新浪《瞭望东方周刊》](https://news.sina.com.cn/c/2009-03-24/103617470399.shtml)",
@@ -3756,6 +3900,8 @@
         }
       ],
       "displayName": "贺海波",
+      "eventYear": 2009,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -3769,6 +3915,7 @@
       "year": "",
       "eventName": "MALAT2“并不存在的基因”论文与硕士学位撤销",
       "summary": "以“MALAT2”相关论文发表并用于硕士论文；期刊撤稿；公开报道称上海交大撤销其硕士学位。",
+      "narrative": "",
       "impact": "“不存在的基因”进入SCI论文和学位论文，冲击研究生培养、导师审核、学位审查公信力。",
       "nature": "学术不端 / 学位撤销",
       "sourcesMarkdown": "[分析测试百科整理](https://wiki.antpedia.com/%E9%9B%B6%E5%AE%B9%E5%BF%8D%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E6%92%A4%E9%94%80%E4%BA%86%E7%94%B0%E6%BA%90%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D-2600940-news)；[Nature撤稿说明](https://www.nature.com/articles/s41417-020-0177-8)",
@@ -3810,6 +3957,8 @@
         }
       ],
       "displayName": "田源",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -3823,6 +3972,7 @@
       "year": "",
       "eventName": "李奇峰论文数据造假及基金结题报告虚假信息事件",
       "summary": "基金委通报称上海交通大学李奇峰、马杰等发表的论文涉嫌学术不端，经查存在数据造假等问题；李奇峰被取消国家自然科学基金项目申请和参与申请资格3年并通报批评。",
+      "narrative": "",
       "impact": "国家自然科学基金、医学科研诚信和论文数据造假处理受到关注。",
       "nature": "学术不端 / 科研诚信",
       "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)；[澎湃新闻转国自然通报](https://www.thepaper.cn/newsDetail_forward_20475936)；[涉事论文1 PubMed](https://pubmed.ncbi.nlm.nih.gov/23587485/)",
@@ -3868,6 +4018,8 @@
         }
       ],
       "displayName": "李奇峰",
+      "eventYear": 2022,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -3881,6 +4033,7 @@
       "year": "",
       "eventName": "马杰论文数据造假及基金结题报告虚假信息事件",
       "summary": "基金委通报称上海交通大学李奇峰、马杰等发表的论文涉嫌学术不端，经查存在数据造假及结题报告虚假信息等问题；马杰项目被撤销、追回资金，申请和参与申请资格被取消3年并通报批评。",
+      "narrative": "",
       "impact": "国家自然科学基金、医学科研诚信、撤销项目和追回经费受到关注。",
       "nature": "学术不端 / 科研诚信",
       "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)；[澎湃新闻转国自然通报](https://www.thepaper.cn/newsDetail_forward_20475936)；[涉事论文2 PubMed](https://pubmed.ncbi.nlm.nih.gov/24325785/)",
@@ -3926,6 +4079,8 @@
         }
       ],
       "displayName": "马杰",
+      "eventYear": 2022,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -3939,6 +4094,7 @@
       "year": "",
       "eventName": "励峰国家自然科学基金项目申请书抄袭剽窃事件",
       "summary": "基金委通报称上海交通大学励峰使用他人申请书内容申报基金项目，存在抄袭剽窃他人项目申请书内容问题，相关申请被撤销，申请和参与申请资格被取消3年并通报批评。",
+      "narrative": "",
       "impact": "基金申请书抄袭、项目申报诚信和高校科研管理受到关注。",
       "nature": "学术不端 / 基金委通报",
       "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)；[澎湃新闻转国自然通报](https://www.thepaper.cn/newsDetail_forward_20475936)",
@@ -3976,6 +4132,8 @@
         }
       ],
       "displayName": "励峰",
+      "eventYear": 2022,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -3989,6 +4147,7 @@
       "year": "",
       "eventName": "上海交大副院长涉性骚扰撤职",
       "summary": "校方称其与学生接触中有不当言论和不当肢体动作，撤销职务，暂停新课和研究生指导工作。",
+      "narrative": "",
       "impact": "大陆高校#MeToo舆论期内，舆情研究专家身份带来更强传播。",
       "nature": "师德师风 / 性骚扰争议",
       "sourcesMarkdown": "[联合早报](https://www.zaobao.com.sg/realtime/china/story20180426-853950)",
@@ -4018,6 +4177,8 @@
         }
       ],
       "displayName": "谢耘耕",
+      "eventYear": null,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -4031,6 +4192,7 @@
       "year": "",
       "eventName": "上海交大结业博士举报导师学术霸凌事件",
       "summary": "2025年5月，结业学生魏某实名举报教师邵某学术霸凌、压制升学等；上海交通大学通报称成立专班开展调查。",
+      "narrative": "",
       "impact": "研究生毕业、导师权力、学术署名和高校调查透明度成为讨论焦点。",
       "nature": "师生关系争议 / 调查中",
       "sourcesMarkdown": "[新浪财经](https://finance.sina.com.cn/jjxw/2025-05-08/doc-inevvsta0288274.shtml)；[封面新闻](https://www.thecover.cn/news/55TgJqL2uGuH90qSdq8Jkw==)；[网易红星新闻转载](https://www.163.com/dy/article/JUF6P3EH051492T3.html)",
@@ -4067,6 +4229,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "邵某（被举报教师）",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -4080,6 +4244,7 @@
       "year": "",
       "eventName": "复旦黄山门 / 复旦十八驴事件",
       "summary": "2010年12月，18名来自上海的登山者在黄山迷路获救，救援民警张宁海坠崖牺牲。",
+      "narrative": "",
       "impact": "名校学生、违规户外探险、救援牺牲、获救者回应与危机公关争议叠加。",
       "nature": "校园安全 / 公共舆论争议",
       "sourcesMarkdown": "[中新网](https://www.chinanews.com.cn/sh/2010/12-13/2719172.shtml)；[新浪转新快报](https://news.sina.com.cn/c/2010-12-18/010721663614.shtml)；[大众网调查](https://www.dzwww.com/special/ts/jdf/201012/t20101214_6031658.htm)",
@@ -4134,6 +4299,8 @@
         }
       ],
       "displayName": "侯盼 / 复旦十八驴",
+      "eventYear": 2010,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -4147,6 +4314,7 @@
       "year": "",
       "eventName": "复旦数学学院杀人案",
       "summary": "2021年杀害学院党委书记王永珍；2024年上海二中院一审判处死缓并限制减刑。",
+      "narrative": "",
       "impact": "高校预聘制、科研考核、院系管理与恶性刑案被共同讨论。",
       "nature": "刑事案件 / 高校管理争议",
       "sourcesMarkdown": "[央视开庭](https://news.cctv.com/2023/05/23/ARTI3L0CvlV47f34pAWZwbSk230523.shtml)；[每日经济新闻转法院宣判](https://www.nbd.com.cn/articles/2024-02-01/3232482.html)",
@@ -4184,6 +4352,8 @@
         }
       ],
       "displayName": "姜文华",
+      "eventYear": 2024,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -4197,6 +4367,7 @@
       "year": "",
       "eventName": "“404教授”学术不端事件",
       "summary": "南京大学认定其存在学术道德等师德问题，给予党内严重警告、行政记过、取消导师资格、调离教学科研岗位等处理；国自然也通报论文抄袭剽窃责任。",
+      "narrative": "",
       "impact": "青年长江、论文批量撤删、学术评价体系受到舆论关注。",
       "nature": "学术不端 / 师德失范",
       "sourcesMarkdown": "[央视南京大学处分](https://m.news.cctv.com/2018/12/15/ARTIVbPpYOsxJ2kLNv01xeny181215.shtml)；[央视国自然通报](https://news.cctv.com/2019/04/12/ARTIO1ho34St7x9HfEF4t3pP190412.shtml)",
@@ -4234,6 +4405,8 @@
         }
       ],
       "displayName": "梁莹",
+      "eventYear": 2019,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -4247,6 +4420,7 @@
       "year": "",
       "eventName": "沈阳/高岩事件南京大学回应",
       "summary": "2018年沈阳因北大高岩事件被实名举报后，南京大学回应并启动调查处理。",
+      "narrative": "",
       "impact": "高校性骚扰旧案、跨校任职、师德问责机制成为舆论焦点。",
       "nature": "师德师风 / 性侵指控争议",
       "sourcesMarkdown": "[中国经济网转载中青报](https://www.ce.cn/xwzx/gnsz/gdxw/201804/09/t20180409_28754617.shtml)；[全球深度报道网梳理](https://zh.gijn.org/stories/%E5%8C%97%E5%A4%A7%E6%B2%88%E9%98%B3%E6%80%A7%E4%BE%B5%E4%BA%8B%E4%BB%B6-%E5%AA%92%E4%BD%93%E6%8E%A5%E5%8A%9B%E6%8A%A5%E9%81%93%E6%A2%B3%E7%90%86/)",
@@ -4275,6 +4449,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "沈阳",
+      "eventYear": 2018,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -4288,6 +4464,7 @@
       "year": "",
       "eventName": "快播案",
       "summary": "快播公司及王欣等被追究传播淫秽物品牟利相关责任，案件在互联网行业引发巨大讨论。",
+      "narrative": "",
       "impact": "平台责任、技术中立、网络内容治理和创业者形象被持续讨论。",
       "nature": "刑事案件 / 互联网治理争议",
       "sourcesMarkdown": "[中国法院网庭审报道](https://www.chinacourt.org/article/detail/2016/01/id/1789849.shtml)；[新华社/中新网报道](https://www.chinanews.com/gn/2016/09-13/8003691.shtml)",
@@ -4325,6 +4502,8 @@
         }
       ],
       "displayName": "王欣",
+      "eventYear": 2016,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -4338,6 +4517,7 @@
       "year": "",
       "eventName": "华科教师性骚扰学生典型案例",
       "summary": "教育部曝光典型案例：张某某被记过、取消研究生导师资格、撤销教师资格、列入教师资格限制库、调离教师岗位。",
+      "narrative": "",
       "impact": "高校反性骚扰、导师权力和学院问责成为讨论点。",
       "nature": "师德失范 / 性骚扰",
       "sourcesMarkdown": "[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_22779288)；[教育部案例转载页](https://jsgzb.hqu.edu.cn/info/1036/1751.htm)",
@@ -4366,6 +4546,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "张某某",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -4379,6 +4561,7 @@
       "year": "",
       "eventName": "方舟子遇袭案相关争议",
       "summary": "公开报道显示肖传国因雇凶伤害方舟子、方玄昌被判拘役；事件此前还关联“肖氏反射弧”学术争议。",
+      "narrative": "",
       "impact": "医学创新评价、学术打假、名校附属医院声誉和刑事伤害案叠加。",
       "nature": "刑事案件 / 学术争议",
       "sourcesMarkdown": "[新华社/中国法院网报道](https://www.chinacourt.org/article/detail/2010/10/id/431696.shtml)；[中新网报道](https://www.chinanews.com.cn/fz/2010/10-10/2577678.shtml)",
@@ -4416,6 +4599,8 @@
         }
       ],
       "displayName": "肖传国",
+      "eventYear": 2010,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -4429,6 +4614,7 @@
       "year": "",
       "eventName": "李一男内幕交易案",
       "summary": "公开报道显示其因内幕交易罪获刑；因华为、港湾、牛电科技等经历受到科技行业广泛关注。",
+      "narrative": "",
       "impact": "科技明星创业者、资本市场合规、名校少年班标签引发传播。",
       "nature": "刑事案件 / 证券违法",
       "sourcesMarkdown": "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_1605674)；[中国经济网](https://district.ce.cn/newarea/sddy/201701/22/t20170122_19796226.shtml)",
@@ -4466,6 +4652,8 @@
         }
       ],
       "displayName": "李一男",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -4479,6 +4667,7 @@
       "year": "",
       "eventName": "“寒门博士之死”导师失范争议",
       "summary": "杨宝德2017年底溺亡后，其导师周筠被质疑压榨学生，学校取消其研究生招生资格等处理引发家属争议。",
+      "narrative": "",
       "impact": "研究生导师制、寒门学生、师生权力关系成为标志性讨论。",
       "nature": "导师失范争议 / 研究生培养争议",
       "sourcesMarkdown": "[界面新闻](https://www.jiemian.com/article/1903675.html)",
@@ -4499,6 +4688,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "周筠",
+      "eventYear": 2017,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -4512,6 +4703,7 @@
       "year": "",
       "eventName": "国家科技进步奖撤销事件",
       "summary": "科技部撤销其相关2005年度国家科技进步奖二等奖，教育部称为我国首例因学术造假被撤销国家科技奖案例。",
+      "narrative": "",
       "impact": "国家级奖项撤销、六位老教授实名举报、学术评价震动。",
       "nature": "学术不端 / 科研诚信",
       "sourcesMarkdown": "[教育部：对学术造假须出重拳](https://www.moe.gov.cn/jyb_xwfb/s5148/201102/t20110221_115132.html)",
@@ -4541,6 +4733,8 @@
         }
       ],
       "displayName": "李连生",
+      "eventYear": 2005,
+      "sourceCount": 1,
       "credibility": "较强"
     },
     {
@@ -4554,6 +4748,7 @@
       "year": "",
       "eventName": "副教授“翻译式抄袭”被解聘",
       "summary": "西安交大通报其攻读博士期间论文涉嫌学术不端属实并解除聘用；《世界哲学》撤稿。",
+      "narrative": "",
       "impact": "“985副教授”“全文英翻中抄袭”“权威期刊撤稿”三重传播点，触发学术共同体讨论。",
       "nature": "学术不端",
       "sourcesMarkdown": "[中青在线](https://m.cyol.com/gb/articles/2025-03/18/content_mOELzKIVL5.html)；[澎湃撤稿声明](https://www.thepaper.cn/newsDetail_forward_30405957)；[央广网](https://news.cnr.cn/native/gd/kx/20250315/t20250315_527101248.shtml)",
@@ -4599,6 +4794,8 @@
       ],
       "paperLinks": [],
       "displayName": "王建辉 / 王某某",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -4612,6 +4809,7 @@
       "year": "",
       "eventName": "西安交大原副校长受贿、国有公司人员滥用职权案",
       "summary": "二审维持原判，获刑12年；检方指控受贿及违规减免合作方费用。",
+      "narrative": "",
       "impact": "高校领导、基建/校企合作腐败、中央巡视背景受到关注。",
       "nature": "高校高管腐败 / 刑事案件",
       "sourcesMarkdown": "[南方+](https://static.nfapp.southcn.com/content/202006/04/c3607588.html)",
@@ -4637,6 +4835,8 @@
       ],
       "paperLinks": [],
       "displayName": "张汉荣",
+      "eventYear": null,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -4650,6 +4850,7 @@
       "year": "",
       "eventName": "西安原副市长强小安受贿案",
       "summary": "官方披露其违纪违法金额9116.82万元，涉嫌受贿7465.82万元；报道明确提及其毕业于西安交通大学。",
+      "narrative": "",
       "impact": "校友官员腐败、工程建设领域腐败细节引发关注。",
       "nature": "校友公共腐败争议",
       "sourcesMarkdown": "[澎湃/新浪财经转载](https://finance.sina.cn/2021-11-26/detail-ikyamrmy5217869.d.html?from=wap)",
@@ -4670,6 +4871,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "强小安",
+      "eventYear": 2021,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -4683,6 +4886,7 @@
       "year": "",
       "eventName": "铁路系统张曙光受贿案",
       "summary": "原铁道部运输局局长张曙光受贿案公开审理并获刑。",
+      "narrative": "",
       "impact": "高铁采购、铁路系统腐败、专家型官员争议长期传播。",
       "nature": "刑事案件 / 腐败",
       "sourcesMarkdown": "[新华社/中国政府网](https://www.gov.cn/jrzg/2014-10/17/content_2766748.htm)；[人民网报道](https://politics.people.com.cn/n/2014/1017/c1001-25855766.html)",
@@ -4720,6 +4924,8 @@
         }
       ],
       "displayName": "张曙光",
+      "eventYear": 2014,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -4733,6 +4939,7 @@
       "year": "",
       "eventName": "清华刘辉履历事件",
       "summary": "被质疑个人网页所列论文和履历信息存在问题；清华校务会议决定撤销其教授职务、解除聘任合同。",
+      "narrative": "",
       "impact": "“清华教授履历造假”进入央视等媒体报道，触发高校人才引进审查讨论。",
       "nature": "学术诚信 / 履历诚信",
       "sourcesMarkdown": "[央视](https://www.cctv.com/education/20060327/100394.shtml)",
@@ -4771,6 +4978,8 @@
         }
       ],
       "displayName": "刘辉",
+      "eventYear": null,
+      "sourceCount": 1,
       "credibility": "较强"
     },
     {
@@ -4784,6 +4993,7 @@
       "year": "",
       "eventName": "清华北大“抢发论文”风波",
       "summary": "围绕动物磁感应受体蛋白成果发表产生争议；北大调查认定其违反合作协议和道德规范；财新报道其遭清华解聘。",
+      "narrative": "",
       "impact": "涉及清华、北大两校和“诺奖级”成果抢发叙事，学术治理争议大。",
       "nature": "学术伦理争议",
       "sourcesMarkdown": "[澎湃](https://www.thepaper.cn/newsDetail_forward_1391309)；[财新](https://china.caixin.com/2015-10-31/100868477.html)；[新华网评论](https://www.xinhuanet.com/politics/2015-11/03/c_128386433.htm)",
@@ -4829,6 +5039,8 @@
         }
       ],
       "displayName": "张生家",
+      "eventYear": 2015,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -4842,6 +5054,7 @@
       "year": "",
       "eventName": "“谷歌清华工程师杀妻案”",
       "summary": "美国圣克拉拉检方指控其涉嫌殴打妻子于轩一致死；案件处于美国司法程序中。",
+      "narrative": "",
       "impact": "“清华本科+硅谷 Google 工程师+亲密关系暴力”组合引发中美华人舆论高度关注。",
       "nature": "刑事指控 / 待审",
       "sourcesMarkdown": "[Santa Clara起诉文件PDF](https://static.foxnews.com/foxnews.com/content/uploads/2024/01/Redacted-CHEN-SOF_Complaint.pdf)；[SCMP](https://www.scmp.com/news/people-culture/trending-china/article/3249334/google-software-engineer-china-charged-murder-after-allegedly-beating-wife-death-us-home-shedding)",
@@ -4888,6 +5101,8 @@
         }
       ],
       "displayName": "陈立人",
+      "eventYear": 2024,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -4901,6 +5116,7 @@
       "year": "",
       "eventName": "留美女硕士杀夫案",
       "summary": "上海一中院以故意杀人罪判处陈丹蕾死刑、缓期二年执行，并判赔。",
+      "narrative": "",
       "impact": "“清华高材生海外杀夫”长期被媒体反复引用，成为名校生犯罪案例。",
       "nature": "刑事案件 / 已判",
       "sourcesMarkdown": "[新浪转新民晚报](https://news.sina.com.cn/s/2006-09-06/09239948439s.shtml)；[中新网转新闻晨报](https://news.sina.com.cn/o/2006-09-07/08469958334s.shtml)",
@@ -4938,6 +5154,8 @@
         }
       ],
       "displayName": "陈丹蕾",
+      "eventYear": 2006,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -4951,6 +5169,7 @@
       "year": "",
       "eventName": "高晓松醉驾案",
       "summary": "北京东城法院以危险驾驶罪判处高晓松拘役六个月，并处罚金4000元。",
+      "narrative": "",
       "impact": "醉驾入刑初期的明星案件，公众人物、道路安全和法律示范意义引发大范围报道。",
       "nature": "刑事案件 / 危险驾驶",
       "sourcesMarkdown": "[央视网专题](https://news.cntv.cn/special/gaoxiaosong/shouye/index.shtml)；[中新网判决报道](https://www.chinanews.com/auto/2011/05-18/3048015.shtml)；[人民网回顾](https://legal.people.com.cn/n1/2018/0611/c42510-30048510.html)",
@@ -4992,6 +5211,8 @@
       ],
       "paperLinks": [],
       "displayName": "高晓松",
+      "eventYear": 2018,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -5005,6 +5226,7 @@
       "year": "",
       "eventName": "爱荷华大学枪击案",
       "summary": "1991年在美国爱荷华大学枪杀多名师生后自杀。",
+      "narrative": "",
       "impact": "中国留学生、北大物理背景、美国校园枪击和学术竞争压力长期被讨论。",
       "nature": "校园枪击 / 谋杀自杀",
       "sourcesMarkdown": "[Los Angeles Times旧报道](https://www.latimes.com/archives/la-xpm-1991-11-03-mn-1574-story.html)；[The Gazette回顾](https://www.thegazette.com/news/gang-lu-shootings-at-ui-remembered-20-years-later/)；[资料页含北大背景待核](https://zh.wikipedia.org/wiki/%E5%8D%A2%E5%88%9A%E4%BA%8B%E4%BB%B6)",
@@ -5050,6 +5272,8 @@
         }
       ],
       "displayName": "卢刚",
+      "eventYear": null,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -5063,6 +5287,7 @@
       "year": "",
       "eventName": "留美北大化学师铊杀清华丈夫案",
       "summary": "新泽西州法院判处李天乐终身监禁，案件涉及以铊毒害丈夫王晓业。",
+      "narrative": "",
       "impact": "铊投毒、北大/清华背景和海外华人家庭悲剧形成舆论联想。",
       "nature": "刑事案件 / 已判",
       "sourcesMarkdown": "[UPI判决](https://www.upi.com/Top_News/US/2013/09/30/Woman-sentenced-to-life-in-prison-for-thallium-poisoning-of-husband/67381380572485/)；[CBS定罪](https://www.cbsnews.com/news/tianle-li-nj-chemist-convicted-of-fatally-poisoning-husband/)；[科学网中文报道](https://news.sciencenet.cn/htmlnews/2013/10/283370.shtm)",
@@ -5108,6 +5333,8 @@
         }
       ],
       "displayName": "李天乐",
+      "eventYear": 2013,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -5121,6 +5348,7 @@
       "year": "",
       "eventName": "陈春花学历争议",
       "summary": "北大称对有关情况开展调查，收到辞职申请并按程序终止聘用合同。",
+      "narrative": "",
       "impact": "“网红教授”“华为军师”传播链叠加博士学历来源质疑，社会讨论度高。",
       "nature": "学历 / 聘任争议",
       "sourcesMarkdown": "[人民网](https://edu.people.com.cn/n1/2022/0803/c1006-32493532.html)；[法治日报版面PDF](https://epaper.legaldaily.com.cn/fzrb/PDF/20220816/06.pdf)",
@@ -5163,6 +5391,8 @@
         }
       ],
       "displayName": "陈春花",
+      "eventYear": 2022,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -5176,6 +5406,7 @@
       "year": "",
       "eventName": "王登峰贪污、受贿案",
       "summary": "德州中院一审以贪污罪、受贿罪判处其有期徒刑17年，并处罚金500万元。",
+      "narrative": "",
       "impact": "牵连教育部体卫艺、校园足球和足协系统，且其北大教授身份被广泛引用。",
       "nature": "刑事案件 / 已判",
       "sourcesMarkdown": "[人民网/新华社](https://society.people.com.cn/n1/2024/0318/c1008-40198122.html)；[央视](https://news.cctv.com/2024/03/18/ARTIcp5IF13KuBhA31pcEbCY240318.shtml)；[北大新闻网人物页](https://news.pku.edu.cn/bdrw/137-119790.htm)",
@@ -5226,6 +5457,8 @@
         }
       ],
       "displayName": "王登峰",
+      "eventYear": 2024,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -5239,6 +5472,7 @@
       "year": "",
       "eventName": "“疑似北大教师”论文代写合同曝光",
       "summary": "媒体称论文代写合同涉及北大政府管理学院付某；北大通报已成立专项工作组并启动调查。",
+      "narrative": "",
       "impact": "“北大教师/博士后+核心期刊代写合同”触发论文代写产业讨论。",
       "nature": "学术不端争议 / 待核",
       "sourcesMarkdown": "[人民网](https://bj.people.com.cn/n2/2021/0511/c82841-34719823.html)；[新浪转红星新闻](https://news.sina.cn/sh/2021-05-08/detail-ikmyaawc4137916.d.html)",
@@ -5267,6 +5501,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "付某 / 付睿琦",
+      "eventYear": 2021,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -5280,6 +5516,7 @@
       "year": "",
       "eventName": "浙大论文造假事件导师追责",
       "summary": "浙大论文造假事件中，吴理茂被撤销药物制剂研究所所长职务并取消研究生导师资格。",
+      "narrative": "",
       "impact": "浙大以公开方式处理论文造假和导师责任，成为国内科研诚信典型案例。",
       "nature": "学术不端追责",
       "sourcesMarkdown": "[央视](https://news.cctv.com/china/20090316/105066.shtml)",
@@ -5309,6 +5546,8 @@
         }
       ],
       "displayName": "吴理茂",
+      "eventYear": null,
+      "sourceCount": 1,
       "credibility": "较强"
     },
     {
@@ -5322,6 +5561,7 @@
       "year": "",
       "eventName": "“汉芯”造假事件",
       "summary": "“汉芯一号”被认定存在严重造假，陈进被撤销相关职务和项目资格。",
+      "narrative": "",
       "impact": "曾被包装为国产芯片重大突破，牵涉科研诚信、重大项目、学校声誉。",
       "nature": "学术不端 / 科研造假",
       "sourcesMarkdown": "[中科院转载新华社通报](https://www.cas.cn/xw/kjsm/gndt/200906/t20090608_648662.shtml)；[人民网专题/旧报道线索](http://scitech.people.com.cn/GB/1057/4362326.html)",
@@ -5359,6 +5599,8 @@
         }
       ],
       "displayName": "陈进",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -5372,6 +5614,7 @@
       "year": "",
       "eventName": "上海交大教师辱骂学生事件",
       "summary": "网传其在微信群中辱骂学生；学院通报称暂停其研究生导师招生资格等。",
+      "narrative": "",
       "impact": "研究生导师权力、师生关系、名校师德问题集中引发讨论。",
       "nature": "师德师风 / 校内处分",
       "sourcesMarkdown": "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_22368984)；[中国新闻网转载线索](https://www.chinanews.com.cn/sh/2023/03-21/9975254.shtml)",
@@ -5414,6 +5657,8 @@
         }
       ],
       "displayName": "倪冰冰",
+      "eventYear": 2023,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -5427,6 +5672,7 @@
       "year": "",
       "eventName": "“房贷压力”言论争议",
       "summary": "其关于房贷压力、收入预期等公开表达引发争议。",
+      "narrative": "",
       "impact": "房地产和居民负债高关注时期，名校金融教授身份放大传播。",
       "nature": "公共言论争议",
       "sourcesMarkdown": "[澎湃新闻线索](https://www.thepaper.cn/newsDetail_forward_21764444)；[上交大高金教师页](https://www.saif.sjtu.edu.cn/faculty/chenxin)",
@@ -5469,6 +5715,8 @@
         }
       ],
       "displayName": "陈欣",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -5482,6 +5730,7 @@
       "year": "",
       "eventName": "郑筱萸受贿、玩忽职守案",
       "summary": "原国家食药监局局长郑筱萸因受贿、玩忽职守被判处死刑并执行。",
+      "narrative": "",
       "impact": "药品监管最高层腐败案，涉及民生安全，复旦校友身份在主流报道中被提及。",
       "nature": "刑事案件 / 已执行死刑",
       "sourcesMarkdown": "[中国政府网](https://www.gov.cn/jrzg/2007-07/10/content_678823.htm)；[中新网](https://www.chinanews.com.cn/gn/news/2007/07-10/975737.shtml)；[央视含简历](https://news.cctv.com/china/20070529/102465.shtml)",
@@ -5532,6 +5781,8 @@
         }
       ],
       "displayName": "郑筱萸",
+      "eventYear": 2007,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -5545,6 +5796,7 @@
       "year": "",
       "eventName": "院士候选人学术争议",
       "summary": "王牧实名质疑闻海虎论文问题并退出院士增选，事件引发学术共同体和院士制度讨论。",
+      "narrative": "",
       "impact": "院士增选、同行举报、论文诚信三者叠加，讨论持续多年。",
       "nature": "学术争议",
       "sourcesMarkdown": "[人民网](http://scitech.people.com.cn/GB/1057/9930163.html)；[中新网](https://www.chinanews.com.cn/cul/news/2009/09-02/1846491.shtml)；[财新线索](https://china.caixin.com/2009-08-28/100074126.html)",
@@ -5590,6 +5842,8 @@
         }
       ],
       "displayName": "闻海虎",
+      "eventYear": 2009,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -5603,6 +5857,7 @@
       "year": "",
       "eventName": "本科生多篇 SCI 论文争议",
       "summary": "其本科阶段发表多篇 SCI 论文，引发“成果是否真实、署名是否合理”等质疑；后续有校内外专家考查报道。",
+      "narrative": "",
       "impact": "“本科生高产 SCI”天然吸睛，牵涉名校培养、论文评价和学术资源。",
       "nature": "学术争议",
       "sourcesMarkdown": "[新浪新闻专题线索](https://news.sina.com.cn/c/2004-12-27/02324637435s.shtml)；[新浪报道](https://news.sina.com.cn/c/2004-12-28/09154653234s.shtml)",
@@ -5640,6 +5895,8 @@
         }
       ],
       "displayName": "朱涵",
+      "eventYear": 2004,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -5653,6 +5910,7 @@
       "year": "",
       "eventName": "“不存在的基因”论文撤稿",
       "summary": "澎湃报道南京大学相关论文因问题被撤稿，涉及基因名称和研究可靠性争议。",
+      "narrative": "",
       "impact": "医学论文、名校、撤稿、“不存在基因”关键词引发传播。",
       "nature": "论文撤稿 / 责任归属待核",
       "sourcesMarkdown": "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21286679)",
@@ -5678,6 +5936,8 @@
       ],
       "paperLinks": [],
       "displayName": "施毅等论文作者",
+      "eventYear": null,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -5691,6 +5951,7 @@
       "year": "",
       "eventName": "侵害英雄烈士名誉、荣誉案",
       "summary": "因网络言论被判侵害英雄烈士名誉、荣誉罪。",
+      "narrative": "",
       "impact": "英烈保护相关刑事司法中的高关注案例，网名传播度高。",
       "nature": "刑事案件 / 校友舆情",
       "sourcesMarkdown": "[最高人民法院案例线索](https://www.court.gov.cn/zixun/xiangqing/301931.html)；[人民网报道线索](http://legal.people.com.cn/n1/2021/0601/c42510-32118405.html)",
@@ -5728,6 +5989,8 @@
         }
       ],
       "displayName": "仇子明 / “辣笔小球”",
+      "eventYear": 2021,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -5741,6 +6004,7 @@
       "year": "",
       "eventName": "海外科研不端裁判争议",
       "summary": "其在美国威斯康星大学任职期间涉及科研不端认定相关诉讼，法院文件显示相关认定获得支持。",
+      "narrative": "",
       "impact": "海外高校科研诚信程序和回国任职后的声誉讨论持续存在。",
       "nature": "科研不端争议 / 海外裁判来源",
       "sourcesMarkdown": "[Wisconsin Court of Appeals案件文本](https://caselaw.findlaw.com/court/wi-court-of-appeals/1272302.html)；[中国科大教师页](https://biox.ustc.edu.cn/2010/1026/c703a15108/page.htm)",
@@ -5783,6 +6047,8 @@
         }
       ],
       "displayName": "姚雪彪",
+      "eventYear": 2010,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -5796,6 +6062,7 @@
       "year": "",
       "eventName": "“中国版绝命毒师”案",
       "summary": "涉新精神活性物质制售案历经多轮审理；2024年12月湖北高院再审以走私、贩卖、运输、制造毒品罪判处张正波15年。",
+      "narrative": "",
       "impact": "985高校化学副教授身份、毒品罪名、十年多轮改判、法检观点变化，持续引发公共讨论。",
       "nature": "刑事案件",
       "sourcesMarkdown": "[最高检](https://www.spp.gov.cn/spp/zdgz/202501/t20250124_680749.shtml)；[法治日报](https://epaper.legaldaily.com.cn/fzrb/content/20250124/Articel03003GN.htm)；[财新](https://china.caixin.com/2025-01-27/102284047.html)；[澎湃](https://www.thepaper.cn/newsDetail_forward_2674587)",
@@ -5858,6 +6125,8 @@
         }
       ],
       "displayName": "张正波",
+      "eventYear": 2025,
+      "sourceCount": 4,
       "credibility": "较强"
     },
     {
@@ -5871,6 +6140,7 @@
       "year": "",
       "eventName": "硕士论文“篮球论文写踢球”抄袭事件",
       "summary": "湖北大学公告撤销其硕士学位；媒体报道其硕士论文复制比高，研究篮球却出现足球论文内容。",
+      "narrative": "",
       "impact": "“篮球/踢球”错位具传播性，牵涉高校教师任职资格与学术诚信。",
       "nature": "学术不端",
       "sourcesMarkdown": "[新浪教育转引湖北大学撤销学位公告](https://edu.sina.cn/kaoyan/kyzx/2019-07-18/detail-ihytcitm2832069.d.html)；[北京时间](https://item.btime.com/457u9r4olgi92hrqsi2k84u8pd2)",
@@ -5917,6 +6187,8 @@
         }
       ],
       "displayName": "万宏伟",
+      "eventYear": 2019,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -5930,6 +6202,7 @@
       "year": "",
       "eventName": "广西贵港市委原书记受贿案",
       "summary": "南宁中院一审以受贿罪判处死缓；涉案财物1.7亿余元。",
+      "narrative": "",
       "impact": "履新41天被查、曾公开表态“清廉市长”、受贿数额巨大。",
       "nature": "刑事 / 职务犯罪",
       "sourcesMarkdown": "[央视网](https://news.cctv.com/2022/09/07/ARTIUXs7ata2SYLcWpcaZraX220907.shtml)；[澎湃视频](https://www.thepaper.cn/newsDetail_forward_19801557)；[新浪含履历](https://finance.sina.cn/2022-09-07/detail-imqqsmrn8177685.d.html?vt=4)",
@@ -5980,6 +6253,8 @@
         }
       ],
       "displayName": "李新元",
+      "eventYear": 2022,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -5993,6 +6268,7 @@
       "year": "",
       "eventName": "安徽高院原院长受贿案",
       "summary": "厦门中院一审以受贿罪判15年；涉案7179万余元。",
+      "narrative": "",
       "impact": "高级法院院长身份、司法腐败、违规帮助涉黑涉恶罪犯减刑假释等表述冲击司法公信。",
       "nature": "刑事 / 职务犯罪",
       "sourcesMarkdown": "[中央纪委/最高检起诉](https://m.ccdi.gov.cn/content/b7/37/58387.html)；[中国湖北/中新网含判决和履历](https://hb.china.com.cn/2021-09/14/content_41674218.htm)；[新浪含判决和履历](https://finance.sina.cn/china/gncj/2021-09-14/detail-iktzqtyt5963751.d.html)",
@@ -6043,6 +6319,8 @@
         }
       ],
       "displayName": "张坚",
+      "eventYear": 2021,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -6056,6 +6334,7 @@
       "year": "",
       "eventName": "内蒙古贸促会原党组书记五罪案",
       "summary": "呼和浩特中院一审以贪污、受贿、挪用公款、滥用职权、玩忽职守五罪判处无期。",
+      "narrative": "",
       "impact": "五罪并罚、厅官、项目决策损失与巨额贿赂引发关注。",
       "nature": "刑事 / 职务犯罪",
       "sourcesMarkdown": "[中国政府网/新华社](https://www.gov.cn/xinwen/2019-08/13/content_5420895.htm)；[华夏能源含履历](https://hxny.com/nd-42230-0-17.html)",
@@ -6098,6 +6377,8 @@
         }
       ],
       "displayName": "李世镕",
+      "eventYear": 2019,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -6111,6 +6392,7 @@
       "year": "",
       "eventName": "首创集团原董事长受贿、滥用职权案",
       "summary": "北京一中院一审判处死缓；媒体披露索取、收受贿赂超2亿元。",
+      "narrative": "",
       "impact": "“京城国企第一贪”标签、死缓、国企腐败与亲属司机涉案。",
       "nature": "刑事 / 职务犯罪",
       "sourcesMarkdown": "[新浪财经含判决与履历](https://finance.sina.com.cn/jjxw/2025-06-30/doc-infcvpnt6532630.shtml)",
@@ -6145,6 +6427,8 @@
         }
       ],
       "displayName": "李爱庆",
+      "eventYear": 2025,
+      "sourceCount": 1,
       "credibility": "较强"
     },
     {
@@ -6158,6 +6442,7 @@
       "year": "",
       "eventName": "周凯旋杀害高中同学谢雕案",
       "summary": "因杀害高中同学谢雕被判死刑并执行，公开报道多次提及其西交大本科经历。",
+      "narrative": "",
       "impact": "名校毕业生、同窗关系、长期矛盾和死刑执行引发广泛关注。",
       "nature": "刑事案件 / 已执行死刑",
       "sourcesMarkdown": "[中国法院网](https://www.chinacourt.org/article/detail/2021/01/id/5751868.shtml)；[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_10956568)",
@@ -6195,6 +6480,8 @@
         }
       ],
       "displayName": "周凯旋",
+      "eventYear": 2021,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -6208,6 +6495,7 @@
       "year": "",
       "eventName": "陕西地方电力系统腐败案",
       "summary": "西安市中院一审以受贿罪判无期；西安交大纪委转载警示材料披露其学生经历与腐败轨迹。",
+      "narrative": "",
       "impact": "电力系统窝案、正厅级、无期判决，作为高校纪委警示案例传播。",
       "nature": "刑事 / 职务犯罪",
       "sourcesMarkdown": "[西安交通大学纪委](https://jw.xjtu.edu.cn/info/1032/1408.htm)；[西安交大纪委关联案例](https://jw.xjtu.edu.cn/info/1032/1403.htm)",
@@ -6245,6 +6533,8 @@
         }
       ],
       "displayName": "王文学",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -6258,6 +6548,7 @@
       "year": "",
       "eventName": "广东省科技厅原厅长受贿案",
       "summary": "公开资料显示其因股权贿赂受贿罪被判无期；官方/法院原始链接仍需补强。",
+      "narrative": "",
       "impact": "科技系统厅官、无期、股权贿赂。",
       "nature": "刑事 / 职务犯罪待补强",
       "sourcesMarkdown": "[百科线索](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%85%B4%E5%8D%8E_%281958%E5%B9%B4%29)",
@@ -6287,6 +6578,8 @@
         }
       ],
       "displayName": "李兴华",
+      "eventYear": null,
+      "sourceCount": 1,
       "credibility": "候选待补强"
     },
     {
@@ -6300,6 +6593,7 @@
       "year": "",
       "eventName": "陕西原副省长违纪违法案",
       "summary": "公开资料显示其被“双开”，涉收受巨额贿赂、生活腐化等；官方/法院原始链接仍需补强。",
+      "narrative": "",
       "impact": "副省级官员、生活腐化与职务腐败叠加传播。",
       "nature": "违纪违法待补强",
       "sourcesMarkdown": "[百科线索](https://zh.wikipedia.org/wiki/%E6%9D%8E%E5%A0%82%E5%A0%82)",
@@ -6329,6 +6623,8 @@
         }
       ],
       "displayName": "李堂堂",
+      "eventYear": null,
+      "sourceCount": 1,
       "credibility": "候选待补强"
     },
     {
@@ -6342,6 +6638,7 @@
       "year": "",
       "eventName": "清华学生疑似殴打北航辅导员/学生事件",
       "summary": "2024年12月2日前后，清华学生处通报一名学生在外校与他人发生冲突并造成不良影响，给予严重警告、取消学生骨干和奖助资格等处理；媒体将该通报与网传“清华学生在北航因女友考试作弊争议殴打北航辅导员/学生”对应。",
+      "narrative": "",
       "impact": "名校学生、跨校冲突、考试作弊线索和处分尺度同时发酵，短期内形成高热度讨论。",
       "nature": "校园冲突 / 校纪处分 / 舆论争议",
       "sourcesMarkdown": "[济南时报](https://www.jinantimes.com.cn/news-7-5001987.html)；[中华网](https://news.china.com/socialgd/10000169/20241203/47693056.html)",
@@ -6370,6 +6667,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "清华外校冲突学生（公开称谓）",
+      "eventYear": 2024,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -6383,6 +6682,7 @@
       "year": "",
       "eventName": "复旦毕业典礼袭击教师事件",
       "summary": "2024年6月19日，复旦大学管理学院毕业典礼上，一名毕业生上台袭击教师；复旦大学学生处分委员会决定开除夏某某学籍。",
+      "narrative": "",
       "impact": "毕业典礼公共场景、师生冲突和开除学籍处理形成强传播。",
       "nature": "校园暴力 / 校纪处分",
       "sourcesMarkdown": "[央视新闻](https://news.cctv.com/2024/07/02/ARTIhWRyOBdDrbghAFy20o8U240702.shtml)；[央广网](https://news.cnr.cn/native/gd/20240702/t20240702_526775923.shtml)；[中国新闻网](https://www.chinanews.com.cn/sh/2024/07-02/10244915.shtml)",
@@ -6419,6 +6719,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "夏某某",
+      "eventYear": 2024,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -6432,6 +6734,7 @@
       "year": "",
       "eventName": "复旦博士后王灿学术不端退站事件",
       "summary": "2025年2月，复旦大学新闻学院通报，认定王灿四篇学术论文存在学术不端，撤销出站证书、取消博士后资格并终止博士后关系。",
+      "narrative": "",
       "impact": "“复旦博士后”“四篇论文”“撤销出站证书”叠加，引发博士后培养和高校论文审核讨论。",
       "nature": "学术不端 / 博士后处分",
       "sourcesMarkdown": "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_30237631)；[中国经济网](https://www.ce.cn/xwzx/gnsz/gdxw/202502/25/t20250225_39302393.shtml)；[经济观察网](https://www.eeo.com.cn/2025/0225/712999.shtml)",
@@ -6477,6 +6780,8 @@
         }
       ],
       "displayName": "王灿",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -6490,6 +6795,7 @@
       "year": "",
       "eventName": "复旦医学生考试作弊两次开除并起诉学校事件",
       "summary": "2021年，田某因闭卷考试中使用手机被认定作弊，复旦大学作开除学籍处分；一审、二审曾因程序问题撤销首次处分，学校后续再次作出开除决定，相关诉讼持续至2023年报道。",
+      "narrative": "",
       "impact": "医学生作弊、名校开除处分、行政诉讼程序和学生管理边界引发讨论。",
       "nature": "校纪处分 / 考试作弊 / 行政诉讼争议",
       "sourcesMarkdown": "[央广网](https://news.cnr.cn/native/gd/20230630/t20230630_526309144.shtml)；[上海法院行政赔偿判决书PDF](https://www.hshfy.sh.cn/shfy/web/flws2pdf.jsp?pa=adGFoPaOoMjAyM6Opu6YwMTA20NDF4rP1NbrFJndzeGg9MiZ3c2xiPdDQ1f7F4rOlxdC+9srpz)；[华龙网转载](https://news.cqnews.net/1/detail/1124280059947655168/web/content_1124280059947655168.html)",
@@ -6531,6 +6837,8 @@
       ],
       "paperLinks": [],
       "displayName": "田某 / 小田",
+      "eventYear": 2023,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -6544,6 +6852,7 @@
       "year": "",
       "eventName": "复旦3名研究生因嫖娼被开除学籍事件",
       "summary": "2021年9月，复旦回应网传处分信息属实；媒体披露三名研究生因校外嫖娼被公安行政处罚，学校给予开除学籍处分，其中陈某某后起诉学校，二审维持驳回。",
+      "narrative": "",
       "impact": "名校研究生、嫖娼行政处罚、开除学籍比例原则和校纪司法审查引发广泛讨论。",
       "nature": "校纪处分 / 行政处罚 / 司法审查",
       "sourcesMarkdown": "[新浪新闻复旦回应](https://news.sina.com.cn/o/2021-09-24/doc-iktzqtyt7912978.shtml)；[光明网转东方网](https://m.gmw.cn/2023-06/08/content_1303398619.htm)；[新浪二审报道](https://news.sina.com.cn/c/2023-06-08/doc-imywnwua5262435.shtml)",
@@ -6580,6 +6889,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "陈某某、葛某、李某",
+      "eventYear": 2023,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -6593,6 +6904,7 @@
       "year": "",
       "eventName": "复旦实验动物科学部吴宏翔审查调查事件",
       "summary": "2023年4月，廉洁上海消息称吴宏翔涉嫌严重违纪违法，接受复旦大学纪委纪律审查和上海市虹口区监察委员会监察调查。",
+      "narrative": "",
       "impact": "复旦内部机构负责人、实验动物平台和高校纪检审查话题受到关注。",
       "nature": "违纪违法 / 审查调查",
       "sourcesMarkdown": "[央视网](https://news.cctv.com/2023/04/14/ARTIzTkgc8DsADIFC1SI09XC230414.shtml)；[复旦新闻网既往任职信息](https://news.fudan.edu.cn/2022/1017/c31a132696/page.htm)",
@@ -6635,6 +6947,8 @@
         }
       ],
       "displayName": "吴宏翔",
+      "eventYear": 2023,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -6648,6 +6962,7 @@
       "year": "",
       "eventName": "复旦仇思隽博士论文抄袭撤销学位事件",
       "summary": "2017年1月，复旦通报认定仇思隽博士学位论文抄袭事实确凿，撤销其博士学位，并停止导师梁鸿招收研究生资格。",
+      "narrative": "",
       "impact": "博士论文抄袭、导师责任和学位撤销程序成为高校学术诚信案例。",
       "nature": "学术不端 / 学位撤销",
       "sourcesMarkdown": "[新华网](https://www.xinhuanet.com/politics/2017-01/22/c_1120359880.htm)；[中国教育和科研计算机网](https://www.edu.cn/edu/gao_deng/gao_jiao_news/201701/t20170124_1485393.shtml)；[新浪财经评论线索](https://cj.sina.com.cn/article/detail/5890965060/152524)",
@@ -6693,6 +7008,8 @@
         }
       ],
       "displayName": "仇思隽",
+      "eventYear": 2017,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -6706,6 +7023,7 @@
       "year": "",
       "eventName": "复旦博士论文被指参考架空历史小说事件",
       "summary": "2014年11月，海军史研究者章骞公开指证薛晨博士论文中“彩虹计划”相关表格参照架空海军史内容；媒体报道薛晨作出解释和致歉，学校正式处分结果待核。",
+      "narrative": "",
       "impact": "博士论文、军事史知识错误、架空历史内容进入学位论文等传播点引发讨论。",
       "nature": "学术争议 / 论文引用争议",
       "sourcesMarkdown": "[观察者网](https://www.guancha.cn/culture/2014_11_25_301509.shtml)；[科学网](https://paper.sciencenet.cn/htmlnews/2014/11/307883.shtm)；[人民政协网](https://www.rmzxw.com.cn/yw/fd/2014/11/23/410210_2.shtml)",
@@ -6756,6 +7074,8 @@
         }
       ],
       "displayName": "薛晨",
+      "eventYear": 2014,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -6769,6 +7089,7 @@
       "year": "",
       "eventName": "复旦附属肿瘤医院玄一国自然科研不端事件",
       "summary": "2022年10月，国家自然科学基金委通报显示，玄一相关论文存在图片不当操作、使用混乱等问题，项目申请书存在虚假信息；给予通报批评，撤销项目并追回资金。",
+      "narrative": "",
       "impact": "附属医院医生、国自然项目、论文图片问题和项目撤销形成科研诚信讨论。",
       "nature": "科研不端 / 基金项目撤销",
       "sourcesMarkdown": "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_20475935)；[基金委通报PDF转存](https://cms.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)",
@@ -6811,6 +7132,8 @@
         }
       ],
       "displayName": "玄一",
+      "eventYear": 2022,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -6824,6 +7147,7 @@
       "year": "",
       "eventName": "浙大学生资助资格争议",
       "summary": "2024年11月，浙江大学通报称方某违反受资助学生行为准则，决定终止其受资助资格；事件源于网传其“获资助同时频繁旅游”等内容。",
+      "narrative": "",
       "impact": "学生资助公平、贫困认定、个人消费展示和隐私边界一起引发讨论。",
       "nature": "校园管理 / 资助资格争议",
       "sourcesMarkdown": "[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_29439068)；[每日经济新闻](https://www.nbd.com.cn/articles/2024-11-27/3660697.html)；[新浪新闻](https://news.sina.cn/2024-11-27/detail-incxytpk7461838.d.html)",
@@ -6860,6 +7184,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "方某",
+      "eventYear": 2024,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -6873,6 +7199,7 @@
       "year": "",
       "eventName": "浙大经济学院剑桥邀请函拒签争议",
       "summary": "2024年底，媒体报道浙江大学经济学院赴剑桥访学项目出现邀请函争议，多名学生遭英国签证限制；学院通报称相关事项已进入调查处理程序并配合警方。",
+      "narrative": "",
       "impact": "海外访学、签证后果、学生损失和高校国际项目管理问题形成持续舆论。",
       "nature": "校园管理 / 国际项目争议 / 调查中",
       "sourcesMarkdown": "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_29680951)；[澎湃后续](https://www.thepaper.cn/newsDetail_forward_29706892)；[联合早报](https://www.zaobao.com.sg/realtime/china/story20241226-5652751)",
@@ -6909,6 +7236,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "浙江大学经济学院项目负责教师（媒体报道提及王清风）",
+      "eventYear": 2024,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -6922,6 +7251,7 @@
       "year": "",
       "eventName": "浙江大学毕业生何某某考公拒录争议",
       "summary": "2023年，何某某因过往网络言论引发舆论，浙江省建设厅拟录用公示后终止相关程序；媒体称其已主动放弃录用资格。",
+      "narrative": "",
       "impact": "历史网络言论、考公政审、公务员录用边界和高校身份标签引发广泛争论。",
       "nature": "公共言论争议 / 公务员录用争议",
       "sourcesMarkdown": "[联合早报](https://www.zaobao.com.sg/realtime/china/story20230421-1385663)；[中国青年网](https://news.youth.cn/sh/202304/t20230422_14472307.htm)；[观察者网](https://www.guancha.cn/politics/2023_04_21_689239.shtml)",
@@ -6958,6 +7288,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "何某某",
+      "eventYear": 2023,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -6971,6 +7303,7 @@
       "year": "",
       "eventName": "中信建投研学学生视频泄密争议",
       "summary": "2024年7月，一段炫耀投行实习/研学经历的视频引发争议；中信建投通报称王某某系华中科技大学学生，违规引入研学、泄露客户信息和材料，相关负责人被问责。",
+      "narrative": "",
       "impact": "投行实习公平、金融机构保密、学生家庭背景和名校身份同时发酵。",
       "nature": "企业合规 / 学生研学争议 / 信息泄露",
       "sourcesMarkdown": "[证券时报](https://www.stcn.com/article/detail/1280520.html)；[每日经济新闻](https://www.nbd.com.cn/articles/2024-07-27/3483912.html)；[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_28218908)",
@@ -7007,6 +7340,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "王某某（中信建投研学学生）",
+      "eventYear": 2024,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7020,6 +7355,7 @@
       "year": "",
       "eventName": "韩承轩走私生物材料美国司法案",
       "summary": "美国司法部称韩承轩在赴密歇根大学前向美国寄送生物材料并作虚假陈述；2025年9月，美国法院判处其已服刑期并遣返回中国。",
+      "narrative": "",
       "impact": "生物材料跨境合规、美国边境执法、中国学者访问安全和高校科研合作风险被集中讨论。",
       "nature": "美国司法案件 / 科研合规争议",
       "sourcesMarkdown": "[DOJ起诉公告](https://www.justice.gov/usao-edmi/pr/chinese-national-charged-smuggling-biological-materials-university-michigan)；[DOJ认罪公告](https://www.justice.gov/usao-edmi/pr/chinese-national-pleads-guilty-smuggling-biological-materials-university-michigan)；[DOJ判决公告](https://www.justice.gov/usao-edmi/pr/chinese-national-sentenced-time-served-smuggling-biological-materials-university)",
@@ -7065,6 +7401,8 @@
         }
       ],
       "displayName": "韩承轩",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7078,6 +7416,7 @@
       "year": "",
       "eventName": "小米王腾泄密与利益冲突辞退事件",
       "summary": "2025年9月，小米集团内部通报称中国区市场部员工王腾存在泄露公司机密信息、利益冲突等严重违规违纪行为并予以辞退；王腾本人回应承认过去犯错并接受代价，同时否认窃取出售机密和收钱等传言。",
+      "narrative": "",
       "impact": "小米高管、长期“泄密”人设、母校官网撤下校友资料页和科技圈讨论同时发酵。",
       "nature": "企业合规 / 泄密争议 / 校友形象争议",
       "sourcesMarkdown": "[每日经济新闻](https://www.nbd.com.cn/articles/2025-09-09/4054809.html)；[新浪科技](https://finance.sina.com.cn/tech/roll/2025-09-09/doc-infpwqyh8694363.shtml)；[川观新闻](https://cbgc.scol.com.cn/news/6728253)；[IT之家](https://www.ithome.com/0/881/373.htm)",
@@ -7136,6 +7475,8 @@
         }
       ],
       "displayName": "王腾",
+      "eventYear": 2025,
+      "sourceCount": 4,
       "credibility": "需核验"
     },
     {
@@ -7149,6 +7490,7 @@
       "year": "",
       "eventName": "紫光集团原董事长赵伟国职务犯罪案",
       "summary": "2025年5月，吉林市中院一审以贪污、为亲友非法牟利、背信损害上市公司利益等罪名判处赵伟国死刑、缓期二年执行。",
+      "narrative": "",
       "impact": "“清华校友+紫光集团+芯片产业+死缓判决”形成强公共关注。",
       "nature": "职务犯罪 / 已判",
       "sourcesMarkdown": "[央视网](https://news.cctv.com/2025/05/14/ARTIQrQK6Qo3Bci6TEz6uIuR250514.shtml)；[中国政府网/新华社](https://www.gov.cn/yaowen/liebiao/202505/content_7023938.htm)；[清华校友资料PDF](https://www.tsinghua.org.cn/__local/E/4D/68/FB7D2F66484D26214E8D0AD516D_4E425F77_3BA15.pdf)",
@@ -7203,6 +7545,8 @@
         }
       ],
       "displayName": "赵伟国",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7216,6 +7560,7 @@
       "year": "",
       "eventName": "高材林贪污、受贿、挪用公款案",
       "summary": "2023年9月，法院一审以贪污罪、受贿罪、挪用公款罪数罪并罚，判处高材林无期徒刑。",
+      "narrative": "",
       "impact": "清华经管博士、厅级官员、无期判决和吉林官场腐败线索引发关注。",
       "nature": "职务犯罪 / 已判",
       "sourcesMarkdown": "[央视网](https://news.cctv.com/2023/09/02/ARTIWaos6HzDNnIkdBO2Fq2M230902.shtml)；[中央纪委国家监委](https://www.ccdi.gov.cn/yaowenn/202302/t20230203_243438.html)；[每日经济新闻](https://www.nbd.com.cn/articles/2023-09-03/2999570.html)",
@@ -7266,6 +7611,8 @@
         }
       ],
       "displayName": "高材林",
+      "eventYear": 2023,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7279,6 +7626,7 @@
       "year": "",
       "eventName": "马宁宇严重违纪违法案",
       "summary": "2025年7月，中央纪委国家监委披露马宁宇被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关。",
+      "narrative": "",
       "impact": "清华博士、市长、年轻干部履历与“靠政绩工程谋利”等通报表述引发舆论。",
       "nature": "违纪违法 / 移送司法",
       "sourcesMarkdown": "[中央纪委国家监委](https://www.ccdi.gov.cn/yaowenn/202507/t20250725_436553.html)；[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_30241813)；[红星新闻转载](https://www.sohu.com/a/919006829_116237)",
@@ -7329,6 +7677,8 @@
         }
       ],
       "displayName": "马宁宇",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7342,6 +7692,7 @@
       "year": "",
       "eventName": "杨亚俊严重违纪违法案",
       "summary": "2025年8月，纪检监察机关通报杨亚俊被“双开”；2025年9月，最高检披露对其依法决定逮捕。",
+      "narrative": "",
       "impact": "清华学生干部、留校任职、地方官员腐败程序进展叠加传播。",
       "nature": "违纪违法 / 检察逮捕",
       "sourcesMarkdown": "[央视网](https://news.cctv.com/2025/08/12/ARTItUFMVJ9GVcdiTHD3w8tN250812.shtml)；[最高人民检察院](https://www.12309.gov.cn/12309/gj/gjxw/202509/t20250923_13195977.shtml)；[新浪新闻](https://k.sina.com.cn/article_5682607797_152a466f502701a2ib.html)",
@@ -7392,6 +7743,8 @@
         }
       ],
       "displayName": "杨亚俊",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7405,6 +7758,7 @@
       "year": "",
       "eventName": "哈佛前教授利伯涉中国项目虚假陈述案及清华入职争议",
       "summary": "美国司法部材料显示其因虚假陈述、税务和外国账户申报相关罪名被定罪并量刑；2025年其在清华深圳国际研究生院任职信息引发讨论。",
+      "narrative": "",
       "impact": "海外高端人才、美国“中国行动计划”、清华引进和科研合规争议被集中讨论。",
       "nature": "境外司法案件 / 聘任争议",
       "sourcesMarkdown": "[美国司法部定罪通报](https://www.justice.gov/opa/pr/harvard-university-professor-convicted-making-false-statements-and-tax-offenses)；[美国司法部量刑通报](https://www.justice.gov/usao-ma/pr/harvard-university-professor-sentenced-making-false-statements-and-tax-offenses)；[清华SIGS招生页](https://www.sigs.tsinghua.edu.cn/2025/0417/c120a99395/page.htm)",
@@ -7459,6 +7813,8 @@
         }
       ],
       "displayName": "查尔斯·利伯",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7472,6 +7828,7 @@
       "year": "",
       "eventName": "人教版教材插图设计争议",
       "summary": "2022年8月，教育部通报人教版小学数学教材插图问题，对教材编绘、审核和相关人员追责；主流媒体公开点名吴勇为插图设计相关负责人。",
+      "narrative": "",
       "impact": "教材审美、儿童教材安全、清华美院关联和设计责任引发长期公共讨论。",
       "nature": "公共文化争议 / 教材追责",
       "sourcesMarkdown": "[教育部通报](https://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202208/t20220822_654759.html)；[中国青年报](https://news.cyol.com/gb/articles/2022-08/23/content_d0RRaS07g.html)；[北京日报](https://news.bjd.com.cn/2022/08/23/10141715.shtml)",
@@ -7526,6 +7883,8 @@
         }
       ],
       "displayName": "吴勇",
+      "eventYear": 2022,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7539,6 +7898,7 @@
       "year": "",
       "eventName": "清华整治违规报备入校牟利事件",
       "summary": "2025年9月，多家媒体报道清华整治校内人员违规报备校外人员入校、与校外“黑导”牟利等问题，涉事人员被取消报备资格、纪律处理，部分人员被行政拘留。",
+      "narrative": "",
       "impact": "校园开放、研学团、名校参观灰产和校内人员获利链条引发讨论。",
       "nature": "校园管理 / 牟利违规 / 警方处理",
       "sourcesMarkdown": "[人民网](http://society.people.com.cn/n1/2025/0929/c1008-40573864.html)；[界面新闻](https://www.jiemian.com/article/13409203.html)；[联合早报](https://www.zaobao.com.sg/realtime/china/story20250928-7578058)",
@@ -7580,6 +7940,8 @@
       ],
       "paperLinks": [],
       "displayName": "清华违规报备入校牟利相关人员（公开称谓）",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7593,6 +7955,7 @@
       "year": "",
       "eventName": "西安市委书记方红卫涉嫌严重违纪违法被查",
       "summary": "2025年11月，中央纪委国家监委通报陕西省委常委、西安市委书记方红卫涉嫌严重违纪违法，接受中央纪委国家监委纪律审查和监察调查。",
+      "narrative": "",
       "impact": "省会城市市委书记、清华汽车系校友、国企转政履历和陕西政坛反腐线索叠加传播。",
       "nature": "违纪违法 / 审查调查",
       "sourcesMarkdown": "[中央纪委国家监委](https://www.ccdi.gov.cn/toutiaon/202511/t20251107_457727_m.html)；[央视网](https://news.cctv.cn/2025/11/07/ARTIp6VNWeAe7nMr7tZux5N8251107.shtml)；[长安大学校友会履历](https://xyh.chd.edu.cn/2020/0731/c8576a188002/page.htm)；[新浪新闻](https://news.sina.com.cn/c/2025-11-08/doc-infwrwyz1746426.shtml)",
@@ -7651,6 +8014,8 @@
         }
       ],
       "displayName": "方红卫",
+      "eventYear": 2025,
+      "sourceCount": 4,
       "credibility": "需核验"
     },
     {
@@ -7664,6 +8029,7 @@
       "year": "",
       "eventName": "北京大学软微男硕士女厕偷拍事件",
       "summary": "2025年5月，媒体报道称涉事男生在校内女厕偷拍，被警方行政拘留5日；姓名未公开，学校后续处分需继续跟进。",
+      "narrative": "",
       "impact": "名校校园安全、偷拍、研究生群体和校内处置透明度引发讨论。",
       "nature": "治安处罚 / 校园性侵害风险",
       "sourcesMarkdown": "[东网](https://hk.on.cc/hk/bkn/cnt/news/20250527/bkn-20250527203214410-0527_00822_001.html)；[星岛日报](https://www.singtaousa.com/5238600)；[凤凰视频](https://v.ifeng.com/c/8jhJXwWOXbM)",
@@ -7705,6 +8071,8 @@
       ],
       "paperLinks": [],
       "displayName": "北大软微2024级男硕士（公开称谓）",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7718,6 +8086,7 @@
       "year": "",
       "eventName": "北大校友违规预约研学团入校事件",
       "summary": "2023年7月，北大通报校外研学团队通过部分校友拆分预约139名学员入校并收费约150万元，学校关闭46名校友预约系统权限。",
+      "narrative": "",
       "impact": "校园参观、研学灰产、校友权限滥用和高校开放管理引发讨论。",
       "nature": "校友违规 / 校园管理",
       "sourcesMarkdown": "[界面新闻](https://m.jiemian.com/article/9800912.html)；[北京商报版面PDF](https://epaper.bbtnews.com.cn/site1/bjsb/images/2023-07/26/04/2023072604_pdf.pdf)；[工人日报版面PDF](https://www.workercn.cn/papers/grrb/2023/09/05/7/grrb202309057.pdf)",
@@ -7759,6 +8128,8 @@
       ],
       "paperLinks": [],
       "displayName": "北京大学违规预约校友（公开称谓）",
+      "eventYear": 2023,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7772,6 +8143,7 @@
       "year": "",
       "eventName": "四川省原副省长叶寒冰严重违纪违法案",
       "summary": "2025年5月被查，2025年11月被“双开”，通报称涉嫌受贿犯罪问题移送检察机关审查起诉；2026年公开报道披露后续司法进展。",
+      "narrative": "",
       "impact": "省部级公安系统官员、EMBA履历和“靠公安吃公安”等表述引发关注。",
       "nature": "违纪违法 / 移送司法",
       "sourcesMarkdown": "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_30854234)；[中国网](https://news.china.com.cn/2025-11/24/content_118193023.shtml)；[京报网](https://news.bjd.com.cn/2025/11/24/11423686.shtml)",
@@ -7822,6 +8194,8 @@
         }
       ],
       "displayName": "叶寒冰",
+      "eventYear": 2026,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -7835,6 +8209,7 @@
       "year": "",
       "eventName": "曹全民接受纪律审查和监察调查",
       "summary": "2024年8月，河北省纪委监委通报曹全民涉嫌严重违纪违法，接受纪律审查和监察调查。",
+      "narrative": "",
       "impact": "唐山官场、工程和城市治理领域的反腐背景与浙大校友履历被媒体关注。",
       "nature": "违纪违法 / 审查调查",
       "sourcesMarkdown": "[联合早报](https://www.zaobao.com.sg/realtime/china/story20240817-4501390)；[财新网](https://china.caixin.com/2024-08-17/102227224.html)",
@@ -7877,6 +8252,8 @@
         }
       ],
       "displayName": "曹全民",
+      "eventYear": 2024,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -7890,6 +8267,7 @@
       "year": "",
       "eventName": "MIT/NeurIPS课程作业数据争议",
       "summary": "2024年底至2025年初，MIT Media Lab 教授在 NeurIPS 演讲中提及一名中国学生学术不端，引发种族化表述争议；中文媒体称涉事者为浙大背景严同学，并称其回应曾在课程作业中使用 AI 修改数据。",
+      "narrative": "",
       "impact": "AI辅助作业、数据诚信、种族化表述和顶会公开演讲争议叠加传播。",
       "nature": "学术诚信争议 / 身份待核",
       "sourcesMarkdown": "[新浪科技](https://finance.sina.com.cn/tech/roll/2025-01-09/doc-ineekqsv3048306.shtml)；[联合新闻网](https://udn.com/news/story/7332/8481723)；[MIT Media Lab道歉](https://www.media.mit.edu/posts/neurips-apology-moving-forward/)；[NeurIPS声明](https://neurips.cc/Conferences/2024/PicardStatement)",
@@ -7939,6 +8317,8 @@
       ],
       "paperLinks": [],
       "displayName": "严同学（公开称谓）",
+      "eventYear": 2025,
+      "sourceCount": 4,
       "credibility": "需核验"
     },
     {
@@ -7952,6 +8332,7 @@
       "year": "",
       "eventName": "浙大副教授相亲帖争议",
       "summary": "2025年3月，网络流传“浙大副教授选妃”相关相亲帖引发争议；浙江大学马克思主义学院情况说明称相关话题涉及该院教师楼某某，教师已报警。",
+      "narrative": "",
       "impact": "高校青年教师形象、择偶表述、网络传播和名校标签带来舆论发酵。",
       "nature": "公共言论争议 / 校园舆情",
       "sourcesMarkdown": "[新浪科技](https://finance.sina.com.cn/tech/discovery/2025-03-18/doc-inepztft2771417.shtml)；[新浪财经](https://finance.sina.com.cn/cj/2025-03-17/doc-inepyrty0282797.shtml)；[世界新闻网](https://www.worldjournal.com/wj/story/121343/8615569)",
@@ -7993,6 +8374,8 @@
       ],
       "paperLinks": [],
       "displayName": "楼某某",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -8006,6 +8389,7 @@
       "year": "",
       "eventName": "香港理工教授被指收学生礼物争议",
       "summary": "2026年1月，香港媒体报道称香港理工大学教授被指收受学生赠送茅台、冬虫夏草等，媒体根据门牌与公开资料指涉事人为诸自强；校方称已按既定程序处理。",
+      "narrative": "",
       "impact": "导师与学生关系、礼品利益冲突、香港高校治理和浙大校友履历引发讨论。",
       "nature": "师德争议 / 利益冲突待核",
       "sourcesMarkdown": "[香港01](https://global.hk01.com/%E7%A4%BE%E4%BC%9A%E6%96%B0%E9%97%BB/60315620/)；[东网](https://hk.on.cc/hk/bkn/cnt/news/20260124/bkn-20260124144050454-0124_00822_001.html)；[浙江大学关联资料](https://peixun.zju.edu.cn/zdnews_1588_301.html)",
@@ -8056,6 +8440,8 @@
         }
       ],
       "displayName": "诸自强",
+      "eventYear": 2026,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -8069,6 +8455,7 @@
       "year": "",
       "eventName": "上海交大教师违反职业道德及科研经费管理规定事件",
       "summary": "2022年10月，上海交通大学党委教师工作部通报程某华存在违反职业道德、学术规范及科研经费管理规定等问题，给予党内严重警告、降低岗位等级等处理。",
+      "narrative": "",
       "impact": "高校教师职业道德、科研经费规范和校内通报公开化引发关注。",
       "nature": "师德失范 / 科研经费违规",
       "sourcesMarkdown": "[上海交通大学教师工作部](https://hr.sjtu.edu.cn/teacher/post/2124)；[搜狐转载](https://www.sohu.com/a/591898904_121284943)",
@@ -8097,6 +8484,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "程某华",
+      "eventYear": 2022,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -8110,6 +8499,7 @@
       "year": "",
       "eventName": "上海交大徐某套取科研经费事件",
       "summary": "2022年10月，上海交通大学党委教师工作部通报徐某利用职务便利套取科研经费，受到开除党籍、开除公职处理，涉嫌犯罪问题移送检察机关。",
+      "narrative": "",
       "impact": "科研经费套取、双开处理和高校内部监督形成警示案例。",
       "nature": "科研经费违规 / 移送司法",
       "sourcesMarkdown": "[上海交通大学教师工作部](https://hr.sjtu.edu.cn/teacher/post/2125)；[搜狐转载](https://www.sohu.com/a/591898904_121284943)",
@@ -8138,6 +8528,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "徐某（科研经费套取人员）",
+      "eventYear": 2022,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -8151,6 +8543,7 @@
       "year": "",
       "eventName": "上海交大封闭管理期间“逗猫”通报争议",
       "summary": "2022年4月，上海交大因孟某在校园封闭管理期间接触流浪猫等行为作出通报批评，引发关于防疫管理和处分尺度的讨论。",
+      "narrative": "",
       "impact": "疫情封控、高校治理、动物接触风险和处分比例原则在社交平台形成争议。",
       "nature": "校纪处分 / 防疫管理争议",
       "sourcesMarkdown": "[观察者网](https://www.guancha.cn/politics/2022_04_07_633652.shtml)；[上观新闻](https://www.jfdaily.com/news/detail?id=471845)；[澎湃转载线索](https://www.thepaper.cn/newsDetail_forward_17505928)",
@@ -8187,6 +8580,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "孟某",
+      "eventYear": 2022,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -8200,6 +8595,7 @@
       "year": "",
       "eventName": "黄培坚涉嫌严重违纪违法被查",
       "summary": "2026年3月，海南纪检监察系统通报黄培坚涉嫌严重违纪违法，接受纪律审查和监察调查。",
+      "narrative": "",
       "impact": "附属医院院长、医疗系统反腐和上海交大医学院关联引发行业关注。",
       "nature": "违纪违法 / 审查调查",
       "sourcesMarkdown": "[界面新闻](https://www.jiemian.com/article/12459967.html)；[廉洁海南](https://www.hnsjw.hainan.gov.cn/)；[财新线索](https://china.caixin.com/)",
@@ -8245,6 +8641,8 @@
         }
       ],
       "displayName": "黄培坚",
+      "eventYear": 2026,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -8258,6 +8656,7 @@
       "year": "",
       "eventName": "王鹏全国人大代表资格终止事件",
       "summary": "2025年12月，全国人大常委会公告披露王鹏全国人大代表资格终止；其南大经济系校友身份见南大校友报道，涉嫌严重违纪违法线索需以后续官方通报核验。",
+      "narrative": "",
       "impact": "全国人大代表资格、金融高管履历和名校校友身份引发关注。",
       "nature": "公共职务争议 / 待补强",
       "sourcesMarkdown": "[南京大学校友报道](https://www.nju.edu.cn/info/3191/129221.htm)；[京报网/新华社公告](https://news.bjd.com.cn/2025/12/27/11489716.shtml)；[百度百科存档](https://archive.ph/2025.12.27-110316/https%3A/baike.baidu.com/item/%E7%8E%8B%E9%B9%8F/2806113)",
@@ -8303,6 +8702,8 @@
         }
       ],
       "displayName": "王鹏",
+      "eventYear": 2025,
+      "sourceCount": 3,
       "credibility": "候选待补强"
     },
     {
@@ -8316,6 +8717,7 @@
       "year": "",
       "eventName": "江苏省教育厅原厅长沈健严重违纪违法案",
       "summary": "2025年12月，江苏省纪委监委通报沈健严重违纪违法，被开除党籍、取消退休待遇，涉嫌犯罪问题移送检察机关。",
+      "narrative": "",
       "impact": "教育厅长、南大任职经历、高校教育系统腐败问题引发关注。",
       "nature": "违纪违法 / 移送司法",
       "sourcesMarkdown": "[凤凰网/红星新闻](https://news.ifeng.com/c/8pXMJe3QOHJ)；[公开简历](https://zh.wikipedia.org/wiki/%E6%B2%88%E5%81%A5_%281957%E5%B9%B4%29)",
@@ -8358,6 +8760,8 @@
         }
       ],
       "displayName": "沈健",
+      "eventYear": 2025,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -8371,6 +8775,7 @@
       "year": "",
       "eventName": "刘赛连硕士论文抄袭认定事件",
       "summary": "2024年6月，媒体报道鹰潭中院副院长刘赛连硕士论文被举报，南京大学学术委员会秘书处邮件认定其学位论文存在抄袭、构成学术不端。",
+      "narrative": "",
       "impact": "法官履历、硕士论文抄袭、学位处理程序和高校学术诚信引发讨论。",
       "nature": "学术不端 / 学位论文争议",
       "sourcesMarkdown": "[科学网转载澎湃](https://news.sciencenet.cn/htmlnews/2024/6/524270.shtm)；[财新法眼](https://china.caixin.com/2024-06-16/102206538.html)",
@@ -8408,6 +8813,8 @@
         }
       ],
       "displayName": "刘赛连",
+      "eventYear": 2024,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -8421,6 +8828,7 @@
       "year": "",
       "eventName": "南京大学周恒事件举报材料伪造争议",
       "summary": "2022年12月，南京大学通报周恒被举报事件调查结果，认定举报人王某某多次不实举报，病历资料、聊天记录、女生身份图片等均系伪造。",
+      "narrative": "",
       "impact": "性骚扰举报真实性、实名网络舆论、学校调查和伪造证据问题引发讨论。",
       "nature": "不实举报 / 伪造材料",
       "sourcesMarkdown": "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_21354255?commTag=true)；[新京报](https://m.bjnews.com.cn/detail/167231579414404.html)；[界面新闻](https://m.jiemian.com/article/8660243.html)",
@@ -8466,6 +8874,8 @@
       ],
       "paperLinks": [],
       "displayName": "王某某",
+      "eventYear": 2022,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -8479,6 +8889,7 @@
       "year": "",
       "eventName": "南京博物院受赠文物管理问题调查事件",
       "summary": "2026年2月，江苏省委省政府调查组通报“江南春”图卷等受赠文物管理问题，徐湖平涉嫌违纪违法，接受纪检监察机关纪律审查和监察调查。",
+      "narrative": "",
       "impact": "文博系统、高价值文物捐赠、博物馆治理和高校兼职身份引发讨论。",
       "nature": "违纪违法 / 审查调查",
       "sourcesMarkdown": "[联合新闻网](https://udn.com/news/story/7332/9319717)；[新浪简历页](https://finance.sina.com.cn/roll/2025-12-26/doc-inheayzp2766758.shtml)；[人物资料](https://zh.wikipedia.org/wiki/%E5%BE%90%E6%B9%96%E5%B9%B3)",
@@ -8529,6 +8940,8 @@
         }
       ],
       "displayName": "徐湖平",
+      "eventYear": 2026,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -8542,6 +8955,7 @@
       "year": "",
       "eventName": "张康之被多名校友实名举报性骚扰争议",
       "summary": "2018年4月至5月，多名校友实名举报张康之性骚扰，财新报道南京大学启动调查；公开处理结论仍需进一步核验。",
+      "narrative": "",
       "impact": "高校#MeToo、导师权力和实名举报机制在中文社区产生持续讨论。",
       "nature": "师德争议 / 公开处理结论待核",
       "sourcesMarkdown": "[财新](https://china.caixin.com/2018-04-14/101234511.html)；[新浪转财新](https://think.sina.cn/doc--ihcaqueu2551082.d.html?vt=4)；[财新后续](https://china.caixin.com/2018-07-11/101298948.html)；[中国数字时代存档](https://chinadigitaltimes.net/chinese/585519.html)",
@@ -8595,6 +9009,8 @@
         }
       ],
       "displayName": "张康之",
+      "eventYear": 2018,
+      "sourceCount": 4,
       "credibility": "需核验"
     },
     {
@@ -8608,6 +9024,7 @@
       "year": "",
       "eventName": "中国科大取消何某某推免录取资格事件",
       "summary": "2023年3月，南华大学因何某某造女生“黄谣”等行为给予开除学籍处分；中国科大研招办随后通告依规取消其2023年推免生录取资格。",
+      "narrative": "",
       "impact": "网络性羞辱、推免录取资格、高校联动处分和女性权益保护引发讨论。",
       "nature": "校园处分 / 推免取消",
       "sourcesMarkdown": "[央视网](https://news.cctv.com/2023/03/22/ARTIHAkTCwY8E5CPDMPMnipm230322.shtml)；[中国网](https://news.china.com.cn/2023-03/22/content_85184084.html)",
@@ -8636,6 +9053,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "何某某（中国科大推免拟录取对象）",
+      "eventYear": 2023,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -8649,6 +9068,7 @@
       "year": "",
       "eventName": "季子越不当言论开除学籍事件",
       "summary": "2020年7月，中国科大通报季子越在境外社交平台发表涉及南京大屠杀等不当言论，给予开除学籍处分。",
+      "narrative": "",
       "impact": "历史记忆、留学生/研究生公共表达和高校处分边界引发强烈舆论。",
       "nature": "校纪处分 / 公共言论争议",
       "sourcesMarkdown": "[人民网](https://js.people.com.cn/n2/2020/0720/c359574-34168303.html)",
@@ -8678,6 +9098,8 @@
         }
       ],
       "displayName": "季子越",
+      "eventYear": 2020,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -8691,6 +9113,7 @@
       "year": "",
       "eventName": "中国科大资产经营公司原总裁苏俊受贿、内幕交易案",
       "summary": "2020年12月，法院一审判决苏俊犯受贿罪、内幕交易罪，决定执行有期徒刑十年三个月，并处罚金九十万元。",
+      "narrative": "",
       "impact": "校办企业、资本市场、内幕交易和高校资产经营平台治理引发关注。",
       "nature": "刑事案件 / 校办企业腐败",
       "sourcesMarkdown": "[上观新闻/安徽网](https://export.shobserver.com/toutiao/html/327283.html)",
@@ -8720,6 +9143,8 @@
         }
       ],
       "displayName": "苏俊",
+      "eventYear": 2020,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -8733,6 +9158,7 @@
       "year": "",
       "eventName": "许安受贿案",
       "summary": "2014年，法院认定许安利用职务便利收受10万元，为他人承揽工程谋利；终审维持十年刑期。",
+      "narrative": "",
       "impact": "科研机构工程项目、校友基金会公开履历和“10万元获刑十年”量刑讨论传播较广。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[人民网](https://politics.people.com.cn/n/2014/0604/c1001-25100727.html)；[中新网](https://www.chinanews.com/fz/2014/02-21/5864351.shtml)；[中国科大校友基金会](https://w.ustcif.org.cn/default.php/content/767/)",
@@ -8783,6 +9209,8 @@
         }
       ],
       "displayName": "许安",
+      "eventYear": 2014,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -8796,6 +9224,7 @@
       "year": "",
       "eventName": "中国工程院通报论文剽窃事件",
       "summary": "2007年媒体报道中国工程院内部通报称陈晓军抄袭他人论文并署导师范维澄名，范维澄未及时纠正。",
+      "narrative": "",
       "impact": "院士候选、导师署名责任、研究生论文剽窃和工程院通报引发学术共同体讨论。",
       "nature": "学术不端 / 署名责任",
       "sourcesMarkdown": "[新浪新闻/京华时报](https://news.sina.com.cn/c/2007-07-14/072412203088s.shtml)",
@@ -8834,6 +9263,8 @@
         }
       ],
       "displayName": "陈晓军 / 范维澄",
+      "eventYear": 2007,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -8847,6 +9278,7 @@
       "year": "",
       "eventName": "明尼苏达大学 Linux Kernel “hypocrite commits”研究伦理争议",
       "summary": "2021年4月，明尼苏达大学官方声明称相关 Linux Kernel 研究引发开源社区严重关切，学校立即暂停该研究线并调查审批流程。",
+      "narrative": "",
       "impact": "开源社区信任、研究伦理、IRB审批和中国科大本科背景在技术圈长期讨论。",
       "nature": "研究伦理争议 / 开源社区事件",
       "sourcesMarkdown": "[明尼苏达大学官方声明](https://cse.umn.edu/cs/statement-cse-linux-kernel-research-april-21-2021)；[个人主页](https://qiushiwu.github.io/)",
@@ -8893,6 +9325,8 @@
         }
       ],
       "displayName": "吴秋实",
+      "eventYear": 2021,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -8906,6 +9340,7 @@
       "year": "",
       "eventName": "南京大学虐猫考生复试争议",
       "summary": "2024年4月，考生徐某某因网传虐猫视频引发争议；南京大学物理学院后续回应称该考生思想品德考核未通过。",
+      "narrative": "",
       "impact": "研究生招生品德考核、动物伤害、网民监督和高校录取边界成为高热议题。",
       "nature": "招生争议 / 动物伤害舆情 / 品德考核",
       "sourcesMarkdown": "[央视新闻](https://news.cctv.com/2024/04/08/ARTIkuOaSBKBGNKF5X1EAVge240408.shtml)；[中国青年报](https://zqb.cyol.com/html/2024-04/10/nw.D110000zgqnb_20240410_1-07.htm)；[新京报](https://www.bjnews.com.cn/detail/1712583614129143.html)",
@@ -8942,6 +9377,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "徐某某",
+      "eventYear": 2024,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -8955,6 +9392,7 @@
       "year": "",
       "eventName": "西安交大“学术妲己”造谣事件",
       "summary": "2024年7月，警方和西安交通大学通报称，网传“学术妲己”等信息为虚假内容；王某、郭某因编造传播不实信息被依法处理，校方确认郭某为原西安交大学生。",
+      "narrative": "",
       "impact": "“学术妲己”标签、性别化造谣、研究生升学和高校声誉损害引发大范围讨论。",
       "nature": "网络谣言 / 校园舆情 / 警方处理",
       "sourcesMarkdown": "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_28164919)；[每日经济新闻](https://www.nbd.com.cn/articles/2024-07-24/3477847.html)；[羊城晚报](https://news.ycwb.com/2024-07/24/content_52824402.htm)",
@@ -8991,6 +9429,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "郭某（原西安交大学生）/ 王某",
+      "eventYear": 2024,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -9004,6 +9444,7 @@
       "year": "",
       "eventName": "西安交大秦某某违纪违法案件警示教育",
       "summary": "2024年4月，西安交通大学新闻网转载《中国纪检监察报》头版报道，称学校警示教育课剖析原后勤职工秦某某等多起违纪违法案件；秦某某案由西安市碑林区人民法院公开开庭审理，学校组织相关单位旁听庭审。",
+      "narrative": "",
       "impact": "校内后勤岗位、违纪违法、公开庭审旁听和高校纪检监察警示教育形成内部治理案例。",
       "nature": "违纪违法 / 校内警示教育 / 法院公开审理",
       "sourcesMarkdown": "[西安交通大学新闻网](https://news.xjtu.edu.cn/info/1219/209153.htm)",
@@ -9024,6 +9465,8 @@
       "photoLinks": [],
       "paperLinks": [],
       "displayName": "秦某某（西安交大原后勤职工）",
+      "eventYear": 2024,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -9037,6 +9480,7 @@
       "year": "",
       "eventName": "海南洋浦原副局长肖明辉受贿案",
       "summary": "海南省二中院一审认定肖明辉利用职务便利伙同他人收受财物，以受贿罪判处无期徒刑。",
+      "narrative": "",
       "impact": "“80后清华硕士副局长”、工程项目腐败和年轻干部权力失控形成传播点。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[中国经济网](https://district.ce.cn/newarea/sddy/201210/12/t20121012_23750325.shtml)；[观察者网转南海网](https://www.guancha.cn/society/2012_10_15_103779.shtml)；[共产党员网](https://news.12371.cn/2012/10/18/ARTI1350538135725403.shtml)",
@@ -9087,6 +9531,8 @@
         }
       ],
       "displayName": "肖明辉",
+      "eventYear": 2012,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -9100,6 +9546,7 @@
       "year": "",
       "eventName": "公安部原副部长孟宏伟受贿案",
       "summary": "天津一中院以受贿罪判处孟宏伟有期徒刑13年6个月，并处罚金。",
+      "narrative": "",
       "impact": "国际刑警组织主席、公安部副部长身份和高层反腐叠加，舆论关注度高。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[中国政府网/新华社](https://www.gov.cn/xinwen/2020-01/21/content_5471296.htm)；[中央纪委国家监委](https://m.ccdi.gov.cn/content/33/0a/41342.html)；[中国经济网简历](https://district.ce.cn/newarea/sddy/201904/24/t20190424_31932953.shtml)",
@@ -9154,6 +9601,8 @@
         }
       ],
       "displayName": "孟宏伟",
+      "eventYear": 2020,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -9167,6 +9616,7 @@
       "year": "",
       "eventName": "原保监会主席项俊波受贿案",
       "summary": "常州中院以受贿罪判处项俊波有期徒刑11年，并处罚金。",
+      "narrative": "",
       "impact": "金融监管高官、保监会主席落马和金融系统反腐引发持续关注。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[央视网宣判](https://news.cctv.com/2020/06/16/ARTIdulKLSmewRsqEvANhY3E200616.shtml)；[央视网简历](https://news.cctv.com/2017/04/09/ARTIRYD930kMAKdd2r2OpqdX170409.shtml)；[新华网庭审](https://www.xinhuanet.com/politics/2018-06/14/c_1122987313_2.htm)",
@@ -9217,6 +9667,8 @@
         }
       ],
       "displayName": "项俊波",
+      "eventYear": 2020,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -9230,6 +9682,7 @@
       "year": "",
       "eventName": "童道驰受贿、内幕交易案",
       "summary": "深圳中院以受贿罪、内幕交易罪判处童道驰死刑缓期二年执行。",
+      "narrative": "",
       "impact": "海南省部级干部、2.74亿余元受贿额和内幕交易罪名共同形成高关注。",
       "nature": "刑事案件 / 受贿 / 内幕交易",
       "sourcesMarkdown": "[中央纪委国家监委简历](https://m.ccdi.gov.cn/content/c6/ce/76605.html)；[新华网庭审](https://www.news.cn/legal/2022-01/13/c_1128260076.htm)；[每日经济新闻转央视宣判](https://www.nbd.com.cn/articles/2308341.html)",
@@ -9284,6 +9737,8 @@
         }
       ],
       "displayName": "童道驰",
+      "eventYear": 2022,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -9297,6 +9752,7 @@
       "year": "",
       "eventName": "彭波受贿案",
       "summary": "无锡中院以受贿罪判处彭波有期徒刑14年，并处罚金。",
+      "narrative": "",
       "impact": "中央网信办、政法系统舆情治理和受贿案叠加，引发媒体关注。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[新华网/新华社宣判](https://www.news.cn/2022-11/24/c_1129157011.htm)；[中国青年报经新浪转载履历](https://finance.sina.cn/2021-08-17/detail-ikqcfncc3395977.d.html)",
@@ -9339,6 +9795,8 @@
         }
       ],
       "displayName": "彭波",
+      "eventYear": 2022,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -9352,6 +9810,7 @@
       "year": "",
       "eventName": "最高法原副院长奚晓明受贿案",
       "summary": "天津二中院以受贿罪判处奚晓明无期徒刑，并处没收个人全部财产。",
+      "narrative": "",
       "impact": "最高法副院长落马、司法系统反腐和亿元级受贿额形成重大舆论冲击。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[中央纪委国家监委宣判](https://www.ccdi.gov.cn/yaowen/201702/t20170216_145749.html)；[中央纪委国家监委简历](https://m.ccdi.gov.cn/content/df/e3/4473.html?mType=Group)；[中新网庭审](https://www.chinanews.com.cn/m/gn/2017/01-10/8119663.shtml)",
@@ -9406,6 +9865,8 @@
         }
       ],
       "displayName": "奚晓明",
+      "eventYear": 2017,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -9419,6 +9880,7 @@
       "year": "",
       "eventName": "浙江省委原常委、杭州市委原书记周江勇受贿案",
       "summary": "滁州中院以受贿罪判处周江勇死刑缓期二年执行，剥夺政治权利终身。",
+      "narrative": "",
       "impact": "杭州市委书记、平台经济和家族资本线索长期被舆论讨论。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[新华网宣判](https://www.news.cn/local/2023-07/25/c_1129767465.htm)；[澎湃新闻图文](https://m.thepaper.cn/detail/23980392)",
@@ -9461,6 +9923,8 @@
         }
       ],
       "displayName": "周江勇",
+      "eventYear": 2023,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -9474,6 +9938,7 @@
       "year": "",
       "eventName": "浙江省政府原党组成员、宁波市原市长卢子跃受贿案",
       "summary": "珠海中院以受贿罪判处卢子跃无期徒刑，并处没收个人全部财产。",
+      "narrative": "",
       "impact": "宁波市长、省政府党组成员和1.47亿余元受贿额形成高关注。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[中国政府网/新华社](https://www.gov.cn/xinwen/2017-05/31/content_5198589.htm)；[央视网庭审](https://m.news.cctv.com/2017/04/14/ARTILUZsQlks84C4FfkbEcfV170414.shtml)",
@@ -9516,6 +9981,8 @@
         }
       ],
       "displayName": "卢子跃",
+      "eventYear": 2017,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -9529,6 +9996,7 @@
       "year": "",
       "eventName": "浙江省政协原副主席斯鑫良受贿案",
       "summary": "公开报道显示斯鑫良因受贿获刑13年，涉案财物1955万余元。",
+      "narrative": "",
       "impact": "浙江省级官员腐败、组织系统任职经历和家风问题被媒体关注。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[央视网庭审](https://news.cctv.com/2016/08/18/ARTIZuReEcAaRb8fGv600nWy160818.shtml)；[中国经济网简历线索](https://district.ce.cn/newarea/sddy/201506/19/t20150619_5690462.shtml)",
@@ -9566,6 +10034,8 @@
         }
       ],
       "displayName": "斯鑫良",
+      "eventYear": 2016,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -9579,6 +10049,7 @@
       "year": "",
       "eventName": "上海市委原副秘书长孙路一受贿案",
       "summary": "长春中院一审认定孙路一犯受贿罪，判处有期徒刑15年。",
+      "narrative": "",
       "impact": "上海社保案相关官员、字画受贿和市委办公厅系统腐败受到关注。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[央视网判决](https://news.cctv.com/china/20070928/100861.shtml)；[财新学历和庭审线索](https://china.caixin.com/2007-09-24/100068247.html)",
@@ -9616,6 +10087,8 @@
         }
       ],
       "displayName": "孙路一",
+      "eventYear": 2007,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -9629,6 +10102,7 @@
       "year": "",
       "eventName": "公安部原副部长李东生受贿案",
       "summary": "天津二中院以受贿罪判处李东生有期徒刑15年，并处没收个人财产。",
+      "narrative": "",
       "impact": "央视、政法委、公安部履历叠加，成为周永康案背景下高关注人物。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[人民网判决](https://paper.people.com.cn/rmrbhwb/html/2016-01/13/content_1647341.htm)；[中国经济网简历](https://district.ce.cn/newarea/sddy/201601/12/t20160112_8211896.shtml)；[人民网双开通报](https://politics.people.com.cn/n/2014/0701/c1001-25220725.html)",
@@ -9674,6 +10148,8 @@
         }
       ],
       "displayName": "李东生",
+      "eventYear": 2016,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -9687,6 +10163,7 @@
       "year": "",
       "eventName": "淮南市委原书记方西屏违纪违法案",
       "summary": "纪委通报称方西屏利用职务便利为多人谋利，本人或通过家人索取、收受巨额贿赂，并被开除党籍、公职、移送司法。",
+      "narrative": "",
       "impact": "淮南市委书记、包养情妇和地方官员腐败形成舆论传播。",
       "nature": "违纪违法 / 移送司法",
       "sourcesMarkdown": "[新华网](https://www.xinhuanet.com/politics/2015-07/24/c_128056631.htm)；[人民网通报转载](https://politics.people.com.cn/n/2015/0724/c1001-27355322.html)",
@@ -9729,6 +10206,8 @@
         }
       ],
       "displayName": "方西屏",
+      "eventYear": 2015,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -9742,6 +10221,7 @@
       "year": "",
       "eventName": "江苏省原副省长李云峰受贿案",
       "summary": "菏泽中院一审以受贿罪判处李云峰有期徒刑12年，并处罚金。",
+      "narrative": "",
       "impact": "江苏省部级官员、私人会所和干部选拔任用腐败线索受到关注。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[人民网判决](https://fanfu.people.com.cn/n1/2018/0323/c64371-29885346.html)；[新浪简历线索](https://news.sina.com.cn/c/nd/2017-04-07/doc-ifyecezv2450099.shtml)",
@@ -9788,6 +10268,8 @@
         }
       ],
       "displayName": "李云峰",
+      "eventYear": 2018,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -9801,6 +10283,7 @@
       "year": "",
       "eventName": "泰安市委原书记胡建学受贿案",
       "summary": "公开资料显示胡建学因受贿等问题被判死缓，属早期地方腐败典型案例。",
+      "narrative": "",
       "impact": "“泰安书记”、买官卖官和地方政治生态问题长期被反腐材料引用。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[山东省情资料](https://shandong-chorography.org/database/d90/section/7/article/53/)；[人民网反腐资料](https://politics.people.com.cn/n/2014/0826/c1001-25539880.html)",
@@ -9838,6 +10321,8 @@
         }
       ],
       "displayName": "胡建学",
+      "eventYear": 2014,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -9851,6 +10336,7 @@
       "year": "",
       "eventName": "安徽省政府原秘书长杨敬农受贿案",
       "summary": "法院认定杨敬农受贿人民币约1762万元、美元19万元，一审判处有期徒刑10年。",
+      "narrative": "",
       "impact": "省政府秘书长、地产和项目审批线索引发安徽官场反腐关注。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[澎湃庭审报道](https://www.thepaper.cn/newsDetail_forward_1955699)；[解放日报判决报道](https://www.jfdaily.com/wx/detail.do?id=94533)",
@@ -9888,6 +10374,8 @@
         }
       ],
       "displayName": "杨敬农",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -9901,6 +10389,7 @@
       "year": "",
       "eventName": "安徽省原旅游局局长唐兴和受贿案",
       "summary": "检察机关信息显示唐兴和涉嫌受贿案进入司法程序，后续公开报道显示案件审理。",
+      "narrative": "",
       "impact": "文旅系统官员、在职博士履历和地方反腐案件形成关注。",
       "nature": "刑事案件 / 受贿",
       "sourcesMarkdown": "[中国政府网检察机关信息](https://www.gov.cn/xinwen/2019-09/18/content_5430889.htm)；[新浪庭审报道](https://news.sina.com.cn/c/2018-12-12/doc-ihqackaa6940959.shtml)",
@@ -9943,6 +10432,8 @@
         }
       ],
       "displayName": "唐兴和",
+      "eventYear": 2019,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -9956,6 +10447,7 @@
       "year": "",
       "eventName": "贵州省政协原主席王富玉受贿、利用影响力受贿案",
       "summary": "法院公开宣判王富玉受贿、利用影响力受贿，决定执行死刑缓期二年执行。",
+      "narrative": "",
       "impact": "省政协主席、退休后继续受贿和“靠旅游吃旅游”等通报表述引发关注。",
       "nature": "刑事案件 / 受贿 / 利用影响力受贿",
       "sourcesMarkdown": "[中央纪委国家监委审查调查及简历](https://m.ccdi.gov.cn/content/79/ef/73823.html)；[央视宣判视频页](https://tv.cctv.com/2022/01/17/VIDEIfxRKQiqztIS45BBzpLD220117.shtml)",
@@ -9998,6 +10490,8 @@
         }
       ],
       "displayName": "王富玉",
+      "eventYear": 2022,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -10011,6 +10505,7 @@
       "year": "",
       "eventName": "国家自然科学基金委通报论文涉嫌学术不端事件",
       "summary": "2024年国家自然科学基金委通报涉西安交大/一附院论文涉嫌学术不端，刘志奎等被点名处理。",
+      "narrative": "",
       "impact": "医学论文、国自然基金和附属医院科研诚信问题受到媒体关注。",
       "nature": "学术不端 / 基金委通报",
       "sourcesMarkdown": "[央视网转基金委通报](https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml)；[澎湃陕西](https://www.thepaper.cn/newsDetail_forward_27059603)",
@@ -10048,6 +10543,8 @@
         }
       ],
       "displayName": "刘志奎",
+      "eventYear": 2024,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -10061,6 +10558,7 @@
       "year": "",
       "eventName": "国家自然科学基金委通报论文涉嫌学术不端事件",
       "summary": "2024年国家自然科学基金委通报涉西安交大/一附院论文涉嫌学术不端，刘青光等被点名处理。",
+      "narrative": "",
       "impact": "医学论文、国自然基金和附属医院科研诚信问题受到媒体关注。",
       "nature": "学术不端 / 基金委通报",
       "sourcesMarkdown": "[央视网转基金委通报](https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml)；[澎湃陕西](https://www.thepaper.cn/newsDetail_forward_27059603)",
@@ -10098,6 +10596,8 @@
         }
       ],
       "displayName": "刘青光",
+      "eventYear": 2024,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -10111,6 +10611,7 @@
       "year": "",
       "eventName": "国家自然科学基金委通报论文涉嫌学术不端事件",
       "summary": "2024年国家自然科学基金委通报涉西安交大/一附院论文涉嫌学术不端，涂康生等被点名处理。",
+      "narrative": "",
       "impact": "医学论文、国自然基金和附属医院科研诚信问题受到媒体关注。",
       "nature": "学术不端 / 基金委通报",
       "sourcesMarkdown": "[央视网转基金委通报](https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml)；[澎湃陕西](https://www.thepaper.cn/newsDetail_forward_27059603)",
@@ -10148,6 +10649,8 @@
         }
       ],
       "displayName": "涂康生",
+      "eventYear": 2024,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -10161,6 +10664,7 @@
       "year": "",
       "eventName": "国家自然科学基金委通报论文涉嫌学术不端事件",
       "summary": "2024年国家自然科学基金委通报涉西安交大/一附院论文涉嫌学术不端，杨楠等被点名处理。",
+      "narrative": "",
       "impact": "医学论文、国自然基金和附属医院科研诚信问题受到媒体关注。",
       "nature": "学术不端 / 基金委通报",
       "sourcesMarkdown": "[央视网转基金委通报](https://news.cctv.com/2024/04/13/ARTI8cp7xibIiJSEjIz1HLXH240413.shtml)；[澎湃陕西](https://www.thepaper.cn/newsDetail_forward_27059603)",
@@ -10198,6 +10702,8 @@
         }
       ],
       "displayName": "杨楠",
+      "eventYear": 2024,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -10211,6 +10717,7 @@
       "year": "",
       "eventName": "百度诉潘海东、互动在线名誉权案",
       "summary": "生效判决认定潘海东相关微博和公开信中部分言论缺乏事实依据且含侮辱性表达，构成对百度公司名誉权侵害，判令停止侵权、删除、公开道歉并赔偿。",
+      "narrative": "",
       "impact": "互联网公司竞争、实名微博表达和企业名誉权边界引发关注。",
       "nature": "名誉侵权 / 法院判决",
       "sourcesMarkdown": "[清华校友总会身份页](https://www.tsinghua.org.cn/info/1014/9384.htm)；[央视网/中国网络电视台](https://news.cntv.cn/20120316/105189.shtml)",
@@ -10253,6 +10760,8 @@
         }
       ],
       "displayName": "潘海东",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -10266,6 +10775,7 @@
       "year": "",
       "eventName": "北大教师冯仁杰师德失范处理",
       "summary": "北京大学通报称冯仁杰严重违反师德师风，造成恶劣影响，决定撤销教师资格、取消研究生导师资格并予以解聘。",
+      "narrative": "",
       "impact": "博导、师德失范、撤销教师资格和解聘处理成为高校教师行为红线案例。",
       "nature": "师德失范 / 教师资格撤销 / 解聘",
       "sourcesMarkdown": "[人民网](https://society.people.com.cn/n1/2019/1211/c1008-31501921.html)；[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_5206429)；[界面新闻](https://www.jiemian.com/article/3768989.html)",
@@ -10311,6 +10821,8 @@
         }
       ],
       "displayName": "冯仁杰",
+      "eventYear": 2019,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -10324,6 +10836,7 @@
       "year": "",
       "eventName": "北大、梦桃源诉邹恒甫名誉权侵权案",
       "summary": "海淀法院认定邹恒甫多篇实名微博涉及对北京大学、教授群体和梦桃源公司的诽谤、侮辱性言论，判令删帖、连续道歉并承担费用；二审维持。",
+      "narrative": "",
       "impact": "高校声誉、教授群体名誉权和微博言论边界形成公共案例。",
       "nature": "名誉侵权 / 法院判决",
       "sourcesMarkdown": "[网信办转载新华社](https://www.cac.gov.cn/2014-08/20/c_1112158718.htm)；[中新网一审](https://www.chinanews.com.cn/cul/2014/08-21/6514558.shtml)；[中新网二审](https://www.chinanews.com/fz/2014/12-23/6904130.shtml)",
@@ -10369,6 +10882,8 @@
         }
       ],
       "displayName": "邹恒甫",
+      "eventYear": 2014,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -10382,6 +10897,7 @@
       "year": "",
       "eventName": "孔庆东微博辱骂学生名誉权案",
       "summary": "海淀法院一审判令孔庆东向关凯元书面赔礼道歉，并支付精神损害抚慰金和公证费。",
+      "narrative": "",
       "impact": "高校教师公共表达、师生关系和网络辱骂侵权形成讨论。",
       "nature": "名誉侵权 / 法院判决",
       "sourcesMarkdown": "[中新网](https://www.chinanews.com.cn/fz/2013/05-29/4868730.shtml)；[人民网评论](https://cpc.people.com.cn/n/2013/0514/c78779-21475395.html)；[搜狐转新京报](https://news.sohu.com/20130509/n375285567.shtml)",
@@ -10427,6 +10943,8 @@
         }
       ],
       "displayName": "孔庆东",
+      "eventYear": 2013,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -10440,6 +10958,7 @@
       "year": "",
       "eventName": "唐师曾转载文章名誉权侵权案",
       "summary": "法院认定唐师曾转载的文章含缺乏充分事实依据的推测和定性，构成侵犯王湘宁名誉权；终审维持删文、道歉、赔偿。",
+      "narrative": "",
       "impact": "公共人物转发责任、实名文章传播和名誉权边界引发关注。",
       "nature": "名誉侵权 / 法院判决",
       "sourcesMarkdown": "[北京大学新闻网身份页](https://news.pku.edu.cn/bdrw/137-116601.htm)；[荔枝网转载新京报](https://news.jstv.com/a/20170620/1497935752703.shtml)；[搜狐同源报道](https://www.sohu.com/a/150844884_391294)",
@@ -10490,6 +11009,8 @@
         }
       ],
       "displayName": "唐师曾",
+      "eventYear": null,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -10503,6 +11024,7 @@
       "year": "",
       "eventName": "李超国家自然科学基金项目申请书抄袭事件",
       "summary": "国家自然科学基金委通报称李超使用他人申请书内容申报项目，决定撤销申请、取消申请和参与申请资格3年并给予通报批评。",
+      "narrative": "",
       "impact": "基金申请书抄袭、医学研究项目诚信和科研评价规范引发关注。",
       "nature": "学术不端 / 基金委通报",
       "sourcesMarkdown": "[国家自然科学基金委](https://www.nsfc.gov.cn/p1/2812/2816/71098.html)；[每日经济新闻](https://www.nbd.com.cn/articles/2022-10-26/2515893.html)；[北京日报网](https://news.bjd.com.cn/2022/10/26/10197939.shtml)",
@@ -10548,6 +11070,8 @@
         }
       ],
       "displayName": "李超",
+      "eventYear": 2022,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -10561,6 +11085,7 @@
       "year": "",
       "eventName": "9名博士生联名要求更换导师事件",
       "summary": "媒体报道，上海交大9名博士生联名要求更换导师，理由涉及长期被安排为导师家属公司做项目、学业指导不足等；校方同意更换导师。",
+      "narrative": "",
       "impact": "导师权力边界、研究生培养质量和校企项目利益关系受到关注。",
       "nature": "导师权力争议 / 研究生培养争议",
       "sourcesMarkdown": "[新浪转南方都市报](https://news.sina.cn/sa/2004-02-25/detail-ikknscsi2775420.d.html)",
@@ -10595,6 +11120,8 @@
         }
       ],
       "displayName": "王永成",
+      "eventYear": 2004,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -10608,6 +11135,7 @@
       "year": "",
       "eventName": "厦大助理教授网络言论处理事件",
       "summary": "媒体援引厦门大学通报称，周运中微博多次发表错误言论、歪曲历史事实并损害党和国家形象，学校解除聘用关系。",
+      "narrative": "",
       "impact": "高校教师网络言论、历史叙事和聘用处理形成舆论争议。",
       "nature": "公共言论争议 / 解除聘用",
       "sourcesMarkdown": "[VOA中文](https://www.voachinese.com/a/news-chinese-assistant-professor-fired-for-online-remarks-20180902/4554467.html)；[搜狐转载厦大通报](https://www.sohu.com/a/251457675_684252)",
@@ -10645,6 +11173,8 @@
         }
       ],
       "displayName": "周运中 / “东海道子”",
+      "eventYear": null,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -10658,6 +11188,7 @@
       "year": "",
       "eventName": "方舟子、崔永元名誉权纠纷案",
       "summary": "海淀法院认定方是民与崔永元双方连续微博人身攻击均构成对对方名誉权损害，判令相互道歉、删帖、互赔。",
+      "narrative": "",
       "impact": "科普争议、食品安全公共辩论和网络名誉权边界长期受到关注。",
       "nature": "名誉侵权 / 法院判决",
       "sourcesMarkdown": "[新华网](https://www.xinhuanet.com/politics/2015-06/25/c_127949584.htm)；[人民网](https://media.people.com.cn/n/2015/0627/c14677-27216853.html)；[新华网二审开庭](https://www.xinhuanet.com/politics/2015-09/17/c_128239748.htm)",
@@ -10708,6 +11239,8 @@
         }
       ],
       "displayName": "方是民 / 方舟子",
+      "eventYear": 2015,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -10721,6 +11254,7 @@
       "year": "",
       "eventName": "廖永德基金评审请托事件",
       "summary": "国家自然科学基金委通报称廖永德在基金评审阶段向可能的通讯评议专家发送项目信息并寻求关照，决定撤销申请、取消申请和参与申请资格3年并通报批评。",
+      "narrative": "",
       "impact": "基金评审公正性、专家请托和科研诚信承诺问题受到关注。",
       "nature": "科研诚信 / 评审请托",
       "sourcesMarkdown": "[中国科大科研诚信网转载基金委通报](https://kycx.ustc.edu.cn/2023/1218/c34385a625719/page.htm)；[新浪科技](https://finance.sina.cn/tech/2023-11-24/detail-imzvtprq4409346.d.html?from=wap)",
@@ -10758,6 +11292,8 @@
         }
       ],
       "displayName": "廖永德",
+      "eventYear": 2023,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -10771,6 +11307,7 @@
       "year": "",
       "eventName": "吴亢基金申请书抄袭剽窃事件",
       "summary": "国家自然科学基金委通报称吴亢将网上获得的他人往年基金申请书草稿作为本人项目申请，存在抄袭、剽窃申请书内容问题，决定撤销申请、取消资格3年并通报批评。",
+      "narrative": "",
       "impact": "基金申请材料来源、项目申报诚信和高校科研管理受到关注。",
       "nature": "学术不端 / 基金委通报",
       "sourcesMarkdown": "[中国科大科研诚信网转载基金委通报](https://kycx.ustc.edu.cn/2023/1218/c34385a625719/page.htm)；[科学网转载](https://m.vanbien.com/htmlnews/2023/11/512972.shtm)",
@@ -10808,6 +11345,8 @@
         }
       ],
       "displayName": "吴亢",
+      "eventYear": 2023,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -10821,6 +11360,7 @@
       "year": "",
       "eventName": "“微博第一案”：金山诉周鸿祎名誉权案",
       "summary": "北京二中院终审确认周鸿祎7条微博构成对北京金山软件有限公司名誉侵权，判令删帖、公开道歉并赔偿5万元。",
+      "narrative": "",
       "impact": "企业竞争、互联网高管公开表达和微博名誉权边界成为典型案例。",
       "nature": "名誉侵权 / 法院判决",
       "sourcesMarkdown": "[西安交通大学官方身份页](https://www.xjtu.edu.cn/info/1242/365317.htm)；[中新网终审](https://www.chinanews.com/cj/2013/07-30/5099978.shtml)；[中新网庭审](https://www.chinanews.com.cn/fz/2010/12-07/2704230.shtml)",
@@ -10871,6 +11411,8 @@
         }
       ],
       "displayName": "周鸿祎",
+      "eventYear": 2013,
+      "sourceCount": 3,
       "credibility": "较强"
     },
     {
@@ -10884,6 +11426,7 @@
       "year": "",
       "eventName": "蔡元真国家自然科学基金申请书抄袭剽窃事件",
       "summary": "国家自然科学基金委通报称蔡元真私自拷贝他人评审的基金项目申请书并用于本人项目申请，存在抄袭剽窃问题，决定撤销申请、取消申请和参与申请资格5年并通报批评。",
+      "narrative": "",
       "impact": "基金评审材料保密、申请书抄袭和科研诚信治理引发关注。",
       "nature": "学术不端 / 基金委通报",
       "sourcesMarkdown": "[国家自然科学基金委](https://www.nsfc.gov.cn/p1/2812/2816/71098.html)；[财新](https://science.caixin.com/2022-10-27/101956464.html)",
@@ -10921,6 +11464,8 @@
         }
       ],
       "displayName": "蔡元真",
+      "eventYear": 2022,
+      "sourceCount": 2,
       "credibility": "较强"
     },
     {
@@ -10934,6 +11479,7 @@
       "year": "",
       "eventName": "张红宇购买国家自然科学基金申请书代写服务事件",
       "summary": "国家自然科学基金委2026年第1批通报称，北京某高校张红宇在2021年基金项目申请过程中向第三方公司购买申请书代写服务，撤销相关基金项目、追回资金，取消申请和参与申请资格5年并通报批评；公开论文可见Hongyu Zhang/张红宇与Peking University Shenzhen Hospital及项目号82170191关联，学校归属按交叉核验标注。",
+      "narrative": "",
       "impact": "基金申请代写、医学科研诚信和附属医院科研管理成为新近公开案例。",
       "nature": "科研不端 / 基金申请代写 / 通报批评",
       "sourcesMarkdown": "[国家自然科学基金委2026年第1批通报](https://www.nsfc.gov.cn/p1/2812/2816/99722.html)；[新浪财经转基金委通报](https://finance.sina.com.cn/jjxw/2026-01-24/doc-inhikria0226114.shtml)；[PMC论文项目号页](https://pmc.ncbi.nlm.nih.gov/articles/PMC10164800/)；[Frontiers论文项目号页](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.997482/full)",
@@ -10995,6 +11541,8 @@
         }
       ],
       "displayName": "张红宇",
+      "eventYear": 2026,
+      "sourceCount": 4,
       "credibility": "需核验"
     },
     {
@@ -11008,6 +11556,7 @@
       "year": "",
       "eventName": "潘宏铭论文图片问题及基金材料虚假信息处理决定",
       "summary": "基金委通报称浙江大学潘宏铭等发表的论文存在图片不当操作和使用混乱问题，潘宏铭作为通讯作者负主要责任，并将论文列入项目申请书和结题报告；相关项目被撤销、追回资金，取消申请资格2年并通报批评。",
+      "narrative": "",
       "impact": "医学论文图片问题、基金项目撤销和结题报告虚假信息受到关注。",
       "nature": "学术不端 / 基金委处理",
       "sourcesMarkdown": "[基金委处理决定PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/09/15/207035.pdf)；[新浪财经转述](https://finance.sina.cn/chanjing/gdxw/2022-05-14/detail-imcwipii9770330.d.html)",
@@ -11045,6 +11594,8 @@
         }
       ],
       "displayName": "潘宏铭",
+      "eventYear": 2022,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -11058,6 +11609,7 @@
       "year": "",
       "eventName": "隋新兵论文图片问题及基金申请书虚假信息处理决定",
       "summary": "基金委通报称隋新兵等发表的论文存在图片不当操作和使用混乱问题，隋新兵作为第一作者负主要责任，并将论文多次列入基金项目申请书；相关项目被撤销、追回资金，取消申请资格3年并通报批评。",
+      "narrative": "",
       "impact": "医学论文图片问题、项目申请书虚假信息和青年项目资助规范受到关注。",
       "nature": "学术不端 / 基金委处理",
       "sourcesMarkdown": "[基金委处理决定PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/09/15/207035.pdf)；[丁香园转述](https://paper.dxy.cn/article/818930)",
@@ -11095,6 +11647,8 @@
         }
       ],
       "displayName": "隋新兵",
+      "eventYear": 2022,
+      "sourceCount": 2,
       "credibility": "需核验"
     },
     {
@@ -11108,6 +11662,7 @@
       "year": "",
       "eventName": "天士力诉李连达名誉权纠纷终审败诉",
       "summary": "媒体报道显示，天士力制药集团诉李连达名誉权案二审维持侵权认定，判令停止发表不实评论、登报道歉并赔偿经济损失30万元；浙江大学身份由药学院聘任信息和相关报道交叉核验。",
+      "narrative": "",
       "impact": "院士公开评价、药品争议、专家言论与企业名誉权边界引发讨论。",
       "nature": "名誉侵权 / 法院判决报道",
       "sourcesMarkdown": "[香港商报网](https://hkcd.com/content_p/2014-09/16/content_15303.html)；[浙江大学聘任信息](https://www.zju.edu.cn/2005/0113/c32861a1513907/pagem.htm)；[科学网身份背景](https://paper.sciencenet.cn/htmlnews/2009/3/217356.html)",
@@ -11162,6 +11717,8 @@
         }
       ],
       "displayName": "李连达",
+      "eventYear": 2014,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -11175,6 +11732,7 @@
       "year": "",
       "eventName": "复旦外文学院教材严重抄袭事件",
       "summary": "复旦大学通报三起学术违规事件时称，外文学院陆姓教授主编教材严重抄袭国外出版物；公开图书信息显示《研究生英语论文及应用文写作》主编为陆效用，处理建议包括撤销教材并处理相关课题经费。",
+      "narrative": "",
       "impact": "高校教材抄袭、教师续聘处理和课题经费责任引发媒体关注。",
       "nature": "学术不端 / 教材抄袭",
       "sourcesMarkdown": "[央视网](https://news.cctv.com/china/20071224/107315.shtml)；[新浪实名线索](https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap)；[当当图书作者信息](https://e.dangdang.com/touch/products/1900289512.html)",
@@ -11220,6 +11778,8 @@
         }
       ],
       "displayName": "陆效用",
+      "eventYear": 2007,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -11233,6 +11793,7 @@
       "year": "",
       "eventName": "复旦信息学院论文抄袭及一稿两投事件",
       "summary": "复旦通报称信息学院叶某、顾姓教授两篇论文涉嫌抄袭，经查两篇论文实质为同一内容且部分内容涉嫌抄袭；媒体实名报道为叶炜、顾宁，处理建议包括开除叶炜研究生学籍。",
+      "narrative": "",
       "impact": "博士生论文抄袭、一稿两投和研究生学籍处分引发讨论。",
       "nature": "学术不端 / 论文抄袭 / 一稿两投",
       "sourcesMarkdown": "[央视网](https://news.cctv.com/china/20071225/100012.shtml)；[新浪实名报道](https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap)；[万方论文页线索](https://sns.wanfangdata.com.cn/perio/txxb/?tabId=column&ztext=%E6%96%B0%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E4%B8%8B%E7%9A%84%E5%8D%8F%E5%90%8C%E5%B7%A5%E4%BD%9C)",
@@ -11278,6 +11839,8 @@
         }
       ],
       "displayName": "叶炜",
+      "eventYear": 2007,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -11291,6 +11854,7 @@
       "year": "",
       "eventName": "复旦信息学院论文抄袭导师追责事件",
       "summary": "复旦通报同一组信息学院论文违规事件；财经报道实名指出顾宁教授被建议暂停两年招收研究生资格，并建议同意其辞去信息学院副院长职务。",
+      "narrative": "",
       "impact": "导师共同作者责任、暂停招生和学院行政职务处理受到关注。",
       "nature": "学术不端追责 / 导师责任",
       "sourcesMarkdown": "[央视网](https://news.cctv.com/china/20071225/100012.shtml)；[新浪实名报道](https://ent.sina.com.cn/x/2007-12-25/01361849302.shtml?from=wap)；[财经转载](https://xysblogs.org/fangzhouzi/archives/1451)",
@@ -11336,6 +11900,8 @@
         }
       ],
       "displayName": "顾宁",
+      "eventYear": 2007,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -11349,6 +11915,7 @@
       "year": "",
       "eventName": "复旦五官科医院论文造假、剽窃处理事件",
       "summary": "复旦三起学术违规通报涉及五官科医院论文造假、剽窃；财经报道实名指出迟放鲁教授被停止招收博士后两年，并在一定范围内通报批评、作出检讨。",
+      "narrative": "",
       "impact": "附属医院科研诚信、博士后指导教师责任和论文剽窃处理形成关注。",
       "nature": "学术不端追责 / 论文造假剽窃",
       "sourcesMarkdown": "[央视网](https://news.cctv.com/china/20071224/107315.shtml)；[搜狐报道](https://news.sohu.com/20080102/n254422296.shtml)；[财经转载](https://xysblogs.org/fangzhouzi/archives/1451)",
@@ -11394,6 +11961,8 @@
         }
       ],
       "displayName": "迟放鲁",
+      "eventYear": null,
+      "sourceCount": 3,
       "credibility": "需核验"
     },
     {
@@ -11407,6 +11976,7 @@
       "year": "",
       "eventName": "单涛论文伪造篡改研究数据及基金项目撤销事件",
       "summary": "基金委通报称西安交通大学单涛等发表的论文存在伪造、篡改研究数据问题，通讯作者单涛负主要责任；相关基金项目被撤销、追回资金，申请和参与申请资格被取消3年并通报批评。",
+      "narrative": "",
       "impact": "医学论文数据造假、国自然项目撤销和高校科研诚信管理受到关注。",
       "nature": "学术不端 / 基金委通报",
       "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)",
@@ -11436,6 +12006,8 @@
         }
       ],
       "displayName": "单涛",
+      "eventYear": 2022,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -11449,6 +12021,7 @@
       "year": "",
       "eventName": "张国锋国家自然科学基金项目申请书抄袭剽窃事件",
       "summary": "基金委通报称西安交通大学张国锋使用他人申请书内容申报基金项目，存在抄袭剽窃他人项目申请书内容问题，撤销申请，取消申请和参与申请资格3年并通报批评。",
+      "narrative": "",
       "impact": "基金申请书抄袭剽窃和项目申请诚信治理受到关注。",
       "nature": "学术不端 / 基金委通报",
       "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)",
@@ -11478,6 +12051,8 @@
         }
       ],
       "displayName": "张国锋",
+      "eventYear": 2022,
+      "sourceCount": 1,
       "credibility": "需核验"
     },
     {
@@ -11491,6 +12066,7 @@
       "year": "",
       "eventName": "李晓燕国家自然科学基金项目申请书抄袭事件",
       "summary": "基金委通报称西安交通大学李晓燕使用他人申请书内容申报基金项目，存在抄袭他人项目申请书内容问题，撤销申请，取消申请和参与申请资格3年并通报批评。",
+      "narrative": "",
       "impact": "医学基金申请材料抄袭和科研诚信承诺问题受到关注。",
       "nature": "学术不端 / 基金委通报",
       "sourcesMarkdown": "[基金委通报PDF转存](https://bm.cugb.edu.cn/kjc/upload/resources/file/2022/11/02/212177.pdf)",
@@ -11520,6 +12096,384 @@
         }
       ],
       "displayName": "李晓燕",
+      "eventYear": 2022,
+      "sourceCount": 1,
+      "credibility": "需核验"
+    },
+    {
+      "id": "e193",
+      "section": "第八轮高舆论校园与公共争议补充",
+      "subsection": "武汉大学",
+      "name": "杨景媛 / 杨某媛",
+      "school": "武汉大学",
+      "schoolRaw": "武汉大学",
+      "identity": "武汉大学经济与管理学院研究生；公开报道多采用杨某媛",
+      "year": "",
+      "eventName": "武汉大学图书馆事件及学位论文处理争议",
+      "summary": "公开报道显示，杨某媛2023年在武汉大学图书馆与肖某某发生纠纷后报警并向学校反映；学校曾对肖某某作出记过处分。后续名誉权诉讼、二审维持原判、校方复核和学位论文处理同时进入舆论中心。",
+      "narrative": "2023年7月，图书馆纠纷引发性骚扰指控和校内处分。2024年6月，法院一审驳回杨某媛诉肖某某名誉权请求。2025年9月，武汉中院二审通报驳回上诉、维持原判；新华社报道武汉大学同步撤销对肖某某的记过处分，并认定杨某媛硕士学位论文存在学术不端问题，给予留校察看处分，继续维持学位授予决定。",
+      "impact": "性骚扰指控、名誉权诉讼、校纪处分复核、论文不端处分和网络实名讨论叠加，形成2025年高校治理高热事件。",
+      "nature": "校园舆论 / 名誉权诉讼 / 学术不端处理",
+      "sourcesMarkdown": "[新华社武汉大学通报](https://www.news.cn/politics/20250920/9ebf1e3922b4482581099d8d97bc4145/c.html)；[武汉中院二审通报转发](https://xgc.jcu.edu.cn/info/1034/6137.htm)；[联合早报梳理](https://www.zaobao.com.sg/realtime/china/story20250920-7542952)",
+      "photoMarkdown": "普通学生，可靠公开照片页待核",
+      "paperMarkdown": "硕士学位论文被校方通报存在学术不端，公开论文链接待核",
+      "links": [
+        {
+          "label": "新华社武汉大学通报",
+          "url": "https://www.news.cn/politics/20250920/9ebf1e3922b4482581099d8d97bc4145/c.html"
+        },
+        {
+          "label": "武汉中院二审通报转发",
+          "url": "https://xgc.jcu.edu.cn/info/1034/6137.htm"
+        },
+        {
+          "label": "联合早报梳理",
+          "url": "https://www.zaobao.com.sg/realtime/china/story20250920-7542952"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "新华社武汉大学通报",
+          "url": "https://www.news.cn/politics/20250920/9ebf1e3922b4482581099d8d97bc4145/c.html"
+        },
+        {
+          "label": "武汉中院二审通报转发",
+          "url": "https://xgc.jcu.edu.cn/info/1034/6137.htm"
+        },
+        {
+          "label": "联合早报梳理",
+          "url": "https://www.zaobao.com.sg/realtime/china/story20250920-7542952"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [],
+      "displayName": "杨景媛 / 杨某媛",
+      "eventYear": 2025,
+      "sourceCount": 3,
+      "credibility": "需核验"
+    },
+    {
+      "id": "e194",
+      "section": "第八轮高舆论校园与公共争议补充",
+      "subsection": "武汉大学",
+      "name": "朱某",
+      "school": "武汉大学",
+      "schoolRaw": "武汉大学",
+      "identity": "武汉大学信息管理学院学生；公开报道和警方通报采用匿名",
+      "year": "",
+      "eventName": "武汉大学校园持刀伤人事件",
+      "summary": "2025年6月，武汉警方通报一起学生持刀伤人案件，称武汉大学学生朱某因个人矛盾持刀伤害同学辛某，伤者经救治生命体征平稳，朱某被警方依法控制。",
+      "narrative": "2025年6月4日左右，校园内发生持刀伤人事件。警方通报披露犯罪嫌疑人和被害人均为武汉大学学生，案件由公安机关侦办。校方随后发布情况说明并表示配合调查、做好学生救治和心理疏导。",
+      "impact": "名校校园安全、学生矛盾升级、刀具伤害和心理危机处置引发全国范围关注。",
+      "nature": "刑事案件 / 校园安全 / 警方通报",
+      "sourcesMarkdown": "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_30872708)；[联合早报](https://www.zaobao.com.sg/realtime/china/story20250605-6606620)；[维基百科事件索引](https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6)",
+      "photoMarkdown": "匿名处理，可靠个人照片待核",
+      "paperMarkdown": "无可列",
+      "links": [
+        {
+          "label": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_30872708"
+        },
+        {
+          "label": "联合早报",
+          "url": "https://www.zaobao.com.sg/realtime/china/story20250605-6606620"
+        },
+        {
+          "label": "维基百科事件索引",
+          "url": "https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "澎湃新闻",
+          "url": "https://www.thepaper.cn/newsDetail_forward_30872708"
+        },
+        {
+          "label": "联合早报",
+          "url": "https://www.zaobao.com.sg/realtime/china/story20250605-6606620"
+        },
+        {
+          "label": "维基百科事件索引",
+          "url": "https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6"
+        }
+      ],
+      "photoLinks": [],
+      "paperLinks": [],
+      "displayName": "朱某",
+      "eventYear": 2025,
+      "sourceCount": 3,
+      "credibility": "需核验"
+    },
+    {
+      "id": "e195",
+      "section": "第八轮高舆论校园与公共争议补充",
+      "subsection": "武汉大学",
+      "name": "王行环",
+      "school": "武汉大学",
+      "schoolRaw": "武汉大学",
+      "identity": "武汉大学中南医院原党委常委、院长；曾任武汉雷神山医院院长",
+      "year": "",
+      "eventName": "武汉大学中南医院原院长王行环严重违纪违法案",
+      "summary": "2026年4月，中央纪委国家监委网站通报，王行环被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉。",
+      "narrative": "2026年4月18日，湖北省纪委监委披露王行环严重违纪违法处理结果；公开报道同步提及其曾任武汉雷神山医院院长和武汉大学中南医院院长身份。",
+      "impact": "抗疫时期医院管理者、医疗领域新型隐性腐败、权钱交易和医院治理形成新近高关注负面样本。",
+      "nature": "违纪违法 / 医疗腐败 / 移送司法",
+      "sourcesMarkdown": "[中央纪委国家监委](https://www.ccdi.gov.cn/yaowenn/202604/t20260418_485898.html)；[人民网/新华社](https://society.people.com.cn/n1/2026/0418/c1008-40703914.html)；[新浪新闻](https://news.sina.com.cn/c/2026-04-18/doc-inhuwssk2592798.shtml)",
+      "photoMarkdown": "[新浪新闻含图](https://news.sina.com.cn/c/2026-04-18/doc-inhuwssk2592798.shtml)",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://www.ccdi.gov.cn/yaowenn/202604/t20260418_485898.html"
+        },
+        {
+          "label": "人民网/新华社",
+          "url": "https://society.people.com.cn/n1/2026/0418/c1008-40703914.html"
+        },
+        {
+          "label": "新浪新闻",
+          "url": "https://news.sina.com.cn/c/2026-04-18/doc-inhuwssk2592798.shtml"
+        },
+        {
+          "label": "知网检索：王行环 武汉大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%8E%8B%E8%A1%8C%E7%8E%AF%20%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://www.ccdi.gov.cn/yaowenn/202604/t20260418_485898.html"
+        },
+        {
+          "label": "人民网/新华社",
+          "url": "https://society.people.com.cn/n1/2026/0418/c1008-40703914.html"
+        },
+        {
+          "label": "新浪新闻",
+          "url": "https://news.sina.com.cn/c/2026-04-18/doc-inhuwssk2592798.shtml"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "新浪新闻含图",
+          "url": "https://news.sina.com.cn/c/2026-04-18/doc-inhuwssk2592798.shtml"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：王行环 武汉大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E7%8E%8B%E8%A1%8C%E7%8E%AF%20%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "王行环",
+      "eventYear": 2026,
+      "sourceCount": 3,
+      "credibility": "需核验"
+    },
+    {
+      "id": "e196",
+      "section": "第九轮 2026 年新近高关注公共职务补充",
+      "subsection": "北京大学",
+      "name": "易会满",
+      "school": "北京大学",
+      "schoolRaw": "北京大学；南京大学",
+      "identity": "北京大学光华管理学院高级管理人员工商管理硕士；南京大学管理学博士；中国证监会原主席",
+      "year": "",
+      "eventName": "易会满严重违纪违法被“双开”",
+      "summary": "2026年4月30日，中央纪委国家监委通报称，易会满被开除党籍和公职，涉嫌受贿犯罪问题移送检察机关审查起诉。",
+      "narrative": "2025年9月，易会满被通报接受审查调查。2026年4月30日，官方披露其在资本市场重大决策、干部选拔任用、上市审批和融资贷款等方面存在严重违纪违法问题，并移送司法。",
+      "impact": "证监会原主席、资本市场注册制、上市审批、金融反腐和名校商学院履历叠加，形成2026年金融反腐高传播事件。",
+      "nature": "违纪违法 / 金融反腐 / 移送司法",
+      "sourcesMarkdown": "[中央纪委国家监委](https://www.ccdi.gov.cn/toutiaon/202604/t20260430_488453.html)；[澎湃新闻履历](https://m.thepaper.cn/newsDetail_forward_31552253)；[每日经济新闻履历](https://www.nbd.com.cn/rss/toutiao/articles/1294941.html)",
+      "photoMarkdown": "[界面新闻含图](https://www.jiemian.com/article/14374503.html)",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://www.ccdi.gov.cn/toutiaon/202604/t20260430_488453.html"
+        },
+        {
+          "label": "澎湃新闻履历",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31552253"
+        },
+        {
+          "label": "每日经济新闻履历",
+          "url": "https://www.nbd.com.cn/rss/toutiao/articles/1294941.html"
+        },
+        {
+          "label": "界面新闻含图",
+          "url": "https://www.jiemian.com/article/14374503.html"
+        },
+        {
+          "label": "知网检索：易会满 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%98%93%E4%BC%9A%E6%BB%A1%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://www.ccdi.gov.cn/toutiaon/202604/t20260430_488453.html"
+        },
+        {
+          "label": "澎湃新闻履历",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31552253"
+        },
+        {
+          "label": "每日经济新闻履历",
+          "url": "https://www.nbd.com.cn/rss/toutiao/articles/1294941.html"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "界面新闻含图",
+          "url": "https://www.jiemian.com/article/14374503.html"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：易会满 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E6%98%93%E4%BC%9A%E6%BB%A1%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "易会满",
+      "eventYear": 2026,
+      "sourceCount": 3,
+      "credibility": "需核验"
+    },
+    {
+      "id": "e197",
+      "section": "第九轮 2026 年新近高关注公共职务补充",
+      "subsection": "北京大学",
+      "name": "侯维栋",
+      "school": "北京大学",
+      "schoolRaw": "北京大学",
+      "identity": "北京大学经济学博士；交通银行原党委委员、副行长",
+      "year": "",
+      "eventName": "侯维栋严重违纪违法被开除党籍",
+      "summary": "2026年5月7日，中央纪委国家监委通报，侯维栋严重违纪违法被开除党籍，涉嫌犯罪问题移送检察机关审查起诉。",
+      "narrative": "2025年10月，侯维栋被通报接受审查调查。2026年5月，官方披露其将金融科技资源配置权力异化为谋取个人私利的工具，并在项目承揽、贷款融资等方面为他人谋利。",
+      "impact": "银行业首位CIO、金融科技资源配置、退休后被查和大型国有银行反腐议题形成新近高传播事件。",
+      "nature": "违纪违法 / 金融反腐 / 移送司法",
+      "sourcesMarkdown": "[中央纪委国家监委](https://www.ccdi.gov.cn/toutiaon/202605/t20260507_489060.html)；[央视网](https://news.cctv.com/2026/05/07/ARTIk7g51g34KvCEZW8q4S8k260507.shtml)；[新浪财经履历](https://finance.sina.cn/tech/2025-11-03/detail-infwckpt1343108.d.html)",
+      "photoMarkdown": "[澎湃新闻含图](https://m.thepaper.cn/newsDetail_forward_33105187)",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://www.ccdi.gov.cn/toutiaon/202605/t20260507_489060.html"
+        },
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2026/05/07/ARTIk7g51g34KvCEZW8q4S8k260507.shtml"
+        },
+        {
+          "label": "新浪财经履历",
+          "url": "https://finance.sina.cn/tech/2025-11-03/detail-infwckpt1343108.d.html"
+        },
+        {
+          "label": "澎湃新闻含图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105187"
+        },
+        {
+          "label": "知网检索：侯维栋 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E4%BE%AF%E7%BB%B4%E6%A0%8B%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://www.ccdi.gov.cn/toutiaon/202605/t20260507_489060.html"
+        },
+        {
+          "label": "央视网",
+          "url": "https://news.cctv.com/2026/05/07/ARTIk7g51g34KvCEZW8q4S8k260507.shtml"
+        },
+        {
+          "label": "新浪财经履历",
+          "url": "https://finance.sina.cn/tech/2025-11-03/detail-infwckpt1343108.d.html"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "澎湃新闻含图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105187"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：侯维栋 北京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E4%BE%AF%E7%BB%B4%E6%A0%8B%20%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "侯维栋",
+      "eventYear": 2026,
+      "sourceCount": 3,
+      "credibility": "需核验"
+    },
+    {
+      "id": "e198",
+      "section": "第九轮 2026 年新近高关注公共职务补充",
+      "subsection": "南京大学",
+      "name": "费高云",
+      "school": "南京大学",
+      "schoolRaw": "南京大学",
+      "identity": "南京大学2001级公共管理专业硕士；安徽省委常委、合肥市委书记",
+      "year": "",
+      "eventName": "合肥市委书记费高云涉嫌严重违纪违法被查",
+      "summary": "2026年5月6日，中央纪委国家监委通报，费高云涉嫌严重违纪违法，接受中央纪委国家监委纪律审查和监察调查。",
+      "narrative": "南京大学校友网资料显示费高云为南京大学2001级公共管理专业硕士。2025年4月，其任安徽省委常委、合肥市委书记；2026年5月，任上被通报接受审查调查。",
+      "impact": "省会市委书记任上被查、合肥产业城市标签、短期任职变动和高校公共管理硕士履历叠加，形成2026年5月新近高关注事件。",
+      "nature": "违纪违法 / 审查调查",
+      "sourcesMarkdown": "[中央纪委国家监委](https://www.ccdi.gov.cn/toutiaon/202605/t20260506_488951.html)；[南京大学校友网](https://alumni.nju.edu.cn/b8/1f/c285a178207/pagem.htm)；[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_33103269)",
+      "photoMarkdown": "[澎湃新闻含图](https://m.thepaper.cn/newsDetail_forward_33103269)",
+      "paperMarkdown": "知网待核",
+      "links": [
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://www.ccdi.gov.cn/toutiaon/202605/t20260506_488951.html"
+        },
+        {
+          "label": "南京大学校友网",
+          "url": "https://alumni.nju.edu.cn/b8/1f/c285a178207/pagem.htm"
+        },
+        {
+          "label": "澎湃新闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33103269"
+        },
+        {
+          "label": "知网检索：费高云 南京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E8%B4%B9%E9%AB%98%E4%BA%91%20%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "sourceLinks": [
+        {
+          "label": "中央纪委国家监委",
+          "url": "https://www.ccdi.gov.cn/toutiaon/202605/t20260506_488951.html"
+        },
+        {
+          "label": "南京大学校友网",
+          "url": "https://alumni.nju.edu.cn/b8/1f/c285a178207/pagem.htm"
+        },
+        {
+          "label": "澎湃新闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33103269"
+        }
+      ],
+      "photoLinks": [
+        {
+          "label": "澎湃新闻含图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33103269"
+        }
+      ],
+      "paperLinks": [
+        {
+          "label": "知网检索：费高云 南京大学",
+          "url": "https://kns.cnki.net/kns8/defaultresult/index?kw=%E8%B4%B9%E9%AB%98%E4%BA%91%20%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6"
+        }
+      ],
+      "displayName": "费高云",
+      "eventYear": 2026,
+      "sourceCount": 3,
       "credibility": "需核验"
     }
   ]

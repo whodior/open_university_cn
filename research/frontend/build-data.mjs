@@ -18,6 +18,7 @@ const schools = [
   '复旦大学',
   '南京大学',
   '中国科学技术大学',
+  '武汉大学',
   '华中科技大学',
   '西安交通大学',
 ];
@@ -32,6 +33,7 @@ const aliases = new Map([
   ['南大', '南京大学'],
   ['中科大', '中国科学技术大学'],
   ['中国科大', '中国科学技术大学'],
+  ['武大', '武汉大学'],
   ['华科', '华中科技大学'],
   ['华中工学院', '华中科技大学'],
   ['西安交大', '西安交通大学'],
@@ -208,6 +210,21 @@ function inferEventName(name, summary, nature) {
   return compactNature ? `${name}${compactNature}事件` : `${name}争议事件`;
 }
 
+function inferEventYear(entry) {
+  const currentYear = new Date().getUTCFullYear();
+  const text = [
+    entry.eventName,
+    entry.summary,
+    entry.narrative,
+    entry.impact,
+    entry.sourcesMarkdown,
+  ].join(' ');
+  const years = [...text.matchAll(/\b(20[0-2]\d)\b/g)]
+    .map((match) => Number(match[1]))
+    .filter((year) => year >= 2000 && year <= currentYear);
+  return years.length ? Math.max(...years) : null;
+}
+
 function credibilityFor(entry) {
   const joined = [
     entry.section,
@@ -257,6 +274,7 @@ function buildEntries(markdown) {
       const year = row['毕业年份或就读年份'] || '';
       const eventName = row['事件名称'] || '';
       const summary = row['事件概要'] || '';
+      const narrative = row['事件脉络'] || row['来龙去脉'] || row['事件详情'] || '';
       const impact = row['舆论影响'] || row['为何舆论大'] || '';
       const nature = row['事件性质'] || '';
       const sourcesMarkdown = row['信息来源链接'] || row['可靠来源链接'] || '';
@@ -275,6 +293,7 @@ function buildEntries(markdown) {
           year: stripMarkdown(year),
           eventName: stripMarkdown(eventName) || inferEventName(stripMarkdown(name), stripMarkdown(summary), stripMarkdown(nature)),
           summary: stripMarkdown(summary),
+          narrative: stripMarkdown(narrative),
           impact: stripMarkdown(impact),
           nature: stripMarkdown(nature),
           sourcesMarkdown,
@@ -289,6 +308,8 @@ function buildEntries(markdown) {
         entry.paperLinks = addAcademicSearchLinks(entry);
         entry.links = extractLinks(sourcesMarkdown, photoMarkdown, paperMarkdown);
         entry.links = [...entry.links, ...entry.paperLinks.filter((link) => !entry.links.some((item) => item.url === link.url))];
+        entry.eventYear = inferEventYear(entry);
+        entry.sourceCount = entry.sourceLinks.length;
         entry.credibility = credibilityFor(entry);
         entries.push(entry);
       }
@@ -300,13 +321,16 @@ function buildEntries(markdown) {
 }
 
 function scoreEntry(entry) {
-  const recencyBonus = /第六轮|第五轮|第四轮|第三轮|第二轮/.test(entry.section) ? 180 : 0;
+  const eventYearBonus = entry.eventYear ? Math.max(0, entry.eventYear - 2018) * 45 : 0;
+  const recencyBonus = /第九轮|第八轮|第七轮|第六轮|第五轮|第四轮/.test(entry.section) ? 180 : 0;
   return (
     entry.summary.length +
+    entry.narrative.length +
     entry.impact.length +
     entry.sourceLinks.length * 90 +
     entry.photoLinks.length * 30 +
     entry.paperLinks.length * 80 +
+    eventYearBonus +
     recencyBonus
   );
 }
